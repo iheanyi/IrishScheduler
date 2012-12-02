@@ -1,1 +1,5 @@
-Change subject to one of the subjects in the options array. (Found by pp options)
+So far, this script parses through all the subjects and exports the necessary information to a YAML file for easier parsing down the road, each file is named by subject. Code will be used later to display the information back to the user through a Ruby application.
+
+Similar logic can be applied to any University which uses the Banner system for registration, hope it is helpful to all of you!
+
+Dependencies: Mechanize - Form automation. Nokogiri - Parsing HTML. YAML - Output. 
