@@ -1,0 +1,2180 @@
+---
+- !ruby/object:Course
+  name: Accountancy I
+  credit: '3'
+  coursenum: ACCT20100
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '3'
+    max_spots: '31'
+    crn: '22485'
+    instructor: Burks, Jeffrey
+    time: T R  - 11:00A - 12:15P
+    location: Edward J. DeBartolo Hall 320
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '1'
+    max_spots: '31'
+    crn: '21695'
+    instructor: Burks, Jeffrey
+    time: T R  - 12:30P - 1:45P
+    location: Edward J. DeBartolo Hall 320
+  - !ruby/object:Section
+    section_num: '03'
+    open_spots: '7'
+    max_spots: '31'
+    crn: '25365'
+    instructor: Burks, Jeffrey
+    time: T R  - 2:00P - 3:15P
+    location: Edward J. DeBartolo Hall 320
+  - !ruby/object:Section
+    section_num: '04'
+    open_spots: '6'
+    max_spots: '28'
+    crn: '25823'
+    instructor: Wray, Christopher
+    time: M W F  - 8:30A - 9:20A
+    location: Edward J. DeBartolo Hall 320
+- !ruby/object:Course
+  name: Accountancy II
+  credit: '3'
+  coursenum: ACCT20200
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '11'
+    max_spots: '36'
+    crn: '21258'
+    instructor: Schmuhl, William
+    time: M W F  - 8:30A - 9:20A
+    location: Edward J. DeBartolo Hall 310
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '0'
+    max_spots: '39'
+    crn: '20334'
+    instructor: Schmuhl, William
+    time: M W F  - 9:35A - 10:25A
+    location: Edward J. DeBartolo Hall 310
+  - !ruby/object:Section
+    section_num: '03'
+    open_spots: '0'
+    max_spots: '39'
+    crn: '21100'
+    instructor: O'Tousa, Janet
+    time: M W F  - 9:35A - 10:25A
+    location: Edward J. DeBartolo Hall 319
+  - !ruby/object:Section
+    section_num: '04'
+    open_spots: '0'
+    max_spots: '39'
+    crn: '24521'
+    instructor: Meyer, Michael
+    time: M W F  - 1:55P - 2:45P
+    location: Edward J. DeBartolo Hall 310
+  - !ruby/object:Section
+    section_num: '05'
+    open_spots: '0'
+    max_spots: '39'
+    crn: '20391'
+    instructor: Hums, Edward
+    time: M W F  - 9:35A - 10:25A
+    location: Edward J. DeBartolo Hall 318
+  - !ruby/object:Section
+    section_num: '06'
+    open_spots: '0'
+    max_spots: '39'
+    crn: '20452'
+    instructor: Schmuhl, William
+    time: M W F  - 10:40A - 11:30A
+    location: Edward J. DeBartolo Hall 310
+  - !ruby/object:Section
+    section_num: '07'
+    open_spots: '0'
+    max_spots: '39'
+    crn: '20166'
+    instructor: O'Tousa, Janet
+    time: M W F  - 10:40A - 11:30A
+    location: Edward J. DeBartolo Hall 319
+  - !ruby/object:Section
+    section_num: 08
+    open_spots: '0'
+    max_spots: '39'
+    crn: '20911'
+    instructor: Hums, Edward
+    time: M W F  - 8:30A - 9:20A
+    location: Edward J. DeBartolo Hall 318
+  - !ruby/object:Section
+    section_num: 09
+    open_spots: '0'
+    max_spots: '36'
+    crn: '20237'
+    instructor: Schmuhl, William
+    time: M W F  - 11:45A - 12:35P
+    location: Edward J. DeBartolo Hall 310
+  - !ruby/object:Section
+    section_num: '10'
+    open_spots: '1'
+    max_spots: '36'
+    crn: '20440'
+    instructor: O'Tousa, Janet
+    time: M W F  - 11:45A - 12:35P
+    location: Edward J. DeBartolo Hall 319
+  - !ruby/object:Section
+    section_num: '11'
+    open_spots: '0'
+    max_spots: '36'
+    crn: '21421'
+    instructor: Favorite, Michael
+    time: M W F  - 11:45A - 12:35P
+    location: Edward J. DeBartolo Hall 320
+  - !ruby/object:Section
+    section_num: '12'
+    open_spots: '8'
+    max_spots: '36'
+    crn: '20777'
+    instructor: O'Tousa, Janet
+    time: M W F  - 8:30A - 9:20A
+    location: Edward J. DeBartolo Hall 319
+  - !ruby/object:Section
+    section_num: '13'
+    open_spots: '0'
+    max_spots: '39'
+    crn: '24661'
+    instructor: Meyer, Michael
+    time: M W F  - 3:00P - 3:50P
+    location: Edward J. DeBartolo Hall 310
+  - !ruby/object:Section
+    section_num: '14'
+    open_spots: '0'
+    max_spots: '39'
+    crn: '24522'
+    instructor: Meyer, Michael
+    time: M W F  - 12:50P - 1:40P
+    location: Edward J. DeBartolo Hall 310
+  - !ruby/object:Section
+    section_num: '15'
+    open_spots: '0'
+    max_spots: '39'
+    crn: '23578'
+    instructor: Hums, Edward
+    time: M W F  - 12:50P - 1:40P
+    location: Edward J. DeBartolo Hall 319
+  - !ruby/object:Section
+    section_num: '16'
+    open_spots: '24'
+    max_spots: '36'
+    crn: '23579'
+    instructor: Moore, Thomas
+    time: M W F  - 4:05P - 4:55P
+    location: Edward J. DeBartolo Hall 319
+  - !ruby/object:Section
+    section_num: '17'
+    open_spots: '0'
+    max_spots: '39'
+    crn: '25824'
+    instructor: Hums, Edward
+    time: M W F  - 1:55P - 2:45P
+    location: Edward J. DeBartolo Hall 319
+  - !ruby/object:Section
+    section_num: '20'
+    open_spots: '4'
+    max_spots: '36'
+    crn: '29047'
+    instructor: Moore, Thomas
+    time: M W F  - 3:00P - 3:50P
+    location: Edward J. DeBartolo Hall 319
+- !ruby/object:Course
+  name: Corporate Financial Reporting
+  credit: '3'
+  coursenum: ACCT30100
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '5'
+    max_spots: '34'
+    crn: '23582'
+    instructor: Liu, Chao-Shin
+    time: T R  - 9:30A - 10:45A
+    location: Edward J. DeBartolo Hall 217
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '1'
+    max_spots: '34'
+    crn: '23583'
+    instructor: Liu, Chao-Shin
+    time: T R  - 11:00A - 12:15P
+    location: Edward J. DeBartolo Hall 217
+  - !ruby/object:Section
+    section_num: '03'
+    open_spots: '5'
+    max_spots: '34'
+    crn: '24524'
+    instructor: Stober, Thomas
+    time: T R  - 12:30P - 1:45P
+    location: Edward J. DeBartolo Hall 217
+  - !ruby/object:Section
+    section_num: '04'
+    open_spots: '6'
+    max_spots: '34'
+    crn: '29048'
+    instructor: Stober, Thomas
+    time: T R  - 2:00P - 3:15P
+    location: Edward J. DeBartolo Hall 217
+- !ruby/object:Course
+  name: Acct Measurement&Disclosure I
+  credit: '3'
+  coursenum: ACCT30110
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '-4'
+    max_spots: '20'
+    crn: '21796'
+    instructor: Schaefer, Thomas
+    time: T R  - 2:00P - 3:15P
+    location: Edward J. DeBartolo Hall 318
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '10'
+    max_spots: '20'
+    crn: '29049'
+    instructor: Schaefer, Thomas
+    time: T R  - 3:30P - 4:45P
+    location: Edward J. DeBartolo Hall 318
+- !ruby/object:Course
+  name: Acct Measurement&Disclosure II
+  credit: '3'
+  coursenum: ACCT30120
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '1'
+    max_spots: '47'
+    crn: '20090'
+    instructor: Nichols, William
+    time: M W  - 11:45A - 1:00P
+    location: Edward J. DeBartolo Hall 316
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '3'
+    max_spots: '47'
+    crn: '20291'
+    instructor: Nichols, William
+    time: M W  - 1:30P - 2:45P
+    location: Edward J. DeBartolo Hall 316
+- !ruby/object:Course
+  name: Strategic Cost Management
+  credit: '3'
+  coursenum: ACCT30210
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '35'
+    crn: '20059'
+    instructor: Vera-Munoz, Sandra
+    time: M W  - 1:30P - 2:45P
+    location: Edward J. DeBartolo Hall 214
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '8'
+    max_spots: '35'
+    crn: '21817'
+    instructor: Vera-Munoz, Sandra
+    time: M W  - 3:00P - 4:15P
+    location: Edward J. DeBartolo Hall 214
+- !ruby/object:Course
+  name: Decision Processes in Acct.
+  credit: '3'
+  coursenum: ACCT30280
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '38'
+    crn: '20480'
+    instructor: Larocque, Stephannie
+    time: T R  - 12:30P - 1:45P
+    location: Mendoza College of Business L051
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '11'
+    max_spots: '38'
+    crn: '20688'
+    instructor: Larocque, Stephannie
+    time: T R  - 2:00P - 3:15P
+    location: Mendoza College of Business L051
+  - !ruby/object:Section
+    section_num: '03'
+    open_spots: '0'
+    max_spots: '38'
+    crn: '24525'
+    instructor: Larocque, Stephannie
+    time: T R  - 11:00A - 12:15P
+    location: Mendoza College of Business L051
+- !ruby/object:Course
+  name: Ethics in Accounting
+  credit: '1'
+  coursenum: ACCT30750
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '25'
+    crn: '29051'
+    instructor: Levey, Brian
+    time: T R  - 2:00P - 3:15P
+    location: Mendoza College of Business 121
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '0'
+    max_spots: '25'
+    crn: '29050'
+    instructor: Levey, Brian
+    time: T R  - 2:00P - 3:15P
+    location: Mendoza College of Business 121
+- !ruby/object:Course
+  name: Audit and Assurance Services
+  credit: '3'
+  coursenum: ACCT40510
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '5'
+    max_spots: '35'
+    crn: '22648'
+    instructor: Fuehrmeyer, James
+    time: M W  - 1:30P - 2:45P
+    location: Mendoza College of Business L051
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '8'
+    max_spots: '35'
+    crn: '29052'
+    instructor: Fuehrmeyer, James
+    time: M W  - 3:00P - 4:15P
+    location: Mendoza College of Business L051
+- !ruby/object:Course
+  name: Federal Taxation
+  credit: '3'
+  coursenum: ACCT40610
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '-4'
+    max_spots: '26'
+    crn: '21613'
+    instructor: Wittenbach, James
+    time: T R  - 2:00P - 3:15P
+    location: Edward J. DeBartolo Hall 311
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '-4'
+    max_spots: '26'
+    crn: '24279'
+    instructor: Wittenbach, James
+    time: T R  - 3:30P - 4:45P
+    location: Edward J. DeBartolo Hall 311
+  - !ruby/object:Section
+    section_num: '03'
+    open_spots: '18'
+    max_spots: '30'
+    crn: '29053'
+    instructor: O'Brien, James
+    time: T R  - 8:00A - 9:15A
+    location: Edward J. DeBartolo Hall 320
+- !ruby/object:Course
+  name: Tax Assistance Program
+  credit: '2'
+  coursenum: ACCT40660
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '36'
+    max_spots: '60'
+    crn: '22232'
+    instructor: Milani, Kenneth
+    time: M W  - 4:05P - 5:35P
+    location: Edward J. DeBartolo Hall 311
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '8'
+    max_spots: '60'
+    crn: '22233'
+    instructor: Milani, Kenneth
+    time: T R  - 4:15P - 5:45P
+    location: Edward J. DeBartolo Hall 320
+- !ruby/object:Course
+  name: Tax Assistance Program
+  credit: '2'
+  coursenum: ACCT40670
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '8'
+    max_spots: '10'
+    crn: '22234'
+    instructor: Milani, Kenneth
+    time: M W  - 4:05P - 5:35P
+    location: Edward J. DeBartolo Hall 311
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '15'
+    max_spots: '20'
+    crn: '22235'
+    instructor: Milani, Kenneth
+    time: T R  - 4:15P - 5:45P
+    location: Edward J. DeBartolo Hall 320
+- !ruby/object:Course
+  name: ! 'Bus Law: Property & Neg. Instr'
+  credit: '3'
+  coursenum: ACCT40710
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '45'
+    crn: '21217'
+    instructor: O'Brien, James
+    time: M W  - 5:00P - 6:15P
+    location: Edward J. DeBartolo Hall 310
+- !ruby/object:Course
+  name: Ethics in Accounting
+  credit: '3'
+  coursenum: ACCT40750
+  sections:
+  - !ruby/object:Section
+    section_num: '04'
+    open_spots: '0'
+    max_spots: '1'
+    crn: '29792'
+    instructor: Levey, Brian
+    time: T R  - 8:00A - 9:15A
+    location: Mendoza College of Business 122
+- !ruby/object:Course
+  name: ! 'Adv. Writing: Accounting Pros'
+  credit: '2'
+  coursenum: ACCT40770
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '16'
+    crn: '29037'
+    instructor: Byrnes, Sondra
+    time: T R  - 2:00P - 3:15P
+    location: Edward J. DeBartolo Hall 209
+- !ruby/object:Course
+  name: Acct. of Not-for-Profit Org.
+  credit: '3'
+  coursenum: ACCT40790
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '6'
+    max_spots: '35'
+    crn: '29054'
+    instructor: Kroll, Douglas
+    time: T R  - 3:30P - 4:45P
+    location: Edward J. DeBartolo Hall 312
+- !ruby/object:Course
+  name: International Accounting
+  credit: '3'
+  coursenum: ACCT40810
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '35'
+    crn: '29055'
+    instructor: Rivera, Juan
+    time: M W  - 3:00P - 4:15P
+    location: Edward J. DeBartolo Hall 317
+- !ruby/object:Course
+  name: Topics in Acct Meas and Discl
+  credit: '3'
+  coursenum: ACCT70131
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '44'
+    crn: '21487'
+    instructor: Fuehrmeyer, James
+    time: T R  - 1:00P - 2:15P
+    location: Mendoza College of Business 122
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '2'
+    max_spots: '42'
+    crn: '21202'
+    instructor: Fuehrmeyer, James
+    time: T R  - 3:00P - 4:15P
+    location: Mendoza College of Business 122
+- !ruby/object:Course
+  name: Acct for Mergers & Acquisition
+  credit: '3'
+  coursenum: ACCT70141
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '3'
+    max_spots: '40'
+    crn: '29034'
+    instructor: Schaefer, Thomas Breen, James
+    time: ! "(1) T R  - 11:00A - 12:50P\r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\r\n\t\t\t
+      \  \t\t\r\n\t\t\t   \t  \r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\t(2) T  - 5:00P
+      - 7:30P"
+    location: ! "Mendoza College of Business 122 \r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\t\r\n\t\t\t\t
+      \  \t\r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\tMendoza College of Business 122"
+- !ruby/object:Course
+  name: Fin Instrmnt & Fair Value Rptg
+  credit: '2'
+  coursenum: ACCT70150
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '31'
+    max_spots: '47'
+    crn: '25415'
+    instructor: Frecka, Thomas
+    time: T R  - 1:00P - 2:50P
+    location: Mendoza College of Business 158
+- !ruby/object:Course
+  name: Fin Instrmnt & Fair Value Rptg
+  credit: '2'
+  coursenum: ACCT70151
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '5'
+    crn: '25588'
+    instructor: Frecka, Thomas
+    time: T R  - 1:00P - 2:50P
+    location: Mendoza College of Business 158
+- !ruby/object:Course
+  name: Strategic Cost Management
+  credit: '2'
+  coursenum: ACCT70200
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '8'
+    max_spots: '52'
+    crn: '25385'
+    instructor: Ramanan, Ramachandran
+    time: M W  - 8:00A - 9:50A
+    location: Mendoza College of Business 160
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '0'
+    max_spots: '52'
+    crn: '25387'
+    instructor: Ramanan, Ramachandran
+    time: M W  - 10:00A - 11:50A
+    location: Mendoza College of Business 160
+- !ruby/object:Course
+  name: Anlys & Val Using Fin Stmts
+  credit: '3'
+  coursenum: ACCT70311
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '4'
+    max_spots: '43'
+    crn: '21512'
+    instructor: Easton, Peter
+    time: M W  - 8:30A - 9:45A
+    location: Mendoza College of Business 122
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '0'
+    max_spots: '44'
+    crn: '20832'
+    instructor: Easton, Peter
+    time: M W  - 10:00A - 11:15A
+    location: Mendoza College of Business 122
+- !ruby/object:Course
+  name: Taxation Corps & Share Holders
+  credit: '3'
+  coursenum: ACCT70620
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '1'
+    max_spots: '1'
+    crn: '25657'
+    instructor: Wittenbach, James
+    time: M W  - 11:30A - 12:45P
+    location: Mendoza College of Business 122
+- !ruby/object:Course
+  name: Taxation Corps & Share Holders
+  credit: '3'
+  coursenum: ACCT70621
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '40'
+    crn: '24526'
+    instructor: Wittenbach, James
+    time: M W  - 11:30A - 12:45P
+    location: Mendoza College of Business 122
+- !ruby/object:Course
+  name: Spec Topic Tax IV:St & Loc
+  credit: '3'
+  coursenum: ACCT70681
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '11'
+    max_spots: '40'
+    crn: '24527'
+    instructor: McGowan, Jeffrey
+    time: W  - 5:00P - 7:45P
+    location: Mendoza College of Business 122
+- !ruby/object:Course
+  name: Income Taxation/Intl Individls
+  credit: '3'
+  coursenum: ACCT70691
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '13'
+    crn: '22612'
+    instructor: Milani, Kenneth
+    time: M W  - 10:00A - 11:15A
+    location: Mendoza College of Business 121
+- !ruby/object:Course
+  name: ! 'Bus Law: Property & Neg. Instr'
+  credit: '3'
+  coursenum: ACCT70711
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '29'
+    crn: '20040'
+    instructor: O'Brien, James
+    time: M W  - 1:30P - 2:45P
+    location: Mendoza College of Business 122
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '2'
+    max_spots: '28'
+    crn: '20710'
+    instructor: O'Brien, James
+    time: M W  - 3:30P - 4:45P
+    location: Mendoza College of Business 122
+- !ruby/object:Course
+  name: Ethics in Accounting
+  credit: '3'
+  coursenum: ACCT70751
+  sections:
+  - !ruby/object:Section
+    section_num: '03'
+    open_spots: '-1'
+    max_spots: '25'
+    crn: '26310'
+    instructor: Levey, Brian
+    time: T R  - 9:30A - 10:45A
+    location: Mendoza College of Business 122
+  - !ruby/object:Section
+    section_num: '04'
+    open_spots: '0'
+    max_spots: '25'
+    crn: '26309'
+    instructor: Levey, Brian
+    time: T R  - 8:00A - 9:15A
+    location: Mendoza College of Business 122
+- !ruby/object:Course
+  name: Academic Research - Accounting
+  credit: '2'
+  coursenum: ACCT70831
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '20'
+    crn: '23527'
+    instructor: Ricchiute, David
+    time: M W  - 3:00P - 4:50P
+    location: Mendoza College of Business L014B
+       selected: false
+        select_list: *70264910881880
+      - !ruby/object:Mechanize::Form::Option
+        text: ! "Integrated Biomedical Sciences\r\n\t\t\r\n\r\n\t\r\n\t\r\n\t\r\n\t\r\n\t\r\n\t\t"
+        value: IBMS
+        selected: false
+        select_list: *70264910881880
+      - !ruby/object:Mechanize::Form::Option
+        text: ! "Intercultural Studies (SMC)\r\n\t\t\r\n\r\n\t\r\n\t\r\n\t\r\n\t\r\n\t\r\n\t\t"
+        value: ICS
+        selected: false
+        select_list: *70264910881880
+      - !ruby/object:Mechanize::Form::Option
+        text: ! "Internatnl Development Studies\r\n\t\t\r\n\r\n\t\r\n\t\r\n\t\r\n\t\r\n\t\r\n\t\t"
+        value: IDS
+        selected: false
+        select_list: *70264910881880
+      - !ruby/object:Mechanize::Form::Option
+        text: ! "Irish Language and Literature\r\n\t\t\r\n\r\n\t\r\n\t\r\n\t\r\n\t\r\n\t\r\n\t\t"
+        value: IRLL
+        selected: false
+        select_list: *70264910881880
+      - !ruby/object:Mechanize::Form::Option
+        text: ! "Irish Studies\r\n\t\t\r\n\r\n\t\r\n\t\r\n\t\r\n\t\r\n\t\r\n\t\t"
+        value: IRST
+        selected: false
+        select_list: *70264910881880
+      - !ruby/object:Mechanize::Form::Option
+        text: ! "Italian\r\n\t\t\r\n\r\n\t\r\n\t\r\n\t\r\n\t\r\n\t\r\n\t\t"
+        value: ROIT
+        selected: false
+        select_list: *70264910881880
+      - !ruby/object:Mechanize::Form::Option
+        text: ! "Japanese\r\n\t\t\r\n\r\n\t\r\n\t\r\n\t\r\n\t\r\n\t\r\n\t\t"
+        value: EALJ
+        selected: false
+        select_list: *70264910881880
+      - !ruby/object:Mechanize::Form::Option
+        text: ! "Journalism, Ethics & Democracy\r\n\t\t\r\n\r\n\t\r\n\t\r\n\t\r\n\t\r\n\t\r\n\t\t"
+        value: JED
+        selected: false
+        select_list: *70264910881880
+      - !ruby/object:Mechanize::Form::Option
+        text: ! "Justice Studies (SMC)\r\n\t\t\r\n\r\n\t\r\n\t\r\n\t\r\n\t\r\n\t\r\n\t\t"
+        value: JUST
+        selected: false
+        select_list: *70264910881880
+      - !ruby/object:Mechanize::Form::Option
+        text: ! "Korean\r\n\t\t\r\n\r\n\t\r\n\t\r\n\t\r\n\t\r\n\t\r\n\t\t"
+        value: EALK
+        selected: false
+        select_list: *70264910881880
+      - !ruby/object:Mechanize::Form::Option
+        text: ! "Latin American Studies\r\n\t\t\r\n\r\n\t\r\n\t\r\n\t\r\n\t\r\n\t\r\n\t\t"
+        value: LAST
+        selected: false
+        select_list: *70264910881880
+      - !ruby/object:Mechanize::Form::Option
+        text: ! "Latin Language and Literature\r\n\t\t\r\n\r\n\t\r\n\t\r\n\t\r\n\t\r\n\t\r\n\t\t"
+        value: CLLA
+        selected: false
+        select_list: *70264910881880
+      - !ruby/object:Mechanize::Form::Option
+        text: ! "Latino Studies\r\n\t\t\r\n\r\n\t\r\n\t\r\n\t\r\n\t\r\n\t\r\n\t\t"
+        value: ILS
+        selected: false
+        select_list: *70264910881880
+      - !ruby/object:Mechanize::Form::Option
+        text: ! "Law\r\n\t\t\r\n\r\n\t\r\n\t\r\n\t\r\n\t\r\n\t\r\n\t\t"
+        value: LAW
+        selected: false
+        select_list: *70264910881880
+      - !ruby/object:Mechanize::Form::Option
+        text: ! "Literature\r\n\t\t\r\n\r\n\t\r\n\t\r\n\t\r\n\t\r\n\t\r\n\t\t"
+        value: LIT
+        selected: false
+        select_list: *70264910881880
+      - !ruby/object:Mechanize::Form::Option
+        text: ! "MBA Bus Communications\r\n\t\t\r\n\r\n\t\r\n\t\r\n\t\r\n\t\r\n\t\r\n\t\t"
+        value: MBCM
+        selected: false
+        select_list: *70264910881880
+      - !ruby/object:Mechanize::Form::Option
+        text: ! "MBA Business Ethics\r\n\t\t\r\n\r\n\t\r\n\t\r\n\t\r\n\t\r\n\t\r\n\t\t"
+        value: MBET
+        selected: false
+        select_list: *70264910881880
+      - !ruby/object:Mechanize::Form::Option
+        text: ! "MBA Business Law\r\n\t\t\r\n\r\n\t\r\n\t\r\n\t\r\n\t\r\n\t\r\n\t\t"
+        value: MBLW
+        selected: false
+        select_list: *70264910881880
+      - !ruby/object:Mechanize::Form::Option
+        text: ! "MBA Chicago\r\n\t\t\r\n\r\n\t\r\n\t\r\n\t\r\n\t\r\n\t\r\n\t\t"
+        value: MBAC
+        selected: false
+        select_list: *70264910881880
+      - !ruby/object:Mechanize::Form::Option
+        text: ! "MBA Executive Program\r\n\t\t\r\n\r\n\t\r\n\t\r\n\t\r\n\t\r\n\t\r\n\t\t"
+        value: MBAE
+        selected: false
+        select_list: *70264910881880
+      - !ruby/object:Mechanize::Form::Option
+        text: ! "MBA General\r\n\t\t\r\n\r\n\t\r\n\t\r\n\t\r\n\t\r\n\t\r\n\t\t"
+        value: MBGR
+        selected: false
+        select_list: *70264910881880
+      - !ruby/object:Mechanize::Form::Option
+        text: ! "MBA Local\r\n\t\t\r\n\r\n\t\r\n\t\r\n\t\r\n\t\r\n\t\r\n\t\t"
+        value: MBAL
+        selected: false
+        select_list: *70264910881880
+      - !ruby/object:Mechanize::Form::Option
+        text: ! "Management\r\n\t\t\r\n\r\n\t\r\n\t\r\n\t\r\n\t\r\n\t\r\n\t\t"
+        value: MGT
+        selected: false
+        select_list: *70264910881880
+      - !ruby/object:Mechanize::Form::Option
+        text: ! "Management - Consulting\r\n\t\t\r\n\r\n\t\r\n\t\r\n\t\r\n\t\r\n\t\r\n\t\t"
+        value: MGTC
+        selected: false
+        select_list: *70264910881880
+      - !ruby/object:Mechanize::Form::Option
+        text: ! "Management - Entrepreneurship\r\n\t\t\r\n\r\n\t\r\n\t\r\n\t\r\n\t\r\n\t\r\n\t\t"
+        value: MGTE
+        selected: false
+        select_list: *70264910881880
+      - !ruby/object:Mechanize::Form::Option
+        text: ! "Management - IT\r\n\t\t\r\n\r\n\t\r\n\t\r\n\t\r\n\t\r\n\t\r\n\t\t"
+        value: MGTI
+        selected: false
+        select_list: *70264910881880
+      - !ruby/object:Mechanize::Form::Option
+        text: ! "Marketing\r\n\t\t\r\n\r\n\t\r\n\t\r\n\t\r\n\t\r\n\t\r\n\t\t"
+        value: MARK
+        selected: false
+        select_list: *70264910881880
+      - !ruby/object:Mechanize::Form::Option
+        text: ! "Master of Business Admin.\r\n\t\t\r\n\r\n\t\r\n\t\r\n\t\r\n\t\r\n\t\r\n\t\t"
+        value: MBA
+        selected: false
+        select_list: *70264910881880
+      - !ruby/object:Mechanize::Form::Option
+        text: ! "Master of Nonprofit Admin.\r\n\t\t\r\n\r\n\t\r\n\t\r\n\t\r\n\t\r\n\t\r\n\t\t"
+        value: MNA
+        selected: false
+        select_list: *70264910881880
+      - !ruby/object:Mechanize::Form::Option
+        text: ! "Master of Science in Admin.\r\n\t\t\r\n\r\n\t\r\n\t\r\n\t\r\n\t\r\n\t\r\n\t\t"
+        value: MSA
+        selected: false
+        select_list: *70264910881880
+      - !ruby/object:Mechanize::Form::Option
+        text: ! "Mathematics\r\n\t\t\r\n\r\n\t\r\n\t\r\n\t\r\n\t\r\n\t\r\n\t\t"
+        value: MATH
+        selected: false
+        select_list: *70264910881880
+      - !ruby/object:Mechanize::Form::Option
+        text: ! "Medieval Institute\r\n\t\t\r\n\r\n\t\r\n\t\r\n\t\r\n\t\r\n\t\r\n\t\t"
+        value: MI
+        selected: false
+        select_list: *70264910881880
+      - !ruby/object:Mechanize::Form::Option
+        text: ! "Mid East Lit in Transl & Hist\r\n\t\t\r\n\r\n\t\r\n\t\r\n\t\r\n\t\r\n\t\r\n\t\t"
+        value: MELC
+        selected: false
+        select_list: *70264910881880
+      - !ruby/object:Mechanize::Form::Option
+        text: ! "Military Science (Army ROTC)\r\n\t\t\r\n\r\n\t\r\n\t\r\n\t\r\n\t\r\n\t\r\n\t\t"
+        value: MSL
+        selected: false
+        select_list: *70264910881880
+      - !ruby/object:Mechanize::Form::Option
+        text: ! "Modern and Classical Languages\r\n\t\t\r\n\r\n\t\r\n\t\r\n\t\r\n\t\r\n\t\r\n\t\t"
+        value: MODL
+        selected: false
+        select_list: *70264910881880
+      - !ruby/object:Mechanize::Form::Option
+        text: ! "Music\r\n\t\t\r\n\r\n\t\r\n\t\r\n\t\r\n\t\r\n\t\r\n\t\t"
+        value: MUS
+        selected: false
+        select_list: *70264910881880
+      - !ruby/object:Mechanize::Form::Option
+        text: ! "Naval Science (ROTC)\r\n\t\t\r\n\r\n\t\r\n\t\r\n\t\r\n\t\r\n\t\r\n\t\t"
+        value: NSCI
+        selected: false
+        select_list: *70264910881880
+      - !ruby/object:Mechanize::Form::Option
+        text: ! "Near East Lit./Culture in Engl\r\n\t\t\r\n\r\n\t\r\n\t\r\n\t\r\n\t\r\n\t\r\n\t\t"
+        value: CLST
+        selected: false
+        select_list: *70264910881880
+      - !ruby/object:Mechanize::Form::Option
+        text: ! "Nursing (SMC)\r\n\t\t\r\n\r\n\t\r\n\t\r\n\t\r\n\t\r\n\t\r\n\t\t"
+        value: NURS
+        selected: false
+        select_list: *70264910881880
+      - !ruby/object:Mechanize::Form::Option
+        text: ! "Patent Law\r\n\t\t\r\n\r\n\t\r\n\t\r\n\t\r\n\t\r\n\t\r\n\t\t"
+        value: PATL
+        selected: false
+        select_list: *70264910881880
+      - !ruby/object:Mechanize::Form::Option
+        text: ! "Philosophy\r\n\t\t\r\n\r\n\t\r\n\t\r\n\t\r\n\t\r\n\t\r\n\t\t"
+        value: PHIL
+        selected: false
+        select_list: *70264910881880
+      - !ruby/object:Mechanize::Form::Option
+        text: ! "Physical Education\r\n\t\t\r\n\r\n\t\r\n\t\r\n\t\r\n\t\r\n\t\r\n\t\t"
+        value: PE
+        selected: false
+        select_list: *70264910881880
+      - !ruby/object:Mechanize::Form::Option
+        text: ! "Physics\r\n\t\t\r\n\r\n\t\r\n\t\r\n\t\r\n\t\r\n\t\r\n\t\t"
+        value: PHYS
+        selected: false
+        select_list: *70264910881880
+      - !ruby/object:Mechanize::Form::Option
+        text: ! "Political Science\r\n\t\t\r\n\r\n\t\r\n\t\r\n\t\r\n\t\r\n\t\r\n\t\t"
+        value: POLS
+        selected: false
+        select_list: *70264910881880
+      - !ruby/object:Mechanize::Form::Option
+        text: ! "Political Science (SMC)\r\n\t\t\r\n\r\n\t\r\n\t\r\n\t\r\n\t\r\n\t\r\n\t\t"
+        value: POSC
+        selected: false
+        select_list: *70264910881880
+      - !ruby/object:Mechanize::Form::Option
+        text: ! "Portuguese\r\n\t\t\r\n\r\n\t\r\n\t\r\n\t\r\n\t\r\n\t\r\n\t\t"
+        value: ROPO
+        selected: false
+        select_list: *70264910881880
+      - !ruby/object:Mechanize::Form::Option
+        text: ! "Poverty Studies\r\n\t\t\r\n\r\n\t\r\n\t\r\n\t\r\n\t\r\n\t\r\n\t\t"
+        value: PS
+        selected: false
+        select_list: *70264910881880
+      - !ruby/object:Mechanize::Form::Option
+        text: ! "Pre-College Summer Experience\r\n\t\t\r\n\r\n\t\r\n\t\r\n\t\r\n\t\r\n\t\r\n\t\t"
+        value: PCSE
+        selected: false
+        select_list: *70264910881880
+      - !ruby/object:Mechanize::Form::Option
+        text: ! "Program of Liberal Studies\r\n\t\t\r\n\r\n\t\r\n\t\r\n\t\r\n\t\r\n\t\r\n\t\t"
+        value: PLS
+        selected: false
+        select_list: *70264910881880
+      - !ruby/object:Mechanize::Form::Option
+        text: ! "Psychology\r\n\t\t\r\n\r\n\t\r\n\t\r\n\t\r\n\t\r\n\t\r\n\t\t"
+        value: PSY
+        selected: false
+        select_list: *70264910881880
+      - !ruby/object:Mechanize::Form::Option
+        text: ! "Psychology (SMC)\r\n\t\t\r\n\r\n\t\r\n\t\r\n\t\r\n\t\r\n\t\r\n\t\t"
+        value: PSYC
+        selected: false
+        select_list: *70264910881880
+      - !ruby/object:Mechanize::Form::Option
+        text: ! "Registrar's Office\r\n\t\t\r\n\r\n\t\r\n\t\r\n\t\r\n\t\r\n\t\r\n\t\t"
+        value: REG
+        selected: false
+        select_list: *70264910881880
+      - !ruby/object:Mechanize::Form::Option
+        text: ! "Religion and Literature\r\n\t\t\r\n\r\n\t\r\n\t\r\n\t\r\n\t\r\n\t\r\n\t\t"
+        value: RLT
+        selected: false
+        select_list: *70264910881880
+      - !ruby/object:Mechanize::Form::Option
+        text: ! "Religious Studies (SMC)\r\n\t\t\r\n\r\n\t\r\n\t\r\n\t\r\n\t\r\n\t\r\n\t\t"
+        value: RLST
+        selected: false
+        select_list: *70264910881880
+      - !ruby/object:Mechanize::Form::Option
+        text: ! "Romance Lang & Lit\r\n\t\t\r\n\r\n\t\r\n\t\r\n\t\r\n\t\r\n\t\r\n\t\t"
+        value: LLRO
+        selected: false
+        select_list: *70264910881880
+      - !ruby/object:Mechanize::Form::Option
+        text: ! "Russian\r\n\t\t\r\n\r\n\t\r\n\t\r\n\t\r\n\t\r\n\t\r\n\t\t"
+        value: RU
+        selected: false
+        select_list: *70264910881880
+      - !ruby/object:Mechanize::Form::Option
+        text: ! "Science (Non-departmental)\r\n\t\t\r\n\r\n\t\r\n\t\r\n\t\r\n\t\r\n\t\r\n\t\t"
+        value: SC
+        selected: false
+        select_list: *70264910881880
+      - !ruby/object:Mechanize::Form::Option
+        text: ! "Science Preprofessional\r\n\t\t\r\n\r\n\t\r\n\t\r\n\t\r\n\t\r\n\t\r\n\t\t"
+        value: SCPP
+        selected: false
+        select_list: *70264910881880
+      - !ruby/object:Mechanize::Form::Option
+        text: ! "Science, Technology and Values\r\n\t\t\r\n\r\n\t\r\n\t\r\n\t\r\n\t\r\n\t\r\n\t\t"
+        value: STV
+        selected: false
+        select_list: *70264910881880
+      - !ruby/object:Mechanize::Form::Option
+        text: ! "Self Designed Major (SMC)\r\n\t\t\r\n\r\n\t\r\n\t\r\n\t\r\n\t\r\n\t\r\n\t\t"
+        value: SDM
+        selected: false
+        select_list: *70264910881880
+      - !ruby/object:Mechanize::Form::Option
+        text: ! "So. Bend Cen for Medical Educ.\r\n\t\t\r\n\r\n\t\r\n\t\r\n\t\r\n\t\r\n\t\r\n\t\t"
+        value: SBCM
+        selected: false
+        select_list: *70264910881880
+      - !ruby/object:Mechanize::Form::Option
+        text: ! "Social Work (SMC)\r\n\t\t\r\n\r\n\t\r\n\t\r\n\t\r\n\t\r\n\t\r\n\t\t"
+        value: SW
+        selected: false
+        select_list: *70264910881880
+      - !ruby/object:Mechanize::Form::Option
+        text: ! "Sociology\r\n\t\t\r\n\r\n\t\r\n\t\r\n\t\r\n\t\r\n\t\r\n\t\t"
+        value: SOC
+        selected: false
+        select_list: *70264910881880
+      - !ruby/object:Mechanize::Form::Option
+        text: ! "Spanish\r\n\t\t\r\n\r\n\t\r\n\t\r\n\t\r\n\t\r\n\t\r\n\t\t"
+        value: ROSP
+        selected: false
+        select_list: *70264910881880
+      - !ruby/object:Mechanize::Form::Option
+        text: ! "St. Mary's\r\n\t\t\r\n\r\n\t\r\n\t\r\n\t\r\n\t\r\n\t\r\n\t\t"
+        value: SMC
+        selected: false
+        select_list: *70264910881880
+      - !ruby/object:Mechanize::Form::Option
+        text: ! "Sustainability\r\n\t\t\r\n\r\n\t\r\n\t\r\n\t\r\n\t\r\n\t\r\n\t\t"
+        value: SUS
+        selected: false
+        select_list: *70264910881880
+      - !ruby/object:Mechanize::Form::Option
+        text: ! "Syriac Language and Literature\r\n\t\t\r\n\r\n\t\r\n\t\r\n\t\r\n\t\r\n\t\r\n\t\t"
+        value: CLSS
+        selected: false
+        select_list: *70264910881880
+      - !ruby/object:Mechanize::Form::Option
+        text: ! "Theatre (SMC)\r\n\t\t\r\n\r\n\t\r\n\t\r\n\t\r\n\t\r\n\t\r\n\t\t"
+        value: THTR
+        selected: false
+        select_list: *70264910881880
+      - !ruby/object:Mechanize::Form::Option
+        text: ! "Theology\r\n\t\t\r\n\r\n\t\r\n\t\r\n\t\r\n\t\r\n\t\r\n\t\t"
+        value: THEO
+        selected: false
+        select_list: *70264910881880
+      - !ruby/object:Mechanize::Form::Option
+        text: ! "Upward Bound Program\r\n\t\t\r\n\r\n\t\r\n\t\r\n\t\r\n\t\r\n\t\r\n\t\t"
+        value: UB
+        selected: false
+        select_list: *70264910881880
+      - !ruby/object:Mechanize::Form::Option
+        text: ! "Women's Studies (SMC)\r\n\t\t\r\n\r\n\t\r\n\t\r\n\t\r\n\t\r\n\t\r\n\t\t"
+        value: WOST
+        selected: false
+        select_list: *70264910881880
+      - !ruby/object:Mechanize::Form::Option
+        text: ! "Writing and Rhetoric\r\n\t\t\r\n\t\r\n"
+        value: WR
+        selected: false
+        select_list: *70264910881880
+      node: !ruby/object:Nokogiri::XML::Element {}
+      name: SUBJ
+      value: []
+      type: 
+  :course: ACCT20100
+  :section: '01'
+  :title: Accountancy I
+  :credits: '3'
+  :status: OP
+  :max_spots: '31'
+  :open_spots: '6'
+  :xlst: Y
+  :crn: '22485'
+  :syl: ! '&nbsp'
+  :instructor: Burks, Jeffrey
+  :when: T R  - 11:00A - 12:15P
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: Edward J. DeBartolo Hall 320
+- :subject: *70264910881000
+  :course: ACCT20100
+  :section: '02'
+  :title: Accountancy I
+  :credits: '3'
+  :status: OP
+  :max_spots: '31'
+  :open_spots: '5'
+  :xlst: Y
+  :crn: '21695'
+  :syl: ! '&nbsp'
+  :instructor: Burks, Jeffrey
+  :when: T R  - 12:30P - 1:45P
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: Edward J. DeBartolo Hall 320
+- :subject: *70264910881000
+  :course: ACCT20100
+  :section: '03'
+  :title: Accountancy I
+  :credits: '3'
+  :status: OP
+  :max_spots: '31'
+  :open_spots: '7'
+  :xlst: Y
+  :crn: '25365'
+  :syl: ! '&nbsp'
+  :instructor: Burks, Jeffrey
+  :when: T R  - 2:00P - 3:15P
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: Edward J. DeBartolo Hall 320
+- :subject: *70264910881000
+  :course: ACCT20100
+  :section: '04'
+  :title: Accountancy I
+  :credits: '3'
+  :status: OP
+  :max_spots: '28'
+  :open_spots: '7'
+  :xlst: Y
+  :crn: '25823'
+  :syl: ! '&nbsp'
+  :instructor: Wray, Christopher
+  :when: M W F  - 8:30A - 9:20A
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: Edward J. DeBartolo Hall 320
+- :subject: *70264910881000
+  :course: ACCT20200
+  :section: '01'
+  :title: Accountancy II
+  :credits: '3'
+  :status: OP
+  :max_spots: '36'
+  :open_spots: '12'
+  :xlst: ! '&nbsp'
+  :crn: '21258'
+  :syl: ! '&nbsp'
+  :instructor: Schmuhl, William
+  :when: M W F  - 8:30A - 9:20A
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: Edward J. DeBartolo Hall 310
+- :subject: *70264910881000
+  :course: ACCT20200
+  :section: '02'
+  :title: Accountancy II
+  :credits: '3'
+  :status: CL
+  :max_spots: '39'
+  :open_spots: '0'
+  :xlst: ! '&nbsp'
+  :crn: '20334'
+  :syl: ! '&nbsp'
+  :instructor: Schmuhl, William
+  :when: M W F  - 9:35A - 10:25A
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: Edward J. DeBartolo Hall 310
+- :subject: *70264910881000
+  :course: ACCT20200
+  :section: '03'
+  :title: Accountancy II
+  :credits: '3'
+  :status: CL
+  :max_spots: '39'
+  :open_spots: '0'
+  :xlst: ! '&nbsp'
+  :crn: '21100'
+  :syl: ! '&nbsp'
+  :instructor: O'Tousa, Janet
+  :when: M W F  - 9:35A - 10:25A
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: Edward J. DeBartolo Hall 319
+- :subject: *70264910881000
+  :course: ACCT20200
+  :section: '04'
+  :title: Accountancy II
+  :credits: '3'
+  :status: CL
+  :max_spots: '39'
+  :open_spots: '0'
+  :xlst: ! '&nbsp'
+  :crn: '24521'
+  :syl: ! '&nbsp'
+  :instructor: Meyer, Michael
+  :when: M W F  - 1:55P - 2:45P
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: Edward J. DeBartolo Hall 310
+- :subject: *70264910881000
+  :course: ACCT20200
+  :section: '05'
+  :title: Accountancy II
+  :credits: '3'
+  :status: CL
+  :max_spots: '39'
+  :open_spots: '0'
+  :xlst: ! '&nbsp'
+  :crn: '20391'
+  :syl: ! '&nbsp'
+  :instructor: Hums, Edward
+  :when: M W F  - 9:35A - 10:25A
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: Edward J. DeBartolo Hall 318
+- :subject: *70264910881000
+  :course: ACCT20200
+  :section: '06'
+  :title: Accountancy II
+  :credits: '3'
+  :status: CL
+  :max_spots: '39'
+  :open_spots: '0'
+  :xlst: ! '&nbsp'
+  :crn: '20452'
+  :syl: ! '&nbsp'
+  :instructor: Schmuhl, William
+  :when: M W F  - 10:40A - 11:30A
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: Edward J. DeBartolo Hall 310
+- :subject: *70264910881000
+  :course: ACCT20200
+  :section: '07'
+  :title: Accountancy II
+  :credits: '3'
+  :status: CL
+  :max_spots: '39'
+  :open_spots: '0'
+  :xlst: ! '&nbsp'
+  :crn: '20166'
+  :syl: ! '&nbsp'
+  :instructor: O'Tousa, Janet
+  :when: M W F  - 10:40A - 11:30A
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: Edward J. DeBartolo Hall 319
+- :subject: *70264910881000
+  :course: ACCT20200
+  :section: 08
+  :title: Accountancy II
+  :credits: '3'
+  :status: CL
+  :max_spots: '39'
+  :open_spots: '0'
+  :xlst: ! '&nbsp'
+  :crn: '20911'
+  :syl: ! '&nbsp'
+  :instructor: Hums, Edward
+  :when: M W F  - 8:30A - 9:20A
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: Edward J. DeBartolo Hall 318
+- :subject: *70264910881000
+  :course: ACCT20200
+  :section: 09
+  :title: Accountancy II
+  :credits: '3'
+  :status: CL
+  :max_spots: '36'
+  :open_spots: '0'
+  :xlst: ! '&nbsp'
+  :crn: '20237'
+  :syl: ! '&nbsp'
+  :instructor: Schmuhl, William
+  :when: M W F  - 11:45A - 12:35P
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: Edward J. DeBartolo Hall 310
+- :subject: *70264910881000
+  :course: ACCT20200
+  :section: '10'
+  :title: Accountancy II
+  :credits: '3'
+  :status: OP
+  :max_spots: '36'
+  :open_spots: '1'
+  :xlst: ! '&nbsp'
+  :crn: '20440'
+  :syl: ! '&nbsp'
+  :instructor: O'Tousa, Janet
+  :when: M W F  - 11:45A - 12:35P
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: Edward J. DeBartolo Hall 319
+- :subject: *70264910881000
+  :course: ACCT20200
+  :section: '11'
+  :title: Accountancy II
+  :credits: '3'
+  :status: CL
+  :max_spots: '36'
+  :open_spots: '0'
+  :xlst: ! '&nbsp'
+  :crn: '21421'
+  :syl: ! '&nbsp'
+  :instructor: Favorite, Michael
+  :when: M W F  - 11:45A - 12:35P
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: Edward J. DeBartolo Hall 320
+- :subject: *70264910881000
+  :course: ACCT20200
+  :section: '12'
+  :title: Accountancy II
+  :credits: '3'
+  :status: OP
+  :max_spots: '36'
+  :open_spots: '5'
+  :xlst: ! '&nbsp'
+  :crn: '20777'
+  :syl: ! '&nbsp'
+  :instructor: O'Tousa, Janet
+  :when: M W F  - 8:30A - 9:20A
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: Edward J. DeBartolo Hall 319
+- :subject: *70264910881000
+  :course: ACCT20200
+  :section: '13'
+  :title: Accountancy II
+  :credits: '3'
+  :status: CL
+  :max_spots: '39'
+  :open_spots: '0'
+  :xlst: ! '&nbsp'
+  :crn: '24661'
+  :syl: ! '&nbsp'
+  :instructor: Meyer, Michael
+  :when: M W F  - 3:00P - 3:50P
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: Edward J. DeBartolo Hall 310
+- :subject: *70264910881000
+  :course: ACCT20200
+  :section: '14'
+  :title: Accountancy II
+  :credits: '3'
+  :status: CL
+  :max_spots: '39'
+  :open_spots: '0'
+  :xlst: ! '&nbsp'
+  :crn: '24522'
+  :syl: ! '&nbsp'
+  :instructor: Meyer, Michael
+  :when: M W F  - 12:50P - 1:40P
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: Edward J. DeBartolo Hall 310
+- :subject: *70264910881000
+  :course: ACCT20200
+  :section: '15'
+  :title: Accountancy II
+  :credits: '3'
+  :status: CL
+  :max_spots: '39'
+  :open_spots: '0'
+  :xlst: ! '&nbsp'
+  :crn: '23578'
+  :syl: ! '&nbsp'
+  :instructor: Hums, Edward
+  :when: M W F  - 12:50P - 1:40P
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: Edward J. DeBartolo Hall 319
+- :subject: *70264910881000
+  :course: ACCT20200
+  :section: '16'
+  :title: Accountancy II
+  :credits: '3'
+  :status: OP
+  :max_spots: '36'
+  :open_spots: '24'
+  :xlst: ! '&nbsp'
+  :crn: '23579'
+  :syl: ! '&nbsp'
+  :instructor: Moore, Thomas
+  :when: M W F  - 4:05P - 4:55P
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: Edward J. DeBartolo Hall 319
+- :subject: *70264910881000
+  :course: ACCT20200
+  :section: '17'
+  :title: Accountancy II
+  :credits: '3'
+  :status: CL
+  :max_spots: '39'
+  :open_spots: '0'
+  :xlst: ! '&nbsp'
+  :crn: '25824'
+  :syl: ! '&nbsp'
+  :instructor: Hums, Edward
+  :when: M W F  - 1:55P - 2:45P
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: Edward J. DeBartolo Hall 319
+- :subject: *70264910881000
+  :course: ACCT20200
+  :section: '20'
+  :title: Accountancy II
+  :credits: '3'
+  :status: OP
+  :max_spots: '36'
+  :open_spots: '11'
+  :xlst: ! '&nbsp'
+  :crn: '29047'
+  :syl: ! '&nbsp'
+  :instructor: Moore, Thomas
+  :when: M W F  - 3:00P - 3:50P
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: Edward J. DeBartolo Hall 319
+- :subject: *70264910881000
+  :course: ACCT30100
+  :section: '01'
+  :title: Corporate Financial Reporting
+  :credits: '3'
+  :status: OP
+  :max_spots: '34'
+  :open_spots: '5'
+  :xlst: ! '&nbsp'
+  :crn: '23582'
+  :syl: ! '&nbsp'
+  :instructor: Liu, Chao-Shin
+  :when: T R  - 9:30A - 10:45A
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: Edward J. DeBartolo Hall 217
+- :subject: *70264910881000
+  :course: ACCT30100
+  :section: '02'
+  :title: Corporate Financial Reporting
+  :credits: '3'
+  :status: OP
+  :max_spots: '34'
+  :open_spots: '1'
+  :xlst: ! '&nbsp'
+  :crn: '23583'
+  :syl: ! '&nbsp'
+  :instructor: Liu, Chao-Shin
+  :when: T R  - 11:00A - 12:15P
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: Edward J. DeBartolo Hall 217
+- :subject: *70264910881000
+  :course: ACCT30100
+  :section: '03'
+  :title: Corporate Financial Reporting
+  :credits: '3'
+  :status: OP
+  :max_spots: '34'
+  :open_spots: '5'
+  :xlst: ! '&nbsp'
+  :crn: '24524'
+  :syl: ! '&nbsp'
+  :instructor: Stober, Thomas
+  :when: T R  - 12:30P - 1:45P
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: Edward J. DeBartolo Hall 217
+- :subject: *70264910881000
+  :course: ACCT30100
+  :section: '04'
+  :title: Corporate Financial Reporting
+  :credits: '3'
+  :status: OP
+  :max_spots: '34'
+  :open_spots: '5'
+  :xlst: ! '&nbsp'
+  :crn: '29048'
+  :syl: ! '&nbsp'
+  :instructor: Stober, Thomas
+  :when: T R  - 2:00P - 3:15P
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: Edward J. DeBartolo Hall 217
+- :subject: *70264910881000
+  :course: ACCT30110
+  :section: '01'
+  :title: Acct Measurement&Disclosure I
+  :credits: '3'
+  :status: CL
+  :max_spots: '25'
+  :open_spots: '0'
+  :xlst: ! '&nbsp'
+  :crn: '21796'
+  :syl: ! '&nbsp'
+  :instructor: Schaefer, Thomas
+  :when: T R  - 2:00P - 3:15P
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: Edward J. DeBartolo Hall 318
+- :subject: *70264910881000
+  :course: ACCT30110
+  :section: '02'
+  :title: Acct Measurement&Disclosure I
+  :credits: '3'
+  :status: OP
+  :max_spots: '25'
+  :open_spots: '18'
+  :xlst: ! '&nbsp'
+  :crn: '29049'
+  :syl: ! '&nbsp'
+  :instructor: Schaefer, Thomas
+  :when: T R  - 3:30P - 4:45P
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: Edward J. DeBartolo Hall 318
+- :subject: *70264910881000
+  :course: ACCT30120
+  :section: '01'
+  :title: Acct Measurement&Disclosure II
+  :credits: '3'
+  :status: OP
+  :max_spots: '47'
+  :open_spots: '1'
+  :xlst: ! '&nbsp'
+  :crn: '20090'
+  :syl: ! '&nbsp'
+  :instructor: Nichols, William
+  :when: M W  - 11:45A - 1:00P
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: Edward J. DeBartolo Hall 316
+- :subject: *70264910881000
+  :course: ACCT30120
+  :section: '02'
+  :title: Acct Measurement&Disclosure II
+  :credits: '3'
+  :status: OP
+  :max_spots: '47'
+  :open_spots: '3'
+  :xlst: ! '&nbsp'
+  :crn: '20291'
+  :syl: ! '&nbsp'
+  :instructor: Nichols, William
+  :when: M W  - 1:30P - 2:45P
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: Edward J. DeBartolo Hall 316
+- :subject: *70264910881000
+  :course: ACCT30210
+  :section: '01'
+  :title: Strategic Cost Management
+  :credits: '3'
+  :status: OP
+  :max_spots: '35'
+  :open_spots: '1'
+  :xlst: ! '&nbsp'
+  :crn: '20059'
+  :syl: ! '&nbsp'
+  :instructor: Vera-Munoz, Sandra
+  :when: M W  - 1:30P - 2:45P
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: Edward J. DeBartolo Hall 214
+- :subject: *70264910881000
+  :course: ACCT30210
+  :section: '02'
+  :title: Strategic Cost Management
+  :credits: '3'
+  :status: OP
+  :max_spots: '35'
+  :open_spots: '8'
+  :xlst: ! '&nbsp'
+  :crn: '21817'
+  :syl: ! '&nbsp'
+  :instructor: Vera-Munoz, Sandra
+  :when: M W  - 3:00P - 4:15P
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: Edward J. DeBartolo Hall 214
+- :subject: *70264910881000
+  :course: ACCT30280
+  :section: '01'
+  :title: Decision Processes in Acct.
+  :credits: '3'
+  :status: OP
+  :max_spots: '38'
+  :open_spots: '1'
+  :xlst: ! '&nbsp'
+  :crn: '20480'
+  :syl: ! '&nbsp'
+  :instructor: Larocque, Stephannie
+  :when: T R  - 12:30P - 1:45P
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: Mendoza College of Business L051
+- :subject: *70264910881000
+  :course: ACCT30280
+  :section: '02'
+  :title: Decision Processes in Acct.
+  :credits: '3'
+  :status: OP
+  :max_spots: '38'
+  :open_spots: '11'
+  :xlst: ! '&nbsp'
+  :crn: '20688'
+  :syl: ! '&nbsp'
+  :instructor: Larocque, Stephannie
+  :when: T R  - 2:00P - 3:15P
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: Mendoza College of Business L051
+- :subject: *70264910881000
+  :course: ACCT30280
+  :section: '03'
+  :title: Decision Processes in Acct.
+  :credits: '3'
+  :status: CL
+  :max_spots: '38'
+  :open_spots: '0'
+  :xlst: ! '&nbsp'
+  :crn: '24525'
+  :syl: ! '&nbsp'
+  :instructor: Larocque, Stephannie
+  :when: T R  - 11:00A - 12:15P
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: Mendoza College of Business L051
+- :subject: *70264910881000
+  :course: ACCT30750
+  :section: '01'
+  :title: Ethics in Accounting
+  :credits: '1'
+  :status: CL
+  :max_spots: '25'
+  :open_spots: '0'
+  :xlst: ! '&nbsp'
+  :crn: '29051'
+  :syl: ! '&nbsp'
+  :instructor: Levey, Brian
+  :when: T R  - 2:00P - 3:15P
+  :begin: 01/15/2013
+  :end: 02/14/2013
+  :location: Mendoza College of Business 121
+- :subject: *70264910881000
+  :course: ACCT30750
+  :section: '02'
+  :title: Ethics in Accounting
+  :credits: '1'
+  :status: CL
+  :max_spots: '25'
+  :open_spots: '0'
+  :xlst: ! '&nbsp'
+  :crn: '29050'
+  :syl: ! '&nbsp'
+  :instructor: Levey, Brian
+  :when: T R  - 2:00P - 3:15P
+  :begin: 04/02/2013
+  :end: 04/30/2013
+  :location: Mendoza College of Business 121
+- :subject: *70264910881000
+  :course: ACCT40510
+  :section: '01'
+  :title: Audit and Assurance Services
+  :credits: '3'
+  :status: OP
+  :max_spots: '35'
+  :open_spots: '6'
+  :xlst: ! '&nbsp'
+  :crn: '22648'
+  :syl: ! '&nbsp'
+  :instructor: Fuehrmeyer, James
+  :when: M W  - 1:30P - 2:45P
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: Mendoza College of Business L051
+- :subject: *70264910881000
+  :course: ACCT40510
+  :section: '02'
+  :title: Audit and Assurance Services
+  :credits: '3'
+  :status: OP
+  :max_spots: '35'
+  :open_spots: '8'
+  :xlst: ! '&nbsp'
+  :crn: '29052'
+  :syl: ! '&nbsp'
+  :instructor: Fuehrmeyer, James
+  :when: M W  - 3:00P - 4:15P
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: Mendoza College of Business L051
+- :subject: *70264910881000
+  :course: ACCT40610
+  :section: '01'
+  :title: Federal Taxation
+  :credits: '3'
+  :status: OP
+  :max_spots: '30'
+  :open_spots: '1'
+  :xlst: ! '&nbsp'
+  :crn: '21613'
+  :syl: ! '&nbsp'
+  :instructor: Wittenbach, James
+  :when: T R  - 2:00P - 3:15P
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: Edward J. DeBartolo Hall 311
+- :subject: *70264910881000
+  :course: ACCT40610
+  :section: '02'
+  :title: Federal Taxation
+  :credits: '3'
+  :status: CL
+  :max_spots: '30'
+  :open_spots: '0'
+  :xlst: ! '&nbsp'
+  :crn: '24279'
+  :syl: ! '&nbsp'
+  :instructor: Wittenbach, James
+  :when: T R  - 3:30P - 4:45P
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: Edward J. DeBartolo Hall 311
+- :subject: *70264910881000
+  :course: ACCT40610
+  :section: '03'
+  :title: Federal Taxation
+  :credits: '3'
+  :status: OP
+  :max_spots: '30'
+  :open_spots: '18'
+  :xlst: ! '&nbsp'
+  :crn: '29053'
+  :syl: ! '&nbsp'
+  :instructor: O'Brien, James
+  :when: T R  - 8:00A - 9:15A
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: Edward J. DeBartolo Hall 320
+- :subject: *70264910881000
+  :course: ACCT40660
+  :section: '01'
+  :title: Tax Assistance Program
+  :credits: '2'
+  :status: OP
+  :max_spots: '60'
+  :open_spots: '36'
+  :xlst: Y
+  :crn: '22232'
+  :syl: ! '&nbsp'
+  :instructor: Milani, Kenneth
+  :when: M W  - 4:05P - 5:35P
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: Edward J. DeBartolo Hall 311
+- :subject: *70264910881000
+  :course: ACCT40660
+  :section: '02'
+  :title: Tax Assistance Program
+  :credits: '2'
+  :status: OP
+  :max_spots: '60'
+  :open_spots: '9'
+  :xlst: Y
+  :crn: '22233'
+  :syl: ! '&nbsp'
+  :instructor: Milani, Kenneth
+  :when: T R  - 4:15P - 5:45P
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: Edward J. DeBartolo Hall 320
+- :subject: *70264910881000
+  :course: ACCT40670
+  :section: '01'
+  :title: Tax Assistance Program
+  :credits: '2'
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '8'
+  :xlst: Y
+  :crn: '22234'
+  :syl: ! '&nbsp'
+  :instructor: Milani, Kenneth
+  :when: M W  - 4:05P - 5:35P
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: Edward J. DeBartolo Hall 311
+- :subject: *70264910881000
+  :course: ACCT40670
+  :section: '02'
+  :title: Tax Assistance Program
+  :credits: '2'
+  :status: OP
+  :max_spots: '20'
+  :open_spots: '15'
+  :xlst: Y
+  :crn: '22235'
+  :syl: ! '&nbsp'
+  :instructor: Milani, Kenneth
+  :when: T R  - 4:15P - 5:45P
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: Edward J. DeBartolo Hall 320
+- :subject: *70264910881000
+  :course: ACCT40710
+  :section: '01'
+  :title: ! 'Bus Law: Property & Neg. Instr'
+  :credits: '3'
+  :status: CL
+  :max_spots: '45'
+  :open_spots: '0'
+  :xlst: ! '&nbsp'
+  :crn: '21217'
+  :syl: ! '&nbsp'
+  :instructor: O'Brien, James
+  :when: M W  - 5:00P - 6:15P
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: Edward J. DeBartolo Hall 310
+- :subject: *70264910881000
+  :course: ACCT40750
+  :section: '04'
+  :title: Ethics in Accounting
+  :credits: '3'
+  :status: CL
+  :max_spots: '1'
+  :open_spots: '0'
+  :xlst: Y
+  :crn: '29792'
+  :syl: ! '&nbsp'
+  :instructor: Levey, Brian
+  :when: T R  - 8:00A - 9:15A
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: Mendoza College of Business 122
+- :subject: *70264910881000
+  :course: ACCT40770
+  :section: '01'
+  :title: ! 'Adv. Writing: Accounting Pros'
+  :credits: '2'
+  :status: CL
+  :max_spots: '16'
+  :open_spots: '0'
+  :xlst: ! '&nbsp'
+  :crn: '29037'
+  :syl: ! '&nbsp'
+  :instructor: Byrnes, Sondra
+  :when: T R  - 2:00P - 3:15P
+  :begin: 03/19/2013
+  :end: 04/30/2013
+  :location: Edward J. DeBartolo Hall 209
+- :subject: *70264910881000
+  :course: ACCT40790
+  :section: '01'
+  :title: Acct. of Not-for-Profit Org.
+  :credits: '3'
+  :status: OP
+  :max_spots: '35'
+  :open_spots: '5'
+  :xlst: ! '&nbsp'
+  :crn: '29054'
+  :syl: ! '&nbsp'
+  :instructor: Kroll, Douglas
+  :when: T R  - 3:30P - 4:45P
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: Edward J. DeBartolo Hall 312
+- :subject: *70264910881000
+  :course: ACCT40810
+  :section: '01'
+  :title: International Accounting
+  :credits: '3'
+  :status: CL
+  :max_spots: '35'
+  :open_spots: '0'
+  :xlst: ! '&nbsp'
+  :crn: '29055'
+  :syl: ! '&nbsp'
+  :instructor: Rivera, Juan
+  :when: M W  - 3:00P - 4:15P
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: Edward J. DeBartolo Hall 317
+- :subject: *70264910881000
+  :course: ACCT70131
+  :section: '01'
+  :title: Topics in Acct Meas and Discl
+  :credits: '3'
+  :status: CL
+  :max_spots: '44'
+  :open_spots: '0'
+  :xlst: ! '&nbsp'
+  :crn: '21487'
+  :syl: ! '&nbsp'
+  :instructor: Fuehrmeyer, James
+  :when: T R  - 1:00P - 2:15P
+  :begin: 01/14/2013
+  :end: 05/01/2013
+  :location: Mendoza College of Business 122
+- :subject: *70264910881000
+  :course: ACCT70131
+  :section: '02'
+  :title: Topics in Acct Meas and Discl
+  :credits: '3'
+  :status: OP
+  :max_spots: '42'
+  :open_spots: '2'
+  :xlst: ! '&nbsp'
+  :crn: '21202'
+  :syl: ! '&nbsp'
+  :instructor: Fuehrmeyer, James
+  :when: T R  - 3:00P - 4:15P
+  :begin: 01/14/2013
+  :end: 05/01/2013
+  :location: Mendoza College of Business 122
+- :subject: *70264910881000
+  :course: ACCT70141
+  :section: '01'
+  :title: Acct for Mergers & Acquisition
+  :credits: '3'
+  :status: CL
+  :max_spots: '40'
+  :open_spots: '0'
+  :xlst: ! '&nbsp'
+  :crn: '29034'
+  :syl: ! '&nbsp'
+  :instructor: Schaefer, Thomas Breen, James
+  :when: ! "(1) T R  - 11:00A - 12:50P\r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\r\n\t\t\t
+    \  \t\t\r\n\t\t\t   \t  \r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\t(2) T  - 5:00P
+    - 7:30P"
+  :begin: ! "(1) 01/15/2013\r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\r\n\t\t\t   \t\t\r\n\t\t\t
+    \  \t  \r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\t(2) 03/19/2013"
+  :end: ! "(1) 02/28/2013\r\n\t\t\t\t   \t\t\r\n\t\t\t   \t\t\r\n\t\t\t   \t\t\r\n\t\t\t
+    \  \t  \r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\t(2) 05/07/2013"
+  :location: ! "Mendoza College of Business 122 \r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\t\r\n\t\t\t\t
+    \  \t\r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\tMendoza College of Business 122"
+- :subject: *70264910881000
+  :course: ACCT70150
+  :section: '01'
+  :title: Fin Instrmnt & Fair Value Rptg
+  :credits: '2'
+  :status: OP
+  :max_spots: '47'
+  :open_spots: '31'
+  :xlst: Y
+  :crn: '25415'
+  :syl: ! '&nbsp'
+  :instructor: Frecka, Thomas
+  :when: T R  - 1:00P - 2:50P
+  :begin: 01/14/2013
+  :end: 03/04/2013
+  :location: Mendoza College of Business 158
+- :subject: *70264910881000
+  :course: ACCT70151
+  :section: '01'
+  :title: Fin Instrmnt & Fair Value Rptg
+  :credits: '2'
+  :status: CL
+  :max_spots: '5'
+  :open_spots: '0'
+  :xlst: Y
+  :crn: '25588'
+  :syl: ! '&nbsp'
+  :instructor: Frecka, Thomas
+  :when: T R  - 1:00P - 2:50P
+  :begin: 01/14/2013
+  :end: 03/04/2013
+  :location: Mendoza College of Business 158
+- :subject: *70264910881000
+  :course: ACCT70200
+  :section: '01'
+  :title: Strategic Cost Management
+  :credits: '2'
+  :status: OP
+  :max_spots: '52'
+  :open_spots: '8'
+  :xlst: ! '&nbsp'
+  :crn: '25385'
+  :syl: ! '&nbsp'
+  :instructor: Ramanan, Ramachandran
+  :when: M W  - 8:00A - 9:50A
+  :begin: 03/18/2013
+  :end: 05/01/2013
+  :location: Mendoza College of Business 160
+- :subject: *70264910881000
+  :course: ACCT70200
+  :section: '02'
+  :title: Strategic Cost Management
+  :credits: '2'
+  :status: CL
+  :max_spots: '52'
+  :open_spots: '0'
+  :xlst: ! '&nbsp'
+  :crn: '25387'
+  :syl: ! '&nbsp'
+  :instructor: Ramanan, Ramachandran
+  :when: M W  - 10:00A - 11:50A
+  :begin: 03/18/2013
+  :end: 05/01/2013
+  :location: Mendoza College of Business 160
+- :subject: *70264910881000
+  :course: ACCT70311
+  :section: '01'
+  :title: Anlys & Val Using Fin Stmts
+  :credits: '3'
+  :status: OP
+  :max_spots: '43'
+  :open_spots: '4'
+  :xlst: ! '&nbsp'
+  :crn: '21512'
+  :syl: ! '&nbsp'
+  :instructor: Easton, Peter
+  :when: M W  - 8:30A - 9:45A
+  :begin: 01/14/2013
+  :end: 05/01/2013
+  :location: Mendoza College of Business 122
+- :subject: *70264910881000
+  :course: ACCT70311
+  :section: '02'
+  :title: Anlys & Val Using Fin Stmts
+  :credits: '3'
+  :status: CL
+  :max_spots: '44'
+  :open_spots: '0'
+  :xlst: ! '&nbsp'
+  :crn: '20832'
+  :syl: ! '&nbsp'
+  :instructor: Easton, Peter
+  :when: M W  - 10:00A - 11:15A
+  :begin: 01/14/2013
+  :end: 05/01/2013
+  :location: Mendoza College of Business 122
+- :subject: *70264910881000
+  :course: ACCT70620
+  :section: '01'
+  :title: Taxation Corps & Share Holders
+  :credits: '3'
+  :status: OP
+  :max_spots: '1'
+  :open_spots: '1'
+  :xlst: Y
+  :crn: '25657'
+  :syl: ! '&nbsp'
+  :instructor: Wittenbach, James
+  :when: M W  - 11:30A - 12:45P
+  :begin: 01/14/2013
+  :end: 05/01/2013
+  :location: Mendoza College of Business 122
+- :subject: *70264910881000
+  :course: ACCT70621
+  :section: '01'
+  :title: Taxation Corps & Share Holders
+  :credits: '3'
+  :status: CL
+  :max_spots: '40'
+  :open_spots: '0'
+  :xlst: Y
+  :crn: '24526'
+  :syl: ! '&nbsp'
+  :instructor: Wittenbach, James
+  :when: M W  - 11:30A - 12:45P
+  :begin: 01/14/2013
+  :end: 05/01/2013
+  :location: Mendoza College of Business 122
+- :subject: *70264910881000
+  :course: ACCT70681
+  :section: '01'
+  :title: Spec Topic Tax IV:St & Loc
+  :credits: '3'
+  :status: OP
+  :max_spots: '40'
+  :open_spots: '11'
+  :xlst: ! '&nbsp'
+  :crn: '24527'
+  :syl: ! '&nbsp'
+  :instructor: McGowan, Jeffrey
+  :when: W  - 5:00P - 7:45P
+  :begin: 01/14/2013
+  :end: 05/01/2013
+  :location: Mendoza College of Business 122
+- :subject: *70264910881000
+  :course: ACCT70691
+  :section: '01'
+  :title: Income Taxation/Intl Individls
+  :credits: '3'
+  :status: CL
+  :max_spots: '13'
+  :open_spots: '0'
+  :xlst: ! '&nbsp'
+  :crn: '22612'
+  :syl: ! '&nbsp'
+  :instructor: Milani, Kenneth
+  :when: M W  - 10:00A - 11:15A
+  :begin: 01/14/2013
+  :end: 05/01/2013
+  :location: Mendoza College of Business 121
+- :subject: *70264910881000
+  :course: ACCT70711
+  :section: '01'
+  :title: ! 'Bus Law: Property & Neg. Instr'
+  :credits: '3'
+  :status: CL
+  :max_spots: '25'
+  :open_spots: '-1'
+  :xlst: ! '&nbsp'
+  :crn: '20040'
+  :syl: ! '&nbsp'
+  :instructor: O'Brien, James
+  :when: M W  - 1:30P - 2:45P
+  :begin: 01/14/2013
+  :end: 05/01/2013
+  :location: Mendoza College of Business 122
+- :subject: *70264910881000
+  :course: ACCT70711
+  :section: '02'
+  :title: ! 'Bus Law: Property & Neg. Instr'
+  :credits: '3'
+  :status: CL
+  :max_spots: '25'
+  :open_spots: '0'
+  :xlst: ! '&nbsp'
+  :crn: '20710'
+  :syl: ! '&nbsp'
+  :instructor: O'Brien, James
+  :when: M W  - 3:30P - 4:45P
+  :begin: 01/14/2013
+  :end: 05/01/2013
+  :location: Mendoza College of Business 122
+- :subject: *70264910881000
+  :course: ACCT70751
+  :section: '03'
+  :title: Ethics in Accounting
+  :credits: '3'
+  :status: CL
+  :max_spots: '25'
+  :open_spots: '0'
+  :xlst: ! '&nbsp'
+  :crn: '26310'
+  :syl: ! '&nbsp'
+  :instructor: Levey, Brian
+  :when: T R  - 9:30A - 10:45A
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: Mendoza College of Business 122
+- :subject: *70264910881000
+  :course: ACCT70751
+  :section: '04'
+  :title: Ethics in Accounting
+  :credits: '3'
+  :status: CL
+  :max_spots: '25'
+  :open_spots: '0'
+  :xlst: Y
+  :crn: '26309'
+  :syl: ! '&nbsp'
+  :instructor: Levey, Brian
+  :when: T R  - 8:00A - 9:15A
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: Mendoza College of Business 122
+- :subject: *70264910881000
+  :course: ACCT70831
+  :section: '01'
+  :title: Academic Research - Accounting
+  :credits: '2'
+  :status: CL
+  :max_spots: '20'
+  :open_spots: '0'
+  :xlst: ! '&nbsp'
+  :crn: '23527'
+  :syl: ! '&nbsp'
+  :instructor: Ricchiute, David
+  :when: M W  - 3:00P - 4:50P
+  :begin: 01/14/2013
+  :end: 03/04/2013
+  :location: Mendoza College of Business L014B

@@ -1,0 +1,577 @@
+---
+- !ruby/object:Course
+  name: Literature University Seminar
+  credit: '3'
+  coursenum: PLS13186
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '16'
+    crn: '22006'
+    instructor: Goehring, Bernd
+    time: T R  - 2:00P - 3:15P
+    location: O'Shaughnessy Hall 207
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '0'
+    max_spots: '16'
+    crn: '24158'
+    instructor: Robichaud, Denis
+    time: T R  - 2:00P - 3:15P
+    location: O'Shaughnessy Hall 338
+  - !ruby/object:Section
+    section_num: '03'
+    open_spots: '0'
+    max_spots: '16'
+    crn: '28816'
+    instructor: Munzel, G. Felicitas
+    time: T R  - 3:30P - 4:45P
+    location: O'Shaughnessy Hall 221
+- !ruby/object:Course
+  name: Bible and Its Interpretation
+  credit: '3'
+  coursenum: PLS20302
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '3'
+    max_spots: '27'
+    crn: '20118'
+    instructor: Martin, Jennifer
+    time: M W  - 3:00P - 4:15P
+    location: Main Building 404
+- !ruby/object:Course
+  name: Fund Concepts of Nat Sci
+  credit: '3'
+  coursenum: PLS20412
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '16'
+    max_spots: '27'
+    crn: '23645'
+    instructor: Stapleford, Thomas
+    time: M W  - 9:20A - 10:35A
+    location: O'Shaughnessy Hall 214
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '14'
+    max_spots: '27'
+    crn: '23649'
+    instructor: Stapleford, Thomas
+    time: M W  - 10:50A - 12:05P
+    location: O'Shaughnessy Hall 214
+- !ruby/object:Course
+  name: Great Books Seminar I
+  credit: '4'
+  coursenum: PLS23101
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '7'
+    max_spots: '15'
+    crn: '25036'
+    instructor: Tillman, Mary Katherine
+    time: T R  - 3:25P - 5:05P
+    location: Hammes Mowbray Hall 313
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '10'
+    max_spots: '17'
+    crn: '24159'
+    instructor: Munzel, G. Felicitas
+    time: T R  - 1:05P - 2:45P
+    location: O'Shaughnessy Hall 221
+- !ruby/object:Course
+  name: Great Books Seminar II
+  credit: '4'
+  coursenum: PLS23102
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '5'
+    max_spots: '17'
+    crn: '23127'
+    instructor: Emery, Kent
+    time: T R  - 1:05P - 2:45P
+    location: O'Shaughnessy Hall 214
+- !ruby/object:Course
+  name: ! 'Lit II:  Shakespeare & Milton'
+  credit: '3'
+  coursenum: PLS30202
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '10'
+    max_spots: '27'
+    crn: '21139'
+    instructor: Fallon, Stephen
+    time: M W  - 9:20A - 10:35A
+    location: O'Shaughnessy Hall 221
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '13'
+    max_spots: '27'
+    crn: '23654'
+    instructor: Fallon, Stephen
+    time: M W  - 10:50A - 12:05P
+    location: O'Shaughnessy Hall 221
+- !ruby/object:Course
+  name: Polit. & Const. Theory
+  credit: '3'
+  coursenum: PLS30302
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '16'
+    max_spots: '27'
+    crn: '23650'
+    instructor: Brutto, Joseph
+    time: T R  - 9:30A - 10:45A
+    location: O'Shaughnessy Hall 221
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '12'
+    max_spots: '27'
+    crn: '24615'
+    instructor: Brutto, Joseph
+    time: T R  - 11:00A - 12:15P
+    location: O'Shaughnessy Hall 221
+- !ruby/object:Course
+  name: Great Books Seminar III
+  credit: '4'
+  coursenum: PLS33101
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '1'
+    max_spots: '17'
+    crn: '24616'
+    instructor: Rosenberg, Joseph
+    time: M W  - 1:05P - 2:45P
+    location: O'Shaughnessy Hall 214
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '7'
+    max_spots: '17'
+    crn: '24617'
+    instructor: Rosenberg, Joseph
+    time: M W  - 3:15P - 4:55P
+    location: O'Shaughnessy Hall 214
+- !ruby/object:Course
+  name: Great Books Seminar IV
+  credit: '4'
+  coursenum: PLS33102
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '7'
+    max_spots: '17'
+    crn: '23653'
+    instructor: Bugyis, Eric
+    time: M W  - 1:05P - 2:45P
+    location: O'Shaughnessy Hall 202
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '10'
+    max_spots: '17'
+    crn: '21154'
+    instructor: Bugyis, Eric
+    time: T R  - 3:25P - 5:05P
+    location: O'Shaughnessy Hall 214
+- !ruby/object:Course
+  name: Metaphysics and Epistemology
+  credit: '3'
+  coursenum: PLS40302
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '8'
+    max_spots: '19'
+    crn: '25041'
+    instructor: Robichaud, Denis
+    time: T R  - 9:30A - 10:45A
+    location: O'Shaughnessy Hall 214
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '6'
+    max_spots: '19'
+    crn: '20876'
+    instructor: Goehring, Bernd
+    time: T R  - 11:00A - 12:15P
+    location: O'Shaughnessy Hall 214
+- !ruby/object:Course
+  name: Sci, Society & Human Person
+  credit: '3'
+  coursenum: PLS40412
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '8'
+    max_spots: '19'
+    crn: '23655'
+    instructor: Bordogna, Francesca
+    time: T R  - 12:30P - 1:45P
+    location: Flanner Hall 323
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '9'
+    max_spots: '19'
+    crn: '25038'
+    instructor: Bordogna, Francesca
+    time: T R  - 2:00P - 3:15P
+    location: Flanner Hall 323
+- !ruby/object:Course
+  name: Great Books Seminar VI
+  credit: '4'
+  coursenum: PLS43102
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '2'
+    max_spots: '17'
+    crn: '20602'
+    instructor: Marvin, Julia
+    time: M W  - 1:05P - 2:45P
+    location: O'Shaughnessy Hall 221
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '7'
+    max_spots: '17'
+    crn: '24160'
+    instructor: Marvin, Julia
+    time: M W  - 3:15P - 4:55P
+    location: O'Shaughnessy Hall 221
+- !ruby/object:Course
+  name: Thesis-Tutorial
+  credit: '2'
+  coursenum: PLS48701
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '1'
+    max_spots: '1'
+    crn: '24763'
+    instructor: TBA
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Thesis-Tutorial
+  credit: '3'
+  coursenum: PLS48702
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '25042'
+    instructor: TBA
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '2'
+    max_spots: '5'
+    crn: '25046'
+    instructor: Bordogna, Francesca
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '03'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '25043'
+    instructor: TBA
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '04'
+    open_spots: '3'
+    max_spots: '5'
+    crn: '25047'
+    instructor: Fallon, Stephen
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '05'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '25044'
+    instructor: TBA
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '06'
+    open_spots: '3'
+    max_spots: '5'
+    crn: '25048'
+    instructor: Goehring, Bernd
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '07'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '25045'
+    instructor: TBA
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: 08
+    open_spots: '5'
+    max_spots: '5'
+    crn: '25049'
+    instructor: Martin, Jennifer
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: 09
+    open_spots: '3'
+    max_spots: '5'
+    crn: '25051'
+    instructor: Marvin, Julia
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '10'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '25052'
+    instructor: Munzel, G. Felicitas
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '11'
+    open_spots: '7'
+    max_spots: '10'
+    crn: '25053'
+    instructor: Reydams-Schils, Gretchen
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '12'
+    open_spots: '3'
+    max_spots: '5'
+    crn: '25054'
+    instructor: Robichaud, Denis
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '13'
+    open_spots: '2'
+    max_spots: '5'
+    crn: '25055'
+    instructor: Rosenberg, Joseph
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '14'
+    open_spots: '2'
+    max_spots: '5'
+    crn: '25056'
+    instructor: Stapleford, Thomas
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '16'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '25979'
+    instructor: TBA
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Thesis-Tutorial
+  credit: '1'
+  coursenum: PLS48703
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '1'
+    max_spots: '1'
+    crn: '25637'
+    instructor: TBA
+    time: TBA
+    location: TBA
+location: TBA
+- :course: PLS48702
+  :section: '05'
+  :title: Thesis-Tutorial
+  :credits: '3'
+  :status: OP
+  :max_spots: '5'
+  :open_spots: '5'
+  :xlst: ! '&nbsp'
+  :crn: '25044'
+  :syl: ! '&nbsp'
+  :instructor: TBA
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: PLS48702
+  :section: '06'
+  :title: Thesis-Tutorial
+  :credits: '3'
+  :status: OP
+  :max_spots: '5'
+  :open_spots: '3'
+  :xlst: ! '&nbsp'
+  :crn: '25048'
+  :syl: ! '&nbsp'
+  :instructor: Goehring, Bernd
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: PLS48702
+  :section: '07'
+  :title: Thesis-Tutorial
+  :credits: '3'
+  :status: OP
+  :max_spots: '5'
+  :open_spots: '5'
+  :xlst: ! '&nbsp'
+  :crn: '25045'
+  :syl: ! '&nbsp'
+  :instructor: TBA
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: PLS48702
+  :section: 08
+  :title: Thesis-Tutorial
+  :credits: '3'
+  :status: OP
+  :max_spots: '5'
+  :open_spots: '5'
+  :xlst: ! '&nbsp'
+  :crn: '25049'
+  :syl: ! '&nbsp'
+  :instructor: Martin, Jennifer
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: PLS48702
+  :section: 09
+  :title: Thesis-Tutorial
+  :credits: '3'
+  :status: OP
+  :max_spots: '5'
+  :open_spots: '3'
+  :xlst: ! '&nbsp'
+  :crn: '25051'
+  :syl: ! '&nbsp'
+  :instructor: Marvin, Julia
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: PLS48702
+  :section: '10'
+  :title: Thesis-Tutorial
+  :credits: '3'
+  :status: OP
+  :max_spots: '5'
+  :open_spots: '5'
+  :xlst: ! '&nbsp'
+  :crn: '25052'
+  :syl: ! '&nbsp'
+  :instructor: Munzel, G. Felicitas
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: PLS48702
+  :section: '11'
+  :title: Thesis-Tutorial
+  :credits: '3'
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '7'
+  :xlst: ! '&nbsp'
+  :crn: '25053'
+  :syl: ! '&nbsp'
+  :instructor: Reydams-Schils, Gretchen
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: PLS48702
+  :section: '12'
+  :title: Thesis-Tutorial
+  :credits: '3'
+  :status: OP
+  :max_spots: '5'
+  :open_spots: '3'
+  :xlst: ! '&nbsp'
+  :crn: '25054'
+  :syl: ! '&nbsp'
+  :instructor: Robichaud, Denis
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: PLS48702
+  :section: '13'
+  :title: Thesis-Tutorial
+  :credits: '3'
+  :status: OP
+  :max_spots: '5'
+  :open_spots: '2'
+  :xlst: ! '&nbsp'
+  :crn: '25055'
+  :syl: ! '&nbsp'
+  :instructor: Rosenberg, Joseph
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: PLS48702
+  :section: '14'
+  :title: Thesis-Tutorial
+  :credits: '3'
+  :status: OP
+  :max_spots: '5'
+  :open_spots: '3'
+  :xlst: ! '&nbsp'
+  :crn: '25056'
+  :syl: ! '&nbsp'
+  :instructor: Stapleford, Thomas
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: PLS48702
+  :section: '16'
+  :title: Thesis-Tutorial
+  :credits: '3'
+  :status: OP
+  :max_spots: '5'
+  :open_spots: '5'
+  :xlst: ! '&nbsp'
+  :crn: '25979'
+  :syl: ! '&nbsp'
+  :instructor: TBA
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: PLS48703
+  :section: '01'
+  :title: Thesis-Tutorial
+  :credits: '1'
+  :status: OP
+  :max_spots: '1'
+  :open_spots: '1'
+  :xlst: ! '&nbsp'
+  :crn: '25637'
+  :syl: ! '&nbsp'
+  :instructor: TBA
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA

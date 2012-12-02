@@ -1,0 +1,524 @@
+---
+- !ruby/object:Course
+  name: Thesis Direction
+  credit: V
+  coursenum: HPS78599
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '21837'
+    instructor: Bland, Katherine
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Nonresident Thesis Research
+  credit: V
+  coursenum: HPS78600
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '20624'
+    instructor: Bland, Katherine
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Colloquium
+  credit: '1'
+  coursenum: HPS83100
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '9'
+    max_spots: '10'
+    crn: '21777'
+    instructor: Bland, Katherine
+    time: T  - 4:15P - 5:30P
+    location: Edward J. DeBartolo Hall 129
+- !ruby/object:Course
+  name: His, Sci, Tech, Med since 1750
+  credit: '3'
+  coursenum: HPS83602
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '9'
+    max_spots: '12'
+    crn: '28705'
+    instructor: Jackson, Catherine
+    time: T R  - 9:30A - 10:45A
+    location: Hayes Healy Center 127
+- !ruby/object:Course
+  name: Brit & Amer Intellectual Hist
+  credit: '3'
+  coursenum: HPS93638
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '2'
+    max_spots: '3'
+    crn: '28706'
+    instructor: Turner, James
+    time: M  - 3:00P - 5:30P
+    location: Flanner Hall 824
+- !ruby/object:Course
+  name: Social Ideals/Value in Science
+  credit: '3'
+  coursenum: HPS93643
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '9'
+    max_spots: '10'
+    crn: '29632'
+    instructor: Jurkowitz, Edward
+    time: T R  - 2:00P - 3:15P
+    location: Coleman Morse Center 231
+- !ruby/object:Course
+  name: History of Economic Thought
+  credit: '3'
+  coursenum: HPS93742
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '4'
+    max_spots: '6'
+    crn: '28708'
+    instructor: Mirowski, Philip
+    time: M W  - 1:30P - 2:45P
+    location: Grace Hall 346
+- !ruby/object:Course
+  name: Laws of Nature
+  credit: '3'
+  coursenum: HPS93807
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '9'
+    max_spots: '10'
+    crn: '28709'
+    instructor: Chakravartty, Anjan
+    time: W  - 5:00P - 7:30P
+    location: Edward J. DeBartolo Hall 143
+- !ruby/object:Course
+  name: Hist & Con F. of Space/Time
+  credit: '3'
+  coursenum: HPS93871
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '6'
+    max_spots: '9'
+    crn: '28710'
+    instructor: Bland, Katherine
+    time: W  - 9:00A - 11:30A
+    location: Edward A. Malloy Hall 220
+- !ruby/object:Course
+  name: Directed Readings
+  credit: V
+  coursenum: HPS96697
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '21850'
+    instructor: Sloan, Phillip
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '20843'
+    instructor: Crowe, Michael
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '03'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '20007'
+    instructor: Walls, Laura
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '04'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '21197'
+    instructor: Shrader-Frechette, Kristin
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '05'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '21098'
+    instructor: Manier, A.
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '06'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '20422'
+    instructor: Goulding, Robert
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '07'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '20962'
+    instructor: Mirowski, Philip
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: 08
+    open_spots: '5'
+    max_spots: '5'
+    crn: '21846'
+    instructor: Hamlin, Christopher
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: 09
+    open_spots: '5'
+    max_spots: '5'
+    crn: '20854'
+    instructor: Stapleford, Thomas
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '10'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '20287'
+    instructor: Ramsey, William
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '11'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '21244'
+    instructor: Joy, Lynn
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '12'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '20825'
+    instructor: Turner, James
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '13'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '20280'
+    instructor: Howard, Don
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '14'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '21393'
+    instructor: Bigi, Ikaros
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '15'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '21173'
+    instructor: Ashley, James
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '16'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '20573'
+    instructor: Fox, Christopher
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '17'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '21059'
+    instructor: Gutting, Gary
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '18'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '20847'
+    instructor: Kourany, Janet
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '19'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '20694'
+    instructor: Bland, Katherine
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '20'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '21655'
+    instructor: McKim, Vaughn
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '21'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '20675'
+    instructor: Coleman, Jon
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '22'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '24274'
+    instructor: Deane-Drummond, Celia
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '23'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '26182'
+    instructor: Bordogna, Francesca
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '24'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '26184'
+    instructor: TBA
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '25'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '26181'
+    instructor: Marshall, Kate
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '26'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '26183'
+    instructor: TBA
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Research and Dissertation
+  credit: V
+  coursenum: HPS98699
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '8'
+    max_spots: '10'
+    crn: '20179'
+    instructor: Bland, Katherine
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Nonresident Dissertation Rsrch
+  credit: V
+  coursenum: HPS98700
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '21794'
+    instructor: Bland, Katherine
+    time: TBA
+    location: TBA
+1/2013
+  :location: TBA
+- :course: HPS96697
+  :section: '18'
+  :title: Directed Readings
+  :credits: V
+  :status: OP
+  :max_spots: '5'
+  :open_spots: '5'
+  :xlst: ! '&nbsp'
+  :crn: '20847'
+  :syl: ! '&nbsp'
+  :instructor: Kourany, Janet
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: HPS96697
+  :section: '19'
+  :title: Directed Readings
+  :credits: V
+  :status: OP
+  :max_spots: '5'
+  :open_spots: '5'
+  :xlst: ! '&nbsp'
+  :crn: '20694'
+  :syl: ! '&nbsp'
+  :instructor: Bland, Katherine
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: HPS96697
+  :section: '20'
+  :title: Directed Readings
+  :credits: V
+  :status: OP
+  :max_spots: '5'
+  :open_spots: '5'
+  :xlst: ! '&nbsp'
+  :crn: '21655'
+  :syl: ! '&nbsp'
+  :instructor: McKim, Vaughn
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: HPS96697
+  :section: '21'
+  :title: Directed Readings
+  :credits: V
+  :status: OP
+  :max_spots: '5'
+  :open_spots: '5'
+  :xlst: ! '&nbsp'
+  :crn: '20675'
+  :syl: ! '&nbsp'
+  :instructor: Coleman, Jon
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: HPS96697
+  :section: '22'
+  :title: Directed Readings
+  :credits: V
+  :status: OP
+  :max_spots: '5'
+  :open_spots: '5'
+  :xlst: ! '&nbsp'
+  :crn: '24274'
+  :syl: ! '&nbsp'
+  :instructor: Deane-Drummond, Celia
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: HPS96697
+  :section: '23'
+  :title: Directed Readings
+  :credits: V
+  :status: OP
+  :max_spots: '5'
+  :open_spots: '5'
+  :xlst: ! '&nbsp'
+  :crn: '26182'
+  :syl: ! '&nbsp'
+  :instructor: Bordogna, Francesca
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: HPS96697
+  :section: '24'
+  :title: Directed Readings
+  :credits: V
+  :status: OP
+  :max_spots: '5'
+  :open_spots: '5'
+  :xlst: ! '&nbsp'
+  :crn: '26184'
+  :syl: ! '&nbsp'
+  :instructor: TBA
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: HPS96697
+  :section: '25'
+  :title: Directed Readings
+  :credits: V
+  :status: OP
+  :max_spots: '5'
+  :open_spots: '5'
+  :xlst: ! '&nbsp'
+  :crn: '26181'
+  :syl: ! '&nbsp'
+  :instructor: Marshall, Kate
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: HPS96697
+  :section: '26'
+  :title: Directed Readings
+  :credits: V
+  :status: OP
+  :max_spots: '5'
+  :open_spots: '5'
+  :xlst: ! '&nbsp'
+  :crn: '26183'
+  :syl: ! '&nbsp'
+  :instructor: TBA
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: HPS98699
+  :section: '01'
+  :title: Research and Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '9'
+  :xlst: ! '&nbsp'
+  :crn: '20179'
+  :syl: ! '&nbsp'
+  :instructor: Bland, Katherine
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: HPS98700
+  :section: '01'
+  :title: Nonresident Dissertation Rsrch
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '21794'
+  :syl: ! '&nbsp'
+  :instructor: Bland, Katherine
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA

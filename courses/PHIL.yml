@@ -1,0 +1,1776 @@
+---
+- !ruby/object:Course
+  name: Introduction to Philosophy
+  credit: '3'
+  coursenum: PHIL10100
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '91'
+    max_spots: '200'
+    crn: '22372'
+    instructor: Sullivan, Meghan
+    time: T R  - 2:00P - 2:50P
+    location: Edward J. DeBartolo Hall 141
+- !ruby/object:Course
+  name: Introduction to Philosophy
+  credit: '3'
+  coursenum: PHIL10101
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '30'
+    crn: '21415'
+    instructor: Leach-Krouse, Graham
+    time: M W F  - 8:30A - 9:20A
+    location: Edward J. DeBartolo Hall 231
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '0'
+    max_spots: '30'
+    crn: '21853'
+    instructor: Leach-Krouse, Graham
+    time: M W F  - 9:35A - 10:25A
+    location: Edward J. DeBartolo Hall 231
+  - !ruby/object:Section
+    section_num: '03'
+    open_spots: '0'
+    max_spots: '30'
+    crn: '20446'
+    instructor: Gustin, Robert
+    time: M W F  - 11:45A - 12:35P
+    location: Edward J. DeBartolo Hall 201
+  - !ruby/object:Section
+    section_num: '04'
+    open_spots: '0'
+    max_spots: '30'
+    crn: '20395'
+    instructor: Gustin, Robert
+    time: M W F  - 12:50P - 1:40P
+    location: Edward J. DeBartolo Hall 201
+  - !ruby/object:Section
+    section_num: '05'
+    open_spots: '0'
+    max_spots: '30'
+    crn: '21104'
+    instructor: Strimple, Anthony
+    time: T R  - 9:30A - 10:45A
+    location: Theodore M. Hesburgh Library 107
+  - !ruby/object:Section
+    section_num: '06'
+    open_spots: '0'
+    max_spots: '30'
+    crn: '21524'
+    instructor: Strimple, Anthony
+    time: T R  - 11:00A - 12:15P
+    location: O'Shaughnessy Hall 109
+  - !ruby/object:Section
+    section_num: '07'
+    open_spots: '0'
+    max_spots: '30'
+    crn: '20199'
+    instructor: Peterson, Anne
+    time: T R  - 11:00A - 12:15P
+    location: O'Shaughnessy Hall 116
+  - !ruby/object:Section
+    section_num: 08
+    open_spots: '0'
+    max_spots: '30'
+    crn: '21271'
+    instructor: Peterson, Anne
+    time: T R  - 12:30P - 1:45P
+    location: O'Shaughnessy Hall 116
+  - !ruby/object:Section
+    section_num: 09
+    open_spots: '0'
+    max_spots: '30'
+    crn: '23098'
+    instructor: McCollum, Joshua
+    time: T R  - 12:30P - 1:45P
+    location: Edward J. DeBartolo Hall 206
+  - !ruby/object:Section
+    section_num: '10'
+    open_spots: '0'
+    max_spots: '30'
+    crn: '23746'
+    instructor: McCollum, Joshua
+    time: T R  - 3:30P - 4:45P
+    location: Edward J. DeBartolo Hall 206
+  - !ruby/object:Section
+    section_num: '11'
+    open_spots: '0'
+    max_spots: '30'
+    crn: '24098'
+    instructor: Rafalski, Anna
+    time: T R  - 3:30P - 4:45P
+    location: Edward J. DeBartolo Hall 202
+  - !ruby/object:Section
+    section_num: '12'
+    open_spots: '0'
+    max_spots: '30'
+    crn: '24099'
+    instructor: Snapper, Jeffrey
+    time: T R  - 9:30A - 10:45A
+    location: Geddes Hall B034
+  - !ruby/object:Section
+    section_num: '13'
+    open_spots: '0'
+    max_spots: '30'
+    crn: '25613'
+    instructor: Rafalski, Anna
+    time: T R  - 5:00P - 6:15P
+    location: Edward J. DeBartolo Hall 202
+  - !ruby/object:Section
+    section_num: '14'
+    open_spots: '1'
+    max_spots: '30'
+    crn: '28742'
+    instructor: Rettler, Bradley
+    time: T R  - 5:00P - 6:15P
+    location: Edward J. DeBartolo Hall 241
+  - !ruby/object:Section
+    section_num: '15'
+    open_spots: '0'
+    max_spots: '30'
+    crn: '29725'
+    instructor: Immerman, Daniel
+    time: M W F  - 1:55P - 2:45P
+    location: Edward J. DeBartolo Hall 223
+- !ruby/object:Course
+  name: Intro to Philosophy Discussion
+  credit: '0'
+  coursenum: PHIL12100
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '1'
+    max_spots: '15'
+    crn: '23102'
+    instructor: Sullivan, Meghan
+    time: F  - 9:35A - 10:25A
+    location: Edward A. Malloy Hall 220
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '2'
+    max_spots: '15'
+    crn: '23103'
+    instructor: Sullivan, Meghan
+    time: F  - 9:35A - 10:25A
+    location: Flanner Hall 625
+  - !ruby/object:Section
+    section_num: '03'
+    open_spots: '4'
+    max_spots: '15'
+    crn: '23104'
+    instructor: Sullivan, Meghan
+    time: F  - 10:40A - 11:30A
+    location: Edward A. Malloy Hall 220
+  - !ruby/object:Section
+    section_num: '04'
+    open_spots: '7'
+    max_spots: '15'
+    crn: '23105'
+    instructor: Sullivan, Meghan
+    time: F  - 10:40A - 11:30A
+    location: Edward J. DeBartolo Hall 224
+  - !ruby/object:Section
+    section_num: '05'
+    open_spots: '11'
+    max_spots: '15'
+    crn: '23106'
+    instructor: Sullivan, Meghan
+    time: F  - 10:40A - 11:30A
+    location: Main Building 218
+  - !ruby/object:Section
+    section_num: '06'
+    open_spots: '2'
+    max_spots: '15'
+    crn: '23107'
+    instructor: Sullivan, Meghan
+    time: F  - 11:45A - 12:35P
+    location: Edward A. Malloy Hall 220
+  - !ruby/object:Section
+    section_num: '07'
+    open_spots: '12'
+    max_spots: '15'
+    crn: '23109'
+    instructor: Sullivan, Meghan
+    time: F  - 11:45A - 12:35P
+    location: Main Building 218
+  - !ruby/object:Section
+    section_num: 08
+    open_spots: '6'
+    max_spots: '15'
+    crn: '23110'
+    instructor: Sullivan, Meghan
+    time: F  - 12:50P - 1:40P
+    location: Edward A. Malloy Hall 220
+  - !ruby/object:Section
+    section_num: 09
+    open_spots: '2'
+    max_spots: '15'
+    crn: '23111'
+    instructor: Sullivan, Meghan
+    time: F  - 12:50P - 1:40P
+    location: Edward J. DeBartolo Hall 113
+  - !ruby/object:Section
+    section_num: '10'
+    open_spots: '14'
+    max_spots: '15'
+    crn: '23112'
+    instructor: Sullivan, Meghan
+    time: F  - 12:50P - 1:40P
+    location: Edward J. DeBartolo Hall 108
+  - !ruby/object:Section
+    section_num: '11'
+    open_spots: '1'
+    max_spots: '15'
+    crn: '23113'
+    instructor: Sullivan, Meghan
+    time: F  - 1:55P - 2:45P
+    location: Edward J. DeBartolo Hall 108
+  - !ruby/object:Section
+    section_num: '12'
+    open_spots: '9'
+    max_spots: '15'
+    crn: '23114'
+    instructor: Sullivan, Meghan
+    time: F  - 1:55P - 2:45P
+    location: Edward J. DeBartolo Hall 349
+- !ruby/object:Course
+  name: Philosophy University Seminar
+  credit: '3'
+  coursenum: PHIL13185
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '-1'
+    max_spots: '14'
+    crn: '21539'
+    instructor: Blanchette, Patricia
+    time: T R  - 9:30A - 10:45A
+    location: Edward J. DeBartolo Hall 108
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '-2'
+    max_spots: '14'
+    crn: '21869'
+    instructor: Bays, Timothy
+    time: T R  - 11:00A - 12:15P
+    location: Edward J. DeBartolo Hall 113
+  - !ruby/object:Section
+    section_num: '03'
+    open_spots: '-2'
+    max_spots: '14'
+    crn: '22001'
+    instructor: Holloway, Montey
+    time: T R  - 12:30P - 1:45P
+    location: Edward J. DeBartolo Hall 113
+  - !ruby/object:Section
+    section_num: '04'
+    open_spots: '-2'
+    max_spots: '14'
+    crn: '22002'
+    instructor: DePaul, Michael
+    time: T R  - 12:30P - 1:45P
+    location: Flanner Hall 824
+  - !ruby/object:Section
+    section_num: '05'
+    open_spots: '-2'
+    max_spots: '14'
+    crn: '22003'
+    instructor: Watson, Stephen
+    time: T R  - 3:30P - 4:45P
+    location: Edward J. DeBartolo Hall 232
+  - !ruby/object:Section
+    section_num: '06'
+    open_spots: '-2'
+    max_spots: '14'
+    crn: '22004'
+    instructor: Stubenberg, Leopold
+    time: T R  - 5:00P - 6:15P
+    location: Edward J. DeBartolo Hall 149
+  - !ruby/object:Section
+    section_num: '07'
+    open_spots: '0'
+    max_spots: '16'
+    crn: '22005'
+    instructor: Stubenberg, Leopold
+    time: T R  - 3:30P - 4:45P
+    location: DeBartolo Performing Arts Ctr. B042
+- !ruby/object:Course
+  name: Introduction to Philosophy
+  credit: '3'
+  coursenum: PHIL20101
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '30'
+    crn: '20444'
+    instructor: Fisher, Jeffrey
+    time: T R  - 9:30A - 10:45A
+    location: Pasquerilla Center 114
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '0'
+    max_spots: '30'
+    crn: '20001'
+    instructor: Fisher, Jeffrey
+    time: T R  - 12:30P - 1:45P
+    location: Edward J. DeBartolo Hall 223
+  - !ruby/object:Section
+    section_num: '03'
+    open_spots: '0'
+    max_spots: '30'
+    crn: '21149'
+    instructor: Hagaman, Scott
+    time: T R  - 3:30P - 4:45P
+    location: O'Shaughnessy Hall 115
+  - !ruby/object:Section
+    section_num: '04'
+    open_spots: '12'
+    max_spots: '30'
+    crn: '20756'
+    instructor: Hagaman, Scott
+    time: T R  - 5:00P - 6:15P
+    location: O'Shaughnessy Hall 115
+  - !ruby/object:Section
+    section_num: '05'
+    open_spots: '2'
+    max_spots: '30'
+    crn: '26203'
+    instructor: Boyce, Kenneth
+    time: M W F  - 11:45A - 12:35P
+    location: Edward J. DeBartolo Hall 231
+  - !ruby/object:Section
+    section_num: '06'
+    open_spots: '17'
+    max_spots: '30'
+    crn: '28743'
+    instructor: Boyce, Kenneth
+    time: M W F  - 12:50P - 1:40P
+    location: Edward J. DeBartolo Hall 231
+- !ruby/object:Course
+  name: Philosophy of Human Nature
+  credit: '3'
+  coursenum: PHIL20201
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '29'
+    crn: '26205'
+    instructor: Reimers, Adrian
+    time: M W F  - 8:30A - 9:20A
+    location: Edward J. DeBartolo Hall 225
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '0'
+    max_spots: '29'
+    crn: '26204'
+    instructor: Reimers, Adrian
+    time: M W F  - 9:35A - 10:25A
+    location: Edward J. DeBartolo Hall 225
+- !ruby/object:Course
+  name: Existentialist Themes
+  credit: '3'
+  coursenum: PHIL20202
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '28'
+    crn: '26206'
+    instructor: Rush, Fred
+    time: T R  - 12:30P - 1:45P
+    location: Edward J. DeBartolo Hall 205
+- !ruby/object:Course
+  name: ! 'Love & Friendship: An Intro'
+  credit: '3'
+  coursenum: PHIL20222
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '30'
+    crn: '28745'
+    instructor: Delaney, Cornelius
+    time: T R  - 12:30P - 1:45P
+    location: Edward J. DeBartolo Hall 231
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '0'
+    max_spots: '30'
+    crn: '28744'
+    instructor: Delaney, Cornelius
+    time: T R  - 3:30P - 4:45P
+    location: Edward J. DeBartolo Hall 244
+- !ruby/object:Course
+  name: Ethics
+  credit: '3'
+  coursenum: PHIL20401
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '-1'
+    max_spots: '26'
+    crn: '21974'
+    instructor: Sterba, James
+    time: M W F  - 10:40A - 11:30A
+    location: O'Shaughnessy Hall 117
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '0'
+    max_spots: '26'
+    crn: '22058'
+    instructor: Sterba, James
+    time: M W F  - 1:55P - 2:45P
+    location: O'Shaughnessy Hall 117
+  - !ruby/object:Section
+    section_num: '03'
+    open_spots: '0'
+    max_spots: '28'
+    crn: '23787'
+    instructor: Baldwin, Erik
+    time: T R  - 5:00P - 6:15P
+    location: Edward J. DeBartolo Hall 203
+- !ruby/object:Course
+  name: Classics of Pol & Const Theory
+  credit: '3'
+  coursenum: PHIL20407
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '1'
+    max_spots: '24'
+    crn: '28747'
+    instructor: Flint, Thomas
+    time: M W  - 9:30A - 10:45A
+    location: O'Shaughnessy Hall 115
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '0'
+    max_spots: '24'
+    crn: '28746'
+    instructor: Flint, Thomas
+    time: M W  - 11:45A - 1:00P
+    location: Geddes Hall B001
+- !ruby/object:Course
+  name: Morality and Modernity
+  credit: '3'
+  coursenum: PHIL20415
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '80'
+    crn: '22222'
+    instructor: Solomon, William
+    time: M W  - 10:40A - 11:30A
+    location: Edward J. DeBartolo Hall 136
+- !ruby/object:Course
+  name: Self and Society
+  credit: '3'
+  coursenum: PHIL20423
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '12'
+    crn: '28748'
+    instructor: Hicks, Daniel
+    time: T R  - 12:30P - 1:45P
+    location: Edward J. DeBartolo Hall 336
+- !ruby/object:Course
+  name: Contemporary Political Phil
+  credit: '3'
+  coursenum: PHIL20425
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '1'
+    max_spots: '19'
+    crn: '24105'
+    instructor: Weithman, Paul
+    time: T R  - 2:00P - 3:15P
+    location: Main Building 218
+- !ruby/object:Course
+  name: Are We Eating Good Food?
+  credit: '3'
+  coursenum: PHIL20429
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '15'
+    crn: '26215'
+    instructor: Hicks, Daniel
+    time: T R  - 9:30A - 10:45A
+    location: Flanner Hall 524
+- !ruby/object:Course
+  name: Hist of Aesth & Phil of Art II
+  credit: '3'
+  coursenum: PHIL20431
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '20'
+    crn: '28749'
+    instructor: Rush, Fred
+    time: T R  - 3:30P - 4:45P
+    location: Edward J. DeBartolo Hall 209
+- !ruby/object:Course
+  name: Food Ethics
+  credit: '3'
+  coursenum: PHIL20432
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '22'
+    crn: '28750'
+    instructor: Hicks, Amelia
+    time: T R  - 9:30A - 10:45A
+    location: Main Building 218
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '0'
+    max_spots: '22'
+    crn: '28751'
+    instructor: Hicks, Amelia
+    time: T R  - 11:00A - 12:15P
+    location: Main Building 218
+- !ruby/object:Course
+  name: Science, Technology & Society
+  credit: '3'
+  coursenum: PHIL20606
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '6'
+    crn: '24655'
+    instructor: Ruiz De Olano Altuna, Pablo
+    time: M W F  - 12:50P - 1:40P
+    location: Edward J. DeBartolo Hall 225
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '0'
+    max_spots: '9'
+    crn: '29822'
+    instructor: Jurkowitz, Edward
+    time: T R  - 12:30P - 1:45P
+    location: Edward J. DeBartolo Hall B011
+- !ruby/object:Course
+  name: Philosophy of Science
+  credit: '3'
+  coursenum: PHIL20617
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '1'
+    max_spots: '24'
+    crn: '28752'
+    instructor: Chakravartty, Anjan
+    time: T R  - 11:00A - 12:15P
+    location: Edward J. DeBartolo Hall 231
+- !ruby/object:Course
+  name: Ethics of Emerging Weapon Tech
+  credit: '3'
+  coursenum: PHIL20628
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '22'
+    crn: '26535'
+    instructor: Pence, Charles
+    time: T R  - 11:00A - 12:15P
+    location: Edward J. DeBartolo Hall 206
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '-1'
+    max_spots: '21'
+    crn: '26534'
+    instructor: Pence, Charles
+    time: T R  - 2:00P - 3:15P
+    location: Edward J. DeBartolo Hall 224
+- !ruby/object:Course
+  name: Phil of Med&Health Care Reform
+  credit: '3'
+  coursenum: PHIL20631
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '20'
+    crn: '28753'
+    instructor: Pilkington, Bryan
+    time: M W  - 8:00A - 9:15A
+    location: Edward J. DeBartolo Hall 240
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '0'
+    max_spots: '21'
+    crn: '28754'
+    instructor: Pilkington, Bryan
+    time: M W  - 9:30A - 10:45A
+    location: Edward J. DeBartolo Hall 240
+- !ruby/object:Course
+  name: Philosophy of Religion
+  credit: '3'
+  coursenum: PHIL20801
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '28'
+    crn: '26221'
+    instructor: Baldwin, Erik
+    time: T R  - 3:30P - 4:45P
+    location: Edward J. DeBartolo Hall 203
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '0'
+    max_spots: '26'
+    crn: '26220'
+    instructor: Dumont, Stephen
+    time: T R  - 5:00P - 6:15P
+    location: Edward J. DeBartolo Hall 205
+- !ruby/object:Course
+  name: Phil Reflections on Chr Belief
+  credit: '3'
+  coursenum: PHIL20802
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '32'
+    crn: '24530'
+    instructor: Potter, Luke
+    time: T R  - 3:30P - 4:45P
+    location: Geddes Hall B036
+- !ruby/object:Course
+  name: Philosophical Theology
+  credit: '3'
+  coursenum: PHIL20810
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '36'
+    max_spots: '150'
+    crn: '29255'
+    instructor: Speaks, Jeffrey
+    time: T R  - 12:30P - 1:20P
+    location: Edward J. DeBartolo Hall 141
+- !ruby/object:Course
+  name: Morality & Modernity Discuss
+  credit: '0'
+  coursenum: PHIL22415
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '-3'
+    max_spots: '9'
+    crn: '22225'
+    instructor: Solomon, William
+    time: F  - 10:40A - 11:30A
+    location: Flanner Hall 625
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '0'
+    max_spots: '16'
+    crn: '22223'
+    instructor: Solomon, William
+    time: F  - 10:40A - 11:30A
+    location: Flanner Hall 725
+  - !ruby/object:Section
+    section_num: '03'
+    open_spots: '0'
+    max_spots: '16'
+    crn: '22227'
+    instructor: Solomon, William
+    time: F  - 10:40A - 11:30A
+    location: Flanner Hall 824
+  - !ruby/object:Section
+    section_num: '04'
+    open_spots: '1'
+    max_spots: '16'
+    crn: '22224'
+    instructor: Solomon, William
+    time: F  - 11:45A - 12:35P
+    location: Flanner Hall 625
+  - !ruby/object:Section
+    section_num: '05'
+    open_spots: '4'
+    max_spots: '16'
+    crn: '22226'
+    instructor: Solomon, William
+    time: F  - 12:50P - 1:40P
+    location: Theodore M. Hesburgh Library 1000
+  - !ruby/object:Section
+    section_num: '06'
+    open_spots: '9'
+    max_spots: '16'
+    crn: '23350'
+    instructor: Solomon, William
+    time: F  - 1:55P - 2:45P
+    location: Theodore M. Hesburgh Library 1000
+- !ruby/object:Course
+  name: Phil Theology Discussion
+  credit: '0'
+  coursenum: PHIL22810
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '15'
+    crn: '29261'
+    instructor: Speaks, Jeffrey
+    time: F  - 9:35A - 10:25A
+    location: Flanner Hall 824
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '8'
+    max_spots: '15'
+    crn: '29264'
+    instructor: Speaks, Jeffrey
+    time: F  - 9:35A - 10:25A
+    location: Flanner Hall 725
+  - !ruby/object:Section
+    section_num: '03'
+    open_spots: '3'
+    max_spots: '15'
+    crn: '29258'
+    instructor: Speaks, Jeffrey
+    time: F  - 10:40A - 11:30A
+    location: Edward J. DeBartolo Hall 225
+  - !ruby/object:Section
+    section_num: '04'
+    open_spots: '10'
+    max_spots: '15'
+    crn: '29262'
+    instructor: Speaks, Jeffrey
+    time: F  - 10:40A - 11:30A
+    location: Edward J. DeBartolo Hall 242
+  - !ruby/object:Section
+    section_num: '05'
+    open_spots: '0'
+    max_spots: '15'
+    crn: '29259'
+    instructor: Speaks, Jeffrey
+    time: F  - 11:45A - 12:35P
+    location: Edward J. DeBartolo Hall 225
+  - !ruby/object:Section
+    section_num: '06'
+    open_spots: '0'
+    max_spots: '15'
+    crn: '29265'
+    instructor: Speaks, Jeffrey
+    time: F  - 11:45A - 12:35P
+    location: Theodore M. Hesburgh Library 1000
+  - !ruby/object:Section
+    section_num: '07'
+    open_spots: '5'
+    max_spots: '15'
+    crn: '29256'
+    instructor: Speaks, Jeffrey
+    time: F  - 12:50P - 1:40P
+    location: Edward J. DeBartolo Hall 332
+  - !ruby/object:Section
+    section_num: 08
+    open_spots: '1'
+    max_spots: '15'
+    crn: '29260'
+    instructor: Speaks, Jeffrey
+    time: F  - 12:50P - 1:40P
+    location: Edward J. DeBartolo Hall 333
+  - !ruby/object:Section
+    section_num: 09
+    open_spots: '1'
+    max_spots: '15'
+    crn: '29263'
+    instructor: Speaks, Jeffrey
+    time: F  - 1:55P - 2:45P
+    location: Edward J. DeBartolo Hall 332
+  - !ruby/object:Section
+    section_num: '10'
+    open_spots: '8'
+    max_spots: '15'
+    crn: '29257'
+    instructor: Speaks, Jeffrey
+    time: F  - 1:55P - 2:45P
+    location: Edward J. DeBartolo Hall 336
+- !ruby/object:Course
+  name: Ancient & Medieval Philosophy
+  credit: '3'
+  coursenum: PHIL30301
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '11'
+    max_spots: '21'
+    crn: '21941'
+    instructor: Freddoso, Alfred
+    time: M W  - 1:30P - 2:45P
+    location: Edward J. DeBartolo Hall 203
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '11'
+    max_spots: '21'
+    crn: '26222'
+    instructor: Dumont, Stephen
+    time: T R  - 3:30P - 4:45P
+    location: Edward J. DeBartolo Hall 205
+- !ruby/object:Course
+  name: History of Modern Philosophy
+  credit: '3'
+  coursenum: PHIL30302
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '8'
+    max_spots: '25'
+    crn: '20966'
+    instructor: Joy, Lynn
+    time: T R  - 11:00A - 12:15P
+    location: Edward J. DeBartolo Hall 207
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '2'
+    max_spots: '25'
+    crn: '28765'
+    instructor: Joy, Lynn
+    time: T R  - 2:00P - 3:15P
+    location: Edward J. DeBartolo Hall 208
+- !ruby/object:Course
+  name: Formal Logic
+  credit: '3'
+  coursenum: PHIL30313
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '7'
+    max_spots: '49'
+    crn: '20317'
+    instructor: Bays, Timothy
+    time: T R  - 9:30A - 10:45A
+    location: Edward J. DeBartolo Hall 210
+- !ruby/object:Course
+  name: Phil Issues in Physics
+  credit: '3'
+  coursenum: PHIL30389
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '1'
+    max_spots: '13'
+    crn: '24119'
+    instructor: Howard, Don
+    time: M W  - 11:45A - 1:00P
+    location: Nieuwland Science Hall 184
+- !ruby/object:Course
+  name: Plato and Homer
+  credit: '3'
+  coursenum: PHIL43110
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '15'
+    crn: '28766'
+    instructor: O'Connor, David
+    time: T R  - 12:30P - 1:45P
+    location: Edward J. DeBartolo Hall 305
+- !ruby/object:Course
+  name: Kant's Ethics & Phil of Relig
+  credit: '3'
+  coursenum: PHIL43186
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '4'
+    max_spots: '15'
+    crn: '28767'
+    instructor: Ameriks, Karl
+    time: T R  - 11:00A - 12:15P
+    location: Grace Hall 346
+- !ruby/object:Course
+  name: Proust and the Philosophers
+  credit: '3'
+  coursenum: PHIL43210
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '9'
+    max_spots: '15'
+    crn: '28768'
+    instructor: Watson, Stephen
+    time: T R  - 5:00P - 6:15P
+    location: Main Building 218
+- !ruby/object:Course
+  name: Hist of Aesth & Phil of Art II
+  credit: '3'
+  coursenum: PHIL43326
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '6'
+    crn: '28769'
+    instructor: Rush, Fred
+    time: T R  - 3:30P - 4:45P
+    location: Edward J. DeBartolo Hall 209
+- !ruby/object:Course
+  name: Ethics of Aristotle & Aquinas
+  credit: '3'
+  coursenum: PHIL43327
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '4'
+    max_spots: '15'
+    crn: '28770'
+    instructor: Solomon, William
+    time: M W  - 4:30P - 5:45P
+    location: Edward J. DeBartolo Hall 336
+- !ruby/object:Course
+  name: The Cardinal & Theo Virtues
+  credit: '3'
+  coursenum: PHIL43328
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '13'
+    crn: '28771'
+    instructor: O'Callaghan, John
+    time: M W  - 9:30A - 10:45A
+    location: Edward J. DeBartolo Hall 333
+- !ruby/object:Course
+  name: Politics and Conscience
+  credit: '3'
+  coursenum: PHIL43431
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '6'
+    crn: '25391'
+    instructor: Keys, Mary
+    time: M W  - 11:45A - 1:00P
+    location: O'Shaughnessy Hall 242
+- !ruby/object:Course
+  name: Philosophy Against Itself
+  credit: '3'
+  coursenum: PHIL43604
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '-1'
+    max_spots: '13'
+    crn: '28772'
+    instructor: Franks, Curtis
+    time: T R  - 3:30P - 4:45P
+    location: O'Shaughnessy Hall 209
+- !ruby/object:Course
+  name: Scientific Images of Humanity
+  credit: '3'
+  coursenum: PHIL43718
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '4'
+    max_spots: '12'
+    crn: '28774'
+    instructor: Ramsey, Grant
+    time: M W  - 9:30A - 10:45A
+    location: Edward J. DeBartolo Hall 108
+- !ruby/object:Course
+  name: Philosophy and Medicine
+  credit: '3'
+  coursenum: PHIL43719
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '14'
+    crn: '29266'
+    instructor: Warfield, Ted
+    time: M W  - 11:45A - 1:00P
+    location: Edward J. DeBartolo Hall 108
+- !ruby/object:Course
+  name: Hist & Con F. of Space/Time
+  credit: '3'
+  coursenum: PHIL43720
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '3'
+    crn: '29267'
+    instructor: Bland, Katherine
+    time: W  - 9:00A - 11:30A
+    location: Edward A. Malloy Hall 220
+- !ruby/object:Course
+  name: ! 'Joint Sem Phil/Theo: Ratzinger'
+  credit: '3'
+  coursenum: PHIL43801
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '5'
+    crn: '22320'
+    instructor: Heintz, Michael Freddoso, Alfred
+    time: M W  - 3:00P - 4:15P
+    location: Edward J. DeBartolo Hall 347
+- !ruby/object:Course
+  name: The Origins of Analytic Phil
+  credit: '3'
+  coursenum: PHIL43904
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '13'
+    crn: '28775'
+    instructor: Blanchette, Patricia
+    time: T R  - 12:30P - 1:45P
+    location: Edward J. DeBartolo Hall 332
+- !ruby/object:Course
+  name: Intuitionism
+  credit: '3'
+  coursenum: PHIL43917
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '12'
+    max_spots: '15'
+    crn: '28776'
+    instructor: Franks, Curtis
+    time: T R  - 5:00P - 6:15P
+    location: O'Shaughnessy Hall 209
+- !ruby/object:Course
+  name: Directed Readings
+  credit: V
+  coursenum: PHIL46498
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '29'
+    max_spots: '30'
+    crn: '20361'
+    instructor: Holloway, Montey
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '30'
+    max_spots: '30'
+    crn: '20459'
+    instructor: Holloway, Montey
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Senior Thesis
+  credit: '3'
+  coursenum: PHIL48499
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '5'
+    max_spots: '10'
+    crn: '21471'
+    instructor: Speaks, Jeffrey
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Colloquium Seminar
+  credit: '1'
+  coursenum: PHIL83103
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '15'
+    max_spots: '19'
+    crn: '20223'
+    instructor: Holloway, Montey
+    time: F  - 2:00P - 5:30P
+    location: Edward A. Malloy Hall 220
+- !ruby/object:Course
+  name: Soc  Ethics in Hellenistic Phi
+  credit: '3'
+  coursenum: PHIL83218
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '10'
+    max_spots: '19'
+    crn: '28777'
+    instructor: Reydams-Schils, Gretchen
+    time: T R  - 6:15P - 7:30P
+    location: Edward A. Malloy Hall 220
+- !ruby/object:Course
+  name: Aquin on Actions & Intentions
+  credit: '3'
+  coursenum: PHIL83231
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '12'
+    max_spots: '17'
+    crn: '28778'
+    instructor: O'Callaghan, John
+    time: T R  - 9:30A - 10:45A
+    location: Edward A. Malloy Hall 220
+- !ruby/object:Course
+  name: Relations & Ident  in Med Phil
+  credit: '3'
+  coursenum: PHIL83232
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '9'
+    max_spots: '17'
+    crn: '28779'
+    instructor: Cross, Richard
+    time: R  - 3:30P - 6:00P
+    location: Edward A. Malloy Hall 220
+- !ruby/object:Course
+  name: Spinoza
+  credit: '3'
+  coursenum: PHIL83278
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '4'
+    max_spots: '19'
+    crn: '28780'
+    instructor: Newlands, Samuel
+    time: W  - 11:45A - 2:15P
+    location: Edward A. Malloy Hall 220
+- !ruby/object:Course
+  name: Kant's Practical Philosophy
+  credit: '3'
+  coursenum: PHIL83287
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '19'
+    crn: '28781'
+    instructor: Ameriks, Karl
+    time: T R  - 2:00P - 3:15P
+    location: Edward A. Malloy Hall 220
+- !ruby/object:Course
+  name: Teaching Practicum
+  credit: '3'
+  coursenum: PHIL85105
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '15'
+    max_spots: '19'
+    crn: '20065'
+    instructor: Kelsey, Sean
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Foucault
+  credit: '3'
+  coursenum: PHIL93314
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '9'
+    max_spots: '19'
+    crn: '29726'
+    instructor: Gutting, Gary
+    time: T R  - 11:00A - 12:15P
+    location: Edward A. Malloy Hall 220
+- !ruby/object:Course
+  name: Topics in Philosophy of Mind
+  credit: '3'
+  coursenum: PHIL93507
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '9'
+    max_spots: '19'
+    crn: '26240'
+    instructor: Warfield, Ted
+    time: M  - 3:00P - 5:30P
+    location: Edward A. Malloy Hall 220
+- !ruby/object:Course
+  name: Action Theory
+  credit: '3'
+  coursenum: PHIL93528
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '7'
+    max_spots: '19'
+    crn: '28782'
+    instructor: Audi, Robert
+    time: T  - 3:30P - 6:00P
+    location: Edward A. Malloy Hall 220
+- !ruby/object:Course
+  name: Structure in Metaphysics
+  credit: '3'
+  coursenum: PHIL93529
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '5'
+    max_spots: '19'
+    crn: '28783'
+    instructor: Rea, Michael
+    time: M  - 11:45A - 2:15P
+    location: Edward A. Malloy Hall 220
+- !ruby/object:Course
+  name: Intuitions
+  credit: '3'
+  coursenum: PHIL93704
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '9'
+    max_spots: '19'
+    crn: '28785'
+    instructor: DePaul, Michael
+    time: R  - 3:30P - 6:00P
+    location: Edward A. Malloy Hall 320
+- !ruby/object:Course
+  name: Laws of Nature
+  credit: '3'
+  coursenum: PHIL93807
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '17'
+    max_spots: '22'
+    crn: '28787'
+    instructor: Chakravartty, Anjan
+    time: W  - 5:00P - 7:30P
+    location: Edward A. Malloy Hall 220
+- !ruby/object:Course
+  name: Hist & Con F. of Space/Time
+  credit: '3'
+  coursenum: PHIL93871
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '7'
+    crn: '28788'
+    instructor: Bland, Katherine
+    time: W  - 9:00A - 11:30A
+    location: Edward A. Malloy Hall 220
+- !ruby/object:Course
+  name: Directed Readings
+  credit: V
+  coursenum: PHIL96697
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '18'
+    max_spots: '20'
+    crn: '20470'
+    instructor: Holloway, Montey
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '20'
+    max_spots: '20'
+    crn: '21352'
+    instructor: Holloway, Montey
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Graduate Research Seminar
+  credit: '1'
+  coursenum: PHIL98698
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '18'
+    max_spots: '19'
+    crn: '24691'
+    instructor: Kelsey, Sean
+    time: W  - 3:00P - 4:45P
+    location: Edward A. Malloy Hall 220
+- !ruby/object:Course
+  name: Research and Dissertation
+  credit: V
+  coursenum: PHIL98699
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '45'
+    max_spots: '60'
+    crn: '21002'
+    instructor: Holloway, Montey
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Nonresident Dissertation Rsrch
+  credit: V
+  coursenum: PHIL98700
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '19'
+    max_spots: '20'
+    crn: '20496'
+    instructor: Holloway, Montey
+    time: TBA
+    location: TBA
+pots: '0'
+  :xlst: Y
+  :crn: '25391'
+  :syl: ! '&nbsp'
+  :instructor: Keys, Mary
+  :when: M W  - 11:45A - 1:00P
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: O'Shaughnessy Hall 242
+- :course: PHIL43604
+  :section: '01'
+  :title: Philosophy Against Itself
+  :credits: '3'
+  :status: CL
+  :max_spots: '13'
+  :open_spots: '0'
+  :xlst: ! '&nbsp'
+  :crn: '28772'
+  :syl: ! '&nbsp'
+  :instructor: Franks, Curtis
+  :when: T R  - 3:30P - 4:45P
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: O'Shaughnessy Hall 209
+- :course: PHIL43718
+  :section: '01'
+  :title: Scientific Images of Humanity
+  :credits: '3'
+  :status: OP
+  :max_spots: '12'
+  :open_spots: '4'
+  :xlst: Y
+  :crn: '28774'
+  :syl: ! '&nbsp'
+  :instructor: Ramsey, Grant
+  :when: M W  - 9:30A - 10:45A
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: Edward J. DeBartolo Hall 108
+- :course: PHIL43719
+  :section: '01'
+  :title: Philosophy and Medicine
+  :credits: '3'
+  :status: CL
+  :max_spots: '13'
+  :open_spots: '0'
+  :xlst: ! '&nbsp'
+  :crn: '29266'
+  :syl: ! '&nbsp'
+  :instructor: Warfield, Ted
+  :when: M W  - 11:45A - 1:00P
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: Edward J. DeBartolo Hall 108
+- :course: PHIL43720
+  :section: '01'
+  :title: Hist & Con F. of Space/Time
+  :credits: '3'
+  :status: CL
+  :max_spots: '3'
+  :open_spots: '0'
+  :xlst: Y
+  :crn: '29267'
+  :syl: ! '&nbsp'
+  :instructor: Bland, Katherine
+  :when: W  - 9:00A - 11:30A
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: Edward A. Malloy Hall 220
+- :course: PHIL43801
+  :section: '01'
+  :title: ! 'Joint Sem Phil/Theo: Ratzinger'
+  :credits: '3'
+  :status: CL
+  :max_spots: '5'
+  :open_spots: '0'
+  :xlst: Y
+  :crn: '22320'
+  :syl: ! '&nbsp'
+  :instructor: Heintz, Michael Freddoso, Alfred
+  :when: M W  - 3:00P - 4:15P
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: Edward J. DeBartolo Hall 347
+- :course: PHIL43904
+  :section: '01'
+  :title: The Origins of Analytic Phil
+  :credits: '3'
+  :status: CL
+  :max_spots: '13'
+  :open_spots: '0'
+  :xlst: ! '&nbsp'
+  :crn: '28775'
+  :syl: ! '&nbsp'
+  :instructor: Blanchette, Patricia
+  :when: T R  - 12:30P - 1:45P
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: Edward J. DeBartolo Hall 332
+- :course: PHIL43917
+  :section: '01'
+  :title: Intuitionism
+  :credits: '3'
+  :status: OP
+  :max_spots: '15'
+  :open_spots: '12'
+  :xlst: ! '&nbsp'
+  :crn: '28776'
+  :syl: ! '&nbsp'
+  :instructor: Franks, Curtis
+  :when: T R  - 5:00P - 6:15P
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: O'Shaughnessy Hall 209
+- :course: PHIL46498
+  :section: '01'
+  :title: Directed Readings
+  :credits: V
+  :status: OP
+  :max_spots: '30'
+  :open_spots: '30'
+  :xlst: ! '&nbsp'
+  :crn: '20361'
+  :syl: ! '&nbsp'
+  :instructor: Holloway, Montey
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: PHIL46498
+  :section: '02'
+  :title: Directed Readings
+  :credits: V
+  :status: OP
+  :max_spots: '30'
+  :open_spots: '30'
+  :xlst: ! '&nbsp'
+  :crn: '20459'
+  :syl: ! '&nbsp'
+  :instructor: Holloway, Montey
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: PHIL48499
+  :section: '01'
+  :title: Senior Thesis
+  :credits: '3'
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '5'
+  :xlst: ! '&nbsp'
+  :crn: '21471'
+  :syl: ! '&nbsp'
+  :instructor: Speaks, Jeffrey
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: PHIL83103
+  :section: '01'
+  :title: Colloquium Seminar
+  :credits: '1'
+  :status: OP
+  :max_spots: '19'
+  :open_spots: '15'
+  :xlst: ! '&nbsp'
+  :crn: '20223'
+  :syl: ! '&nbsp'
+  :instructor: Holloway, Montey
+  :when: F  - 2:00P - 5:30P
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: Edward A. Malloy Hall 220
+- :course: PHIL83218
+  :section: '01'
+  :title: Soc  Ethics in Hellenistic Phi
+  :credits: '3'
+  :status: OP
+  :max_spots: '19'
+  :open_spots: '12'
+  :xlst: ! '&nbsp'
+  :crn: '28777'
+  :syl: ! '&nbsp'
+  :instructor: Reydams-Schils, Gretchen
+  :when: T R  - 6:15P - 7:30P
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: Edward A. Malloy Hall 220
+- :course: PHIL83231
+  :section: '01'
+  :title: Aquin on Actions & Intentions
+  :credits: '3'
+  :status: OP
+  :max_spots: '17'
+  :open_spots: '11'
+  :xlst: Y
+  :crn: '28778'
+  :syl: ! '&nbsp'
+  :instructor: O'Callaghan, John
+  :when: T R  - 9:30A - 10:45A
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: Edward A. Malloy Hall 220
+- :course: PHIL83232
+  :section: '01'
+  :title: Relations & Ident  in Med Phil
+  :credits: '3'
+  :status: OP
+  :max_spots: '17'
+  :open_spots: '9'
+  :xlst: Y
+  :crn: '28779'
+  :syl: ! '&nbsp'
+  :instructor: Cross, Richard
+  :when: R  - 3:30P - 6:00P
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: Edward A. Malloy Hall 220
+- :course: PHIL83278
+  :section: '01'
+  :title: Spinoza
+  :credits: '3'
+  :status: OP
+  :max_spots: '19'
+  :open_spots: '4'
+  :xlst: ! '&nbsp'
+  :crn: '28780'
+  :syl: ! '&nbsp'
+  :instructor: Newlands, Samuel
+  :when: W  - 11:45A - 2:15P
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: Edward A. Malloy Hall 220
+- :course: PHIL83287
+  :section: '01'
+  :title: Kant's Practical Philosophy
+  :credits: '3'
+  :status: OP
+  :max_spots: '19'
+  :open_spots: '3'
+  :xlst: ! '&nbsp'
+  :crn: '28781'
+  :syl: ! '&nbsp'
+  :instructor: Ameriks, Karl
+  :when: T R  - 2:00P - 3:15P
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: Edward A. Malloy Hall 220
+- :course: PHIL85105
+  :section: '01'
+  :title: Teaching Practicum
+  :credits: '3'
+  :status: OP
+  :max_spots: '19'
+  :open_spots: '15'
+  :xlst: ! '&nbsp'
+  :crn: '20065'
+  :syl: ! '&nbsp'
+  :instructor: Kelsey, Sean
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: PHIL93314
+  :section: '01'
+  :title: Foucault
+  :credits: '3'
+  :status: OP
+  :max_spots: '19'
+  :open_spots: '9'
+  :xlst: ! '&nbsp'
+  :crn: '29726'
+  :syl: ! '&nbsp'
+  :instructor: Gutting, Gary
+  :when: T R  - 11:00A - 12:15P
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: Edward A. Malloy Hall 220
+- :course: PHIL93507
+  :section: '01'
+  :title: Topics in Philosophy of Mind
+  :credits: '3'
+  :status: OP
+  :max_spots: '19'
+  :open_spots: '9'
+  :xlst: ! '&nbsp'
+  :crn: '26240'
+  :syl: ! '&nbsp'
+  :instructor: Warfield, Ted
+  :when: M  - 3:00P - 5:30P
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: Edward A. Malloy Hall 220
+- :course: PHIL93528
+  :section: '01'
+  :title: Action Theory
+  :credits: '3'
+  :status: OP
+  :max_spots: '19'
+  :open_spots: '8'
+  :xlst: ! '&nbsp'
+  :crn: '28782'
+  :syl: ! '&nbsp'
+  :instructor: Audi, Robert
+  :when: T  - 3:30P - 6:00P
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: Edward A. Malloy Hall 220
+- :course: PHIL93529
+  :section: '01'
+  :title: Structure in Metaphysics
+  :credits: '3'
+  :status: OP
+  :max_spots: '19'
+  :open_spots: '5'
+  :xlst: ! '&nbsp'
+  :crn: '28783'
+  :syl: ! '&nbsp'
+  :instructor: Rea, Michael
+  :when: M  - 11:45A - 2:15P
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: Edward A. Malloy Hall 220
+- :course: PHIL93704
+  :section: '01'
+  :title: Intuitions
+  :credits: '3'
+  :status: OP
+  :max_spots: '19'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '28785'
+  :syl: ! '&nbsp'
+  :instructor: DePaul, Michael
+  :when: R  - 3:30P - 6:00P
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: Edward A. Malloy Hall 320
+- :course: PHIL93807
+  :section: '01'
+  :title: Laws of Nature
+  :credits: '3'
+  :status: OP
+  :max_spots: '9'
+  :open_spots: '5'
+  :xlst: Y
+  :crn: '28787'
+  :syl: ! '&nbsp'
+  :instructor: Chakravartty, Anjan
+  :when: W  - 5:00P - 7:30P
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: Edward A. Malloy Hall 220
+- :course: PHIL93871
+  :section: '01'
+  :title: Hist & Con F. of Space/Time
+  :credits: '3'
+  :status: CL
+  :max_spots: '7'
+  :open_spots: '0'
+  :xlst: Y
+  :crn: '28788'
+  :syl: ! '&nbsp'
+  :instructor: Bland, Katherine
+  :when: W  - 9:00A - 11:30A
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: Edward A. Malloy Hall 220
+- :course: PHIL96697
+  :section: '01'
+  :title: Directed Readings
+  :credits: V
+  :status: OP
+  :max_spots: '20'
+  :open_spots: '20'
+  :xlst: ! '&nbsp'
+  :crn: '20470'
+  :syl: ! '&nbsp'
+  :instructor: Holloway, Montey
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: PHIL96697
+  :section: '02'
+  :title: Directed Readings
+  :credits: V
+  :status: OP
+  :max_spots: '20'
+  :open_spots: '20'
+  :xlst: ! '&nbsp'
+  :crn: '21352'
+  :syl: ! '&nbsp'
+  :instructor: Holloway, Montey
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: PHIL98698
+  :section: '01'
+  :title: Graduate Research Seminar
+  :credits: '1'
+  :status: OP
+  :max_spots: '19'
+  :open_spots: '18'
+  :xlst: ! '&nbsp'
+  :crn: '24691'
+  :syl: ! '&nbsp'
+  :instructor: Kelsey, Sean
+  :when: W  - 3:00P - 4:45P
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: Edward A. Malloy Hall 220
+- :course: PHIL98699
+  :section: '01'
+  :title: Research and Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '60'
+  :open_spots: '46'
+  :xlst: ! '&nbsp'
+  :crn: '21002'
+  :syl: ! '&nbsp'
+  :instructor: Holloway, Montey
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: PHIL98700
+  :section: '01'
+  :title: Nonresident Dissertation Rsrch
+  :credits: V
+  :status: OP
+  :max_spots: '20'
+  :open_spots: '19'
+  :xlst: ! '&nbsp'
+  :crn: '20496'
+  :syl: ! '&nbsp'
+  :instructor: Holloway, Montey
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA

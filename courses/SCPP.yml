@@ -1,0 +1,141 @@
+---
+- !ruby/object:Course
+  name: Interdisciplinary Science Sem.
+  credit: '1'
+  coursenum: SCPP23100
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '9'
+    max_spots: '40'
+    crn: '25512'
+    instructor: Gursky, Susan
+    time: T  - 5:15P - 6:15P
+    location: Jordan Hall of Science 310
+- !ruby/object:Course
+  name: Intro. to Clinical Ethics
+  credit: '3'
+  coursenum: SCPP30300
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '50'
+    crn: '21855'
+    instructor: Foster, James
+    time: M W  - 3:00P - 4:15P
+    location: Pasquerilla Center 114
+- !ruby/object:Course
+  name: Medical Counseling Skills
+  credit: '3'
+  coursenum: SCPP30401
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '16'
+    crn: '26307'
+    instructor: Vachon, Dominic
+    time: T R  - 12:30P - 1:45P
+    location: Pasquerilla Center 107
+- !ruby/object:Course
+  name: Spiritualities of Caring
+  credit: '3'
+  coursenum: SCPP30406
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '8'
+    max_spots: '15'
+    crn: '29772'
+    instructor: Vachon, Dominic
+    time: T R  - 3:30P - 4:45P
+    location: Edward J. DeBartolo Hall 306
+- !ruby/object:Course
+  name: Preparing Health Professions
+  credit: '1'
+  coursenum: SCPP40001
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '35'
+    max_spots: '264'
+    crn: '24689'
+    instructor: Foster, James Kolberg, Kathleen
+    time: R  - 5:30P - 6:30P
+    location: Jordan Hall of Science 101
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '31'
+    max_spots: '45'
+    crn: '27116'
+    instructor: Foster, James Kolberg, Kathleen
+    time: R  - 5:30P - 6:30P
+    location: Jordan Hall of Science 105
+- !ruby/object:Course
+  name: Directed Readings
+  credit: V
+  coursenum: SCPP46397
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '4'
+    max_spots: '4'
+    crn: '21313'
+    instructor: Foster, James
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '03'
+    open_spots: '9'
+    max_spots: '27'
+    crn: '23525'
+    instructor: Foster, James Vachon, Dominic
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '04'
+    open_spots: '16'
+    max_spots: '16'
+    crn: '23942'
+    instructor: Kolberg, Kathleen
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '05'
+    open_spots: '12'
+    max_spots: '12'
+    crn: '24688'
+    instructor: Kolberg, Kathleen Zabukovic, Brandon
+    time: R  - 8:00P - 9:00P
+    location: Jordan Hall of Science 310
+ :course: SCPP46397
+  :section: '04'
+  :title: Directed Readings - On Call
+  :credits: V
+  :status: OP
+  :max_spots: '16'
+  :open_spots: '16'
+  :xlst: ! '&nbsp'
+  :crn: '23942'
+  :syl: ! '&nbsp'
+  :instructor: Kolberg, Kathleen
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: SCPP46397
+  :section: '05'
+  :title: Directed Readings-Pov Med
+  :credits: '1'
+  :status: OP
+  :max_spots: '12'
+  :open_spots: '12'
+  :xlst: ! '&nbsp'
+  :crn: '24688'
+  :syl: ! '&nbsp'
+  :instructor: Kolberg, Kathleen Zabukovic, Brandon
+  :when: R  - 8:00P - 9:00P
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: Jordan Hall of Science 310

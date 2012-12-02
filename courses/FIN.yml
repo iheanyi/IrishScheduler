@@ -1,0 +1,1382 @@
+---
+- !ruby/object:Course
+  name: Corporate Financial Management
+  credit: '3'
+  coursenum: FIN20150
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '35'
+    max_spots: '200'
+    crn: '21188'
+    instructor: Gryp, Thomas
+    time: M W  - 11:45A - 1:00P
+    location: Mendoza College of Business 110
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '0'
+    max_spots: '125'
+    crn: '25833'
+    instructor: Ackermann, Carl
+    time: T R  - 9:30A - 10:45A
+    location: Geddes Hall B001
+  - !ruby/object:Section
+    section_num: '03'
+    open_spots: '0'
+    max_spots: '125'
+    crn: '20142'
+    instructor: Ackermann, Carl
+    time: T R  - 11:00A - 12:15P
+    location: Geddes Hall B001
+  - !ruby/object:Section
+    section_num: '04'
+    open_spots: '0'
+    max_spots: '125'
+    crn: '20711'
+    instructor: Ackermann, Carl
+    time: T R  - 12:30P - 1:45P
+    location: Geddes Hall B001
+  - !ruby/object:Section
+    section_num: '05'
+    open_spots: '0'
+    max_spots: '125'
+    crn: '25832'
+    instructor: Ackermann, Carl
+    time: T R  - 2:00P - 3:15P
+    location: Geddes Hall B001
+- !ruby/object:Course
+  name: Managerial Economics
+  credit: '3'
+  coursenum: FIN30210
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '35'
+    crn: '20298'
+    instructor: Collett-Schmitt, Kristen
+    time: T R  - 11:00A - 12:15P
+    location: Edward J. DeBartolo Hall 319
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '0'
+    max_spots: '35'
+    crn: '20778'
+    instructor: Collett-Schmitt, Kristen
+    time: T R  - 12:30P - 1:45P
+    location: Edward J. DeBartolo Hall 319
+  - !ruby/object:Section
+    section_num: '03'
+    open_spots: '-1'
+    max_spots: '35'
+    crn: '21627'
+    instructor: Collett-Schmitt, Kristen
+    time: T R  - 2:00P - 3:15P
+    location: Edward J. DeBartolo Hall 319
+  - !ruby/object:Section
+    section_num: '04'
+    open_spots: '1'
+    max_spots: '35'
+    crn: '20224'
+    instructor: Collett-Schmitt, Kristen
+    time: T R  - 3:30P - 4:45P
+    location: Edward J. DeBartolo Hall 319
+  - !ruby/object:Section
+    section_num: '05'
+    open_spots: '0'
+    max_spots: '0'
+    crn: '20612'
+    instructor: Leady, James
+    time: M W F  - 9:35A - 10:25A
+    location: Edward J. DeBartolo Hall 311
+  - !ruby/object:Section
+    section_num: '06'
+    open_spots: '0'
+    max_spots: '35'
+    crn: '21501'
+    instructor: Leady, James
+    time: M W F  - 10:40A - 11:30A
+    location: Edward J. DeBartolo Hall 311
+  - !ruby/object:Section
+    section_num: '07'
+    open_spots: '0'
+    max_spots: '35'
+    crn: '25834'
+    instructor: Leady, James
+    time: M W F  - 11:45A - 12:35P
+    location: Edward J. DeBartolo Hall 311
+  - !ruby/object:Section
+    section_num: 08
+    open_spots: '3'
+    max_spots: '35'
+    crn: '29310'
+    instructor: TBA
+    time: M W  - 9:35A - 10:50A
+    location: Edward J. DeBartolo Hall 316
+- !ruby/object:Course
+  name: Macroeconomic Analysis
+  credit: '3'
+  coursenum: FIN30220
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '4'
+    max_spots: '35'
+    crn: '23659'
+    instructor: Stiver, John
+    time: M W F  - 9:35A - 10:25A
+    location: Edward J. DeBartolo Hall 320
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '0'
+    max_spots: '35'
+    crn: '24114'
+    instructor: Stiver, John
+    time: M W F  - 10:40A - 11:30A
+    location: Edward J. DeBartolo Hall 320
+  - !ruby/object:Section
+    section_num: '03'
+    open_spots: '0'
+    max_spots: '35'
+    crn: '24981'
+    instructor: Stiver, John
+    time: M W F  - 1:55P - 2:45P
+    location: Edward J. DeBartolo Hall 320
+  - !ruby/object:Section
+    section_num: '04'
+    open_spots: '1'
+    max_spots: '35'
+    crn: '21089'
+    instructor: Stiver, John
+    time: M W F  - 3:00P - 3:50P
+    location: Edward J. DeBartolo Hall 320
+  - !ruby/object:Section
+    section_num: '05'
+    open_spots: '9'
+    max_spots: '35'
+    crn: '21288'
+    instructor: Leady, James
+    time: T R  - 9:30A - 10:45A
+    location: Edward J. DeBartolo Hall 316
+  - !ruby/object:Section
+    section_num: '06'
+    open_spots: '3'
+    max_spots: '35'
+    crn: '21602'
+    instructor: Leady, James
+    time: T R  - 11:00A - 12:15P
+    location: Edward J. DeBartolo Hall 316
+  - !ruby/object:Section
+    section_num: '07'
+    open_spots: '1'
+    max_spots: '35'
+    crn: '25836'
+    instructor: Leady, James
+    time: T R  - 2:00P - 3:15P
+    location: Edward J. DeBartolo Hall 316
+- !ruby/object:Course
+  name: Advanced Corporate Finance
+  credit: '3'
+  coursenum: FIN30400
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '30'
+    crn: '20349'
+    instructor: Gandhi, Priyank
+    time: T R  - 12:30P - 1:45P
+    location: Edward J. DeBartolo Hall 214
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '0'
+    max_spots: '30'
+    crn: '24115'
+    instructor: Gandhi, Priyank
+    time: T R  - 2:00P - 3:15P
+    location: Edward J. DeBartolo Hall 214
+  - !ruby/object:Section
+    section_num: '03'
+    open_spots: '1'
+    max_spots: '30'
+    crn: '25837'
+    instructor: Gandhi, Priyank
+    time: T R  - 3:30P - 4:45P
+    location: Edward J. DeBartolo Hall 214
+  - !ruby/object:Section
+    section_num: '04'
+    open_spots: '7'
+    max_spots: '30'
+    crn: '29067'
+    instructor: Clements, Walter
+    time: M W  - 3:00P - 4:15P
+    location: Edward J. DeBartolo Hall 316
+- !ruby/object:Course
+  name: Investment Theory
+  credit: '3'
+  coursenum: FIN30600
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '25'
+    crn: '21804'
+    instructor: Golez, Benjamin
+    time: M W  - 11:45A - 1:00P
+    location: Edward J. DeBartolo Hall 313
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '0'
+    max_spots: '25'
+    crn: '23119'
+    instructor: Golez, Benjamin
+    time: M W  - 1:30P - 2:45P
+    location: Edward J. DeBartolo Hall 313
+  - !ruby/object:Section
+    section_num: '03'
+    open_spots: '5'
+    max_spots: '25'
+    crn: '24982'
+    instructor: Golez, Benjamin
+    time: M W  - 3:00P - 4:15P
+    location: Edward J. DeBartolo Hall 313
+  - !ruby/object:Section
+    section_num: '04'
+    open_spots: '8'
+    max_spots: '25'
+    crn: '29068'
+    instructor: Da, Zhi
+    time: T R  - 9:30A - 10:45A
+    location: Edward J. DeBartolo Hall 319
+- !ruby/object:Course
+  name: Real Estate Fundamentals
+  credit: '3'
+  coursenum: FIN30700
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '21'
+    max_spots: '35'
+    crn: '29069'
+    instructor: Hutchison, David
+    time: M W F  - 9:35A - 10:25A
+    location: Edward J. DeBartolo Hall 317
+- !ruby/object:Course
+  name: Land Conservation Financing
+  credit: '1'
+  coursenum: FIN30710
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '25'
+    max_spots: '35'
+    crn: '24660'
+    instructor: Hutchison, David
+    time: W  - 7:00P - 8:50P
+    location: Mendoza College of Business 159
+- !ruby/object:Course
+  name: Real Estate Devlpmnt Process
+  credit: '2'
+  coursenum: FIN30720
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '10'
+    max_spots: '35'
+    crn: '24708'
+    instructor: Karczewski, Gregory
+    time: W  - 7:00P - 9:00P
+    location: Mendoza College of Business 160
+- !ruby/object:Course
+  name: Management of Financial Instit
+  credit: '3'
+  coursenum: FIN40320
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '38'
+    crn: '22318'
+    instructor: Forster, Margaret
+    time: T R  - 11:00A - 12:15P
+    location: Edward J. DeBartolo Hall 311
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '0'
+    max_spots: '38'
+    crn: '22319'
+    instructor: Forster, Margaret
+    time: T R  - 12:30P - 1:45P
+    location: Edward J. DeBartolo Hall 311
+- !ruby/object:Course
+  name: Mergers and Acquisitions
+  credit: '3'
+  coursenum: FIN40410
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '-5'
+    max_spots: '35'
+    crn: '24983'
+    instructor: Spiess, D. Katherine
+    time: M W  - 3:00P - 4:15P
+    location: Edward J. DeBartolo Hall 213
+- !ruby/object:Course
+  name: Corporate Risk Management
+  credit: '3'
+  coursenum: FIN40450
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '15'
+    max_spots: '35'
+    crn: '29070'
+    instructor: Spiess, D. Katherine
+    time: M W  - 9:35A - 10:50A
+    location: Edward J. DeBartolo Hall 215
+- !ruby/object:Course
+  name: Working Capital Management
+  credit: '3'
+  coursenum: FIN40460
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '1'
+    max_spots: '38'
+    crn: '29226'
+    instructor: Clements, Walter
+    time: M W  - 11:45A - 1:00P
+    location: Edward J. DeBartolo Hall 318
+- !ruby/object:Course
+  name: Corp Gov & Catholic Soc Teachg
+  credit: '3'
+  coursenum: FIN40470
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '38'
+    crn: '29227'
+    instructor: Cremers, Klaas
+    time: M W  - 9:35A - 10:50A
+    location: Edward J. DeBartolo Hall 313
+- !ruby/object:Course
+  name: International Finance
+  credit: '3'
+  coursenum: FIN40500
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '3'
+    max_spots: '38'
+    crn: '21305'
+    instructor: Forster, Margaret
+    time: T R  - 9:30A - 10:45A
+    location: Edward J. DeBartolo Hall 311
+- !ruby/object:Course
+  name: Global Portfolio Management
+  credit: '3'
+  coursenum: FIN40520
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '9'
+    max_spots: '35'
+    crn: '29071'
+    instructor: Malpass, Scott
+    time: M W  - 11:05A - 12:35P
+    location: Edward J. DeBartolo Hall 215
+- !ruby/object:Course
+  name: Security Analysis
+  credit: '3'
+  coursenum: FIN40610
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '38'
+    crn: '21900'
+    instructor: Loughran, Timothy
+    time: M W  - 1:30P - 2:45P
+    location: Edward J. DeBartolo Hall 318
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '0'
+    max_spots: '38'
+    crn: '22443'
+    instructor: Loughran, Timothy
+    time: M W  - 3:00P - 4:15P
+    location: Edward J. DeBartolo Hall 318
+- !ruby/object:Course
+  name: Trading and Markets
+  credit: '3'
+  coursenum: FIN40620
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '38'
+    crn: '25840'
+    instructor: Battalio, Robert
+    time: T R  - 9:30A - 10:45A
+    location: Edward J. DeBartolo Hall 213
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '0'
+    max_spots: '38'
+    crn: '29072'
+    instructor: Battalio, Robert
+    time: T R  - 11:00A - 12:15P
+    location: Edward J. DeBartolo Hall 213
+- !ruby/object:Course
+  name: Options and Futures
+  credit: '3'
+  coursenum: FIN40630
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '15'
+    max_spots: '35'
+    crn: '25841'
+    instructor: Hemler, Michael
+    time: T R  - 11:00A - 12:15P
+    location: Edward J. DeBartolo Hall 312
+- !ruby/object:Course
+  name: Applied Investment Management
+  credit: '6'
+  coursenum: FIN40640
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '21927'
+    instructor: McDonald, Bill Langley, Jerry
+    time: M W  - 1:00P - 3:30P
+    location: Mendoza College of Business 158
+- !ruby/object:Course
+  name: Advncd Derivatives & Risk Mgt
+  credit: '2'
+  coursenum: FIN40650
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '24539'
+    instructor: Hemler, Michael
+    time: T R  - 8:00A - 9:50A
+    location: Mendoza College of Business 158
+- !ruby/object:Course
+  name: Fixed Incme Invstmnt Stratgies
+  credit: '3'
+  coursenum: FIN40660
+  sections:
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '8'
+    max_spots: '35'
+    crn: '24542'
+    instructor: Hemler, Michael
+    time: T R  - 2:00P - 3:15P
+    location: Mendoza College of Business L003
+- !ruby/object:Course
+  name: Real Estate Capital Markets
+  credit: '3'
+  coursenum: FIN40720
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '-3'
+    max_spots: '40'
+    crn: '24183'
+    instructor: Hutchison, David
+    time: M W  - 11:45A - 1:00P
+    location: Mendoza College of Business L051
+- !ruby/object:Course
+  name: Math Meth. in Fin. Econ.
+  credit: '3'
+  coursenum: FIN40820
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '22'
+    max_spots: '25'
+    crn: '24128'
+    instructor: Cosimano, Thomas
+    time: M W F  - 9:35A - 10:25A
+    location: Edward J. DeBartolo Hall 140
+- !ruby/object:Course
+  name: Macroeconomic Environment
+  credit: '2'
+  coursenum: FIN60220
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '68'
+    crn: '26312'
+    instructor: Bergstrand, Jeffrey
+    time: M W  - 1:00P - 2:50P
+    location: Mendoza College of Business 162
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '18'
+    max_spots: '68'
+    crn: '26311'
+    instructor: Bergstrand, Jeffrey
+    time: M W  - 3:00P - 4:50P
+    location: Mendoza College of Business 162
+- !ruby/object:Course
+  name: Land Conservation Financing
+  credit: '1'
+  coursenum: FIN60710
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '6'
+    max_spots: '11'
+    crn: '25490'
+    instructor: Hutchison, David
+    time: W  - 7:00P - 8:50P
+    location: Mendoza College of Business 159
+- !ruby/object:Course
+  name: Land Conservation Financing
+  credit: '1'
+  coursenum: FIN60711
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '6'
+    crn: '25491'
+    instructor: Hutchison, David
+    time: W  - 7:00P - 8:50P
+    location: Mendoza College of Business 159
+- !ruby/object:Course
+  name: Real Estate Devlpmnt Process
+  credit: '2'
+  coursenum: FIN60720
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '11'
+    crn: '25058'
+    instructor: Karczewski, Gregory
+    time: W  - 7:00P - 9:00P
+    location: Mendoza College of Business 160
+- !ruby/object:Course
+  name: Real Estate Devlpmnt Process
+  credit: '2'
+  coursenum: FIN60721
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '1'
+    max_spots: '6'
+    crn: '25380'
+    instructor: Karczewski, Gregory
+    time: W  - 7:00P - 9:00P
+    location: Mendoza College of Business 160
+- !ruby/object:Course
+  name: Bus. Forecasting & Data Mining
+  credit: '2'
+  coursenum: FIN70230
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '42'
+    crn: '22444'
+    instructor: Keating, Barry
+    time: M W  - 8:00A - 9:50A
+    location: TBA
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '0'
+    max_spots: '42'
+    crn: '26313'
+    instructor: Keating, Barry
+    time: M W  - 10:00A - 11:50A
+    location: TBA
+- !ruby/object:Course
+  name: Mergers & Acquisitions Pract.
+  credit: '2'
+  coursenum: FIN70410
+  sections:
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '0'
+    max_spots: '32'
+    crn: '21896'
+    instructor: Lanser, Howard
+    time: ! "(1) R  - 5:00P - 8:30P\r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\r\n\t\t\t
+      \  \t\t\r\n\t\t\t   \t  \r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\t(2) F  - 10:00A
+      - 4:30P\r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\r\n\t\t\t   \t\t\r\n\t\t\t   \t
+      \ \r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\t(3) F  - 11:00A - 4:00P\r\n\t\t\t\t
+      \  \t\t\r\n\t\t\t\t   \t\r\n\t\t\t   \t\t\r\n\t\t\t   \t  \r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t
+      \  \t\t\t(4) F  - 9:00A - 4:00P"
+    location: ! "Mendoza College of Business 160 \r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\t\r\n\t\t\t\t
+      \  \t\r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\tTBA\r\n\t\t\t\t   \t\t\r\n\t\t\t\t
+      \  \t\t\r\n\t\t\t\t   \t\r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\tTBA\r\n\t\t\t\t
+      \  \t\t\r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t
+      \  \t\t\tTBA"
+- !ruby/object:Course
+  name: Mergers & Acquisitions Pract.
+  credit: '2'
+  coursenum: FIN70411
+  sections:
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '2'
+    max_spots: '4'
+    crn: '22545'
+    instructor: Lanser, Howard
+    time: ! "(1) R  - 5:00P - 8:30P\r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\r\n\t\t\t
+      \  \t\t\r\n\t\t\t   \t  \r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\t(2) F  - 11:00A
+      - 4:00P\r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\r\n\t\t\t   \t\t\r\n\t\t\t   \t
+      \ \r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\t(3) F  - 9:00A - 4:00P\r\n\t\t\t\t
+      \  \t\t\r\n\t\t\t\t   \t\r\n\t\t\t   \t\t\r\n\t\t\t   \t  \r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t
+      \  \t\t\t(4) F  - 10:00A - 4:30P"
+    location: ! "Mendoza College of Business 160 \r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\t\r\n\t\t\t\t
+      \  \t\r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\tTBA\r\n\t\t\t\t   \t\t\r\n\t\t\t\t
+      \  \t\t\r\n\t\t\t\t   \t\r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\tTBA\r\n\t\t\t\t
+      \  \t\t\r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t
+      \  \t\t\tTBA"
+- !ruby/object:Course
+  name: Financing the Corporation
+  credit: '2'
+  coursenum: FIN70430
+  sections:
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '0'
+    max_spots: '58'
+    crn: '22735'
+    instructor: Langley, Jerry
+    time: T R  - 1:00P - 2:50P
+    location: Mendoza College of Business 162
+  - !ruby/object:Section
+    section_num: '04'
+    open_spots: '0'
+    max_spots: '58'
+    crn: '21920'
+    instructor: Langley, Jerry
+    time: T R  - 3:00P - 4:50P
+    location: Mendoza College of Business 162
+- !ruby/object:Course
+  name: Financing the Corporation
+  credit: '2'
+  coursenum: FIN70431
+  sections:
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '0'
+    max_spots: '10'
+    crn: '23501'
+    instructor: Langley, Jerry
+    time: T R  - 1:00P - 2:50P
+    location: Mendoza College of Business 162
+  - !ruby/object:Section
+    section_num: '04'
+    open_spots: '0'
+    max_spots: '10'
+    crn: '21919'
+    instructor: Langley, Jerry
+    time: T R  - 3:00P - 4:50P
+    location: Mendoza College of Business 162
+- !ruby/object:Course
+  name: Financial Policy
+  credit: '2'
+  coursenum: FIN70440
+  sections:
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '37'
+    max_spots: '58'
+    crn: '24543'
+    instructor: Schultz, Paul
+    time: M W  - 10:00A - 11:50A
+    location: Mendoza College of Business 162
+  - !ruby/object:Section
+    section_num: '04'
+    open_spots: '8'
+    max_spots: '58'
+    crn: '24544'
+    instructor: Schultz, Paul
+    time: M W  - 1:00P - 2:50P
+    location: Mendoza College of Business 162
+- !ruby/object:Course
+  name: Financial Policy
+  credit: '2'
+  coursenum: FIN70441
+  sections:
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '0'
+    max_spots: '10'
+    crn: '24716'
+    instructor: Schultz, Paul
+    time: M W  - 10:00A - 11:50A
+    location: Mendoza College of Business 162
+  - !ruby/object:Section
+    section_num: '04'
+    open_spots: '0'
+    max_spots: '10'
+    crn: '24717'
+    instructor: Schultz, Paul
+    time: M W  - 1:00P - 2:50P
+    location: Mendoza College of Business 162
+- !ruby/object:Course
+  name: Working Capital Management
+  credit: '2'
+  coursenum: FIN70460
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '31'
+    max_spots: '40'
+    crn: '29388'
+    instructor: Clements, Walter
+    time: M W  - 8:00A - 9:50A
+    location: Mendoza College of Business 159
+- !ruby/object:Course
+  name: Working Capital Management
+  credit: '2'
+  coursenum: FIN70461
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '9'
+    max_spots: '12'
+    crn: '29387'
+    instructor: Clements, Walter
+    time: M W  - 8:00A - 9:50A
+    location: Mendoza College of Business 159
+- !ruby/object:Course
+  name: Finance II
+  credit: '2'
+  coursenum: FIN70600
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '21'
+    max_spots: '68'
+    crn: '21917'
+    instructor: Mendenhall, Richard
+    time: T R  - 8:00A - 9:50A
+    location: Mendoza College of Business 162
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '0'
+    max_spots: '68'
+    crn: '21915'
+    instructor: Mendenhall, Richard
+    time: T R  - 10:00A - 11:50A
+    location: Mendoza College of Business 162
+- !ruby/object:Course
+  name: Equity Valuation
+  credit: '2'
+  coursenum: FIN70610
+  sections:
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '4'
+    max_spots: '49'
+    crn: '21901'
+    instructor: Loughran, Timothy
+    time: M W  - 10:00A - 11:50A
+    location: Mendoza College of Business 158
+- !ruby/object:Course
+  name: Equity Valuation
+  credit: '2'
+  coursenum: FIN70611
+  sections:
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '0'
+    max_spots: '3'
+    crn: '22544'
+    instructor: Loughran, Timothy
+    time: M W  - 10:00A - 11:50A
+    location: Mendoza College of Business 158
+- !ruby/object:Course
+  name: Futures Markets
+  credit: '2'
+  coursenum: FIN70630
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '21'
+    max_spots: '37'
+    crn: '22445'
+    instructor: Hemler, Michael
+    time: T R  - 8:00A - 9:50A
+    location: Mendoza College of Business 158
+- !ruby/object:Course
+  name: Futures Markets
+  credit: '2'
+  coursenum: FIN70631
+  sections:
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '14'
+    max_spots: '15'
+    crn: '22613'
+    instructor: Hemler, Michael
+    time: T R  - 8:00A - 9:50A
+    location: Mendoza College of Business 158
+- !ruby/object:Course
+  name: Applied Investment Management
+  credit: '6'
+  coursenum: FIN70640
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '23'
+    crn: '21928'
+    instructor: McDonald, Bill Langley, Jerry
+    time: M W  - 1:00P - 3:30P
+    location: Mendoza College of Business 158
+- !ruby/object:Course
+  name: Applied Investment Management
+  credit: '6'
+  coursenum: FIN70641
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '2'
+    crn: '21926'
+    instructor: McDonald, Bill Langley, Jerry
+    time: M W  - 1:00P - 3:30P
+    location: Mendoza College of Business 158
+- !ruby/object:Course
+  name: Fixed Income Securities I
+  credit: '2'
+  coursenum: FIN70650
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '42'
+    crn: '22949'
+    instructor: Cremers, Klaas
+    time: T R  - 10:00A - 11:50A
+    location: Mendoza College of Business 160
+- !ruby/object:Course
+  name: Fixed Income Securities I
+  credit: '2'
+  coursenum: FIN70651
+  sections:
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '0'
+    max_spots: '10'
+    crn: '23097'
+    instructor: Cremers, Klaas
+    time: T R  - 10:00A - 11:50A
+    location: Mendoza College of Business 160
+- !ruby/object:Course
+  name: Advncd Derivatives & Risk Mgt
+  credit: '2'
+  coursenum: FIN70660
+  sections:
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '8'
+    max_spots: '18'
+    crn: '24540'
+    instructor: Hemler, Michael
+    time: T R  - 8:00A - 9:50A
+    location: Mendoza College of Business 158
+- !ruby/object:Course
+  name: Advnced Derivatives & Risk Mgt
+  credit: '2'
+  coursenum: FIN70661
+  sections:
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '4'
+    max_spots: '5'
+    crn: '29718'
+    instructor: Hemler, Michael
+    time: T R  - 8:00A - 9:50A
+    location: TBA
+- !ruby/object:Course
+  name: Investments
+  credit: '2'
+  coursenum: FIN70670
+  sections:
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '17'
+    max_spots: '37'
+    crn: '22599'
+    instructor: Da, Zhi
+    time: T R  - 1:00P - 2:50P
+    location: Mendoza College of Business 158
+  - !ruby/object:Section
+    section_num: '04'
+    open_spots: '28'
+    max_spots: '37'
+    crn: '22600'
+    instructor: Da, Zhi
+    time: T R  - 3:00P - 4:50P
+    location: Mendoza College of Business 158
+- !ruby/object:Course
+  name: Investments
+  credit: '2'
+  coursenum: FIN70671
+  sections:
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '3'
+    max_spots: '15'
+    crn: '23096'
+    instructor: Da, Zhi
+    time: T R  - 1:00P - 2:50P
+    location: Mendoza College of Business 158
+  - !ruby/object:Section
+    section_num: '04'
+    open_spots: '5'
+    max_spots: '15'
+    crn: '25373'
+    instructor: Da, Zhi
+    time: T R  - 3:00P - 4:50P
+    location: Mendoza College of Business 158
+- !ruby/object:Course
+  name: Trading and Markets
+  credit: '2'
+  coursenum: FIN70680
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '29'
+    max_spots: '42'
+    crn: '29038'
+    instructor: Battalio, Robert
+    time: T R  - 1:00P - 2:50P
+    location: Mendoza College of Business 159
+- !ruby/object:Course
+  name: Trading and Markets
+  credit: '2'
+  coursenum: FIN70681
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '9'
+    max_spots: '10'
+    crn: '29035'
+    instructor: Battalio, Robert
+    time: T R  - 1:00P - 2:50P
+    location: Mendoza College of Business 159
+- !ruby/object:Course
+  name: Real Estate Fundamentals
+  credit: '2'
+  coursenum: FIN70700
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '37'
+    crn: '29039'
+    instructor: Hutchison, David
+    time: M W  - 3:00P - 4:50P
+    location: Mendoza College of Business 162
+- !ruby/object:Course
+  name: Real Estate Fundamentals
+  credit: '2'
+  coursenum: FIN70701
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '15'
+    crn: '29036'
+    instructor: Hutchison, David
+    time: M W  - 3:00P - 4:50P
+    location: Mendoza College of Business 162
+- !ruby/object:Course
+  name: Real Estate Fin & Capital Mkts
+  credit: '2'
+  coursenum: FIN70720
+  sections:
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '11'
+    max_spots: '22'
+    crn: '24191'
+    instructor: Lupiani, Daniel
+    time: T  - 4:00P - 7:50P
+    location: Mendoza College of Business L014B
+- !ruby/object:Course
+  name: Real Estate Fin & Capital Mkts
+  credit: '2'
+  coursenum: FIN70721
+  sections:
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '11'
+    max_spots: '15'
+    crn: '24221'
+    instructor: Lupiani, Daniel
+    time: T  - 4:00P - 7:50P
+    location: Mendoza College of Business L014B
+- !ruby/object:Course
+  name: Math Meth. in Fin. Econ.
+  credit: V
+  coursenum: FIN70820
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '6'
+    max_spots: '8'
+    crn: '24129'
+    instructor: Cosimano, Thomas
+    time: M W F  - 9:35A - 10:25A
+    location: Edward J. DeBartolo Hall 140
+- !ruby/object:Course
+  name: Fixed Income Securities II
+  credit: '2'
+  coursenum: FIN70950
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '10'
+    max_spots: '42'
+    crn: '29389'
+    instructor: Cremers, Klaas
+    time: T R  - 10:00A - 11:50A
+    location: Mendoza College of Business 160
+- !ruby/object:Course
+  name: Fixed Income Securities II
+  credit: '2'
+  coursenum: FIN70951
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '29759'
+    instructor: Cremers, Klaas
+    time: T R  - 10:00A - 11:50A
+    location: Mendoza College of Business 160
+Business 158
+- :course: FIN70630
+  :section: '01'
+  :title: Futures Markets
+  :credits: '2'
+  :status: OP
+  :max_spots: '37'
+  :open_spots: '21'
+  :xlst: Y
+  :crn: '22445'
+  :syl: ! '&nbsp'
+  :instructor: Hemler, Michael
+  :when: T R  - 8:00A - 9:50A
+  :begin: 01/14/2013
+  :end: 03/04/2013
+  :location: Mendoza College of Business 158
+- :course: FIN70631
+  :section: '02'
+  :title: Futures Markets
+  :credits: '2'
+  :status: OP
+  :max_spots: '15'
+  :open_spots: '14'
+  :xlst: Y
+  :crn: '22613'
+  :syl: ! '&nbsp'
+  :instructor: Hemler, Michael
+  :when: T R  - 8:00A - 9:50A
+  :begin: 01/14/2013
+  :end: 03/04/2013
+  :location: Mendoza College of Business 158
+- :course: FIN70640
+  :section: '01'
+  :title: Applied Investment Management
+  :credits: '6'
+  :status: CL
+  :max_spots: '23'
+  :open_spots: '0'
+  :xlst: Y
+  :crn: '21928'
+  :syl: ! '&nbsp'
+  :instructor: McDonald, Bill Langley, Jerry
+  :when: M W  - 1:00P - 3:30P
+  :begin: 01/14/2013
+  :end: 05/01/2013
+  :location: Mendoza College of Business 158
+- :course: FIN70641
+  :section: '01'
+  :title: Applied Investment Management
+  :credits: '6'
+  :status: CL
+  :max_spots: '2'
+  :open_spots: '0'
+  :xlst: Y
+  :crn: '21926'
+  :syl: ! '&nbsp'
+  :instructor: McDonald, Bill Langley, Jerry
+  :when: M W  - 1:00P - 3:30P
+  :begin: 01/14/2013
+  :end: 05/01/2013
+  :location: Mendoza College of Business 158
+- :course: FIN70650
+  :section: '01'
+  :title: Fixed Income Securities I
+  :credits: '2'
+  :status: CL
+  :max_spots: '42'
+  :open_spots: '0'
+  :xlst: Y
+  :crn: '22949'
+  :syl: ! '&nbsp'
+  :instructor: Cremers, Klaas
+  :when: T R  - 10:00A - 11:50A
+  :begin: 01/14/2013
+  :end: 03/04/2013
+  :location: Mendoza College of Business 160
+- :course: FIN70651
+  :section: '02'
+  :title: Fixed Income Securities I
+  :credits: '2'
+  :status: CL
+  :max_spots: '10'
+  :open_spots: '0'
+  :xlst: Y
+  :crn: '23097'
+  :syl: ! '&nbsp'
+  :instructor: Cremers, Klaas
+  :when: T R  - 10:00A - 11:50A
+  :begin: 01/14/2013
+  :end: 03/04/2013
+  :location: Mendoza College of Business 160
+- :course: FIN70660
+  :section: '02'
+  :title: Advncd Derivatives & Risk Mgt
+  :credits: '2'
+  :status: OP
+  :max_spots: '18'
+  :open_spots: '8'
+  :xlst: Y
+  :crn: '24540'
+  :syl: ! '&nbsp'
+  :instructor: Hemler, Michael
+  :when: T R  - 8:00A - 9:50A
+  :begin: 03/18/2013
+  :end: 05/01/2013
+  :location: Mendoza College of Business 158
+- :course: FIN70661
+  :section: '02'
+  :title: Advnced Derivatives & Risk Mgt
+  :credits: '2'
+  :status: OP
+  :max_spots: '5'
+  :open_spots: '4'
+  :xlst: Y
+  :crn: '29718'
+  :syl: ! '&nbsp'
+  :instructor: Hemler, Michael
+  :when: T R  - 8:00A - 9:50A
+  :begin: 03/18/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: FIN70670
+  :section: '02'
+  :title: Investments
+  :credits: '2'
+  :status: OP
+  :max_spots: '37'
+  :open_spots: '17'
+  :xlst: Y
+  :crn: '22599'
+  :syl: ! '&nbsp'
+  :instructor: Da, Zhi
+  :when: T R  - 1:00P - 2:50P
+  :begin: 03/18/2013
+  :end: 05/01/2013
+  :location: Mendoza College of Business 158
+- :course: FIN70670
+  :section: '04'
+  :title: Investments
+  :credits: '2'
+  :status: OP
+  :max_spots: '37'
+  :open_spots: '28'
+  :xlst: Y
+  :crn: '22600'
+  :syl: ! '&nbsp'
+  :instructor: Da, Zhi
+  :when: T R  - 3:00P - 4:50P
+  :begin: 03/18/2013
+  :end: 05/01/2013
+  :location: Mendoza College of Business 158
+- :course: FIN70671
+  :section: '02'
+  :title: Investments
+  :credits: '2'
+  :status: OP
+  :max_spots: '15'
+  :open_spots: '2'
+  :xlst: Y
+  :crn: '23096'
+  :syl: ! '&nbsp'
+  :instructor: Da, Zhi
+  :when: T R  - 1:00P - 2:50P
+  :begin: 03/18/2013
+  :end: 05/01/2013
+  :location: Mendoza College of Business 158
+- :course: FIN70671
+  :section: '04'
+  :title: Investments
+  :credits: '2'
+  :status: OP
+  :max_spots: '15'
+  :open_spots: '4'
+  :xlst: Y
+  :crn: '25373'
+  :syl: ! '&nbsp'
+  :instructor: Da, Zhi
+  :when: T R  - 3:00P - 4:50P
+  :begin: 03/18/2013
+  :end: 05/01/2013
+  :location: Mendoza College of Business 158
+- :course: FIN70680
+  :section: '01'
+  :title: Trading and Markets
+  :credits: '2'
+  :status: OP
+  :max_spots: '42'
+  :open_spots: '29'
+  :xlst: Y
+  :crn: '29038'
+  :syl: ! '&nbsp'
+  :instructor: Battalio, Robert
+  :when: T R  - 1:00P - 2:50P
+  :begin: 03/18/2013
+  :end: 05/01/2013
+  :location: Mendoza College of Business 159
+- :course: FIN70681
+  :section: '01'
+  :title: Trading and Markets
+  :credits: '2'
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '9'
+  :xlst: Y
+  :crn: '29035'
+  :syl: ! '&nbsp'
+  :instructor: Battalio, Robert
+  :when: T R  - 1:00P - 2:50P
+  :begin: 03/18/2013
+  :end: 05/01/2013
+  :location: Mendoza College of Business 159
+- :course: FIN70700
+  :section: '01'
+  :title: Real Estate Fundamentals
+  :credits: '2'
+  :status: OP
+  :max_spots: '37'
+  :open_spots: '2'
+  :xlst: Y
+  :crn: '29039'
+  :syl: ! '&nbsp'
+  :instructor: Hutchison, David
+  :when: M W  - 3:00P - 4:50P
+  :begin: 03/18/2013
+  :end: 05/01/2013
+  :location: Mendoza College of Business 162
+- :course: FIN70701
+  :section: '01'
+  :title: Real Estate Fundamentals
+  :credits: '2'
+  :status: CL
+  :max_spots: '15'
+  :open_spots: '0'
+  :xlst: Y
+  :crn: '29036'
+  :syl: ! '&nbsp'
+  :instructor: Hutchison, David
+  :when: M W  - 3:00P - 4:50P
+  :begin: 03/18/2013
+  :end: 05/01/2013
+  :location: Mendoza College of Business 162
+- :course: FIN70720
+  :section: '02'
+  :title: Real Estate Fin & Capital Mkts
+  :credits: '2'
+  :status: OP
+  :max_spots: '22'
+  :open_spots: '11'
+  :xlst: Y
+  :crn: '24191'
+  :syl: ! '&nbsp'
+  :instructor: Lupiani, Daniel
+  :when: T  - 4:00P - 7:50P
+  :begin: 03/18/2013
+  :end: 05/01/2013
+  :location: Mendoza College of Business L014B
+- :course: FIN70721
+  :section: '02'
+  :title: Real Estate Fin & Capital Mkts
+  :credits: '2'
+  :status: OP
+  :max_spots: '15'
+  :open_spots: '11'
+  :xlst: Y
+  :crn: '24221'
+  :syl: ! '&nbsp'
+  :instructor: Lupiani, Daniel
+  :when: T  - 4:00P - 7:50P
+  :begin: 03/18/2013
+  :end: 05/01/2013
+  :location: Mendoza College of Business L014B
+- :course: FIN70820
+  :section: '01'
+  :title: Math Meth. in Fin. Econ.
+  :credits: V
+  :status: OP
+  :max_spots: '8'
+  :open_spots: '6'
+  :xlst: Y
+  :crn: '24129'
+  :syl: ! '&nbsp'
+  :instructor: Cosimano, Thomas
+  :when: M W F  - 9:35A - 10:25A
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: Edward J. DeBartolo Hall 140
+- :course: FIN70950
+  :section: '01'
+  :title: Fixed Income Securities II
+  :credits: '2'
+  :status: OP
+  :max_spots: '42'
+  :open_spots: '10'
+  :xlst: Y
+  :crn: '29389'
+  :syl: ! '&nbsp'
+  :instructor: Cremers, Klaas
+  :when: T R  - 10:00A - 11:50A
+  :begin: 03/18/2013
+  :end: 05/01/2013
+  :location: Mendoza College of Business 160
+- :course: FIN70951
+  :section: '01'
+  :title: Fixed Income Securities II
+  :credits: '2'
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: Y
+  :crn: '29759'
+  :syl: ! '&nbsp'
+  :instructor: Cremers, Klaas
+  :when: T R  - 10:00A - 11:50A
+  :begin: 03/18/2013
+  :end: 05/01/2013
+  :location: Mendoza College of Business 160

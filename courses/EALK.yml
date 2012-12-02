@@ -1,0 +1,101 @@
+---
+- !ruby/object:Course
+  name: First-Year Korean II
+  credit: '5'
+  coursenum: EALK10112
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '2'
+    max_spots: '15'
+    crn: '24209'
+    instructor: Lee, Jung-Hyuck
+    time: M W F  - 9:35A - 10:25A
+    location: O'Shaughnessy Hall 204A
+- !ruby/object:Course
+  name: First Year Korean II Lab
+  credit: '0'
+  coursenum: EALK11112
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '12'
+    max_spots: '15'
+    crn: '26830'
+    instructor: Lee, Jung-Hyuck
+    time: T  - 12:30P - 1:45P
+    location: O'Shaughnessy Hall 117
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '5'
+    max_spots: '15'
+    crn: '26831'
+    instructor: Lee, Jung-Hyuck
+    time: T  - 11:00A - 12:15P
+    location: O'Shaughnessy Hall 208
+- !ruby/object:Course
+  name: Second-Year Korean II
+  credit: '5'
+  coursenum: EALK20212
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '9'
+    max_spots: '15'
+    crn: '24586'
+    instructor: Lee, Jung-Hyuck
+    time: M W F  - 10:40A - 11:30A
+    location: O'Shaughnessy Hall 204A
+- !ruby/object:Course
+  name: Second Year Korean II Lab
+  credit: '0'
+  coursenum: EALK21212
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '12'
+    max_spots: '15'
+    crn: '26832'
+    instructor: Lee, Jung-Hyuck
+    time: R  - 12:30P - 1:45P
+    location: O'Shaughnessy Hall 117
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '12'
+    max_spots: '15'
+    crn: '26833'
+    instructor: Lee, Jung-Hyuck
+    time: R  - 11:00A - 12:15P
+    location: O'Shaughnessy Hall 208
+- !ruby/object:Course
+  name: Directed Readings
+  credit: '1'
+  coursenum: EALK46498
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '0'
+    crn: '25476'
+    instructor: TBA
+    time: TBA
+    location: TBA
+ R  - 11:00A - 12:15P
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: O'Shaughnessy Hall 208
+- :course: EALK46498
+  :section: '01'
+  :title: Directed Readings
+  :credits: '1'
+  :status: CL
+  :max_spots: '0'
+  :open_spots: '0'
+  :xlst: ! '&nbsp'
+  :crn: '25476'
+  :syl: ! '&nbsp'
+  :instructor: TBA
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA

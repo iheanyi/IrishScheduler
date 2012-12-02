@@ -1,0 +1,2159 @@
+---
+- !ruby/object:Course
+  name: Basic Unix for Engineers
+  credit: '3'
+  coursenum: CSE20189
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '9'
+    max_spots: '75'
+    crn: '29525'
+    instructor: Freeland, Joseph
+    time: M W F  - 12:50P - 1:40P
+    location: Edward J. DeBartolo Hall 129
+- !ruby/object:Course
+  name: Fund. of Computing II
+  credit: '4'
+  coursenum: CSE20212
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '1'
+    max_spots: '75'
+    crn: '20239'
+    instructor: Emrich, Scott
+    time: M W F  - 9:35A - 10:25A
+    location: Edward J. DeBartolo Hall 136
+- !ruby/object:Course
+  name: Logic Design
+  credit: '4'
+  coursenum: CSE20221
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '15'
+    max_spots: '120'
+    crn: '21473'
+    instructor: Yoder, Stanley
+    time: T R  - 9:30A - 10:45A
+    location: Edward J. DeBartolo Hall 102
+- !ruby/object:Course
+  name: CSE Service Projects
+  credit: V
+  coursenum: CSE20600
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '22128'
+    instructor: TBA
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '22129'
+    instructor: Madey, Gregory
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '04'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '22754'
+    instructor: Kennedy, Ryan
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Fund. of Computing II Lab
+  credit: '0'
+  coursenum: CSE21212
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '20'
+    crn: '20276'
+    instructor: Emrich, Scott
+    time: T  - 3:30P - 4:20P
+    location: Cushing Hall of Engineering 303
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '2'
+    max_spots: '20'
+    crn: '20713'
+    instructor: Emrich, Scott
+    time: W  - 3:00P - 3:50P
+    location: Cushing Hall of Engineering 303
+  - !ruby/object:Section
+    section_num: '03'
+    open_spots: '2'
+    max_spots: '20'
+    crn: '29186'
+    instructor: Emrich, Scott
+    time: W  - 4:05P - 4:55P
+    location: Cushing Hall of Engineering 303
+  - !ruby/object:Section
+    section_num: '04'
+    open_spots: '3'
+    max_spots: '20'
+    crn: '23071'
+    instructor: Emrich, Scott
+    time: R  - 3:30P - 4:20P
+    location: Cushing Hall of Engineering 303
+- !ruby/object:Course
+  name: Logic Design Laboratory
+  credit: '0'
+  coursenum: CSE21221
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '24'
+    crn: '20023'
+    instructor: Yoder, Stanley
+    time: M  - 3:00P - 5:20P
+    location: TBA
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '0'
+    max_spots: '24'
+    crn: '20967'
+    instructor: Yoder, Stanley
+    time: T  - 3:00P - 5:20P
+    location: TBA
+  - !ruby/object:Section
+    section_num: '03'
+    open_spots: '3'
+    max_spots: '24'
+    crn: '20269'
+    instructor: Yoder, Stanley
+    time: W  - 3:00P - 5:20P
+    location: TBA
+  - !ruby/object:Section
+    section_num: '04'
+    open_spots: '0'
+    max_spots: '24'
+    crn: '20384'
+    instructor: Yoder, Stanley
+    time: R  - 3:00P - 5:20P
+    location: TBA
+  - !ruby/object:Section
+    section_num: '05'
+    open_spots: '12'
+    max_spots: '24'
+    crn: '20084'
+    instructor: Yoder, Stanley
+    time: F  - 3:00P - 5:20P
+    location: TBA
+- !ruby/object:Course
+  name: Theory of Computing
+  credit: '3'
+  coursenum: CSE30151
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '3'
+    max_spots: '55'
+    crn: '20279'
+    instructor: Blanton, Marina
+    time: T R  - 2:00P - 3:15P
+    location: Edward J. DeBartolo Hall 155
+- !ruby/object:Course
+  name: Programming Paradigms
+  credit: '3'
+  coursenum: CSE30332
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '9'
+    max_spots: '60'
+    crn: '23569'
+    instructor: Izaguirre, Jesus
+    time: M W F  - 10:40A - 11:30A
+    location: Fitzpatrick Hall of Eng. 356
+- !ruby/object:Course
+  name: Operating System Principles
+  credit: '3'
+  coursenum: CSE30341
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '16'
+    max_spots: '65'
+    crn: '20272'
+    instructor: Striegel, Aaron
+    time: T R  - 9:30A - 10:45A
+    location: Fitzpatrick Hall of Eng. 356A
+- !ruby/object:Course
+  name: CSE Service Projects
+  credit: V
+  coursenum: CSE30600
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '22130'
+    instructor: TBA
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '22131'
+    instructor: Madey, Gregory
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '03'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '22146'
+    instructor: Brenner, Paul
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '04'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '22755'
+    instructor: Kennedy, Ryan
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Artificial Intelligence
+  credit: '3'
+  coursenum: CSE40171
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '5'
+    max_spots: '20'
+    crn: '26335'
+    instructor: D'Mello, Sidney
+    time: M W  - 4:30P - 5:45P
+    location: Edward J. DeBartolo Hall 118
+- !ruby/object:Course
+  name: Ethical & Professional Issues
+  credit: '3'
+  coursenum: CSE40175
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '1'
+    max_spots: '55'
+    crn: '22207'
+    instructor: Freeland, Joseph
+    time: T R  - 11:00A - 12:15P
+    location: Fitzpatrick Hall of Eng. 356A
+- !ruby/object:Course
+  name: Compilers
+  credit: '3'
+  coursenum: CSE40243
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '18'
+    max_spots: '29'
+    crn: '29653'
+    instructor: Saraph, Milind
+    time: T R  - 3:30P - 4:45P
+    location: Fitzpatrick Hall of Eng. 356
+- !ruby/object:Course
+  name: Mobile Application Projects
+  credit: '3'
+  coursenum: CSE40333
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '19'
+    max_spots: '33'
+    crn: '24740'
+    instructor: Yadav, Nikhil Aguinaga, Salvador
+    time: M W F  - 11:45A - 12:35P
+    location: Fitzpatrick Hall of Eng. 356A
+- !ruby/object:Course
+  name: CPEG Capstone Design
+  credit: '4'
+  coursenum: CSE40522
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '8'
+    max_spots: '19'
+    crn: '29188'
+    instructor: Brockman, Jay Niemier, Michael
+    time: T R  - 2:00P - 3:15P
+    location: Hayes Healy Center 231
+- !ruby/object:Course
+  name: CSE Service Projects
+  credit: V
+  coursenum: CSE40600
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '22132'
+    instructor: TBA
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '22133'
+    instructor: Madey, Gregory
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '04'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '22756'
+    instructor: Kennedy, Ryan
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Introduction to E-Technology
+  credit: '3'
+  coursenum: CSE40613
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '16'
+    max_spots: '29'
+    crn: '29189'
+    instructor: Santelices, Raul
+    time: M W F  - 11:45A - 12:35P
+    location: Edward J. DeBartolo Hall 119
+- !ruby/object:Course
+  name: Data Mining
+  credit: '3'
+  coursenum: CSE40647
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '4'
+    max_spots: '32'
+    crn: '24420'
+    instructor: Chawla, Nitesh
+    time: M W  - 3:00P - 4:15P
+    location: Fitzpatrick Hall of Eng. 356A
+- !ruby/object:Course
+  name: Tech Concepts of Visual FX
+  credit: '3'
+  coursenum: CSE40655
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '3'
+    max_spots: '28'
+    crn: '23460'
+    instructor: Bualuan, Ramzi
+    time: M W F  - 1:55P - 2:45P
+    location: Cushing Hall of Engineering 303
+- !ruby/object:Course
+  name: Advanced Database Projects
+  credit: '3'
+  coursenum: CSE40746
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '16'
+    max_spots: '25'
+    crn: '23915'
+    instructor: Bualuan, Ramzi
+    time: T R  - 12:30P - 1:45P
+    location: Edward J. DeBartolo Hall 120
+- !ruby/object:Course
+  name: Cloud Computing
+  credit: '3'
+  coursenum: CSE40772
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '10'
+    max_spots: '29'
+    crn: '29190'
+    instructor: Nabrzyski, Jaroslaw
+    time: M W F  - 9:35A - 10:25A
+    location: Edward J. DeBartolo Hall 207
+- !ruby/object:Course
+  name: Video Game Design
+  credit: '3'
+  coursenum: CSE40849
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '19'
+    crn: '29191'
+    instructor: Pruitt, Matthew
+    time: T R  - 3:30P - 4:45P
+    location: Edward J. DeBartolo Hall 119
+- !ruby/object:Course
+  name: Complex Networks
+  credit: '3'
+  coursenum: CSE40884
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '3'
+    max_spots: '9'
+    crn: '25465'
+    instructor: Milenkovic, Tijana
+    time: M W F  - 12:50P - 1:40P
+    location: Fitzpatrick Hall of Eng. 356
+- !ruby/object:Course
+  name: Autonomous Mobile Robots
+  credit: '3'
+  coursenum: CSE40943
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '9'
+    crn: '26337'
+    instructor: Riek, Laurel
+    time: T R  - 12:30P - 1:45P
+    location: Stinson Remick Hall 212
+- !ruby/object:Course
+  name: Undergraduate Research
+  credit: V
+  coursenum: CSE48901
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '3'
+    max_spots: '5'
+    crn: '20288'
+    instructor: Bowyer, Kevin
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '03'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20870'
+    instructor: Brockman, Jay
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '04'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '20957'
+    instructor: Uhran, John
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '05'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '21608'
+    instructor: Chen, Danny
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '06'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '21011'
+    instructor: Flynn, Patrick
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '07'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '21272'
+    instructor: Madey, Gregory
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: 08
+    open_spots: '8'
+    max_spots: '8'
+    crn: '21376'
+    instructor: Kogge, Peter
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: 09
+    open_spots: '9'
+    max_spots: '10'
+    crn: '20397'
+    instructor: Bualuan, Ramzi
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '10'
+    open_spots: '6'
+    max_spots: '6'
+    crn: '20783'
+    instructor: Izaguirre, Jesus
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '12'
+    open_spots: '9'
+    max_spots: '10'
+    crn: '21225'
+    instructor: Hu, Xiaobo
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '13'
+    open_spots: '9'
+    max_spots: '10'
+    crn: '22732'
+    instructor: Thain, Douglas
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '14'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '21069'
+    instructor: Freeland, Joseph
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '16'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20315'
+    instructor: Chaudhary, Amitabh
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '17'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '21694'
+    instructor: Blake, Malworsth
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '19'
+    open_spots: '9'
+    max_spots: '10'
+    crn: '20920'
+    instructor: Striegel, Aaron
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '20'
+    open_spots: '9'
+    max_spots: '10'
+    crn: '22168'
+    instructor: Poellabauer, Christian
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '21'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '22814'
+    instructor: Niemier, Michael
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '22'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '23462'
+    instructor: Chawla, Nitesh
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '30'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '23917'
+    instructor: Brenner, Paul
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '40'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '23951'
+    instructor: Emrich, Scott
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '41'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '23955'
+    instructor: Blanton, Marina
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '43'
+    open_spots: '8'
+    max_spots: '10'
+    crn: '25531'
+    instructor: Milenkovic, Tijana
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '44'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '25609'
+    instructor: Hollingsworth, Karen
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '45'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '25684'
+    instructor: Pandit, Saurav
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '46'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '27136'
+    instructor: Remy, Sekou
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '47'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '27085'
+    instructor: Riek, Laurel
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '48'
+    open_spots: '4'
+    max_spots: '5'
+    crn: '27086'
+    instructor: Santelices, Raul
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Complexity and Algorithms
+  credit: '3'
+  coursenum: CSE60111
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '10'
+    max_spots: '25'
+    crn: '21444'
+    instructor: Chen, Danny
+    time: T R  - 11:00A - 12:15P
+    location: Edward J. DeBartolo Hall 210
+- !ruby/object:Course
+  name: Finite Elements in Eng.
+  credit: '3'
+  coursenum: CSE60130
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '4'
+    max_spots: '5'
+    crn: '27003'
+    instructor: Westerink, Joannes
+    time: T R  - 5:00P - 6:15P
+    location: Hayes Healy Center 229
+- !ruby/object:Course
+  name: Artificial Intelligence
+  credit: '3'
+  coursenum: CSE60171
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '5'
+    max_spots: '9'
+    crn: '26338'
+    instructor: D'Mello, Sidney
+    time: M W  - 4:30P - 5:45P
+    location: Edward J. DeBartolo Hall 118
+- !ruby/object:Course
+  name: Compilers
+  credit: '3'
+  coursenum: CSE60243
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '9'
+    max_spots: '9'
+    crn: '29654'
+    instructor: Saraph, Milind
+    time: T R  - 3:30P - 4:45P
+    location: Fitzpatrick Hall of Eng. 356
+- !ruby/object:Course
+  name: Advanced Computer Architecture
+  credit: '3'
+  coursenum: CSE60321
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '7'
+    max_spots: '20'
+    crn: '21650'
+    instructor: Hu, Xiaobo
+    time: T R  - 2:00P - 3:15P
+    location: Fitzpatrick Hall of Eng. 356A
+- !ruby/object:Course
+  name: Mobile Application Projects
+  credit: '3'
+  coursenum: CSE60333
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '4'
+    max_spots: '5'
+    crn: '25511'
+    instructor: Yadav, Nikhil Aguinaga, Salvador
+    time: M W F  - 11:45A - 12:35P
+    location: Fitzpatrick Hall of Eng. 356A
+- !ruby/object:Course
+  name: Introduction to E-Technology
+  credit: '3'
+  coursenum: CSE60613
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '2'
+    max_spots: '9'
+    crn: '29526'
+    instructor: Santelices, Raul
+    time: M W F  - 11:45A - 12:35P
+    location: Edward J. DeBartolo Hall 119
+- !ruby/object:Course
+  name: Data Mining
+  credit: '3'
+  coursenum: CSE60647
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '10'
+    max_spots: '17'
+    crn: '24421'
+    instructor: Chawla, Nitesh
+    time: M W  - 3:00P - 4:15P
+    location: Fitzpatrick Hall of Eng. 356A
+- !ruby/object:Course
+  name: Tech Concepts of Visual FX
+  credit: '3'
+  coursenum: CSE60655
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '25610'
+    instructor: Bualuan, Ramzi
+    time: M W F  - 1:55P - 2:45P
+    location: Cushing Hall of Engineering 303
+- !ruby/object:Course
+  name: Advanced Database Projects
+  credit: '3'
+  coursenum: CSE60746
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '27132'
+    instructor: Bualuan, Ramzi
+    time: T R  - 12:30P - 1:45P
+    location: Edward J. DeBartolo Hall 120
+- !ruby/object:Course
+  name: Complex Networks
+  credit: '3'
+  coursenum: CSE60884
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '17'
+    max_spots: '19'
+    crn: '25466'
+    instructor: Milenkovic, Tijana
+    time: M W F  - 12:50P - 1:40P
+    location: Fitzpatrick Hall of Eng. 356
+- !ruby/object:Course
+  name: Autonomous Mobile Robots
+  credit: '3'
+  coursenum: CSE60943
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '7'
+    max_spots: '9'
+    crn: '26340'
+    instructor: Riek, Laurel
+    time: T R  - 12:30P - 1:45P
+    location: Stinson Remick Hall 212
+- !ruby/object:Course
+  name: Research Seminar II
+  credit: '1'
+  coursenum: CSE63802
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '20'
+    max_spots: '25'
+    crn: '20251'
+    instructor: Chawla, Nitesh
+    time: R  - 3:30P - 5:00P
+    location: Fitzpatrick Hall of Eng. 356A
+- !ruby/object:Course
+  name: Dir Read-Adv Bioinf Computing
+  credit: '3'
+  coursenum: CSE66560
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '0'
+    crn: '27080'
+    instructor: Emrich, Scott
+    time: T R  - 9:30A - 10:45A
+    location: TBA
+- !ruby/object:Course
+  name: ! 'DR: Mach. Learn. & Comp. Vis.'
+  credit: '3'
+  coursenum: CSE66725
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '6'
+    max_spots: '9'
+    crn: '29795'
+    instructor: Bowyer, Kevin Flynn, Patrick
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Thesis Direction
+  credit: V
+  coursenum: CSE68901
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20570'
+    instructor: Bowyer, Kevin
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '21238'
+    instructor: Brockman, Jay
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '03'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '21017'
+    instructor: Chen, Danny
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '04'
+    open_spots: '6'
+    max_spots: '6'
+    crn: '20665'
+    instructor: Izaguirre, Jesus
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '05'
+    open_spots: '9'
+    max_spots: '10'
+    crn: '20010'
+    instructor: Flynn, Patrick
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '07'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '21390'
+    instructor: Madey, Gregory
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: 08
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20231'
+    instructor: Uhran, John
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: 09
+    open_spots: '5'
+    max_spots: '5'
+    crn: '20869'
+    instructor: Kogge, Peter
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '11'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20061'
+    instructor: Hu, Xiaobo
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '15'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '22733'
+    instructor: Thain, Douglas
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '16'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20495'
+    instructor: Chaudhary, Amitabh
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '17'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20547'
+    instructor: Blake, Malworsth
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '19'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20715'
+    instructor: Striegel, Aaron
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '20'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '22169'
+    instructor: Poellabauer, Christian
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '21'
+    open_spots: '8'
+    max_spots: '10'
+    crn: '23464'
+    instructor: Chawla, Nitesh
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '40'
+    open_spots: '9'
+    max_spots: '10'
+    crn: '23952'
+    instructor: Emrich, Scott
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '41'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '23956'
+    instructor: Blanton, Marina
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '42'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '24308'
+    instructor: Niemier, Michael
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '43'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '25532'
+    instructor: Milenkovic, Tijana
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '47'
+    open_spots: '4'
+    max_spots: '5'
+    crn: '27087'
+    instructor: Riek, Laurel
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '48'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '27088'
+    instructor: Santelices, Raul
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Nonresident Dissertation Rsrch
+  credit: '1'
+  coursenum: CSE68905
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '23497'
+    instructor: Kogge, Peter
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '05'
+    open_spots: '75'
+    max_spots: '75'
+    crn: '22804'
+    instructor: Bowyer, Kevin
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '07'
+    open_spots: '75'
+    max_spots: '75'
+    crn: '22805'
+    instructor: TBA
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: 08
+    open_spots: '75'
+    max_spots: '75'
+    crn: '22806'
+    instructor: Chaudhary, Amitabh
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '10'
+    open_spots: '75'
+    max_spots: '75'
+    crn: '22807'
+    instructor: Hu, Xiaobo
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '11'
+    open_spots: '75'
+    max_spots: '75'
+    crn: '22808'
+    instructor: Izaguirre, Jesus
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '12'
+    open_spots: '75'
+    max_spots: '75'
+    crn: '22809'
+    instructor: Madey, Gregory
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '13'
+    open_spots: '75'
+    max_spots: '75'
+    crn: '22810'
+    instructor: Poellabauer, Christian
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '14'
+    open_spots: '75'
+    max_spots: '75'
+    crn: '22811'
+    instructor: TBA
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '15'
+    open_spots: '75'
+    max_spots: '75'
+    crn: '22812'
+    instructor: Striegel, Aaron
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '16'
+    open_spots: '75'
+    max_spots: '75'
+    crn: '22813'
+    instructor: Thain, Douglas
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Research and Dissertation
+  credit: V
+  coursenum: CSE98901
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '25533'
+    instructor: Milenkovic, Tijana
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20798'
+    instructor: Brockman, Jay
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '03'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20218'
+    instructor: Chen, Danny
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '04'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '20779'
+    instructor: Izaguirre, Jesus
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '05'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '21669'
+    instructor: Flynn, Patrick
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '07'
+    open_spots: '8'
+    max_spots: '10'
+    crn: '20758'
+    instructor: Bowyer, Kevin
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: 08
+    open_spots: '10'
+    max_spots: '10'
+    crn: '21009'
+    instructor: Uhran, John
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: 09
+    open_spots: '5'
+    max_spots: '5'
+    crn: '20529'
+    instructor: Kogge, Peter
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '10'
+    open_spots: '8'
+    max_spots: '10'
+    crn: '21246'
+    instructor: Hu, Xiaobo
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '12'
+    open_spots: '9'
+    max_spots: '10'
+    crn: '21303'
+    instructor: Madey, Gregory
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '15'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '22734'
+    instructor: Thain, Douglas
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '16'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '21625'
+    instructor: Chaudhary, Amitabh
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '17'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '21031'
+    instructor: Blake, Malworsth
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '19'
+    open_spots: '8'
+    max_spots: '10'
+    crn: '21108'
+    instructor: Striegel, Aaron
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '20'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '22170'
+    instructor: Poellabauer, Christian
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '21'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '23465'
+    instructor: Chawla, Nitesh
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '40'
+    open_spots: '9'
+    max_spots: '10'
+    crn: '23954'
+    instructor: Emrich, Scott
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '41'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '23958'
+    instructor: Blanton, Marina
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '42'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '27215'
+    instructor: Niemier, Michael
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '47'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '27090'
+    instructor: Riek, Laurel
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '48'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '27089'
+    instructor: Santelices, Raul
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Non-resident Thesis
+  credit: V
+  coursenum: CSE98995
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '11'
+    max_spots: '11'
+    crn: '21564'
+    instructor: Brockman, Jay
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '22860'
+    instructor: Madey, Gregory
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '03'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '22861'
+    instructor: Flynn, Patrick
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '04'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '22862'
+    instructor: Hu, Xiaobo
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '05'
+    open_spots: '75'
+    max_spots: '75'
+    crn: '22796'
+    instructor: Bowyer, Kevin
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '06'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '22863'
+    instructor: Chen, Danny
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '07'
+    open_spots: '75'
+    max_spots: '75'
+    crn: '22795'
+    instructor: TBA
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: 08
+    open_spots: '75'
+    max_spots: '75'
+    crn: '22797'
+    instructor: Chaudhary, Amitabh
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: 09
+    open_spots: '10'
+    max_spots: '10'
+    crn: '23498'
+    instructor: Kogge, Peter
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '10'
+    open_spots: '75'
+    max_spots: '75'
+    crn: '22798'
+    instructor: Hu, Xiaobo
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '11'
+    open_spots: '75'
+    max_spots: '75'
+    crn: '22799'
+    instructor: Izaguirre, Jesus
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '12'
+    open_spots: '75'
+    max_spots: '75'
+    crn: '22800'
+    instructor: Madey, Gregory
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '13'
+    open_spots: '75'
+    max_spots: '75'
+    crn: '22801'
+    instructor: Poellabauer, Christian
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '15'
+    open_spots: '75'
+    max_spots: '75'
+    crn: '22802'
+    instructor: Striegel, Aaron
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '16'
+    open_spots: '75'
+    max_spots: '75'
+    crn: '22803'
+    instructor: Thain, Douglas
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '19'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '27119'
+    instructor: Chawla, Nitesh
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '40'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '23953'
+    instructor: Emrich, Scott
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '41'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '23957'
+    instructor: Blanton, Marina
+    time: TBA
+    location: TBA
+spots: '75'
+  :open_spots: '75'
+  :xlst: ! '&nbsp'
+  :crn: '22804'
+  :syl: ! '&nbsp'
+  :instructor: Bowyer, Kevin
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CSE68905
+  :section: '07'
+  :title: Nonresident Dissertation Rsrch
+  :credits: '1'
+  :status: OP
+  :max_spots: '75'
+  :open_spots: '75'
+  :xlst: ! '&nbsp'
+  :crn: '22805'
+  :syl: ! '&nbsp'
+  :instructor: TBA
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CSE68905
+  :section: 08
+  :title: Nonresident Dissertation Rsrch
+  :credits: '1'
+  :status: OP
+  :max_spots: '75'
+  :open_spots: '75'
+  :xlst: ! '&nbsp'
+  :crn: '22806'
+  :syl: ! '&nbsp'
+  :instructor: Chaudhary, Amitabh
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CSE68905
+  :section: '10'
+  :title: Nonresident Dissertation Rsrch
+  :credits: '1'
+  :status: OP
+  :max_spots: '75'
+  :open_spots: '75'
+  :xlst: ! '&nbsp'
+  :crn: '22807'
+  :syl: ! '&nbsp'
+  :instructor: Hu, Xiaobo
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CSE68905
+  :section: '11'
+  :title: Nonresident Dissertation Rsrch
+  :credits: '1'
+  :status: OP
+  :max_spots: '75'
+  :open_spots: '75'
+  :xlst: ! '&nbsp'
+  :crn: '22808'
+  :syl: ! '&nbsp'
+  :instructor: Izaguirre, Jesus
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CSE68905
+  :section: '12'
+  :title: Nonresident Dissertation Rsrch
+  :credits: '1'
+  :status: OP
+  :max_spots: '75'
+  :open_spots: '75'
+  :xlst: ! '&nbsp'
+  :crn: '22809'
+  :syl: ! '&nbsp'
+  :instructor: Madey, Gregory
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CSE68905
+  :section: '13'
+  :title: Nonresident Dissertation Rsrch
+  :credits: '1'
+  :status: OP
+  :max_spots: '75'
+  :open_spots: '75'
+  :xlst: ! '&nbsp'
+  :crn: '22810'
+  :syl: ! '&nbsp'
+  :instructor: Poellabauer, Christian
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CSE68905
+  :section: '14'
+  :title: Nonresident Dissertation Rsrch
+  :credits: '1'
+  :status: OP
+  :max_spots: '75'
+  :open_spots: '75'
+  :xlst: ! '&nbsp'
+  :crn: '22811'
+  :syl: ! '&nbsp'
+  :instructor: TBA
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CSE68905
+  :section: '15'
+  :title: Nonresident Dissertation Rsrch
+  :credits: '1'
+  :status: OP
+  :max_spots: '75'
+  :open_spots: '75'
+  :xlst: ! '&nbsp'
+  :crn: '22812'
+  :syl: ! '&nbsp'
+  :instructor: Striegel, Aaron
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CSE68905
+  :section: '16'
+  :title: Nonresident Dissertation Rsrch
+  :credits: '1'
+  :status: OP
+  :max_spots: '75'
+  :open_spots: '75'
+  :xlst: ! '&nbsp'
+  :crn: '22813'
+  :syl: ! '&nbsp'
+  :instructor: Thain, Douglas
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CSE98901
+  :section: '01'
+  :title: Research and Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '25533'
+  :syl: ! '&nbsp'
+  :instructor: Milenkovic, Tijana
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CSE98901
+  :section: '02'
+  :title: Research and Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '20798'
+  :syl: ! '&nbsp'
+  :instructor: Brockman, Jay
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CSE98901
+  :section: '03'
+  :title: Research and Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '20218'
+  :syl: ! '&nbsp'
+  :instructor: Chen, Danny
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CSE98901
+  :section: '04'
+  :title: Research and Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '5'
+  :open_spots: '5'
+  :xlst: ! '&nbsp'
+  :crn: '20779'
+  :syl: ! '&nbsp'
+  :instructor: Izaguirre, Jesus
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CSE98901
+  :section: '05'
+  :title: Research and Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '21669'
+  :syl: ! '&nbsp'
+  :instructor: Flynn, Patrick
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CSE98901
+  :section: '07'
+  :title: Research and Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '9'
+  :xlst: ! '&nbsp'
+  :crn: '20758'
+  :syl: ! '&nbsp'
+  :instructor: Bowyer, Kevin
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CSE98901
+  :section: 08
+  :title: Research and Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '21009'
+  :syl: ! '&nbsp'
+  :instructor: Uhran, John
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CSE98901
+  :section: 09
+  :title: Research and Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '5'
+  :open_spots: '5'
+  :xlst: ! '&nbsp'
+  :crn: '20529'
+  :syl: ! '&nbsp'
+  :instructor: Kogge, Peter
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CSE98901
+  :section: '10'
+  :title: Research and Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '9'
+  :xlst: ! '&nbsp'
+  :crn: '21246'
+  :syl: ! '&nbsp'
+  :instructor: Hu, Xiaobo
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CSE98901
+  :section: '12'
+  :title: Research and Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '9'
+  :xlst: ! '&nbsp'
+  :crn: '21303'
+  :syl: ! '&nbsp'
+  :instructor: Madey, Gregory
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CSE98901
+  :section: '15'
+  :title: Research and Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '22734'
+  :syl: ! '&nbsp'
+  :instructor: Thain, Douglas
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CSE98901
+  :section: '16'
+  :title: Research and Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '21625'
+  :syl: ! '&nbsp'
+  :instructor: Chaudhary, Amitabh
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CSE98901
+  :section: '17'
+  :title: Research and Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '21031'
+  :syl: ! '&nbsp'
+  :instructor: Blake, Malworsth
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CSE98901
+  :section: '19'
+  :title: Research and Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '21108'
+  :syl: ! '&nbsp'
+  :instructor: Striegel, Aaron
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CSE98901
+  :section: '20'
+  :title: Research and Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '22170'
+  :syl: ! '&nbsp'
+  :instructor: Poellabauer, Christian
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CSE98901
+  :section: '21'
+  :title: Research and Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '23465'
+  :syl: ! '&nbsp'
+  :instructor: Chawla, Nitesh
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CSE98901
+  :section: '40'
+  :title: Research and Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '9'
+  :xlst: ! '&nbsp'
+  :crn: '23954'
+  :syl: ! '&nbsp'
+  :instructor: Emrich, Scott
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CSE98901
+  :section: '41'
+  :title: Research and Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '23958'
+  :syl: ! '&nbsp'
+  :instructor: Blanton, Marina
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CSE98901
+  :section: '42'
+  :title: Research and Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '5'
+  :open_spots: '5'
+  :xlst: ! '&nbsp'
+  :crn: '27215'
+  :syl: ! '&nbsp'
+  :instructor: Niemier, Michael
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CSE98901
+  :section: '47'
+  :title: Research and Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '5'
+  :open_spots: '5'
+  :xlst: ! '&nbsp'
+  :crn: '27090'
+  :syl: ! '&nbsp'
+  :instructor: Riek, Laurel
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CSE98901
+  :section: '48'
+  :title: Research and Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '5'
+  :open_spots: '5'
+  :xlst: ! '&nbsp'
+  :crn: '27089'
+  :syl: ! '&nbsp'
+  :instructor: Santelices, Raul
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CSE98995
+  :section: '01'
+  :title: Non-resident Thesis
+  :credits: V
+  :status: OP
+  :max_spots: '11'
+  :open_spots: '11'
+  :xlst: ! '&nbsp'
+  :crn: '21564'
+  :syl: ! '&nbsp'
+  :instructor: Brockman, Jay
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CSE98995
+  :section: '02'
+  :title: Non-resident Thesis
+  :credits: V
+  :status: OP
+  :max_spots: '5'
+  :open_spots: '5'
+  :xlst: ! '&nbsp'
+  :crn: '22860'
+  :syl: ! '&nbsp'
+  :instructor: Madey, Gregory
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CSE98995
+  :section: '03'
+  :title: Non-resident Thesis
+  :credits: V
+  :status: OP
+  :max_spots: '5'
+  :open_spots: '5'
+  :xlst: ! '&nbsp'
+  :crn: '22861'
+  :syl: ! '&nbsp'
+  :instructor: Flynn, Patrick
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CSE98995
+  :section: '04'
+  :title: Non-resident Thesis
+  :credits: V
+  :status: OP
+  :max_spots: '5'
+  :open_spots: '5'
+  :xlst: ! '&nbsp'
+  :crn: '22862'
+  :syl: ! '&nbsp'
+  :instructor: Hu, Xiaobo
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CSE98995
+  :section: '05'
+  :title: Non-resident Thesis
+  :credits: V
+  :status: OP
+  :max_spots: '75'
+  :open_spots: '75'
+  :xlst: ! '&nbsp'
+  :crn: '22796'
+  :syl: ! '&nbsp'
+  :instructor: Bowyer, Kevin
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CSE98995
+  :section: '06'
+  :title: Non-resident Thesis
+  :credits: V
+  :status: OP
+  :max_spots: '5'
+  :open_spots: '5'
+  :xlst: ! '&nbsp'
+  :crn: '22863'
+  :syl: ! '&nbsp'
+  :instructor: Chen, Danny
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CSE98995
+  :section: '07'
+  :title: Non-resident Thesis
+  :credits: V
+  :status: OP
+  :max_spots: '75'
+  :open_spots: '75'
+  :xlst: ! '&nbsp'
+  :crn: '22795'
+  :syl: ! '&nbsp'
+  :instructor: TBA
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CSE98995
+  :section: 08
+  :title: Non-resident Thesis
+  :credits: V
+  :status: OP
+  :max_spots: '75'
+  :open_spots: '75'
+  :xlst: ! '&nbsp'
+  :crn: '22797'
+  :syl: ! '&nbsp'
+  :instructor: Chaudhary, Amitabh
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CSE98995
+  :section: 09
+  :title: Non-resident Thesis
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '23498'
+  :syl: ! '&nbsp'
+  :instructor: Kogge, Peter
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CSE98995
+  :section: '10'
+  :title: Non-resident Thesis
+  :credits: V
+  :status: OP
+  :max_spots: '75'
+  :open_spots: '75'
+  :xlst: ! '&nbsp'
+  :crn: '22798'
+  :syl: ! '&nbsp'
+  :instructor: Hu, Xiaobo
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CSE98995
+  :section: '11'
+  :title: Non-resident Thesis
+  :credits: V
+  :status: OP
+  :max_spots: '75'
+  :open_spots: '75'
+  :xlst: ! '&nbsp'
+  :crn: '22799'
+  :syl: ! '&nbsp'
+  :instructor: Izaguirre, Jesus
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CSE98995
+  :section: '12'
+  :title: Non-resident Thesis
+  :credits: V
+  :status: OP
+  :max_spots: '75'
+  :open_spots: '75'
+  :xlst: ! '&nbsp'
+  :crn: '22800'
+  :syl: ! '&nbsp'
+  :instructor: Madey, Gregory
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CSE98995
+  :section: '13'
+  :title: Non-resident Thesis
+  :credits: V
+  :status: OP
+  :max_spots: '75'
+  :open_spots: '75'
+  :xlst: ! '&nbsp'
+  :crn: '22801'
+  :syl: ! '&nbsp'
+  :instructor: Poellabauer, Christian
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CSE98995
+  :section: '15'
+  :title: Non-resident Thesis
+  :credits: V
+  :status: OP
+  :max_spots: '75'
+  :open_spots: '75'
+  :xlst: ! '&nbsp'
+  :crn: '22802'
+  :syl: ! '&nbsp'
+  :instructor: Striegel, Aaron
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CSE98995
+  :section: '16'
+  :title: Non-resident Thesis
+  :credits: V
+  :status: OP
+  :max_spots: '75'
+  :open_spots: '75'
+  :xlst: ! '&nbsp'
+  :crn: '22803'
+  :syl: ! '&nbsp'
+  :instructor: Thain, Douglas
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CSE98995
+  :section: '19'
+  :title: Non-resident Thesis
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '27119'
+  :syl: ! '&nbsp'
+  :instructor: Chawla, Nitesh
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CSE98995
+  :section: '40'
+  :title: Non-resident Thesis
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '23953'
+  :syl: ! '&nbsp'
+  :instructor: Emrich, Scott
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CSE98995
+  :section: '41'
+  :title: Non-resident Thesis
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '23957'
+  :syl: ! '&nbsp'
+  :instructor: Blanton, Marina
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA

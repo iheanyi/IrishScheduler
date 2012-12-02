@@ -1,0 +1,209 @@
+---
+- !ruby/object:Course
+  name: Accountancy I
+  credit: '3'
+  coursenum: BAUG20001
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '5'
+    crn: '23588'
+    instructor: Burks, Jeffrey
+    time: T R  - 11:00A - 12:15P
+    location: Edward J. DeBartolo Hall 320
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '1'
+    max_spots: '5'
+    crn: '23589'
+    instructor: Burks, Jeffrey
+    time: T R  - 12:30P - 1:45P
+    location: Edward J. DeBartolo Hall 320
+  - !ruby/object:Section
+    section_num: '03'
+    open_spots: '0'
+    max_spots: '5'
+    crn: '25372'
+    instructor: Burks, Jeffrey
+    time: T R  - 2:00P - 3:15P
+    location: Edward J. DeBartolo Hall 320
+  - !ruby/object:Section
+    section_num: '04'
+    open_spots: '2'
+    max_spots: '10'
+    crn: '26315'
+    instructor: Wray, Christopher
+    time: M W F  - 8:30A - 9:20A
+    location: Edward J. DeBartolo Hall 320
+- !ruby/object:Course
+  name: Internship I
+  credit: '1'
+  coursenum: BAUG25000
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '20'
+    max_spots: '20'
+    crn: '27524'
+    instructor: Shropshire, Gina
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Career Planning
+  credit: '1'
+  coursenum: BAUG30000
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '27'
+    max_spots: '75'
+    crn: '23876'
+    instructor: Vander Heyden, Raymond Bill, LissaSvete, Lee
+    time: R  - 12:30P - 1:45P
+    location: TBA
+- !ruby/object:Course
+  name: Global Commons & Planet Earth
+  credit: '2'
+  coursenum: BAUG30100
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '29066'
+    instructor: TBA
+    time: ! "(1) F S  - 9:00A - 12:00P\r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\r\n\t\t\t
+      \  \t\t\r\n\t\t\t   \t  \r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\t(2) F S  -
+      1:00P - 4:00P"
+    location: ! "TBA\r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\r\n\t\t\t\t
+      \  \t\t\t\r\n\t\t\t\t   \t\t\tTBA"
+- !ruby/object:Course
+  name: 10 Years Hence Lecture Series
+  credit: '1'
+  coursenum: BAUG30210
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '106'
+    max_spots: '200'
+    crn: '22294'
+    instructor: O'Rourke, James
+    time: F  - 10:40A - 12:10P
+    location: Mendoza College of Business 110
+- !ruby/object:Course
+  name: Social Entrepreneurship
+  credit: '3'
+  coursenum: BAUG30505
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '18'
+    crn: '29225'
+    instructor: Paulsen, Melissa Belatti, Frank
+    time: T R  - 3:30P - 4:45P
+    location: Edward J. DeBartolo Hall 316
+- !ruby/object:Course
+  name: Microventuring Consulting
+  credit: '3'
+  coursenum: BAUG30506
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '8'
+    max_spots: '14'
+    crn: '24124'
+    instructor: Paulsen, Melissa Belatti, Frank
+    time: T R  - 12:30P - 1:45P
+    location: Edward J. DeBartolo Hall 316
+- !ruby/object:Course
+  name: Corp Sustainability Reporting
+  credit: '1.5'
+  coursenum: BAUG30620
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '3'
+    max_spots: '6'
+    crn: '25514'
+    instructor: Collins, Sandra
+    time: T R  - 12:30P - 1:45P
+    location: Edward J. DeBartolo Hall 215
+- !ruby/object:Course
+  name: Internship II
+  credit: '1'
+  coursenum: BAUG35000
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '15'
+    max_spots: '15'
+    crn: '25725'
+    instructor: Shropshire, Gina
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Internship Practicum
+  credit: '1'
+  coursenum: BAUG35500
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '19'
+    max_spots: '20'
+    crn: '27525'
+    instructor: Shropshire, Gina
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Wireless Tech, Econ & Reg
+  credit: '3'
+  coursenum: BAUG40402
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '33'
+    max_spots: '35'
+    crn: '26970'
+    instructor: Laneman, J. Nicholas Keating, Barry
+    time: M W  - 3:00P - 4:15P
+    location: Hayes Healy Center 117
+  :xlst: ! '&nbsp'
+  :crn: '25725'
+  :syl: ! '&nbsp'
+  :instructor: Shropshire, Gina
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: BAUG35500
+  :section: '01'
+  :title: Internship Practicum
+  :credits: '1'
+  :status: OP
+  :max_spots: '20'
+  :open_spots: '20'
+  :xlst: ! '&nbsp'
+  :crn: '27525'
+  :syl: ! '&nbsp'
+  :instructor: Shropshire, Gina
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: BAUG40402
+  :section: '01'
+  :title: Wireless Tech, Econ & Reg
+  :credits: '3'
+  :status: OP
+  :max_spots: '35'
+  :open_spots: '32'
+  :xlst: Y
+  :crn: '26970'
+  :syl: ! '&nbsp'
+  :instructor: Laneman, J. Nicholas Keating, Barry
+  :when: M W  - 3:00P - 4:15P
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: Hayes Healy Center 117

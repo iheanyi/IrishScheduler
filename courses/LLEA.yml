@@ -1,0 +1,268 @@
+---
+- !ruby/object:Course
+  name: Literature University Seminar
+  credit: '3'
+  coursenum: LLEA13186
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '16'
+    crn: '21348'
+    instructor: Yang, Xiaoshan
+    time: T R  - 3:30P - 4:45P
+    location: Edward J. DeBartolo Hall 149
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '0'
+    max_spots: '16'
+    crn: '23166'
+    instructor: Brownstein, Michael
+    time: T R  - 2:00P - 3:15P
+    location: Edward J. DeBartolo Hall 308
+- !ruby/object:Course
+  name: Modern South Asia
+  credit: '3'
+  coursenum: LLEA30106
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '1'
+    max_spots: '3'
+    crn: '29465'
+    instructor: Sengupta, Jayanta
+    time: T R  - 9:30A - 10:45A
+    location: Edward J. DeBartolo Hall 231
+- !ruby/object:Course
+  name: Ancient Japan
+  credit: '3'
+  coursenum: LLEA30110
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '1'
+    max_spots: '1'
+    crn: '29466'
+    instructor: Thomas, Julia
+    time: T R  - 11:00A - 12:15P
+    location: Coleman Morse Center 231
+- !ruby/object:Course
+  name: Christianity in Asia
+  credit: '3'
+  coursenum: LLEA30121
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '2'
+    crn: '29467'
+    instructor: Choi, Peter
+    time: T R  - 12:30P - 1:45P
+    location: Edward J. DeBartolo Hall 306
+- !ruby/object:Course
+  name: Gateway to East Asia I
+  credit: '3'
+  coursenum: LLEA30314
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '5'
+    max_spots: '19'
+    crn: '28584'
+    instructor: Yasar, Kerim
+    time: T R  - 3:30P - 4:45P
+    location: Edward J. DeBartolo Hall 246
+- !ruby/object:Course
+  name: Crimes of Passion
+  credit: '3'
+  coursenum: LLEA30315
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '4'
+    max_spots: '14'
+    crn: '29468'
+    instructor: Brownstein, Michael
+    time: M W  - 3:00P - 4:15P
+    location: Edward J. DeBartolo Hall 349
+- !ruby/object:Course
+  name: Chinese Civilization & Culture
+  credit: '3'
+  coursenum: LLEA30403
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '40'
+    crn: '28585'
+    instructor: Yang, Xiaoshan
+    time: T R  - 2:00P - 3:15P
+    location: Edward J. DeBartolo Hall 126
+- !ruby/object:Course
+  name: Intro to Korean History & Cult
+  credit: '3'
+  coursenum: LLEA30405
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '1'
+    max_spots: '18'
+    crn: '25472'
+    instructor: Lee, Jung-Hyuck
+    time: T R  - 9:30A - 10:45A
+    location: Flanner Hall 625
+- !ruby/object:Course
+  name: The Family in Japanese Film an
+  credit: '3'
+  coursenum: LLEA30415
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '4'
+    max_spots: '17'
+    crn: '28586'
+    instructor: Yasar, Kerim
+    time: T R  - 11:00A - 12:15P
+    location: O'Shaughnessy Hall 107
+- !ruby/object:Course
+  name: Japanese Film Lab
+  credit: '0'
+  coursenum: LLEA31415
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '7'
+    max_spots: '17'
+    crn: '29469'
+    instructor: Yasar, Kerim
+    time: W  - 5:00P - 7:00P
+    location: Edward J. DeBartolo Hall 330
+- !ruby/object:Course
+  name: Masters Contempry Chinese Cin
+  credit: '3'
+  coursenum: LLEA33105
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '1'
+    max_spots: '20'
+    crn: '28588'
+    instructor: Lin, Sylvia
+    time: M W  - 1:30P - 2:45P
+    location: Geddes Hall B034
+- !ruby/object:Course
+  name: Ghandi's India
+  credit: '3'
+  coursenum: LLEA40180
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '1'
+    max_spots: '2'
+    crn: '29470'
+    instructor: Sengupta, Jayanta
+    time: T R  - 3:30P - 4:45P
+    location: Edward J. DeBartolo Hall 334
+- !ruby/object:Course
+  name: Literati Cltr Late Imprl China
+  credit: '3'
+  coursenum: LLEA40404
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '19'
+    crn: '28589'
+    instructor: Ge, Liangyan
+    time: M W  - 3:00P - 4:15P
+    location: Edward J. DeBartolo Hall 308
+- !ruby/object:Course
+  name: The Worlds of Buddhism
+  credit: '3'
+  coursenum: LLEA40858
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '23'
+    max_spots: '30'
+    crn: '28590'
+    instructor: Gimello, Robert
+    time: T R  - 2:00P - 3:15P
+    location: Edward J. DeBartolo Hall 120
+- !ruby/object:Course
+  name: Directed Readings
+  credit: '1'
+  coursenum: LLEA46498
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '1'
+    max_spots: '2'
+    crn: '25473'
+    instructor: Lin, Sylvia
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Honors Thesis Chinese
+  credit: '3'
+  coursenum: LLEA58312
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '2'
+    max_spots: '2'
+    crn: '26986'
+    instructor: Ge, Liangyan
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '3'
+    max_spots: '3'
+    crn: '26987'
+    instructor: Yang, Xiaoshan
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '03'
+    open_spots: '1'
+    max_spots: '1'
+    crn: '26988'
+    instructor: Jensen, Lionel
+    time: TBA
+    location: TBA
+uctor: Ge, Liangyan
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: LLEA58312
+  :section: '02'
+  :title: Honors Thesis Chinese
+  :credits: '3'
+  :status: OP
+  :max_spots: '3'
+  :open_spots: '3'
+  :xlst: ! '&nbsp'
+  :crn: '26987'
+  :syl: ! '&nbsp'
+  :instructor: Yang, Xiaoshan
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: LLEA58312
+  :section: '03'
+  :title: Honors Thesis Chinese
+  :credits: '3'
+  :status: OP
+  :max_spots: '1'
+  :open_spots: '1'
+  :xlst: ! '&nbsp'
+  :crn: '26988'
+  :syl: ! '&nbsp'
+  :instructor: Jensen, Lionel
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA

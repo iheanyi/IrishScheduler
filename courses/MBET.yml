@@ -1,0 +1,86 @@
+---
+- !ruby/object:Course
+  name: International Business Ethics
+  credit: '2'
+  coursenum: MBET60330
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '12'
+    max_spots: '36'
+    crn: '22217'
+    instructor: Enderle, Georges
+    time: T R  - 10:00A - 11:50A
+    location: Mendoza College of Business 162
+- !ruby/object:Course
+  name: Ethics in Finance and Banking
+  credit: '2'
+  coursenum: MBET60370
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '19'
+    max_spots: '36'
+    crn: '22484'
+    instructor: Enderle, Georges
+    time: T R  - 3:00P - 4:50P
+    location: Mendoza College of Business 159
+- !ruby/object:Course
+  name: The Business of Sustainability
+  credit: '2'
+  coursenum: MBET70540
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '18'
+    max_spots: '52'
+    crn: '29530'
+    instructor: Holt, Joseph
+    time: T R  - 5:00P - 6:50P
+    location: Mendoza College of Business 134
+- !ruby/object:Course
+  name: Spirituality & Rel in Workplce
+  credit: '2'
+  coursenum: MBET70600
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '29'
+    max_spots: '52'
+    crn: '26904'
+    instructor: Holt, Joseph
+    time: T R  - 1:00P - 2:50P
+    location: Mendoza College of Business 134
+- !ruby/object:Course
+  name: ! 'Corp Cit: Bus, Dev, & the Env'
+  credit: '2'
+  coursenum: MBET70630
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '21'
+    max_spots: '35'
+    crn: '29819'
+    instructor: Opio, Peter
+    time: T R  - 3:00P - 4:50P
+    location: TBA
+- !ruby/object:Course
+  name: Ethical Ldrshp & Integ in Bus
+  credit: '2'
+  coursenum: MBET70640
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '27'
+    max_spots: '35'
+    crn: '29820'
+    instructor: Opio, Peter
+    time: T R  - 8:00A - 9:50A
+    location: TBA
+9820'
+  :syl: ! '&nbsp'
+  :instructor: Opio, Peter
+  :when: T R  - 8:00A - 9:50A
+  :begin: 01/14/2013
+  :end: 03/01/2013
+  :location: TBA

@@ -1,0 +1,1380 @@
+---
+- !ruby/object:Course
+  name: Understanding Societies
+  credit: '3'
+  coursenum: SOC10002
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '25'
+    max_spots: '100'
+    crn: '20509'
+    instructor: Langenkamp, Amy
+    time: T R  - 12:30P - 1:45P
+    location: Edward J. DeBartolo Hall 155
+- !ruby/object:Course
+  name: Intro to Social Problems
+  credit: '3'
+  coursenum: SOC10033
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '1'
+    max_spots: '49'
+    crn: '23609'
+    instructor: McClintock, Elizabeth
+    time: T R  - 12:30P - 1:45P
+    location: Edward J. DeBartolo Hall 140
+- !ruby/object:Course
+  name: Intro to Social Psychology
+  credit: '3'
+  coursenum: SOC10722
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '48'
+    max_spots: '100'
+    crn: '21057'
+    instructor: Gunty, Mark
+    time: M W F  - 10:40A - 11:30A
+    location: Geddes Hall B001
+- !ruby/object:Course
+  name: Sociology Honors Seminar
+  credit: '3'
+  coursenum: SOC13095
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '16'
+    crn: '24986'
+    instructor: Halton, Eugene
+    time: T R  - 5:00P - 6:15P
+    location: Edward J. DeBartolo Hall 113
+- !ruby/object:Course
+  name: Soc Science University Seminar
+  credit: '3'
+  coursenum: SOC13181
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '16'
+    crn: '22009'
+    instructor: Summers-Effler, Erika
+    time: T R  - 3:30P - 4:45P
+    location: Flanner Hall 925
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '0'
+    max_spots: '16'
+    crn: '22010'
+    instructor: McDonnell, Erin
+    time: T R  - 9:30A - 10:45A
+    location: Flanner Hall 824
+  - !ruby/object:Section
+    section_num: '03'
+    open_spots: '0'
+    max_spots: '16'
+    crn: '22011'
+    instructor: Fishman, Robert
+    time: T R  - 2:00P - 3:15P
+    location: Edward J. DeBartolo Hall 333
+  - !ruby/object:Section
+    section_num: '04'
+    open_spots: '0'
+    max_spots: '16'
+    crn: '22019'
+    instructor: Welch, Michael
+    time: T R  - 2:00P - 3:15P
+    location: Grace Hall 346
+  - !ruby/object:Section
+    section_num: '05'
+    open_spots: '0'
+    max_spots: '16'
+    crn: '29760'
+    instructor: Christiano, Kevin
+    time: T R  - 12:30P - 1:45P
+    location: Main Building 218
+- !ruby/object:Course
+  name: Understanding Societies
+  credit: '3'
+  coursenum: SOC20002
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '3'
+    max_spots: '49'
+    crn: '24975'
+    instructor: McDonnell, Terence
+    time: M W  - 11:45A - 1:00P
+    location: Pasquerilla Center 114
+- !ruby/object:Course
+  name: Intro Social Problems
+  credit: '3'
+  coursenum: SOC20033
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '1'
+    max_spots: '23'
+    crn: '23610'
+    instructor: Summers-Effler, Erika
+    time: T R  - 2:00P - 3:15P
+    location: Geddes Hall B036
+- !ruby/object:Course
+  name: Social Inequality & Amer Educ
+  credit: '3'
+  coursenum: SOC20228
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '30'
+    crn: '28845'
+    instructor: Langenkamp, Amy
+    time: T R  - 11:00A - 12:15P
+    location: O'Shaughnessy Hall 117
+- !ruby/object:Course
+  name: Marriage and the Family
+  credit: '3'
+  coursenum: SOC20342
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '13'
+    max_spots: '44'
+    crn: '21980'
+    instructor: McClintock, Elizabeth
+    time: T R  - 5:00P - 6:15P
+    location: Edward J. DeBartolo Hall 317
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '2'
+    max_spots: '2'
+    crn: '23324'
+    instructor: McClintock, Elizabeth
+    time: T R  - 5:00P - 6:15P
+    location: Edward J. DeBartolo Hall 317
+- !ruby/object:Course
+  name: Sociology of War and Terror
+  credit: '3'
+  coursenum: SOC20541
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '5'
+    max_spots: '45'
+    crn: '25063'
+    instructor: Faeges, Russell
+    time: M W F  - 12:50P - 1:40P
+    location: Riley Hall of Art 108A
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '2'
+    max_spots: '2'
+    crn: '25992'
+    instructor: Faeges, Russell
+    time: M W F  - 12:50P - 1:40P
+    location: Riley Hall of Art 108A
+- !ruby/object:Course
+  name: Intro to Social Psychology
+  credit: '3'
+  coursenum: SOC20722
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '7'
+    max_spots: '49'
+    crn: '23611'
+    instructor: Gunty, Mark
+    time: M W F  - 10:40A - 11:30A
+    location: Geddes Hall B001
+- !ruby/object:Course
+  name: Introduction to Criminology
+  credit: '3'
+  coursenum: SOC20732
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '151'
+    crn: '23147'
+    instructor: Thomas, Mim
+    time: M W F  - 11:45A - 12:35P
+    location: Edward J. DeBartolo Hall 101
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '0'
+    max_spots: '2'
+    crn: '25050'
+    instructor: Thomas, Mim
+    time: M W F  - 11:45A - 12:35P
+    location: Edward J. DeBartolo Hall 101
+- !ruby/object:Course
+  name: ! 'Jerusalem: Peace or Apocalypse'
+  credit: '3'
+  coursenum: SOC30602
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '4'
+    max_spots: '5'
+    crn: '29327'
+    instructor: Omer, Atalia
+    time: T R  - 2:00P - 3:15P
+    location: Edward J. DeBartolo Hall 206
+- !ruby/object:Course
+  name: Catholicism in Contemp America
+  credit: '3'
+  coursenum: SOC30671
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '17'
+    crn: '28846'
+    instructor: Starks, Brian
+    time: M W  - 3:00P - 4:15P
+    location: Pasquerilla Center 102
+- !ruby/object:Course
+  name: Religion and Social Life
+  credit: '3'
+  coursenum: SOC30672
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '5'
+    max_spots: '19'
+    crn: '21895'
+    instructor: Christiano, Kevin
+    time: T R  - 3:30P - 4:45P
+    location: Pasquerilla Center 107
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '2'
+    max_spots: '2'
+    crn: '23325'
+    instructor: Christiano, Kevin
+    time: T R  - 3:30P - 4:45P
+    location: Pasquerilla Center 107
+- !ruby/object:Course
+  name: Foundations Sociological Thry
+  credit: '3'
+  coursenum: SOC30900
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '3'
+    max_spots: '22'
+    crn: '20369'
+    instructor: Whitnah, Meredith
+    time: T R  - 12:30P - 1:45P
+    location: Edward J. DeBartolo Hall 126
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '0'
+    max_spots: '2'
+    crn: '23612'
+    instructor: Whitnah, Meredith
+    time: T R  - 12:30P - 1:45P
+    location: Edward J. DeBartolo Hall 126
+- !ruby/object:Course
+  name: Methods Sociological Research
+  credit: '3'
+  coursenum: SOC30902
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '11'
+    max_spots: '35'
+    crn: '21924'
+    instructor: Hachen, David
+    time: T R  - 9:30A - 10:45A
+    location: Geddes Hall B036
+- !ruby/object:Course
+  name: Stats Sociological Research
+  credit: '3'
+  coursenum: SOC30903
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '23'
+    max_spots: '40'
+    crn: '21954'
+    instructor: Andrew, Megan
+    time: M W F  - 9:35A - 10:25A
+    location: O'Shaughnessy Hall 242
+- !ruby/object:Course
+  name: Soc, Self, Cath Soc Trad
+  credit: '3'
+  coursenum: SOC33001
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '4'
+    max_spots: '13'
+    crn: '28847'
+    instructor: Weigert, Andrew
+    time: T R  - 2:00P - 3:15P
+    location: O'Shaughnessy Hall 115
+- !ruby/object:Course
+  name: Proseminar
+  credit: '1'
+  coursenum: SOC33090
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '15'
+    max_spots: '42'
+    crn: '21360'
+    instructor: Power, AnnMarie
+    time: F  - 12:50P - 1:40P
+    location: O'Shaughnessy Hall 118
+- !ruby/object:Course
+  name: ! 'Tolerance: Ethical Perspective'
+  credit: '3'
+  coursenum: SOC40604
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '4'
+    max_spots: '10'
+    crn: '29328'
+    instructor: Springs, Jason
+    time: M W  - 3:00P - 4:15P
+    location: Edward J. DeBartolo Hall 201
+- !ruby/object:Course
+  name: Senior Thesis Workshop
+  credit: '0'
+  coursenum: SOC41800
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '16'
+    max_spots: '19'
+    crn: '25073'
+    instructor: Power, AnnMarie
+    time: W  - 8:30A - 9:20A
+    location: Flanner Hall 925
+- !ruby/object:Course
+  name: Sociolgy of Media, Tech, Socty
+  credit: '3'
+  coursenum: SOC43110
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '17'
+    crn: '25074'
+    instructor: Halton, Eugene
+    time: T R  - 3:30P - 4:45P
+    location: Edward J. DeBartolo Hall 113
+- !ruby/object:Course
+  name: Aesthetics of Latino Culture
+  credit: '3'
+  coursenum: SOC43162
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '1'
+    max_spots: '6'
+    crn: '21981'
+    instructor: Cardenas, Gilberto Brown-Gort, Allert
+    time: M W  - 1:30P - 2:45P
+    location: TBA
+- !ruby/object:Course
+  name: Culture, Morality, and Society
+  credit: '3'
+  coursenum: SOC43197
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '4'
+    max_spots: '19'
+    crn: '28848'
+    instructor: Lizardo, Omar
+    time: M W  - 3:00P - 4:15P
+    location: Flanner Hall 625
+- !ruby/object:Course
+  name: Population Dynamics
+  credit: '3'
+  coursenum: SOC43402
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '18'
+    crn: '23140'
+    instructor: Williams, Richard
+    time: M W  - 11:45A - 1:00P
+    location: Edward J. DeBartolo Hall 332
+- !ruby/object:Course
+  name: ! 'Interntl Migration: Mex/US II'
+  credit: '2'
+  coursenum: SOC43404
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '6'
+    max_spots: '14'
+    crn: '22245'
+    instructor: Bustamante, Jorge
+    time: T R  - 3:30P - 6:00P
+    location: Edward J. DeBartolo Hall 217
+- !ruby/object:Course
+  name: Sociology of Development
+  credit: '3'
+  coursenum: SOC43513
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '11'
+    crn: '28849'
+    instructor: Valenzuela, J. Samuel
+    time: T R  - 11:00A - 12:15P
+    location: Edward J. DeBartolo Hall 108
+- !ruby/object:Course
+  name: Law, Society, and Criminal Jus
+  credit: '3'
+  coursenum: SOC43704
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '1'
+    max_spots: '19'
+    crn: '28850'
+    instructor: Welch, Michael
+    time: T R  - 12:30P - 1:45P
+    location: Grace Hall 346
+- !ruby/object:Course
+  name: Sociology Internship
+  credit: V
+  coursenum: SOC45000
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '20'
+    max_spots: '25'
+    crn: '23604'
+    instructor: Power, AnnMarie
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Special Practicum Journal Pub
+  credit: V
+  coursenum: SOC45900
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '24304'
+    instructor: Faeges, Russell
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Directed Readings
+  credit: V
+  coursenum: SOC46000
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '4'
+    max_spots: '4'
+    crn: '23605'
+    instructor: TBA
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Senior Thesis Capstone Project
+  credit: '3'
+  coursenum: SOC48009
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '2'
+    max_spots: '2'
+    crn: '23606'
+    instructor: Williams, Richard
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '0'
+    max_spots: '1'
+    crn: '23607'
+    instructor: Spillman, Lynette
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '03'
+    open_spots: '2'
+    max_spots: '3'
+    crn: '23608'
+    instructor: McDonnell, Terence
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '04'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '23912'
+    instructor: Gunty, Mark
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '05'
+    open_spots: '1'
+    max_spots: '1'
+    crn: '24275'
+    instructor: Lizardo, Omar
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '06'
+    open_spots: '0'
+    max_spots: '1'
+    crn: '24276'
+    instructor: McKenna, Maria
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Social and Religious Research
+  credit: V
+  coursenum: SOC48601
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '16'
+    max_spots: '19'
+    crn: '29761'
+    instructor: Sikkink, David
+    time: T R  - 3:30P - 4:45P
+    location: Coleman Morse Center 330
+- !ruby/object:Course
+  name: Statistics II - Lab
+  credit: '0'
+  coursenum: SOC51993
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '1'
+    max_spots: '1'
+    crn: '25597'
+    instructor: Jonason, Amy
+    time: F  - 1:30P - 2:45P
+    location: Edward J. DeBartolo Hall 331
+- !ruby/object:Course
+  name: Cultural Sociology
+  credit: '3'
+  coursenum: SOC53125
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '3'
+    max_spots: '4'
+    crn: '25599'
+    instructor: Spillman, Lynette
+    time: T  - 3:30P - 6:00P
+    location: O'Shaughnessy Hall 204A
+- !ruby/object:Course
+  name: Sociology of Education II
+  credit: '3'
+  coursenum: SOC53242
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '2'
+    crn: '29816'
+    instructor: Berends, Mark
+    time: F  - 9:00A - 11:30A
+    location: TBA
+- !ruby/object:Course
+  name: Social Stratification
+  credit: '3'
+  coursenum: SOC53826
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '3'
+    max_spots: '3'
+    crn: '27072'
+    instructor: Andrew, Megan
+    time: R  - 3:30P - 6:00P
+    location: Edward J. DeBartolo Hall 307
+- !ruby/object:Course
+  name: Research Methods
+  credit: '3'
+  coursenum: SOC53913
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '1'
+    max_spots: '1'
+    crn: '27081'
+    instructor: Fishman, Robert
+    time: T R  - 11:00A - 12:15P
+    location: Edward J. DeBartolo Hall 143
+- !ruby/object:Course
+  name: Statistics II
+  credit: '3'
+  coursenum: SOC53993
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '1'
+    max_spots: '1'
+    crn: '25598'
+    instructor: Williams, Richard
+    time: M W  - 1:30P - 2:45P
+    location: Edward J. DeBartolo Hall 333
+- !ruby/object:Course
+  name: Statistics II Lab
+  credit: '0'
+  coursenum: SOC61993
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '10'
+    max_spots: '19'
+    crn: '21888'
+    instructor: Jonason, Amy
+    time: F  - 1:30P - 2:45P
+    location: Edward J. DeBartolo Hall 331
+- !ruby/object:Course
+  name: Proseminar II
+  credit: '1'
+  coursenum: SOC63092
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '2'
+    max_spots: '12'
+    crn: '25998'
+    instructor: Hachen, David
+    time: M  - 9:30A - 10:25A
+    location: Hammes Mowbray Hall 313
+- !ruby/object:Course
+  name: Culture Workshop
+  credit: '1'
+  coursenum: SOC63119
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '15'
+    max_spots: '19'
+    crn: '26850'
+    instructor: McDonnell, Terence
+    time: F  - 1:30P - 3:00P
+    location: Flanner Hall 323
+- !ruby/object:Course
+  name: Cultural Sociology
+  credit: '3'
+  coursenum: SOC63125
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '6'
+    max_spots: '11'
+    crn: '24648'
+    instructor: Spillman, Lynette
+    time: T  - 3:30P - 6:00P
+    location: O'Shaughnessy Hall 204A
+- !ruby/object:Course
+  name: Sociology of Education II
+  credit: '3'
+  coursenum: SOC63242
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '2'
+    max_spots: '10'
+    crn: '28852'
+    instructor: Berends, Mark
+    time: F  - 9:00A - 11:30A
+    location: TBA
+- !ruby/object:Course
+  name: CREO Seminar
+  credit: '2'
+  coursenum: SOC63279
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '12'
+    max_spots: '19'
+    crn: '21733'
+    instructor: Carbonaro, William
+    time: M  - 3:00P - 4:30P
+    location: TBA
+- !ruby/object:Course
+  name: Training Sem:Soc Mov and Poli
+  credit: '1'
+  coursenum: SOC63578
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '18'
+    max_spots: '19'
+    crn: '22389'
+    instructor: Beyerlein, Kraig
+    time: W  - 10:00A - 11:00A
+    location: Flanner Hall 824
+- !ruby/object:Course
+  name: Research & Analysis Soc of Rel
+  credit: '1'
+  coursenum: SOC63691
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '18'
+    max_spots: '25'
+    crn: '26851'
+    instructor: Beyerlein, Kraig
+    time: R  - 7:30P - 9:00P
+    location: TBA
+- !ruby/object:Course
+  name: Race and Ethnic Conflict
+  credit: '3'
+  coursenum: SOC63801
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '9'
+    max_spots: '12'
+    crn: '28853'
+    instructor: McVeigh, Rory
+    time: R  - 8:15A - 10:45A
+    location: Edward J. DeBartolo Hall 242
+- !ruby/object:Course
+  name: Social Stratification
+  credit: '3'
+  coursenum: SOC63826
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '26000'
+    instructor: Andrew, Megan
+    time: R  - 3:30P - 6:00P
+    location: Edward J. DeBartolo Hall 307
+- !ruby/object:Course
+  name: Social Networks
+  credit: '3'
+  coursenum: SOC63901
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '13'
+    max_spots: '19'
+    crn: '28854'
+    instructor: Hachen, David Lizardo, Omar
+    time: ! "(1) T  - 12:30P - 1:45P\r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\r\n\t\t\t
+      \  \t\t\r\n\t\t\t   \t  \r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\t(2) R  - 12:30P
+      - 1:45P"
+    location: ! "Flanner Hall 725 \r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\t\r\n\t\t\t\t
+      \  \t\r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\tEdward J. DeBartolo Hall 228"
+- !ruby/object:Course
+  name: Research Methods
+  credit: '3'
+  coursenum: SOC63913
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '2'
+    max_spots: '12'
+    crn: '21124'
+    instructor: Fishman, Robert
+    time: T R  - 11:00A - 12:15P
+    location: Edward J. DeBartolo Hall 143
+- !ruby/object:Course
+  name: Designing Qualitative Research
+  credit: '3'
+  coursenum: SOC63915
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '7'
+    max_spots: '12'
+    crn: '28855'
+    instructor: Spillman, Lynette
+    time: F  - 3:00P - 5:30P
+    location: Flanner Hall 925
+- !ruby/object:Course
+  name: Hist & Comparative Sociology
+  credit: '3'
+  coursenum: SOC63957
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '9'
+    max_spots: '12'
+    crn: '28856'
+    instructor: Valenzuela, J. Samuel
+    time: T R  - 2:00P - 3:15P
+    location: Edward J. DeBartolo Hall 307
+- !ruby/object:Course
+  name: Statistics II
+  credit: '3'
+  coursenum: SOC63993
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '9'
+    max_spots: '18'
+    crn: '21739'
+    instructor: Williams, Richard
+    time: M W  - 1:30P - 2:45P
+    location: Edward J. DeBartolo Hall 333
+- !ruby/object:Course
+  name: Law & Modern Society
+  credit: '2'
+  coursenum: SOC70978
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '14'
+    max_spots: '15'
+    crn: '29877'
+    instructor: Nolan, James
+    time: M T R F  - 6:00P - 8:10P
+    location: TBA
+- !ruby/object:Course
+  name: Directed Readings in Sociology
+  credit: V
+  coursenum: SOC76098
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '20120'
+    instructor: Christiano, Kevin
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '21107'
+    instructor: Carbonaro, William
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '03'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '20772'
+    instructor: Cardenas, Gilberto
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '04'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '20281'
+    instructor: McVeigh, Rory
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '05'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '21544'
+    instructor: Christiano, Kevin
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '06'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '21802'
+    instructor: Lizardo, Omar
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '07'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '21355'
+    instructor: Fishman, Robert
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: 08
+    open_spots: '5'
+    max_spots: '5'
+    crn: '20988'
+    instructor: Hachen, David
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: 09
+    open_spots: '5'
+    max_spots: '5'
+    crn: '20075'
+    instructor: Hallinan, Maureen
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '10'
+    open_spots: '3'
+    max_spots: '3'
+    crn: '21074'
+    instructor: Halton, Eugene
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '11'
+    open_spots: '3'
+    max_spots: '3'
+    crn: '21749'
+    instructor: Summers-Effler, Erika
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '12'
+    open_spots: '3'
+    max_spots: '3'
+    crn: '21025'
+    instructor: Klein, David
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '13'
+    open_spots: '3'
+    max_spots: '3'
+    crn: '20681'
+    instructor: Welch, Michael
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '14'
+    open_spots: '3'
+    max_spots: '3'
+    crn: '21698'
+    instructor: TBA
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '15'
+    open_spots: '3'
+    max_spots: '3'
+    crn: '20372'
+    instructor: Spillman, Lynette
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '16'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '21468'
+    instructor: Williams, Richard
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '17'
+    open_spots: '3'
+    max_spots: '3'
+    crn: '20835'
+    instructor: Valenzuela, J. Samuel
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '18'
+    open_spots: '3'
+    max_spots: '3'
+    crn: '20558'
+    instructor: TBA
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '19'
+    open_spots: '3'
+    max_spots: '3'
+    crn: '20703'
+    instructor: Sikkink, David
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '20'
+    open_spots: '3'
+    max_spots: '3'
+    crn: '20567'
+    instructor: TBA
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Directed Readings
+  credit: V
+  coursenum: SOC76099
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '3'
+    max_spots: '3'
+    crn: '23959'
+    instructor: Christiano, Kevin
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Thesis Direction
+  credit: V
+  coursenum: SOC78599
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '17'
+    max_spots: '20'
+    crn: '20877'
+    instructor: McVeigh, Rory
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Nonresident Thesis Research
+  credit: V
+  coursenum: SOC78600
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20659'
+    instructor: McVeigh, Rory
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Research and Dissertation
+  credit: '1'
+  coursenum: SOC98699
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '15'
+    max_spots: '15'
+    crn: '21372'
+    instructor: McVeigh, Rory
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '17'
+    max_spots: '40'
+    crn: '23491'
+    instructor: McVeigh, Rory
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Nonresident Dissertation Rsrch
+  credit: V
+  coursenum: SOC98700
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '20'
+    max_spots: '20'
+    crn: '20871'
+    instructor: McVeigh, Rory
+    time: TBA
+    location: TBA
+gy
+  :credits: V
+  :status: OP
+  :max_spots: '5'
+  :open_spots: '5'
+  :xlst: ! '&nbsp'
+  :crn: '21355'
+  :syl: ! '&nbsp'
+  :instructor: Fishman, Robert
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: SOC76098
+  :section: 08
+  :title: Directed Readings in Sociology
+  :credits: V
+  :status: OP
+  :max_spots: '5'
+  :open_spots: '5'
+  :xlst: ! '&nbsp'
+  :crn: '20988'
+  :syl: ! '&nbsp'
+  :instructor: Hachen, David
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: SOC76098
+  :section: 09
+  :title: Directed Readings in Sociology
+  :credits: V
+  :status: OP
+  :max_spots: '5'
+  :open_spots: '5'
+  :xlst: ! '&nbsp'
+  :crn: '20075'
+  :syl: ! '&nbsp'
+  :instructor: Hallinan, Maureen
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: SOC76098
+  :section: '10'
+  :title: Directed Readings in Sociology
+  :credits: V
+  :status: OP
+  :max_spots: '3'
+  :open_spots: '3'
+  :xlst: ! '&nbsp'
+  :crn: '21074'
+  :syl: ! '&nbsp'
+  :instructor: Halton, Eugene
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: SOC76098
+  :section: '11'
+  :title: Directed Readings in Sociology
+  :credits: V
+  :status: OP
+  :max_spots: '3'
+  :open_spots: '3'
+  :xlst: ! '&nbsp'
+  :crn: '21749'
+  :syl: ! '&nbsp'
+  :instructor: Summers-Effler, Erika
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: SOC76098
+  :section: '12'
+  :title: Directed Readings in Sociology
+  :credits: V
+  :status: OP
+  :max_spots: '3'
+  :open_spots: '3'
+  :xlst: ! '&nbsp'
+  :crn: '21025'
+  :syl: ! '&nbsp'
+  :instructor: Klein, David
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: SOC76098
+  :section: '13'
+  :title: Directed Readings in Sociology
+  :credits: V
+  :status: OP
+  :max_spots: '3'
+  :open_spots: '3'
+  :xlst: ! '&nbsp'
+  :crn: '20681'
+  :syl: ! '&nbsp'
+  :instructor: Welch, Michael
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: SOC76098
+  :section: '14'
+  :title: Directed Readings in Sociology
+  :credits: V
+  :status: OP
+  :max_spots: '3'
+  :open_spots: '3'
+  :xlst: ! '&nbsp'
+  :crn: '21698'
+  :syl: ! '&nbsp'
+  :instructor: TBA
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: SOC76098
+  :section: '15'
+  :title: Directed Readings in Sociology
+  :credits: V
+  :status: OP
+  :max_spots: '3'
+  :open_spots: '3'
+  :xlst: ! '&nbsp'
+  :crn: '20372'
+  :syl: ! '&nbsp'
+  :instructor: Spillman, Lynette
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: SOC76098
+  :section: '16'
+  :title: Directed Readings in Sociology
+  :credits: V
+  :status: OP
+  :max_spots: '5'
+  :open_spots: '5'
+  :xlst: ! '&nbsp'
+  :crn: '21468'
+  :syl: ! '&nbsp'
+  :instructor: Williams, Richard
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: SOC76098
+  :section: '17'
+  :title: Directed Readings in Sociology
+  :credits: V
+  :status: OP
+  :max_spots: '3'
+  :open_spots: '3'
+  :xlst: ! '&nbsp'
+  :crn: '20835'
+  :syl: ! '&nbsp'
+  :instructor: Valenzuela, J. Samuel
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: SOC76098
+  :section: '18'
+  :title: Directed Readings in Sociology
+  :credits: V
+  :status: OP
+  :max_spots: '3'
+  :open_spots: '3'
+  :xlst: ! '&nbsp'
+  :crn: '20558'
+  :syl: ! '&nbsp'
+  :instructor: TBA
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: SOC76098
+  :section: '19'
+  :title: Directed Readings in Sociology
+  :credits: V
+  :status: OP
+  :max_spots: '3'
+  :open_spots: '3'
+  :xlst: ! '&nbsp'
+  :crn: '20703'
+  :syl: ! '&nbsp'
+  :instructor: Sikkink, David
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: SOC76098
+  :section: '20'
+  :title: Directed Readings in Sociology
+  :credits: V
+  :status: OP
+  :max_spots: '3'
+  :open_spots: '3'
+  :xlst: ! '&nbsp'
+  :crn: '20567'
+  :syl: ! '&nbsp'
+  :instructor: TBA
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: SOC76099
+  :section: '01'
+  :title: Directed Readings
+  :credits: V
+  :status: OP
+  :max_spots: '3'
+  :open_spots: '3'
+  :xlst: ! '&nbsp'
+  :crn: '23959'
+  :syl: ! '&nbsp'
+  :instructor: Christiano, Kevin
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: SOC78599
+  :section: '01'
+  :title: Thesis Direction
+  :credits: V
+  :status: OP
+  :max_spots: '20'
+  :open_spots: '18'
+  :xlst: ! '&nbsp'
+  :crn: '20877'
+  :syl: ! '&nbsp'
+  :instructor: McVeigh, Rory
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: SOC78600
+  :section: '01'
+  :title: Nonresident Thesis Research
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '20659'
+  :syl: ! '&nbsp'
+  :instructor: McVeigh, Rory
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: SOC98699
+  :section: '01'
+  :title: Research and Dissertation
+  :credits: '1'
+  :status: OP
+  :max_spots: '15'
+  :open_spots: '15'
+  :xlst: ! '&nbsp'
+  :crn: '21372'
+  :syl: ! '&nbsp'
+  :instructor: McVeigh, Rory
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: SOC98699
+  :section: '02'
+  :title: Research and Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '40'
+  :open_spots: '22'
+  :xlst: ! '&nbsp'
+  :crn: '23491'
+  :syl: ! '&nbsp'
+  :instructor: McVeigh, Rory
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: SOC98700
+  :section: '01'
+  :title: Nonresident Dissertation Rsrch
+  :credits: V
+  :status: OP
+  :max_spots: '20'
+  :open_spots: '20'
+  :xlst: ! '&nbsp'
+  :crn: '20871'
+  :syl: ! '&nbsp'
+  :instructor: McVeigh, Rory
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA

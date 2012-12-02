@@ -1,0 +1,923 @@
+---
+- !ruby/object:Course
+  name: Principles of Management
+  credit: '3'
+  coursenum: MGT20200
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '45'
+    crn: '23124'
+    instructor: Hu, Jia
+    time: T R  - 9:30A - 10:45A
+    location: Edward J. DeBartolo Hall 310
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '-1'
+    max_spots: '45'
+    crn: '24550'
+    instructor: Hu, Jia
+    time: T R  - 2:00P - 3:15P
+    location: Edward J. DeBartolo Hall 310
+  - !ruby/object:Section
+    section_num: '03'
+    open_spots: '0'
+    max_spots: '45'
+    crn: '23128'
+    instructor: Hu, Jia
+    time: T R  - 3:30P - 4:45P
+    location: Edward J. DeBartolo Hall 310
+  - !ruby/object:Section
+    section_num: '04'
+    open_spots: '0'
+    max_spots: '45'
+    crn: '23129'
+    instructor: Slaggert, Karen
+    time: M W F  - 10:40A - 11:30A
+    location: Edward J. DeBartolo Hall 318
+  - !ruby/object:Section
+    section_num: '05'
+    open_spots: '-1'
+    max_spots: '45'
+    crn: '24125'
+    instructor: Whitt, Michael
+    time: M W F  - 1:55P - 2:45P
+    location: Edward J. DeBartolo Hall 312
+  - !ruby/object:Section
+    section_num: '06'
+    open_spots: '0'
+    max_spots: '45'
+    crn: '25903'
+    instructor: Whitt, Michael
+    time: M W F  - 3:00P - 3:50P
+    location: Edward J. DeBartolo Hall 312
+- !ruby/object:Course
+  name: IT Management Applications
+  credit: '3'
+  coursenum: MGT20600
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '32'
+    crn: '21142'
+    instructor: Lewandowski, Robert
+    time: M W F  - 9:35A - 10:25A
+    location: Mendoza College of Business L004
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '0'
+    max_spots: '32'
+    crn: '21322'
+    instructor: Lewandowski, Robert
+    time: M W F  - 10:40A - 11:30A
+    location: Mendoza College of Business L004
+  - !ruby/object:Section
+    section_num: '03'
+    open_spots: '3'
+    max_spots: '32'
+    crn: '22026'
+    instructor: Proffitt, Brian
+    time: M W F  - 11:45A - 12:35P
+    location: Mendoza College of Business L004
+  - !ruby/object:Section
+    section_num: '04'
+    open_spots: '4'
+    max_spots: '32'
+    crn: '22027'
+    instructor: Proffitt, Brian
+    time: M W F  - 12:50P - 1:40P
+    location: Mendoza College of Business L004
+  - !ruby/object:Section
+    section_num: '05'
+    open_spots: '0'
+    max_spots: '32'
+    crn: '23121'
+    instructor: Lewandowski, Robert
+    time: M W F  - 1:55P - 2:45P
+    location: Mendoza College of Business L004
+  - !ruby/object:Section
+    section_num: '06'
+    open_spots: '5'
+    max_spots: '32'
+    crn: '23122'
+    instructor: Lewandowski, Robert
+    time: M W F  - 3:00P - 3:50P
+    location: Mendoza College of Business L004
+  - !ruby/object:Section
+    section_num: '07'
+    open_spots: '9'
+    max_spots: '32'
+    crn: '23123'
+    instructor: Ghiaseddin, Nasir
+    time: T R  - 12:30P - 1:45P
+    location: Mendoza College of Business L004
+  - !ruby/object:Section
+    section_num: 08
+    open_spots: '7'
+    max_spots: '32'
+    crn: '23613'
+    instructor: Ghiaseddin, Nasir
+    time: T R  - 2:00P - 3:15P
+    location: Mendoza College of Business L004
+  - !ruby/object:Section
+    section_num: 09
+    open_spots: '7'
+    max_spots: '32'
+    crn: '23615'
+    instructor: Harris, Bruce
+    time: T R  - 9:30A - 10:45A
+    location: Mendoza College of Business L004
+  - !ruby/object:Section
+    section_num: '10'
+    open_spots: '0'
+    max_spots: '32'
+    crn: '24551'
+    instructor: Harris, Bruce
+    time: T R  - 11:00A - 12:15P
+    location: Mendoza College of Business L004
+  - !ruby/object:Section
+    section_num: '11'
+    open_spots: '0'
+    max_spots: '32'
+    crn: '25904'
+    instructor: Harris, Bruce
+    time: T R  - 3:30P - 4:45P
+    location: Mendoza College of Business L004
+  - !ruby/object:Section
+    section_num: '12'
+    open_spots: '8'
+    max_spots: '32'
+    crn: '29073'
+    instructor: Harris, Bruce
+    time: T R  - 5:00P - 6:15P
+    location: Mendoza College of Business L004
+- !ruby/object:Course
+  name: Management Communication
+  credit: '1.5'
+  coursenum: MGT30220
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '7'
+    max_spots: '16'
+    crn: '23673'
+    instructor: Ziegler, Jennifer
+    time: T R  - 9:30A - 10:45A
+    location: Edward J. DeBartolo Hall 312
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '0'
+    max_spots: '0'
+    crn: '23676'
+    instructor: Ziegler, Jennifer
+    time: T R  - 9:30A - 10:45A
+    location: Edward J. DeBartolo Hall 312
+  - !ruby/object:Section
+    section_num: '03'
+    open_spots: '0'
+    max_spots: '16'
+    crn: '24984'
+    instructor: Ziegler, Jennifer
+    time: T R  - 12:30P - 1:45P
+    location: Edward J. DeBartolo Hall 318
+  - !ruby/object:Section
+    section_num: '04'
+    open_spots: '3'
+    max_spots: '16'
+    crn: '26317'
+    instructor: Ziegler, Jennifer
+    time: T R  - 12:30P - 1:45P
+    location: Edward J. DeBartolo Hall 318
+- !ruby/object:Course
+  name: Strategic IT Applications
+  credit: '1.5'
+  coursenum: MGT30660
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '1'
+    max_spots: '42'
+    crn: '24987'
+    instructor: Angst, Corey
+    time: T R  - 12:30P - 1:45P
+    location: Mendoza College of Business L003
+- !ruby/object:Course
+  name: Innovation and Design
+  credit: '3'
+  coursenum: MGT40420
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '3'
+    max_spots: '28'
+    crn: '23682'
+    instructor: Angst, Wendy
+    time: M W  - 8:30A - 9:45A
+    location: Mendoza College of Business L050
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '0'
+    max_spots: '28'
+    crn: '24552'
+    instructor: Angst, Wendy
+    time: M W  - 10:00A - 11:15A
+    location: Mendoza College of Business L050
+- !ruby/object:Course
+  name: Business Problem Solving
+  credit: '3'
+  coursenum: MGT40490
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '1'
+    max_spots: '32'
+    crn: '29074'
+    instructor: Stevens, Christopher
+    time: T R  - 11:00A - 12:15P
+    location: Edward J. DeBartolo Hall 216
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '5'
+    max_spots: '32'
+    crn: '29075'
+    instructor: Stevens, Christopher
+    time: M W  - 11:45A - 1:00P
+    location: Mendoza College of Business L050
+  - !ruby/object:Section
+    section_num: '03'
+    open_spots: '0'
+    max_spots: '32'
+    crn: '23685'
+    instructor: Angst, Wendy
+    time: M W  - 1:30P - 2:45P
+    location: Mendoza College of Business L050
+- !ruby/object:Course
+  name: Project Management
+  credit: '1.5'
+  coursenum: MGT40700
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '10'
+    max_spots: '40'
+    crn: '25905'
+    instructor: Hill, Todd
+    time: T R  - 12:30P - 1:45P
+    location: Mendoza College of Business L003
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '1'
+    max_spots: '40'
+    crn: '23686'
+    instructor: Siler, Scott
+    time: M W  - 10:00A - 11:15A
+    location: Edward J. DeBartolo Hall 217
+- !ruby/object:Course
+  name: Quantitative Decision Modeling
+  credit: '1.5'
+  coursenum: MGT40750
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '30'
+    crn: '23687'
+    instructor: Guo, Hong
+    time: M W  - 10:00A - 11:15A
+    location: Edward J. DeBartolo Hall 217
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '0'
+    max_spots: '30'
+    crn: '23688'
+    instructor: Guo, Hong
+    time: M W  - 11:45A - 1:00P
+    location: Edward J. DeBartolo Hall 217
+  - !ruby/object:Section
+    section_num: '03'
+    open_spots: '0'
+    max_spots: '30'
+    crn: '29076'
+    instructor: Guo, Hong
+    time: M W  - 1:30P - 2:45P
+    location: Edward J. DeBartolo Hall 217
+- !ruby/object:Course
+  name: Problem Solving
+  credit: '2'
+  coursenum: MGT60200
+  sections:
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '8'
+    max_spots: '68'
+    crn: '24999'
+    instructor: Bartkus, Viva
+    time: T R  - 1:00P - 2:50P
+    location: Mendoza College of Business 162
+  - !ruby/object:Section
+    section_num: '04'
+    open_spots: '10'
+    max_spots: '68'
+    crn: '25000'
+    instructor: Bartkus, Viva
+    time: T R  - 3:00P - 4:50P
+    location: Mendoza College of Business 162
+- !ruby/object:Course
+  name: Strategic Decision Making
+  credit: '2'
+  coursenum: MGT60900
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '41'
+    crn: '22478'
+    instructor: Mannor, Michael
+    time: M W  - 8:00A - 9:50A
+    location: Mendoza College of Business 160
+  - !ruby/object:Section
+    section_num: '03'
+    open_spots: '0'
+    max_spots: '41'
+    crn: '22476'
+    instructor: Mannor, Michael
+    time: M W  - 10:00A - 11:50A
+    location: Mendoza College of Business 160
+  - !ruby/object:Section
+    section_num: '05'
+    open_spots: '4'
+    max_spots: '41'
+    crn: '22477'
+    instructor: Mannor, Michael
+    time: M W  - 1:00P - 2:50P
+    location: Mendoza College of Business 160
+- !ruby/object:Course
+  name: Strategic Decision Making
+  credit: '2'
+  coursenum: MGT60909
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '2'
+    max_spots: '5'
+    crn: '25412'
+    instructor: Mannor, Michael
+    time: M W  - 8:00A - 9:50A
+    location: Mendoza College of Business 160
+  - !ruby/object:Section
+    section_num: '03'
+    open_spots: '0'
+    max_spots: '5'
+    crn: '25413'
+    instructor: Mannor, Michael
+    time: M W  - 10:00A - 11:50A
+    location: Mendoza College of Business 160
+  - !ruby/object:Section
+    section_num: '05'
+    open_spots: '2'
+    max_spots: '5'
+    crn: '29719'
+    instructor: Mannor, Michael
+    time: M W  - 1:00P - 2:50P
+    location: Mendoza College of Business 160
+- !ruby/object:Course
+  name: Innovation and Design
+  credit: '4'
+  coursenum: MGT70420
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '16'
+    max_spots: '36'
+    crn: '25001'
+    instructor: Bloom, Matt
+    time: ! "(1) M T W R F  - 8:00A - 5:00P\r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\r\n\t\t\t
+      \  \t\t\r\n\t\t\t   \t  \r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\t(2) M W  -
+      3:00P - 4:50P"
+    location: ! "TBA\r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\r\n\t\t\t\t
+      \  \t\t\t\r\n\t\t\t\t   \t\t\tMendoza College of Business 134"
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '18'
+    max_spots: '36'
+    crn: '25002'
+    instructor: Bloom, Matt
+    time: ! "(1) M T W R F  - 8:00A - 5:00P\r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\r\n\t\t\t
+      \  \t\t\r\n\t\t\t   \t  \r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\t(2) M W  -
+      5:00P - 6:50P"
+    location: ! "TBA\r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\r\n\t\t\t\t
+      \  \t\t\t\r\n\t\t\t\t   \t\t\tMendoza College of Business 134"
+- !ruby/object:Course
+  name: Negotiation
+  credit: '2'
+  coursenum: MGT70430
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '45'
+    crn: '29390'
+    instructor: Holt, Joseph
+    time: T R  - 1:00P - 2:50P
+    location: Mendoza College of Business 134
+- !ruby/object:Course
+  name: International Management
+  credit: '2'
+  coursenum: MGT70460
+  sections:
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '13'
+    max_spots: '52'
+    crn: '23705'
+    instructor: Glavas, Ante
+    time: M W  - 3:00P - 4:50P
+    location: Mendoza College of Business 134
+- !ruby/object:Course
+  name: Commercialization Analytics
+  credit: '2'
+  coursenum: MGT70510
+  sections:
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '0'
+    max_spots: '36'
+    crn: '24911'
+    instructor: Angst, Wendy
+    time: T R  - 8:00A - 9:50A
+    location: Mendoza College of Business 159
+- !ruby/object:Course
+  name: Commercialization Analytics
+  credit: '2'
+  coursenum: MGT70519
+  sections:
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '2'
+    max_spots: '5'
+    crn: '25414'
+    instructor: Angst, Wendy
+    time: T R  - 8:00A - 9:50A
+    location: Mendoza College of Business 159
+- !ruby/object:Course
+  name: Launching New Ventures
+  credit: '2'
+  coursenum: MGT70525
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '18'
+    max_spots: '35'
+    crn: '23073'
+    instructor: Bernel, Jeffrey
+    time: T R  - 1:00P - 2:50P
+    location: Mendoza College of Business 159
+- !ruby/object:Course
+  name: Launching New Ventures
+  credit: '2'
+  coursenum: MGT70526
+  sections:
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '3'
+    max_spots: '5'
+    crn: '23173'
+    instructor: Bernel, Jeffrey
+    time: T R  - 1:00P - 2:50P
+    location: Mendoza College of Business 159
+- !ruby/object:Course
+  name: Entrprneurshp in Dev Countries
+  credit: '2'
+  coursenum: MGT70540
+  sections:
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '44'
+    max_spots: '45'
+    crn: '24554'
+    instructor: Paulsen, Melissa
+    time: M W  - 8:00A - 9:50A
+    location: Mendoza College of Business 158
+- !ruby/object:Course
+  name: Family Enterprise Strategy
+  credit: '2'
+  coursenum: MGT70580
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '4'
+    max_spots: '20'
+    crn: '24555'
+    instructor: Eckrich, Christopher Schmieder, Joseph
+    time: M  - 3:00P - 6:50P
+    location: Mendoza College of Business 160
+- !ruby/object:Course
+  name: Family Enterprise Strategy
+  credit: '2'
+  coursenum: MGT70589
+  sections:
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '0'
+    max_spots: '10'
+    crn: '24556'
+    instructor: Eckrich, Christopher Schmieder, Joseph
+    time: M  - 3:00P - 6:50P
+    location: Mendoza College of Business 160
+- !ruby/object:Course
+  name: Business Intelligence
+  credit: '2'
+  coursenum: MGT70650
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '40'
+    crn: '22249'
+    instructor: Sun, Daewon
+    time: M W  - 8:00A - 9:50A
+    location: Mendoza College of Business L051
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '0'
+    max_spots: '40'
+    crn: '29042'
+    instructor: Sun, Daewon
+    time: M W  - 10:00A - 11:50A
+    location: Mendoza College of Business L051
+- !ruby/object:Course
+  name: Business Intelligence
+  credit: '2'
+  coursenum: MGT70659
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '2'
+    max_spots: '4'
+    crn: '26918'
+    instructor: Sun, Daewon
+    time: M W  - 8:00A - 9:50A
+    location: Mendoza College of Business L051
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '0'
+    max_spots: '2'
+    crn: '29717'
+    instructor: Sun, Daewon
+    time: M W  - 10:00A - 11:50A
+    location: TBA
+- !ruby/object:Course
+  name: Strategic Business Technology
+  credit: '2'
+  coursenum: MGT70690
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '15'
+    max_spots: '45'
+    crn: '29043'
+    instructor: Butterbaugh, Kevin
+    time: M W  - 8:00A - 9:50A
+    location: Mendoza College of Business 134
+- !ruby/object:Course
+  name: Strategic Business Technology
+  credit: '2'
+  coursenum: MGT70699
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '4'
+    max_spots: '5'
+    crn: '29716'
+    instructor: Butterbaugh, Kevin
+    time: M W  - 8:00A - 9:50A
+    location: Mendoza College of Business 134
+- !ruby/object:Course
+  name: International Operations
+  credit: '2'
+  coursenum: MGT70720
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '40'
+    crn: '29044'
+    instructor: Wei, Jerry
+    time: M W  - 1:00P - 2:50P
+    location: Mendoza College of Business 134
+- !ruby/object:Course
+  name: International Operations
+  credit: '2'
+  coursenum: MGT70729
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '5'
+    crn: '29720'
+    instructor: Wei, Jerry
+    time: M W  - 1:00P - 2:50P
+    location: TBA
+- !ruby/object:Course
+  name: Spreadsheet Decision Modeling
+  credit: '2'
+  coursenum: MGT70750
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '50'
+    crn: '21891'
+    instructor: Hartvigsen, David
+    time: M W  - 1:00P - 2:50P
+    location: Mendoza College of Business 159
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '0'
+    max_spots: '48'
+    crn: '22474'
+    instructor: Hartvigsen, David
+    time: M W  - 3:00P - 4:50P
+    location: Mendoza College of Business 159
+- !ruby/object:Course
+  name: Spreadsheet Decision Modeling
+  credit: '2'
+  coursenum: MGT70759
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '2'
+    crn: '21892'
+    instructor: Hartvigsen, David
+    time: M W  - 1:00P - 2:50P
+    location: Mendoza College of Business 159
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '0'
+    max_spots: '4'
+    crn: '22614'
+    instructor: Hartvigsen, David
+    time: M W  - 3:00P - 4:50P
+    location: Mendoza College of Business 159
+- !ruby/object:Course
+  name: Business on the Frontlines
+  credit: V
+  coursenum: MGT76030
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '-5'
+    max_spots: '15'
+    crn: '24243'
+    instructor: Block, Emily
+    time: T R  - 10:00A - 11:50A
+    location: Mendoza College of Business 134
+  :syl: ! '&nbsp'
+  :instructor: Bernel, Jeffrey
+  :when: T R  - 1:00P - 2:50P
+  :begin: 01/14/2013
+  :end: 03/04/2013
+  :location: Mendoza College of Business 159
+- :course: MGT70540
+  :section: '02'
+  :title: Entrprneurshp in Dev Countries
+  :credits: '2'
+  :status: OP
+  :max_spots: '45'
+  :open_spots: '44'
+  :xlst: ! '&nbsp'
+  :crn: '24554'
+  :syl: ! '&nbsp'
+  :instructor: Paulsen, Melissa
+  :when: M W  - 8:00A - 9:50A
+  :begin: 03/18/2013
+  :end: 05/01/2013
+  :location: Mendoza College of Business 158
+- :course: MGT70580
+  :section: '01'
+  :title: Family Enterprise Strategy
+  :credits: '2'
+  :status: OP
+  :max_spots: '20'
+  :open_spots: '6'
+  :xlst: Y
+  :crn: '24555'
+  :syl: ! '&nbsp'
+  :instructor: Eckrich, Christopher Schmieder, Joseph
+  :when: M  - 3:00P - 6:50P
+  :begin: 01/14/2013
+  :end: 03/04/2013
+  :location: Mendoza College of Business 160
+- :course: MGT70589
+  :section: '02'
+  :title: Family Enterprise Strategy
+  :credits: '2'
+  :status: CL
+  :max_spots: '10'
+  :open_spots: '0'
+  :xlst: Y
+  :crn: '24556'
+  :syl: ! '&nbsp'
+  :instructor: Eckrich, Christopher Schmieder, Joseph
+  :when: M  - 3:00P - 6:50P
+  :begin: 01/14/2013
+  :end: 03/04/2013
+  :location: Mendoza College of Business 160
+- :course: MGT70650
+  :section: '01'
+  :title: Business Intelligence
+  :credits: '2'
+  :status: CL
+  :max_spots: '40'
+  :open_spots: '0'
+  :xlst: Y
+  :crn: '22249'
+  :syl: ! '&nbsp'
+  :instructor: Sun, Daewon
+  :when: M W  - 8:00A - 9:50A
+  :begin: 03/18/2013
+  :end: 05/01/2013
+  :location: Mendoza College of Business L051
+- :course: MGT70650
+  :section: '02'
+  :title: Business Intelligence
+  :credits: '2'
+  :status: CL
+  :max_spots: '40'
+  :open_spots: '0'
+  :xlst: Y
+  :crn: '29042'
+  :syl: ! '&nbsp'
+  :instructor: Sun, Daewon
+  :when: M W  - 10:00A - 11:50A
+  :begin: 03/18/2013
+  :end: 05/01/2013
+  :location: Mendoza College of Business L051
+- :course: MGT70659
+  :section: '01'
+  :title: Business Intelligence
+  :credits: '2'
+  :status: OP
+  :max_spots: '4'
+  :open_spots: '2'
+  :xlst: Y
+  :crn: '26918'
+  :syl: ! '&nbsp'
+  :instructor: Sun, Daewon
+  :when: M W  - 8:00A - 9:50A
+  :begin: 03/18/2013
+  :end: 05/01/2013
+  :location: Mendoza College of Business L051
+- :course: MGT70659
+  :section: '02'
+  :title: Business Intelligence
+  :credits: '2'
+  :status: CL
+  :max_spots: '2'
+  :open_spots: '0'
+  :xlst: Y
+  :crn: '29717'
+  :syl: ! '&nbsp'
+  :instructor: Sun, Daewon
+  :when: M W  - 10:00A - 11:50A
+  :begin: 03/18/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: MGT70690
+  :section: '01'
+  :title: Strategic Business Technology
+  :credits: '2'
+  :status: OP
+  :max_spots: '45'
+  :open_spots: '15'
+  :xlst: Y
+  :crn: '29043'
+  :syl: ! '&nbsp'
+  :instructor: Butterbaugh, Kevin
+  :when: M W  - 8:00A - 9:50A
+  :begin: 03/18/2013
+  :end: 05/01/2013
+  :location: Mendoza College of Business 134
+- :course: MGT70699
+  :section: '01'
+  :title: Strategic Business Technology
+  :credits: '2'
+  :status: OP
+  :max_spots: '5'
+  :open_spots: '4'
+  :xlst: Y
+  :crn: '29716'
+  :syl: ! '&nbsp'
+  :instructor: Butterbaugh, Kevin
+  :when: M W  - 8:00A - 9:50A
+  :begin: 03/18/2013
+  :end: 05/01/2013
+  :location: Mendoza College of Business 134
+- :course: MGT70720
+  :section: '01'
+  :title: International Operations
+  :credits: '2'
+  :status: CL
+  :max_spots: '40'
+  :open_spots: '0'
+  :xlst: Y
+  :crn: '29044'
+  :syl: ! '&nbsp'
+  :instructor: Wei, Jerry
+  :when: M W  - 1:00P - 2:50P
+  :begin: 01/14/2013
+  :end: 03/04/2013
+  :location: Mendoza College of Business 134
+- :course: MGT70729
+  :section: '01'
+  :title: International Operations
+  :credits: '2'
+  :status: CL
+  :max_spots: '5'
+  :open_spots: '0'
+  :xlst: Y
+  :crn: '29720'
+  :syl: ! '&nbsp'
+  :instructor: Wei, Jerry
+  :when: M W  - 1:00P - 2:50P
+  :begin: 01/14/2013
+  :end: 03/04/2013
+  :location: TBA
+- :course: MGT70750
+  :section: '01'
+  :title: Spreadsheet Decision Modeling
+  :credits: '2'
+  :status: CL
+  :max_spots: '50'
+  :open_spots: '0'
+  :xlst: Y
+  :crn: '21891'
+  :syl: ! '&nbsp'
+  :instructor: Hartvigsen, David
+  :when: M W  - 1:00P - 2:50P
+  :begin: 03/18/2013
+  :end: 05/01/2013
+  :location: Mendoza College of Business 159
+- :course: MGT70750
+  :section: '02'
+  :title: Spreadsheet Decision Modeling
+  :credits: '2'
+  :status: CL
+  :max_spots: '48'
+  :open_spots: '0'
+  :xlst: Y
+  :crn: '22474'
+  :syl: ! '&nbsp'
+  :instructor: Hartvigsen, David
+  :when: M W  - 3:00P - 4:50P
+  :begin: 03/18/2013
+  :end: 05/01/2013
+  :location: Mendoza College of Business 159
+- :course: MGT70759
+  :section: '01'
+  :title: Spreadsheet Decision Modeling
+  :credits: '2'
+  :status: CL
+  :max_spots: '2'
+  :open_spots: '0'
+  :xlst: Y
+  :crn: '21892'
+  :syl: ! '&nbsp'
+  :instructor: Hartvigsen, David
+  :when: M W  - 1:00P - 2:50P
+  :begin: 03/18/2013
+  :end: 05/01/2013
+  :location: Mendoza College of Business 159
+- :course: MGT70759
+  :section: '02'
+  :title: Spreadsheet Decision Modeling
+  :credits: '2'
+  :status: OP
+  :max_spots: '4'
+  :open_spots: '1'
+  :xlst: Y
+  :crn: '22614'
+  :syl: ! '&nbsp'
+  :instructor: Hartvigsen, David
+  :when: M W  - 3:00P - 4:50P
+  :begin: 03/18/2013
+  :end: 05/01/2013
+  :location: Mendoza College of Business 159
+- :course: MGT76030
+  :section: '01'
+  :title: Business on the Frontlines
+  :credits: V
+  :status: CL
+  :max_spots: '15'
+  :open_spots: '-5'
+  :xlst: Y
+  :crn: '24243'
+  :syl: ! '&nbsp'
+  :instructor: Block, Emily
+  :when: T R  - 10:00A - 11:50A
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: Mendoza College of Business 134

@@ -1,0 +1,416 @@
+---
+- !ruby/object:Course
+  name: Principles of Marketing
+  credit: '3'
+  coursenum: MARK20100
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '1'
+    max_spots: '42'
+    crn: '21266'
+    instructor: Kennedy, John
+    time: M W F  - 9:35A - 10:25A
+    location: Edward J. DeBartolo Hall 312
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '0'
+    max_spots: '42'
+    crn: '20113'
+    instructor: Kennedy, John
+    time: M W F  - 10:40A - 11:30A
+    location: Edward J. DeBartolo Hall 312
+  - !ruby/object:Section
+    section_num: '03'
+    open_spots: '0'
+    max_spots: '42'
+    crn: '21220'
+    instructor: Gaski, John
+    time: T R  - 2:00P - 3:15P
+    location: Edward J. DeBartolo Hall 312
+  - !ruby/object:Section
+    section_num: '04'
+    open_spots: '6'
+    max_spots: '42'
+    crn: '20588'
+    instructor: Kennedy, John
+    time: M W F  - 11:45A - 12:35P
+    location: Edward J. DeBartolo Hall 312
+  - !ruby/object:Section
+    section_num: '05'
+    open_spots: '0'
+    max_spots: '42'
+    crn: '20943'
+    instructor: Ducoffe, Sandra
+    time: T R  - 12:30P - 1:45P
+    location: Edward J. DeBartolo Hall 213
+  - !ruby/object:Section
+    section_num: '06'
+    open_spots: '0'
+    max_spots: '42'
+    crn: '23616'
+    instructor: Ducoffe, Sandra
+    time: T R  - 2:00P - 3:15P
+    location: Edward J. DeBartolo Hall 213
+  - !ruby/object:Section
+    section_num: '07'
+    open_spots: '20'
+    max_spots: '42'
+    crn: '20477'
+    instructor: Mish, Jennifer
+    time: M W  - 1:30P - 2:45P
+    location: Edward J. DeBartolo Hall 209
+  - !ruby/object:Section
+    section_num: '10'
+    open_spots: '0'
+    max_spots: '42'
+    crn: '23944'
+    instructor: Gaski, John
+    time: T R  - 12:30P - 1:45P
+    location: Edward J. DeBartolo Hall 312
+  - !ruby/object:Section
+    section_num: '11'
+    open_spots: '23'
+    max_spots: '42'
+    crn: '26318'
+    instructor: Mish, Jennifer
+    time: M W  - 3:00P - 4:15P
+    location: Edward J. DeBartolo Hall 209
+  - !ruby/object:Section
+    section_num: '12'
+    open_spots: '0'
+    max_spots: '42'
+    crn: '29081'
+    instructor: Drevs, Robert
+    time: T R  - 11:00A - 12:15P
+    location: Edward J. DeBartolo Hall 214
+- !ruby/object:Course
+  name: Consumer Orgzntnl Buyer Behav
+  credit: '3'
+  coursenum: MARK30100
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '13'
+    max_spots: '45'
+    crn: '24545'
+    instructor: Ducoffe, Sandra
+    time: T R  - 9:30A - 10:45A
+    location: Edward J. DeBartolo Hall 214
+- !ruby/object:Course
+  name: Marketing Research
+  credit: '3'
+  coursenum: MARK30120
+  sections:
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '2'
+    max_spots: '45'
+    crn: '24992'
+    instructor: Wilkie, James
+    time: T R  - 11:00A - 12:15P
+    location: Edward J. DeBartolo Hall 310
+- !ruby/object:Course
+  name: Sports Marketing
+  credit: '3'
+  coursenum: MARK30450
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '35'
+    crn: '29391'
+    instructor: Bradford, Kevin
+    time: M W  - 1:30P - 2:45P
+    location: Edward J. DeBartolo Hall 213
+- !ruby/object:Course
+  name: Social Media
+  credit: '3'
+  coursenum: MARK30460
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '35'
+    crn: '29392'
+    instructor: Weber, John
+    time: R  - 3:30P - 6:15P
+    location: Edward J. DeBartolo Hall 228
+- !ruby/object:Course
+  name: Advertising and Promotion
+  credit: '3'
+  coursenum: MARK30500
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '35'
+    crn: '24547'
+    instructor: Moore, Elizabeth
+    time: T R  - 12:30P - 1:45P
+    location: O'Shaughnessy Hall 242
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '7'
+    max_spots: '35'
+    crn: '25908'
+    instructor: Moore, Elizabeth
+    time: T R  - 9:30A - 10:45A
+    location: O'Shaughnessy Hall 242
+- !ruby/object:Course
+  name: Strategic Marketing
+  credit: '3'
+  coursenum: MARK40100
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '45'
+    crn: '23120'
+    instructor: Bradford, Kevin
+    time: M W  - 9:35A - 10:50A
+    location: Edward J. DeBartolo Hall 213
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '0'
+    max_spots: '45'
+    crn: '29082'
+    instructor: Bradford, Kevin
+    time: M W  - 11:45A - 1:00P
+    location: Edward J. DeBartolo Hall 213
+- !ruby/object:Course
+  name: International Marketing
+  credit: '3'
+  coursenum: MARK40300
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '16'
+    max_spots: '35'
+    crn: '25910'
+    instructor: Sredl, Katherine
+    time: M W  - 3:00P - 4:15P
+    location: Edward J. DeBartolo Hall 125
+- !ruby/object:Course
+  name: Explr Frontiers of MK Thought
+  credit: '3'
+  coursenum: MARK43900
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '3'
+    max_spots: '15'
+    crn: '23656'
+    instructor: Wilkie, William
+    time: T  - 3:30P - 6:00P
+    location: Mendoza College of Business 121
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '3'
+    max_spots: '15'
+    crn: '23658'
+    instructor: Wilkie, William
+    time: R  - 3:30P - 6:00P
+    location: Mendoza College of Business 121
+- !ruby/object:Course
+  name: ! 'DR:  Qualitative Mark Research'
+  credit: '3'
+  coursenum: MARK46602
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '6'
+    crn: '24709'
+    instructor: Sherry, John
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Explr Frontiers of MK Thought
+  credit: '3'
+  coursenum: MARK63900
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '6'
+    crn: '23882'
+    instructor: Wilkie, William
+    time: T  - 3:30P - 6:00P
+    location: Mendoza College of Business 121
+  - !ruby/object:Section
+    section_num: '03'
+    open_spots: '1'
+    max_spots: '6'
+    crn: '23883'
+    instructor: Wilkie, William
+    time: R  - 3:30P - 6:00P
+    location: Mendoza College of Business 121
+- !ruby/object:Course
+  name: Marketing Research
+  credit: '2'
+  coursenum: MARK70100
+  sections:
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '7'
+    max_spots: '52'
+    crn: '22473'
+    instructor: Wilkie, James
+    time: T R  - 8:00A - 9:50A
+    location: TBA
+  - !ruby/object:Section
+    section_num: '03'
+    open_spots: '10'
+    max_spots: '52'
+    crn: '29040'
+    instructor: Wilkie, James
+    time: T R  - 8:00A - 9:50A
+    location: TBA
+- !ruby/object:Course
+  name: Qualitative Marketing Research
+  credit: '2'
+  coursenum: MARK70150
+  sections:
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '30'
+    max_spots: '52'
+    crn: '22482'
+    instructor: Sherry, John
+    time: T R  - 10:00A - 11:50A
+    location: Mendoza College of Business 159
+- !ruby/object:Course
+  name: Brand Strategy
+  credit: '2'
+  coursenum: MARK70300
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '52'
+    crn: '22244'
+    instructor: Phillips, Carol
+    time: T R  - 1:00P - 2:50P
+    location: Mendoza College of Business 160
+- !ruby/object:Course
+  name: Advertising Mgt.
+  credit: '2'
+  coursenum: MARK70501
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '22'
+    max_spots: '52'
+    crn: '29041'
+    instructor: Sredl, Katherine
+    time: M W  - 10:00A - 11:50A
+    location: Mendoza College of Business 159
+- !ruby/object:Course
+  name: Culture, Consumption, & Mktg
+  credit: '2'
+  coursenum: MARK70550
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '52'
+    crn: '22483'
+    instructor: Sherry, John
+    time: T R  - 10:00A - 11:50A
+    location: Mendoza College of Business 158
+instructor: Wilkie, William
+  :when: R  - 3:30P - 6:00P
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: Mendoza College of Business 121
+- :course: MARK70100
+  :section: '02'
+  :title: Marketing Research
+  :credits: '2'
+  :status: OP
+  :max_spots: '52'
+  :open_spots: '7'
+  :xlst: ! '&nbsp'
+  :crn: '22473'
+  :syl: ! '&nbsp'
+  :instructor: Wilkie, James
+  :when: T R  - 8:00A - 9:50A
+  :begin: 01/14/2013
+  :end: 03/04/2013
+  :location: TBA
+- :course: MARK70100
+  :section: '03'
+  :title: Marketing Research
+  :credits: '2'
+  :status: OP
+  :max_spots: '52'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '29040'
+  :syl: ! '&nbsp'
+  :instructor: Wilkie, James
+  :when: T R  - 8:00A - 9:50A
+  :begin: 03/18/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: MARK70150
+  :section: '02'
+  :title: Qualitative Marketing Research
+  :credits: '2'
+  :status: OP
+  :max_spots: '52'
+  :open_spots: '30'
+  :xlst: ! '&nbsp'
+  :crn: '22482'
+  :syl: ! '&nbsp'
+  :instructor: Sherry, John
+  :when: T R  - 10:00A - 11:50A
+  :begin: 03/18/2013
+  :end: 05/01/2013
+  :location: Mendoza College of Business 159
+- :course: MARK70300
+  :section: '01'
+  :title: Brand Strategy
+  :credits: '2'
+  :status: CL
+  :max_spots: '52'
+  :open_spots: '0'
+  :xlst: ! '&nbsp'
+  :crn: '22244'
+  :syl: ! '&nbsp'
+  :instructor: Phillips, Carol
+  :when: T R  - 1:00P - 2:50P
+  :begin: 03/18/2013
+  :end: 05/01/2013
+  :location: Mendoza College of Business 160
+- :course: MARK70501
+  :section: '01'
+  :title: Advertising Mgt.
+  :credits: '2'
+  :status: OP
+  :max_spots: '52'
+  :open_spots: '22'
+  :xlst: ! '&nbsp'
+  :crn: '29041'
+  :syl: ! '&nbsp'
+  :instructor: Sredl, Katherine
+  :when: M W  - 10:00A - 11:50A
+  :begin: 03/18/2013
+  :end: 05/01/2013
+  :location: Mendoza College of Business 159
+- :course: MARK70550
+  :section: '01'
+  :title: Culture, Consumption, & Mktg
+  :credits: '2'
+  :status: OP
+  :max_spots: '52'
+  :open_spots: '1'
+  :xlst: ! '&nbsp'
+  :crn: '22483'
+  :syl: ! '&nbsp'
+  :instructor: Sherry, John
+  :when: T R  - 10:00A - 11:50A
+  :begin: 01/14/2013
+  :end: 03/04/2013
+  :location: Mendoza College of Business 158

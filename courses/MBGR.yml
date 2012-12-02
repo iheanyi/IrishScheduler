@@ -1,0 +1,72 @@
+---
+- !ruby/object:Course
+  name: 10 Years Hence Lecture Series
+  credit: '1'
+  coursenum: MBGR60210
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '97'
+    max_spots: '150'
+    crn: '22218'
+    instructor: O'Rourke, James
+    time: F  - 10:40A - 12:10P
+    location: Mendoza College of Business 110
+- !ruby/object:Course
+  name: VCIC Team
+  credit: '2'
+  coursenum: MBGR70566
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '23976'
+    instructor: Sedlack, Theresa
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Close up on Modern China
+  credit: '1'
+  coursenum: MBGR74100
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '72'
+    max_spots: '72'
+    crn: '22771'
+    instructor: Goss, Mary Tuleja, Elizabeth
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Chile and Argentina Bus Pract
+  credit: '2'
+  coursenum: MBGR74300
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '35'
+    max_spots: '35'
+    crn: '24216'
+    instructor: Goss, Mary
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: ! 'DR: IrishAngels Associate Prog'
+  credit: V
+  coursenum: MBGR76870
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '1'
+    max_spots: '5'
+    crn: '29858'
+    instructor: Bernel, Jeffrey
+    time: TBA
+    location: TBA
+&nbsp'
+  :instructor: Bernel, Jeffrey
+  :when: TBA
+  :begin: 01/14/2013
+  :end: 05/01/2013
+  :location: TBA

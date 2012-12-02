@@ -1,0 +1,4818 @@
+---
+- !ruby/object:Course
+  name: Introductory Psychology
+  credit: '3'
+  coursenum: PSY10000
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '112'
+    max_spots: '190'
+    crn: '20214'
+    instructor: Radvansky, Gabriel Venter, Anre
+    time: M W F  - 10:40A - 11:30A
+    location: Edward J. DeBartolo Hall 102
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '102'
+    max_spots: '190'
+    crn: '20154'
+    instructor: Radvansky, Gabriel Venter, Anre
+    time: M W F  - 12:50P - 1:40P
+    location: Edward J. DeBartolo Hall 102
+- !ruby/object:Course
+  name: Soc Science University Seminar
+  credit: '3'
+  coursenum: PSY13181
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '-2'
+    max_spots: '14'
+    crn: '22007'
+    instructor: Day, Jeanne
+    time: T R  - 11:00A - 12:15P
+    location: Flanner Hall 625
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '-1'
+    max_spots: '14'
+    crn: '22008'
+    instructor: Gondoli, Dawn
+    time: T R  - 12:30P - 1:45P
+    location: O'Shaughnessy Hall 201
+- !ruby/object:Course
+  name: Introductory Psychology
+  credit: '3'
+  coursenum: PSY20000
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '30'
+    max_spots: '70'
+    crn: '28818'
+    instructor: Radvansky, Gabriel Venter, Anre
+    time: M W F  - 10:40A - 11:30A
+    location: Edward J. DeBartolo Hall 102
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '43'
+    max_spots: '70'
+    crn: '28817'
+    instructor: Radvansky, Gabriel Venter, Anre
+    time: M W F  - 12:50P - 1:40P
+    location: Edward J. DeBartolo Hall 102
+- !ruby/object:Course
+  name: Introductory Psychology PSI
+  credit: '3'
+  coursenum: PSY20001
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '49'
+    crn: '21340'
+    instructor: Crowell, Charles
+    time: M W F  - 11:45A - 12:35P
+    location: Haggar Hall 117
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '0'
+    max_spots: '49'
+    crn: '23894'
+    instructor: Crowell, Charles
+    time: M W F  - 12:50P - 1:40P
+    location: Haggar Hall 117
+- !ruby/object:Course
+  name: ! 'Psych: Sci,Practice,Policy'
+  credit: '1'
+  coursenum: PSY20010
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '40'
+    max_spots: '90'
+    crn: '21062'
+    instructor: Venter, Anre
+    time: M W  - 9:35A - 10:25A
+    location: Haggar Hall 117
+- !ruby/object:Course
+  name: Teaching Technology
+  credit: '3'
+  coursenum: PSY20670
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '5'
+    max_spots: '10'
+    crn: '21684'
+    instructor: Crowell, Charles
+    time: M W F  - 11:45A - 1:40P
+    location: Haggar Hall B015
+- !ruby/object:Course
+  name: Computers in Psychology
+  credit: '3'
+  coursenum: PSY20671
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '22388'
+    instructor: Crowell, Charles
+    time: T R  - 3:30P - 4:45P
+    location: TBA
+- !ruby/object:Course
+  name: Practicum in Org Improvement
+  credit: '3'
+  coursenum: PSY20673
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '4'
+    max_spots: '5'
+    crn: '29284'
+    instructor: Crowell, Charles
+    time: T R  - 3:30P - 4:45P
+    location: Flanner Hall B09A
+- !ruby/object:Course
+  name: Soc Con Sem:Youth, Risk Resil
+  credit: '1'
+  coursenum: PSY23090
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '10'
+    max_spots: '12'
+    crn: '21987'
+    instructor: Brandenberger, Jay Gundersen, SusanPalmiter, Autumn
+    time: M  - 6:00P - 8:00P
+    location: Pasquerilla Center 109
+- !ruby/object:Course
+  name: Understanding Mental Illness
+  credit: '1'
+  coursenum: PSY23096
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '26976'
+    instructor: Mick, Connie Brandenberger, Jay
+    time: T R  - 6:45P - 9:00P
+    location: Pasquerilla Center 109
+- !ruby/object:Course
+  name: Crisis and Community
+  credit: '3'
+  coursenum: PSY23099
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '3'
+    max_spots: '6'
+    crn: '29285'
+    instructor: McKendree, Amanda
+    time: T R  - 9:30A - 10:45A
+    location: Coleman Morse Center 231
+- !ruby/object:Course
+  name: Autism
+  credit: '3'
+  coursenum: PSY23271
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '6'
+    max_spots: '18'
+    crn: '22286'
+    instructor: Wier, Kristin
+    time: T R  - 3:30P - 4:45P
+    location: Haggar Hall 117
+- !ruby/object:Course
+  name: ! 'Soc Con Sem: Take Ten'
+  credit: '1'
+  coursenum: PSY23855
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '20'
+    max_spots: '20'
+    crn: '21998'
+    instructor: Brandenberger, Jay Kyes, Ellen
+    time: T  - 6:00P - 8:00P
+    location: Pasquerilla Center 105
+- !ruby/object:Course
+  name: Practicum in Dev. Disabilities
+  credit: '3'
+  coursenum: PSY25270
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '9'
+    max_spots: '15'
+    crn: '20968'
+    instructor: Wier, Kristin
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Sign Language
+  credit: '3'
+  coursenum: PSY25275
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '24'
+    crn: '21003'
+    instructor: Stillson, Cheryl
+    time: W  - 6:30P - 9:00P
+    location: Haggar Hall 212
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '6'
+    max_spots: '6'
+    crn: '26954'
+    instructor: Stillson, Cheryl
+    time: W  - 6:30P - 9:00P
+    location: Haggar Hall 212
+- !ruby/object:Course
+  name: Directed Readings
+  credit: V
+  coursenum: PSY26800
+  sections:
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '15'
+    max_spots: '15'
+    crn: '21666'
+    instructor: Braungart-Rieker, Julia
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '04'
+    open_spots: '15'
+    max_spots: '15'
+    crn: '21226'
+    instructor: Borkowski, John
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '06'
+    open_spots: '15'
+    max_spots: '15'
+    crn: '21735'
+    instructor: Crowell, Charles
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: 08
+    open_spots: '15'
+    max_spots: '15'
+    crn: '21353'
+    instructor: Day, Jeanne
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: 09
+    open_spots: '15'
+    max_spots: '15'
+    crn: '20216'
+    instructor: Gibson, Bradley
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '10'
+    open_spots: '15'
+    max_spots: '15'
+    crn: '20097'
+    instructor: Howard, George
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '11'
+    open_spots: '15'
+    max_spots: '15'
+    crn: '20686'
+    instructor: Park, Irene
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '12'
+    open_spots: '15'
+    max_spots: '15'
+    crn: '20087'
+    instructor: Maxwell, Scott
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '13'
+    open_spots: '15'
+    max_spots: '15'
+    crn: '21882'
+    instructor: Turner, Julianne
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '16'
+    open_spots: '15'
+    max_spots: '15'
+    crn: '21498'
+    instructor: Merluzzi, Thomas
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '17'
+    open_spots: '15'
+    max_spots: '15'
+    crn: '21621'
+    instructor: Radvansky, Gabriel
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '18'
+    open_spots: '15'
+    max_spots: '15'
+    crn: '20746'
+    instructor: Bergeman, Cindy
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '19'
+    open_spots: '22'
+    max_spots: '22'
+    crn: '20574'
+    instructor: Venter, Anre
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '20'
+    open_spots: '15'
+    max_spots: '15'
+    crn: '20629'
+    instructor: Kelly, Anita
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '21'
+    open_spots: '15'
+    max_spots: '15'
+    crn: '20517'
+    instructor: TBA
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '22'
+    open_spots: '15'
+    max_spots: '15'
+    crn: '20096'
+    instructor: Cummings, Edward
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '23'
+    open_spots: '15'
+    max_spots: '15'
+    crn: '21245'
+    instructor: Whitman, Thomas
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '25'
+    open_spots: '15'
+    max_spots: '15'
+    crn: '21717'
+    instructor: Eberhard, Kathleen
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '26'
+    open_spots: '15'
+    max_spots: '15'
+    crn: '20362'
+    instructor: Corning, Alexandra
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '27'
+    open_spots: '15'
+    max_spots: '15'
+    crn: '20081'
+    instructor: Gondoli, Dawn
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '29'
+    open_spots: '15'
+    max_spots: '15'
+    crn: '21113'
+    instructor: Donley, Rita
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '30'
+    open_spots: '15'
+    max_spots: '15'
+    crn: '21199'
+    instructor: Brandenberger, Jay
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '31'
+    open_spots: '15'
+    max_spots: '15'
+    crn: '20621'
+    instructor: Pope-Davis, Donald
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '34'
+    open_spots: '15'
+    max_spots: '15'
+    crn: '21576'
+    instructor: Smith, David
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '36'
+    open_spots: '15'
+    max_spots: '15'
+    crn: '21301'
+    instructor: Narvaez, Darcia
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '40'
+    open_spots: '15'
+    max_spots: '15'
+    crn: '21488'
+    instructor: Yuan, Ke-Hai
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '41'
+    open_spots: '6'
+    max_spots: '6'
+    crn: '25702'
+    instructor: Diehl, Joshua
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '45'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '23477'
+    instructor: McNeil, Nicole
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '46'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '23476'
+    instructor: Haeffel, Gerald
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '47'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '23475'
+    instructor: Lapsley, Daniel
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '52'
+    open_spots: '6'
+    max_spots: '6'
+    crn: '24788'
+    instructor: Wang, Lijuan
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '55'
+    open_spots: '6'
+    max_spots: '6'
+    crn: '25677'
+    instructor: Lany, Jill
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '56'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '25713'
+    instructor: Simons, Anne
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Research Lab
+  credit: V
+  coursenum: PSY27800
+  sections:
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '7'
+    max_spots: '10'
+    crn: '25915'
+    instructor: Braungart-Rieker, Julia
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '04'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '25941'
+    instructor: Borkowski, John
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '06'
+    open_spots: '4'
+    max_spots: '8'
+    crn: '25914'
+    instructor: Crowell, Charles
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: 08
+    open_spots: '8'
+    max_spots: '10'
+    crn: '25950'
+    instructor: Day, Jeanne
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: 09
+    open_spots: '9'
+    max_spots: '10'
+    crn: '25943'
+    instructor: Gibson, Bradley
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '10'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '25931'
+    instructor: Howard, George
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '11'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '25925'
+    instructor: Park, Irene
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '12'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '25929'
+    instructor: Maxwell, Scott
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '13'
+    open_spots: '6'
+    max_spots: '10'
+    crn: '25949'
+    instructor: Turner, Julianne
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '16'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '25917'
+    instructor: Merluzzi, Thomas
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '17'
+    open_spots: '6'
+    max_spots: '10'
+    crn: '25948'
+    instructor: Radvansky, Gabriel
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '18'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '25935'
+    instructor: Bergeman, Cindy
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '19'
+    open_spots: '10'
+    max_spots: '12'
+    crn: '25920'
+    instructor: Venter, Anre
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '20'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '25912'
+    instructor: Kelly, Anita
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '21'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '25934'
+    instructor: Carlson, Laura
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '22'
+    open_spots: '14'
+    max_spots: '15'
+    crn: '25944'
+    instructor: Cummings, Edward
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '23'
+    open_spots: '1'
+    max_spots: '1'
+    crn: '25947'
+    instructor: Whitman, Thomas
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '24'
+    open_spots: '1'
+    max_spots: '10'
+    crn: '25945'
+    instructor: Gondoli, Dawn
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '25'
+    open_spots: '9'
+    max_spots: '10'
+    crn: '25930'
+    instructor: Eberhard, Kathleen
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '30'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '25921'
+    instructor: Smith, David
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '31'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '25932'
+    instructor: Power, Clark
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '32'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '25937'
+    instructor: Lubke, Gitta
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '35'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '25918'
+    instructor: Monroe, Scott
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '36'
+    open_spots: '5'
+    max_spots: '10'
+    crn: '25919'
+    instructor: Narvaez, Darcia
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '37'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '25924'
+    instructor: Pope-Davis, Donald
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '38'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '25933'
+    instructor: Corning, Alexandra
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '40'
+    open_spots: '9'
+    max_spots: '10'
+    crn: '25952'
+    instructor: D'Mello, Sidney
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '41'
+    open_spots: '13'
+    max_spots: '15'
+    crn: '25927'
+    instructor: Diehl, Joshua
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '42'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '25946'
+    instructor: Wirth, Michelle
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '43'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '25913'
+    instructor: Cheng, Ying
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '45'
+    open_spots: '8'
+    max_spots: '10'
+    crn: '25928'
+    instructor: McNeil, Nicole
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '46'
+    open_spots: '9'
+    max_spots: '10'
+    crn: '25923'
+    instructor: Haeffel, Gerald
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '47'
+    open_spots: '6'
+    max_spots: '10'
+    crn: '25922'
+    instructor: Lapsley, Daniel
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '48'
+    open_spots: '11'
+    max_spots: '12'
+    crn: '25939'
+    instructor: Payne, Jessica
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '49'
+    open_spots: '8'
+    max_spots: '10'
+    crn: '25940'
+    instructor: Brockmole, James
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '50'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '25916'
+    instructor: Zhang, Zhiyong
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '51'
+    open_spots: '11'
+    max_spots: '12'
+    crn: '25951'
+    instructor: Valentino, Kristin
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '53'
+    open_spots: '8'
+    max_spots: '10'
+    crn: '25926'
+    instructor: Clark, Lee Anna
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '54'
+    open_spots: '7'
+    max_spots: '10'
+    crn: '25938'
+    instructor: Watson, David
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '55'
+    open_spots: '13'
+    max_spots: '15'
+    crn: '25942'
+    instructor: Lany, Jill
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '56'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '25936'
+    instructor: Wang, Lijuan
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: ! 'Experimental Psy I: Statistics'
+  credit: '4'
+  coursenum: PSY30100
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '12'
+    max_spots: '30'
+    crn: '20111'
+    instructor: Wang, Lijuan
+    time: ! "(1) M W  - 1:30P - 2:45P\r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\r\n\t\t\t
+      \  \t\t\r\n\t\t\t   \t  \r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\t(2) T R  -
+      2:00P - 3:15P"
+    location: ! "Edward J. DeBartolo Hall 240 \r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\t\r\n\t\t\t\t
+      \  \t\r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\tEdward J. DeBartolo Hall 331"
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '12'
+    max_spots: '30'
+    crn: '24203'
+    instructor: Zhang, Guangjian
+    time: ! "(1) M W F  - 10:40A - 11:30A\r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\r\n\t\t\t
+      \  \t\t\r\n\t\t\t   \t  \r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\t(2) T R  -
+      11:00A - 12:15P"
+    location: ! "Edward J. DeBartolo Hall 331 \r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\t\r\n\t\t\t\t
+      \  \t\r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\tO'Shaughnessy Hall 115"
+- !ruby/object:Course
+  name: ! 'Experim Psychology II: Methods'
+  credit: '4'
+  coursenum: PSY30160
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '32'
+    crn: '20302'
+    instructor: Bergeman, Cindy
+    time: ! "(1) M W  - 1:30P - 2:45P\r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\r\n\t\t\t
+      \  \t\t\r\n\t\t\t   \t  \r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\t(2) T R  -
+      9:30A - 10:45A"
+    location: ! "Haggar Hall 212 \r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\t\r\n\t\t\t\t
+      \  \t\r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\tHaggar Hall B016"
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '0'
+    max_spots: '41'
+    crn: '20042'
+    instructor: Lapsley, Daniel
+    time: ! "(1) M W  - 4:30P - 5:45P\r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\r\n\t\t\t
+      \  \t\t\r\n\t\t\t   \t  \r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\t(2) T R  -
+      3:30P - 4:45P"
+    location: ! "Haggar Hall B016 \r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\t\r\n\t\t\t\t
+      \  \t\r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\tHaggar Hall B016"
+  - !ruby/object:Section
+    section_num: '03'
+    open_spots: '0'
+    max_spots: '32'
+    crn: '20536'
+    instructor: Braungart-Rieker, Julia
+    time: ! "(1) M W F  - 10:40A - 11:30A\r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\r\n\t\t\t
+      \  \t\t\r\n\t\t\t   \t  \r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\t(2) T R  -
+      11:00A - 12:15P"
+    location: ! "Haggar Hall 212 \r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\t\r\n\t\t\t\t
+      \  \t\r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\tHaggar Hall B016"
+- !ruby/object:Course
+  name: Neurodevelopmental Disorders
+  credit: '3'
+  coursenum: PSY30272
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '50'
+    crn: '25953'
+    instructor: Diehl, Joshua
+    time: M W  - 1:30P - 2:45P
+    location: Edward J. DeBartolo Hall 118
+- !ruby/object:Course
+  name: Abnormal Psychology
+  credit: '3'
+  coursenum: PSY30310
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '8'
+    max_spots: '94'
+    crn: '22056'
+    instructor: Smith, David
+    time: T R  - 9:30A - 10:45A
+    location: Edward J. DeBartolo Hall 155
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '2'
+    max_spots: '2'
+    crn: '29286'
+    instructor: Smith, David
+    time: T R  - 9:30A - 10:45A
+    location: Edward J. DeBartolo Hall 155
+  - !ruby/object:Section
+    section_num: '03'
+    open_spots: '1'
+    max_spots: '2'
+    crn: '29287'
+    instructor: Smith, David
+    time: T R  - 9:30A - 10:45A
+    location: Edward J. DeBartolo Hall 155
+- !ruby/object:Course
+  name: Intro to Clinical Psychology
+  credit: '3'
+  coursenum: PSY30314
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '49'
+    crn: '25954'
+    instructor: Haeffel, Gerald
+    time: M W  - 1:30P - 2:45P
+    location: O'Shaughnessy Hall 242
+- !ruby/object:Course
+  name: Cognitive Psychology
+  credit: '3'
+  coursenum: PSY30400
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '30'
+    max_spots: '96'
+    crn: '24167'
+    instructor: Brockmole, James
+    time: T R  - 9:30A - 10:45A
+    location: Haggar Hall 117
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '2'
+    max_spots: '2'
+    crn: '29288'
+    instructor: Brockmole, James
+    time: T R  - 9:30A - 10:45A
+    location: Haggar Hall 117
+  - !ruby/object:Section
+    section_num: '03'
+    open_spots: '2'
+    max_spots: '2'
+    crn: '29289'
+    instructor: Brockmole, James
+    time: T R  - 9:30A - 10:45A
+    location: Haggar Hall 117
+- !ruby/object:Course
+  name: Sensation Perception
+  credit: '3'
+  coursenum: PSY30440
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '5'
+    max_spots: '71'
+    crn: '24589'
+    instructor: Gibson, Bradley
+    time: T R  - 12:30P - 1:45P
+    location: Haggar Hall 117
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '2'
+    max_spots: '2'
+    crn: '29290'
+    instructor: Gibson, Bradley
+    time: T R  - 12:30P - 1:45P
+    location: Haggar Hall 117
+  - !ruby/object:Section
+    section_num: '03'
+    open_spots: '1'
+    max_spots: '2'
+    crn: '29291'
+    instructor: Gibson, Bradley
+    time: T R  - 12:30P - 1:45P
+    location: Haggar Hall 117
+- !ruby/object:Course
+  name: Practicum in Robotics
+  credit: '3'
+  coursenum: PSY31672
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '2'
+    max_spots: '2'
+    crn: '26544'
+    instructor: Crowell, Charles Villano, Michael
+    time: T R  - 2:00P - 3:15P
+    location: Flanner Hall B09A
+- !ruby/object:Course
+  name: Geriatric Neuropsychology
+  credit: '3'
+  coursenum: PSY33231
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '40'
+    max_spots: '49'
+    crn: '29292'
+    instructor: TBA
+    time: T R  - 12:30P - 1:45P
+    location: Haggar Hall B016
+- !ruby/object:Course
+  name: Tests and Measurement
+  credit: '3'
+  coursenum: PSY40121
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '8'
+    max_spots: '14'
+    crn: '29293'
+    instructor: Smith, David
+    time: M W  - 3:00P - 4:15P
+    location: Haggar Hall B015
+- !ruby/object:Course
+  name: Pers and Ind Differences
+  credit: '3'
+  coursenum: PSY40306
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '3'
+    max_spots: '16'
+    crn: '26546'
+    instructor: Watson, David
+    time: T R  - 11:00A - 12:15P
+    location: Edward J. DeBartolo Hall 336
+- !ruby/object:Course
+  name: Artificial Intelligence
+  credit: '3'
+  coursenum: PSY40675
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '6'
+    max_spots: '8'
+    crn: '27001'
+    instructor: D'Mello, Sidney
+    time: M W  - 4:30P - 5:45P
+    location: Edward J. DeBartolo Hall 118
+- !ruby/object:Course
+  name: Adolescent Development
+  credit: '3'
+  coursenum: PSY43220
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '9'
+    max_spots: '18'
+    crn: '23660'
+    instructor: Gondoli, Dawn
+    time: T R  - 11:00A - 12:15P
+    location: O'Shaughnessy Hall 201
+- !ruby/object:Course
+  name: Mental Health and Aging
+  credit: '3'
+  coursenum: PSY43230
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '5'
+    max_spots: '18'
+    crn: '28820'
+    instructor: Bergeman, Cindy
+    time: M W  - 10:20A - 11:35A
+    location: Haggar Hall B016
+- !ruby/object:Course
+  name: Developing Minds
+  credit: '3'
+  coursenum: PSY43254
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '18'
+    crn: '25065'
+    instructor: Day, Jeanne
+    time: T R  - 12:30P - 1:45P
+    location: Geddes Hall B034
+- !ruby/object:Course
+  name: Autism
+  credit: '3'
+  coursenum: PSY43271
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '5'
+    max_spots: '12'
+    crn: '21482'
+    instructor: Wier, Kristin
+    time: T R  - 3:30P - 4:45P
+    location: Haggar Hall 117
+- !ruby/object:Course
+  name: Developmental Psychopathology
+  credit: '3'
+  coursenum: PSY43282
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '13'
+    crn: '23961'
+    instructor: Cummings, Edward Bergman, Kathleen
+    time: M W  - 3:00P - 4:15P
+    location: Haggar Hall B016
+- !ruby/object:Course
+  name: Science & Pseudoscience in Psy
+  credit: '3'
+  coursenum: PSY43313
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '8'
+    max_spots: '17'
+    crn: '26547'
+    instructor: Haeffel, Gerald
+    time: M W  - 3:00P - 4:15P
+    location: Haggar Hall 212
+- !ruby/object:Course
+  name: Stress, Disorder, and Disease
+  credit: '3'
+  coursenum: PSY43318
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '1'
+    max_spots: '18'
+    crn: '28821'
+    instructor: Monroe, Scott
+    time: T R  - 12:30P - 1:45P
+    location: Hammes Mowbray Hall 306
+- !ruby/object:Course
+  name: Immigrant Fam & Mental Health
+  credit: '3'
+  coursenum: PSY43344
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '8'
+    max_spots: '14'
+    crn: '25067'
+    instructor: Park, Irene
+    time: T R  - 9:30A - 10:45A
+    location: O'Shaughnessy Hall 209
+- !ruby/object:Course
+  name: Health Psychology
+  credit: '3'
+  coursenum: PSY43360
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '1'
+    max_spots: '18'
+    crn: '28822'
+    instructor: Jean-Pierre, Pascal
+    time: T R  - 11:00A - 12:15P
+    location: Hammes Mowbray Hall 306
+- !ruby/object:Course
+  name: Understanding Eating Disorders
+  credit: '3'
+  coursenum: PSY43362
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '3'
+    max_spots: '19'
+    crn: '24592'
+    instructor: Corning, Alexandra
+    time: M W  - 1:30P - 2:45P
+    location: Flanner Hall 524
+- !ruby/object:Course
+  name: Sport Psychology
+  credit: '3'
+  coursenum: PSY43365
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '1'
+    max_spots: '20'
+    crn: '29294'
+    instructor: Lubker, John
+    time: T R  - 9:30A - 10:45A
+    location: Coleman Morse Center 230
+- !ruby/object:Course
+  name: Psychology and Medicine
+  credit: '3'
+  coursenum: PSY43531
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '4'
+    max_spots: '21'
+    crn: '22715'
+    instructor: White, Robert Kolberg, Kathleen
+    time: T R  - 3:30P - 4:45P
+    location: Jordan Hall of Science 310
+- !ruby/object:Course
+  name: Neurophysiology of Stress
+  credit: '3'
+  coursenum: PSY43533
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '1'
+    max_spots: '14'
+    crn: '28823'
+    instructor: Wirth, Michelle
+    time: M W  - 3:00P - 4:15P
+    location: Flanner Hall 323
+- !ruby/object:Course
+  name: Motivation and Acad. Learning
+  credit: '3'
+  coursenum: PSY43641
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '16'
+    crn: '28824'
+    instructor: Turner, Julianne
+    time: M W  - 1:30P - 2:45P
+    location: Flanner Hall 625
+- !ruby/object:Course
+  name: Senior Thesis
+  credit: '3'
+  coursenum: PSY47809
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '11'
+    max_spots: '20'
+    crn: '25644'
+    instructor: Bergeman, Cindy
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Senior Honors Thesis
+  credit: '3'
+  coursenum: PSY48800
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '8'
+    max_spots: '17'
+    crn: '21164'
+    instructor: Merluzzi, Thomas
+    time: W  - 3:30P - 6:00P
+    location: Edward J. DeBartolo Hall 108
+- !ruby/object:Course
+  name: Quantitative Methods II
+  credit: '3'
+  coursenum: PSY60101
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '9'
+    max_spots: '20'
+    crn: '20634'
+    instructor: Maxwell, Scott
+    time: T R  - 9:30A - 10:45A
+    location: Haggar Hall 212
+- !ruby/object:Course
+  name: Structural Equation Models
+  credit: '3'
+  coursenum: PSY60130
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '13'
+    max_spots: '19'
+    crn: '21116'
+    instructor: Zhang, Zhiyong
+    time: M W  - 1:30P - 2:45P
+    location: Flanner Hall 323
+- !ruby/object:Course
+  name: Intro to the Generalized Linea
+  credit: '3'
+  coursenum: PSY60135
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '13'
+    max_spots: '18'
+    crn: '28825'
+    instructor: Lubke, Gitta
+    time: T R  - 2:00P - 3:15P
+    location: Haggar Hall 212
+- !ruby/object:Course
+  name: Mixture Modeling
+  credit: '3'
+  coursenum: PSY60151
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '16'
+    max_spots: '18'
+    crn: '28826'
+    instructor: Lubke, Gitta
+    time: T R  - 12:30P - 1:45P
+    location: Haggar Hall 212
+- !ruby/object:Course
+  name: Longitudinal Data Analysis
+  credit: '3'
+  coursenum: PSY60155
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '13'
+    max_spots: '18'
+    crn: '28827'
+    instructor: Wang, Lijuan
+    time: M W  - 10:00A - 11:15A
+    location: Haggar Hall 200
+- !ruby/object:Course
+  name: Mental Health and Aging
+  credit: '3'
+  coursenum: PSY60230
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '1'
+    max_spots: '1'
+    crn: '29895'
+    instructor: Bergeman, Cindy
+    time: M W  - 10:20A - 11:35A
+    location: Haggar Hall B016
+- !ruby/object:Course
+  name: Cognitive Development
+  credit: '3'
+  coursenum: PSY60250
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '17'
+    max_spots: '18'
+    crn: '28828'
+    instructor: Lany, Jill
+    time: T  - 2:00P - 4:30P
+    location: Edward J. DeBartolo Hall 305
+- !ruby/object:Course
+  name: Developmental Psychopathology
+  credit: '3'
+  coursenum: PSY60282
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '6'
+    max_spots: '8'
+    crn: '23661'
+    instructor: Cummings, Edward Bergman, Kathleen
+    time: M W  - 3:00P - 4:15P
+    location: Haggar Hall B016
+- !ruby/object:Course
+  name: Pers and Ind Differences
+  credit: '3'
+  coursenum: PSY60306
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '3'
+    max_spots: '3'
+    crn: '27078'
+    instructor: Watson, David
+    time: T R  - 11:00A - 12:15P
+    location: Edward J. DeBartolo Hall 336
+- !ruby/object:Course
+  name: Psychological Assesment II
+  credit: '3'
+  coursenum: PSY60323
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '8'
+    max_spots: '11'
+    crn: '25959'
+    instructor: Corning, Alexandra
+    time: W  - 9:00A - 11:30A
+    location: TBA
+- !ruby/object:Course
+  name: Clinical Skills& Interventions
+  credit: '3'
+  coursenum: PSY60331
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '4'
+    max_spots: '7'
+    crn: '25537'
+    instructor: Corning, Alexandra
+    time: F  - 9:00A - 11:30A
+    location: TBA
+- !ruby/object:Course
+  name: Multicultural Issues in Psy
+  credit: '3'
+  coursenum: PSY60340
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '12'
+    max_spots: '18'
+    crn: '29295'
+    instructor: Park, Irene
+    time: T R  - 2:00P - 3:15P
+    location: Haggar Hall B016
+- !ruby/object:Course
+  name: Professional Standards & Ethic
+  credit: '1'
+  coursenum: PSY60351
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '15'
+    max_spots: '19'
+    crn: '24286'
+    instructor: Clark, Lee Anna
+    time: T  - 3:30P - 4:45P
+    location: Haggar Hall 212
+- !ruby/object:Course
+  name: Artificial Intelligence
+  credit: '3'
+  coursenum: PSY60675
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '3'
+    max_spots: '3'
+    crn: '27002'
+    instructor: D'Mello, Sidney
+    time: M W  - 4:30P - 5:45P
+    location: Edward J. DeBartolo Hall 118
+- !ruby/object:Course
+  name: ! 'Quantitative Methods II: Lab'
+  credit: '1'
+  coursenum: PSY61101
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '9'
+    max_spots: '20'
+    crn: '20945'
+    instructor: Maxwell, Scott
+    time: T R  - 11:00A - 12:15P
+    location: Haggar Hall 212
+- !ruby/object:Course
+  name: Child Practicum II
+  credit: '3'
+  coursenum: PSY61382
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '29296'
+    instructor: Valentino, Kristin
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Practicum II
+  credit: '3'
+  coursenum: PSY61386
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '14'
+    max_spots: '15'
+    crn: '22147'
+    instructor: Simons, Anne
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Practicum IV
+  credit: '3'
+  coursenum: PSY61388
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '8'
+    max_spots: '10'
+    crn: '20146'
+    instructor: Simons, Anne
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Practicum VI
+  credit: V
+  coursenum: PSY61390
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '21121'
+    instructor: Simons, Anne
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Marital Therapy Practicum
+  credit: V
+  coursenum: PSY61394
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '15'
+    max_spots: '15'
+    crn: '20270'
+    instructor: Smith, David
+    time: M  - 5:45P - 7:00P
+    location: Haggar Hall 212
+- !ruby/object:Course
+  name: Grad Semnar:Quantitative Study
+  credit: '1'
+  coursenum: PSY63199
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '20'
+    max_spots: '24'
+    crn: '23500'
+    instructor: Zhang, Zhiyong
+    time: R  - 3:30P - 4:45P
+    location: Haggar Hall 212
+- !ruby/object:Course
+  name: Topics in Cognitive Psychology
+  credit: '3'
+  coursenum: PSY63409
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '13'
+    max_spots: '18'
+    crn: '25960'
+    instructor: Eberhard, Kathleen
+    time: T R  - 3:30P - 4:45P
+    location: Grace Hall 346
+- !ruby/object:Course
+  name: Neurophysiology of Stress
+  credit: '3'
+  coursenum: PSY63533
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '2'
+    max_spots: '5'
+    crn: '28830'
+    instructor: Wirth, Michelle
+    time: M W  - 3:00P - 4:15P
+    location: Flanner Hall 323
+- !ruby/object:Course
+  name: Non Resident Internship
+  credit: V
+  coursenum: PSY65395
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '6'
+    max_spots: '6'
+    crn: '23449'
+    instructor: Monroe, Scott
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Resident Internship
+  credit: V
+  coursenum: PSY65396
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '7'
+    max_spots: '7'
+    crn: '23450'
+    instructor: Monroe, Scott
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Thesis Direction
+  credit: V
+  coursenum: PSY78820
+  sections:
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '21485'
+    instructor: Braungart-Rieker, Julia
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '04'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '21610'
+    instructor: Borkowski, John
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '06'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20571'
+    instructor: Crowell, Charles
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '07'
+    open_spots: '9'
+    max_spots: '10'
+    crn: '20318'
+    instructor: McNeil, Nicole
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: 08
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20429'
+    instructor: Day, Jeanne
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: 09
+    open_spots: '10'
+    max_spots: '10'
+    crn: '21464'
+    instructor: Gibson, Bradley
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '10'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20764'
+    instructor: Howard, George
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '11'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20067'
+    instructor: Park, Irene
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '12'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20605'
+    instructor: Maxwell, Scott
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '13'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '21458'
+    instructor: Turner, Julianne
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '15'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '21599'
+    instructor: Wirth, Michelle
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '16'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20370'
+    instructor: Merluzzi, Thomas
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '17'
+    open_spots: '9'
+    max_spots: '10'
+    crn: '20465'
+    instructor: Radvansky, Gabriel
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '18'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20479'
+    instructor: Bergeman, Cindy
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '19'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '21235'
+    instructor: Venter, Anre
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '20'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20793'
+    instructor: Kelly, Anita
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '21'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20250'
+    instructor: Carlson, Laura
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '22'
+    open_spots: '9'
+    max_spots: '10'
+    crn: '21803'
+    instructor: Cummings, Edward
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '23'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20933'
+    instructor: Whitman, Thomas
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '25'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20211'
+    instructor: Eberhard, Kathleen
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '26'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20056'
+    instructor: Corning, Alexandra
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '27'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '21026'
+    instructor: Gondoli, Dawn
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '28'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '21721'
+    instructor: Narvaez, Darcia
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '30'
+    open_spots: '9'
+    max_spots: '10'
+    crn: '20760'
+    instructor: Smith, David
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '31'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '21885'
+    instructor: Pope-Davis, Donald
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '32'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20623'
+    instructor: Lubke, Gitta
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '33'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20141'
+    instructor: Monroe, Scott
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '34'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '21434'
+    instructor: TBA
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '40'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20464'
+    instructor: Yuan, Ke-Hai
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '41'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '27472'
+    instructor: Diehl, Joshua
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '43'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '27466'
+    instructor: Cheng, Ying
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '44'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '23506'
+    instructor: Lapsley, Daniel
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '48'
+    open_spots: '6'
+    max_spots: '6'
+    crn: '25591'
+    instructor: Payne, Jessica
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '50'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '27476'
+    instructor: Zhang, Zhiyong
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '51'
+    open_spots: '6'
+    max_spots: '6'
+    crn: '25672'
+    instructor: Valentino, Kristin
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '53'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '25561'
+    instructor: Clark, Lee Anna
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '54'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '25562'
+    instructor: Watson, David
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '55'
+    open_spots: '6'
+    max_spots: '6'
+    crn: '25678'
+    instructor: Lany, Jill
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '56'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '25714'
+    instructor: Simons, Anne
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '60'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '27481'
+    instructor: Wang, Lijuan
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Nonresident Thesis Research
+  credit: '1'
+  coursenum: PSY78821
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20052'
+    instructor: TBA
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '56'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '25715'
+    instructor: Simons, Anne
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Reading/Special Topics
+  credit: V
+  coursenum: PSY78841
+  sections:
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20371'
+    instructor: Braungart-Rieker, Julia
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '04'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '21254'
+    instructor: Borkowski, John
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '06'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '21557'
+    instructor: Crowell, Charles
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '07'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20607'
+    instructor: McNeil, Nicole
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: 08
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20131'
+    instructor: Day, Jeanne
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: 09
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20352'
+    instructor: Gibson, Bradley
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '10'
+    open_spots: '8'
+    max_spots: '10'
+    crn: '20914'
+    instructor: Howard, George
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '11'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20194'
+    instructor: Park, Irene
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '12'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20222'
+    instructor: Maxwell, Scott
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '13'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '21086'
+    instructor: Turner, Julianne
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '15'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20004'
+    instructor: TBA
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '16'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '21349'
+    instructor: Merluzzi, Thomas
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '17'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20695'
+    instructor: Radvansky, Gabriel
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '18'
+    open_spots: '9'
+    max_spots: '10'
+    crn: '20611'
+    instructor: Bergeman, Cindy
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '19'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '21041'
+    instructor: Venter, Anre
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '20'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20886'
+    instructor: Kelly, Anita
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '21'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20048'
+    instructor: Carlson, Laura
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '22'
+    open_spots: '9'
+    max_spots: '10'
+    crn: '21021'
+    instructor: Cummings, Edward
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '23'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20755'
+    instructor: Whitman, Thomas
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '25'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '21636'
+    instructor: Eberhard, Kathleen
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '26'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20229'
+    instructor: Pope-Davis, Donald
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '27'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20639'
+    instructor: Gondoli, Dawn
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '28'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20227'
+    instructor: Narvaez, Darcia
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '30'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20513'
+    instructor: Smith, David
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '32'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20248'
+    instructor: Lubke, Gitta
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '33'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '21732'
+    instructor: Monroe, Scott
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '34'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20172'
+    instructor: Wirth, Michelle
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '40'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20948'
+    instructor: Zhang, Guangjian
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '41'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '27473'
+    instructor: Diehl, Joshua
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '42'
+    open_spots: '6'
+    max_spots: '6'
+    crn: '22149'
+    instructor: Corning, Alexandra
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '43'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '27467'
+    instructor: Cheng, Ying
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '44'
+    open_spots: '40'
+    max_spots: '40'
+    crn: '22783'
+    instructor: Lapsley, Daniel
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '48'
+    open_spots: '6'
+    max_spots: '6'
+    crn: '25592'
+    instructor: Payne, Jessica
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '50'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '27477'
+    instructor: Zhang, Zhiyong
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '51'
+    open_spots: '6'
+    max_spots: '6'
+    crn: '25673'
+    instructor: Valentino, Kristin
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '53'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '25563'
+    instructor: Clark, Lee Anna
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '54'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '25564'
+    instructor: Watson, David
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '55'
+    open_spots: '6'
+    max_spots: '6'
+    crn: '25679'
+    instructor: Lany, Jill
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '56'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '25716'
+    instructor: TBA
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '60'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '27482'
+    instructor: Wang, Lijuan
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Reading/Special Topics
+  credit: V
+  coursenum: PSY78842
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20774'
+    instructor: Cummings, Edward
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20178'
+    instructor: Braungart-Rieker, Julia
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '04'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '21060'
+    instructor: Borkowski, John
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '07'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20627'
+    instructor: McNeil, Nicole
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: 09
+    open_spots: '9'
+    max_spots: '10'
+    crn: '21134'
+    instructor: Gibson, Bradley
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '10'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20173'
+    instructor: Howard, George
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '11'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20394'
+    instructor: Park, Irene
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '18'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20129'
+    instructor: Bergeman, Cindy
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '20'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '21737'
+    instructor: Kelly, Anita
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '21'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20472'
+    instructor: Carlson, Laura
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '23'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '21884'
+    instructor: Smith, David
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '24'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '21090'
+    instructor: Whitman, Thomas
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '25'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20254'
+    instructor: Lubke, Gitta
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '26'
+    open_spots: '9'
+    max_spots: '10'
+    crn: '20038'
+    instructor: Monroe, Scott
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '27'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '21268'
+    instructor: Wirth, Michelle
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '40'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '21401'
+    instructor: Yuan, Ke-Hai
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '41'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '27474'
+    instructor: Diehl, Joshua
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '42'
+    open_spots: '6'
+    max_spots: '6'
+    crn: '22150'
+    instructor: Corning, Alexandra
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '43'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '27468'
+    instructor: Cheng, Ying
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '44'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '23504'
+    instructor: Lapsley, Daniel
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '48'
+    open_spots: '6'
+    max_spots: '6'
+    crn: '25593'
+    instructor: Payne, Jessica
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '50'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '27478'
+    instructor: Zhang, Zhiyong
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '51'
+    open_spots: '6'
+    max_spots: '6'
+    crn: '25674'
+    instructor: Valentino, Kristin
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '53'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '25565'
+    instructor: Clark, Lee Anna
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '54'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '25566'
+    instructor: Watson, David
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '55'
+    open_spots: '6'
+    max_spots: '6'
+    crn: '25680'
+    instructor: Lany, Jill
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '56'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '25717'
+    instructor: Simons, Anne
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '57'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '27113'
+    instructor: D'Mello, Sidney
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '60'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '27483'
+    instructor: Wang, Lijuan
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Research and Dissertation
+  credit: V
+  coursenum: PSY98825
+  sections:
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '21822'
+    instructor: Braungart-Rieker, Julia
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '04'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20954'
+    instructor: Borkowski, John
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '06'
+    open_spots: '8'
+    max_spots: '10'
+    crn: '20672'
+    instructor: Crowell, Charles
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: 08
+    open_spots: '9'
+    max_spots: '10'
+    crn: '20631'
+    instructor: Day, Jeanne
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: 09
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20388'
+    instructor: Gibson, Bradley
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '10'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '21359'
+    instructor: Howard, George
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '11'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '21581'
+    instructor: Park, Irene
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '12'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20144'
+    instructor: Maxwell, Scott
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '13'
+    open_spots: '9'
+    max_spots: '10'
+    crn: '20165'
+    instructor: Turner, Julianne
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '15'
+    open_spots: '9'
+    max_spots: '10'
+    crn: '21410'
+    instructor: Wirth, Michelle
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '17'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20110'
+    instructor: Radvansky, Gabriel
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '18'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20300'
+    instructor: Bergeman, Cindy
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '19'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20837'
+    instructor: Venter, Anre
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '20'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20447'
+    instructor: Kelly, Anita
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '21'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '21423'
+    instructor: Carlson, Laura
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '22'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20432'
+    instructor: Cummings, Edward
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '23'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '21290'
+    instructor: Whitman, Thomas
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '25'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '21568'
+    instructor: Eberhard, Kathleen
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '26'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20102'
+    instructor: Pope-Davis, Donald
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '27'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '21808'
+    instructor: Gondoli, Dawn
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '28'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '21603'
+    instructor: Narvaez, Darcia
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '30'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20935'
+    instructor: Smith, David
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '32'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '21286'
+    instructor: Lubke, Gitta
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '33'
+    open_spots: '9'
+    max_spots: '10'
+    crn: '21756'
+    instructor: Monroe, Scott
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '40'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '21595'
+    instructor: Yuan, Ke-Hai
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '41'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '27475'
+    instructor: Diehl, Joshua
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '42'
+    open_spots: '6'
+    max_spots: '6'
+    crn: '22148'
+    instructor: Corning, Alexandra
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '43'
+    open_spots: '5'
+    max_spots: '6'
+    crn: '27469'
+    instructor: Cheng, Ying
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '44'
+    open_spots: '9'
+    max_spots: '10'
+    crn: '23505'
+    instructor: Lapsley, Daniel
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '48'
+    open_spots: '4'
+    max_spots: '6'
+    crn: '25594'
+    instructor: Payne, Jessica
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '50'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '27479'
+    instructor: Zhang, Zhiyong
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '51'
+    open_spots: '6'
+    max_spots: '6'
+    crn: '25675'
+    instructor: Valentino, Kristin
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '53'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '25567'
+    instructor: Clark, Lee Anna
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '54'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '25568'
+    instructor: Watson, David
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '55'
+    open_spots: '6'
+    max_spots: '6'
+    crn: '25681'
+    instructor: Lany, Jill
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '56'
+    open_spots: '9'
+    max_spots: '10'
+    crn: '25718'
+    instructor: Simons, Anne
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '58'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '27452'
+    instructor: Zhang, Guangjian
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '60'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '27484'
+    instructor: Wang, Lijuan
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Nonresident Dissertation Rsrch
+  credit: V
+  coursenum: PSY98826
+  sections:
+  - !ruby/object:Section
+    section_num: '04'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '21720'
+    instructor: Borkowski, John
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '06'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '21612'
+    instructor: Crowell, Charles
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: 08
+    open_spots: '10'
+    max_spots: '10'
+    crn: '21240'
+    instructor: Day, Jeanne
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: 09
+    open_spots: '10'
+    max_spots: '10'
+    crn: '21270'
+    instructor: Gibson, Bradley
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '10'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20406'
+    instructor: Howard, George
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '11'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '21336'
+    instructor: Park, Irene
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '12'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20328'
+    instructor: Maxwell, Scott
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '13'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20725'
+    instructor: Turner, Julianne
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '15'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20970'
+    instructor: Wirth, Michelle
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '16'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20417'
+    instructor: Merluzzi, Thomas
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '17'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20196'
+    instructor: Radvansky, Gabriel
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '18'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20932'
+    instructor: Bergeman, Cindy
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '19'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20286'
+    instructor: Venter, Anre
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '20'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20359'
+    instructor: Kelly, Anita
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '21'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20018'
+    instructor: Carlson, Laura
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '22'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '21854'
+    instructor: Cummings, Edward
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '23'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20560'
+    instructor: Whitman, Thomas
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '25'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '21579'
+    instructor: Eberhard, Kathleen
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '26'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '21527'
+    instructor: Pope-Davis, Donald
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '27'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '21159'
+    instructor: Gondoli, Dawn
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '28'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20590'
+    instructor: Narvaez, Darcia
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '30'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20994'
+    instructor: Smith, David
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '32'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '21872'
+    instructor: Lubke, Gitta
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '33'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '21504'
+    instructor: Monroe, Scott
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '40'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20757'
+    instructor: Yuan, Ke-Hai
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '42'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '25722'
+    instructor: Corning, Alexandra
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '43'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '27470'
+    instructor: Cheng, Ying
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '44'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '23507'
+    instructor: Lapsley, Daniel
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '51'
+    open_spots: '6'
+    max_spots: '6'
+    crn: '25676'
+    instructor: Valentino, Kristin
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '55'
+    open_spots: '6'
+    max_spots: '6'
+    crn: '25682'
+    instructor: Lany, Jill
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '56'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '25719'
+    instructor: Simons, Anne
+    time: TBA
+    location: TBA
+0'
+  :xlst: ! '&nbsp'
+  :crn: '20227'
+  :syl: ! '&nbsp'
+  :instructor: Narvaez, Darcia
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: PSY78841
+  :section: '30'
+  :title: Reading/Special Topics
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '20513'
+  :syl: ! '&nbsp'
+  :instructor: Smith, David
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: PSY78841
+  :section: '32'
+  :title: Reading/Special Topics
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '20248'
+  :syl: ! '&nbsp'
+  :instructor: Lubke, Gitta
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: PSY78841
+  :section: '33'
+  :title: Reading/Special Topics
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '21732'
+  :syl: ! '&nbsp'
+  :instructor: Monroe, Scott
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: PSY78841
+  :section: '34'
+  :title: Reading/Special Topics
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '20172'
+  :syl: ! '&nbsp'
+  :instructor: Wirth, Michelle
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: PSY78841
+  :section: '40'
+  :title: Reading/Special Topics
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '20948'
+  :syl: ! '&nbsp'
+  :instructor: Zhang, Guangjian
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: PSY78841
+  :section: '41'
+  :title: Reading/Special Topics
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '27473'
+  :syl: ! '&nbsp'
+  :instructor: Diehl, Joshua
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: PSY78841
+  :section: '42'
+  :title: Reading/Special Topics
+  :credits: V
+  :status: OP
+  :max_spots: '6'
+  :open_spots: '6'
+  :xlst: ! '&nbsp'
+  :crn: '22149'
+  :syl: ! '&nbsp'
+  :instructor: Corning, Alexandra
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: PSY78841
+  :section: '43'
+  :title: Reading/Special Topics
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '27467'
+  :syl: ! '&nbsp'
+  :instructor: Cheng, Ying
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: PSY78841
+  :section: '44'
+  :title: Reading/Special Topics
+  :credits: V
+  :status: OP
+  :max_spots: '40'
+  :open_spots: '40'
+  :xlst: ! '&nbsp'
+  :crn: '22783'
+  :syl: ! '&nbsp'
+  :instructor: Lapsley, Daniel
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: PSY78841
+  :section: '48'
+  :title: Reading/Special Topics
+  :credits: V
+  :status: OP
+  :max_spots: '6'
+  :open_spots: '6'
+  :xlst: ! '&nbsp'
+  :crn: '25592'
+  :syl: ! '&nbsp'
+  :instructor: Payne, Jessica
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: PSY78841
+  :section: '50'
+  :title: Reading/Special Topics
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '27477'
+  :syl: ! '&nbsp'
+  :instructor: Zhang, Zhiyong
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: PSY78841
+  :section: '51'
+  :title: Reading/Special Topics
+  :credits: V
+  :status: OP
+  :max_spots: '6'
+  :open_spots: '6'
+  :xlst: ! '&nbsp'
+  :crn: '25673'
+  :syl: ! '&nbsp'
+  :instructor: Valentino, Kristin
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: PSY78841
+  :section: '53'
+  :title: Reading/Special Topics
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '25563'
+  :syl: ! '&nbsp'
+  :instructor: Clark, Lee Anna
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: PSY78841
+  :section: '54'
+  :title: Reading/Special Topics
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '25564'
+  :syl: ! '&nbsp'
+  :instructor: Watson, David
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: PSY78841
+  :section: '55'
+  :title: Reading/Special Topics
+  :credits: V
+  :status: OP
+  :max_spots: '6'
+  :open_spots: '6'
+  :xlst: ! '&nbsp'
+  :crn: '25679'
+  :syl: ! '&nbsp'
+  :instructor: Lany, Jill
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: PSY78841
+  :section: '56'
+  :title: Reading/Special Topics
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '25716'
+  :syl: ! '&nbsp'
+  :instructor: TBA
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: PSY78841
+  :section: '60'
+  :title: Reading/Special Topics
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '27482'
+  :syl: ! '&nbsp'
+  :instructor: Wang, Lijuan
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: PSY78842
+  :section: '01'
+  :title: Reading/Special Topics
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '20774'
+  :syl: ! '&nbsp'
+  :instructor: Cummings, Edward
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: PSY78842
+  :section: '02'
+  :title: Reading/Special Topics
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '20178'
+  :syl: ! '&nbsp'
+  :instructor: Braungart-Rieker, Julia
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: PSY78842
+  :section: '04'
+  :title: Reading/Special Topics
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '21060'
+  :syl: ! '&nbsp'
+  :instructor: Borkowski, John
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: PSY78842
+  :section: '07'
+  :title: Reading/Special Topics
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '20627'
+  :syl: ! '&nbsp'
+  :instructor: McNeil, Nicole
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: PSY78842
+  :section: 09
+  :title: Reading/Special Topics
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '9'
+  :xlst: ! '&nbsp'
+  :crn: '21134'
+  :syl: ! '&nbsp'
+  :instructor: Gibson, Bradley
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: PSY78842
+  :section: '10'
+  :title: Reading/Special Topics
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '20173'
+  :syl: ! '&nbsp'
+  :instructor: Howard, George
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: PSY78842
+  :section: '11'
+  :title: Reading/Special Topics
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '20394'
+  :syl: ! '&nbsp'
+  :instructor: Park, Irene
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: PSY78842
+  :section: '18'
+  :title: Reading/Special Topics
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '20129'
+  :syl: ! '&nbsp'
+  :instructor: Bergeman, Cindy
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: PSY78842
+  :section: '20'
+  :title: Reading/Special Topics
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '21737'
+  :syl: ! '&nbsp'
+  :instructor: Kelly, Anita
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: PSY78842
+  :section: '21'
+  :title: Reading/Special Topics
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '20472'
+  :syl: ! '&nbsp'
+  :instructor: Carlson, Laura
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: PSY78842
+  :section: '23'
+  :title: Reading/Special Topics
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '21884'
+  :syl: ! '&nbsp'
+  :instructor: Smith, David
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: PSY78842
+  :section: '24'
+  :title: Reading/Special Topics
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '21090'
+  :syl: ! '&nbsp'
+  :instructor: Whitman, Thomas
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: PSY78842
+  :section: '25'
+  :title: Reading/Special Topics
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '20254'
+  :syl: ! '&nbsp'
+  :instructor: Lubke, Gitta
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: PSY78842
+  :section: '26'
+  :title: Reading/Special Topics
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '20038'
+  :syl: ! '&nbsp'
+  :instructor: Monroe, Scott
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: PSY78842
+  :section: '27'
+  :title: Reading/Special Topics
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '21268'
+  :syl: ! '&nbsp'
+  :instructor: Wirth, Michelle
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: PSY78842
+  :section: '40'
+  :title: Reading/Special Topics
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '21401'
+  :syl: ! '&nbsp'
+  :instructor: Yuan, Ke-Hai
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: PSY78842
+  :section: '41'
+  :title: Reading/Special Topics
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '27474'
+  :syl: ! '&nbsp'
+  :instructor: Diehl, Joshua
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: PSY78842
+  :section: '42'
+  :title: Reading/Special Topics
+  :credits: V
+  :status: OP
+  :max_spots: '6'
+  :open_spots: '6'
+  :xlst: ! '&nbsp'
+  :crn: '22150'
+  :syl: ! '&nbsp'
+  :instructor: Corning, Alexandra
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: PSY78842
+  :section: '43'
+  :title: Reading/Special Topics
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '27468'
+  :syl: ! '&nbsp'
+  :instructor: Cheng, Ying
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: PSY78842
+  :section: '44'
+  :title: Reading/Special Topics
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '23504'
+  :syl: ! '&nbsp'
+  :instructor: Lapsley, Daniel
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: PSY78842
+  :section: '48'
+  :title: Reading/Special Topics
+  :credits: V
+  :status: OP
+  :max_spots: '6'
+  :open_spots: '6'
+  :xlst: ! '&nbsp'
+  :crn: '25593'
+  :syl: ! '&nbsp'
+  :instructor: Payne, Jessica
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: PSY78842
+  :section: '50'
+  :title: Reading/Special Topics
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '27478'
+  :syl: ! '&nbsp'
+  :instructor: Zhang, Zhiyong
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: PSY78842
+  :section: '51'
+  :title: Reading/Special Topics
+  :credits: V
+  :status: OP
+  :max_spots: '6'
+  :open_spots: '6'
+  :xlst: ! '&nbsp'
+  :crn: '25674'
+  :syl: ! '&nbsp'
+  :instructor: Valentino, Kristin
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: PSY78842
+  :section: '53'
+  :title: Reading/Special Topics
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '25565'
+  :syl: ! '&nbsp'
+  :instructor: Clark, Lee Anna
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: PSY78842
+  :section: '54'
+  :title: Reading/Special Topics
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '25566'
+  :syl: ! '&nbsp'
+  :instructor: Watson, David
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: PSY78842
+  :section: '55'
+  :title: Reading/Special Topics
+  :credits: V
+  :status: OP
+  :max_spots: '6'
+  :open_spots: '6'
+  :xlst: ! '&nbsp'
+  :crn: '25680'
+  :syl: ! '&nbsp'
+  :instructor: Lany, Jill
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: PSY78842
+  :section: '56'
+  :title: Reading/Special Topics
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '25717'
+  :syl: ! '&nbsp'
+  :instructor: Simons, Anne
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: PSY78842
+  :section: '57'
+  :title: Reading/Special Topics
+  :credits: V
+  :status: OP
+  :max_spots: '5'
+  :open_spots: '5'
+  :xlst: ! '&nbsp'
+  :crn: '27113'
+  :syl: ! '&nbsp'
+  :instructor: D'Mello, Sidney
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: PSY78842
+  :section: '60'
+  :title: Reading/Special Topics
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '27483'
+  :syl: ! '&nbsp'
+  :instructor: Wang, Lijuan
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: PSY98825
+  :section: '02'
+  :title: Research and Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '21822'
+  :syl: ! '&nbsp'
+  :instructor: Braungart-Rieker, Julia
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: PSY98825
+  :section: '04'
+  :title: Research and Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '20954'
+  :syl: ! '&nbsp'
+  :instructor: Borkowski, John
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: PSY98825
+  :section: '06'
+  :title: Research and Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '8'
+  :xlst: ! '&nbsp'
+  :crn: '20672'
+  :syl: ! '&nbsp'
+  :instructor: Crowell, Charles
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: PSY98825
+  :section: 08
+  :title: Research and Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '9'
+  :xlst: ! '&nbsp'
+  :crn: '20631'
+  :syl: ! '&nbsp'
+  :instructor: Day, Jeanne
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: PSY98825
+  :section: 09
+  :title: Research and Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '20388'
+  :syl: ! '&nbsp'
+  :instructor: Gibson, Bradley
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: PSY98825
+  :section: '10'
+  :title: Research and Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '21359'
+  :syl: ! '&nbsp'
+  :instructor: Howard, George
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: PSY98825
+  :section: '11'
+  :title: Research and Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '21581'
+  :syl: ! '&nbsp'
+  :instructor: Park, Irene
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: PSY98825
+  :section: '12'
+  :title: Research and Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '20144'
+  :syl: ! '&nbsp'
+  :instructor: Maxwell, Scott
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: PSY98825
+  :section: '13'
+  :title: Research and Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '9'
+  :xlst: ! '&nbsp'
+  :crn: '20165'
+  :syl: ! '&nbsp'
+  :instructor: Turner, Julianne
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: PSY98825
+  :section: '15'
+  :title: Research and Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '9'
+  :xlst: ! '&nbsp'
+  :crn: '21410'
+  :syl: ! '&nbsp'
+  :instructor: Wirth, Michelle
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: PSY98825
+  :section: '17'
+  :title: Research and Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '20110'
+  :syl: ! '&nbsp'
+  :instructor: Radvansky, Gabriel
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: PSY98825
+  :section: '18'
+  :title: Research and Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '20300'
+  :syl: ! '&nbsp'
+  :instructor: Bergeman, Cindy
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: PSY98825
+  :section: '19'
+  :title: Research and Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '20837'
+  :syl: ! '&nbsp'
+  :instructor: Venter, Anre
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: PSY98825
+  :section: '20'
+  :title: Research and Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '20447'
+  :syl: ! '&nbsp'
+  :instructor: Kelly, Anita
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: PSY98825
+  :section: '21'
+  :title: Research and Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '21423'
+  :syl: ! '&nbsp'
+  :instructor: Carlson, Laura
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: PSY98825
+  :section: '22'
+  :title: Research and Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '20432'
+  :syl: ! '&nbsp'
+  :instructor: Cummings, Edward
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: PSY98825
+  :section: '23'
+  :title: Research and Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '21290'
+  :syl: ! '&nbsp'
+  :instructor: Whitman, Thomas
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: PSY98825
+  :section: '25'
+  :title: Research and Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '21568'
+  :syl: ! '&nbsp'
+  :instructor: Eberhard, Kathleen
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: PSY98825
+  :section: '26'
+  :title: Research and Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '20102'
+  :syl: ! '&nbsp'
+  :instructor: Pope-Davis, Donald
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: PSY98825
+  :section: '27'
+  :title: Research and Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '21808'
+  :syl: ! '&nbsp'
+  :instructor: Gondoli, Dawn
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: PSY98825
+  :section: '28'
+  :title: Research and Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '21603'
+  :syl: ! '&nbsp'
+  :instructor: Narvaez, Darcia
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: PSY98825
+  :section: '30'
+  :title: Research and Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '20935'
+  :syl: ! '&nbsp'
+  :instructor: Smith, David
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: PSY98825
+  :section: '32'
+  :title: Research and Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '21286'
+  :syl: ! '&nbsp'
+  :instructor: Lubke, Gitta
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: PSY98825
+  :section: '33'
+  :title: Research and Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '9'
+  :xlst: ! '&nbsp'
+  :crn: '21756'
+  :syl: ! '&nbsp'
+  :instructor: Monroe, Scott
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: PSY98825
+  :section: '40'
+  :title: Research and Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '21595'
+  :syl: ! '&nbsp'
+  :instructor: Yuan, Ke-Hai
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: PSY98825
+  :section: '41'
+  :title: Research and Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '27475'
+  :syl: ! '&nbsp'
+  :instructor: Diehl, Joshua
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: PSY98825
+  :section: '42'
+  :title: Research and Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '6'
+  :open_spots: '6'
+  :xlst: ! '&nbsp'
+  :crn: '22148'
+  :syl: ! '&nbsp'
+  :instructor: Corning, Alexandra
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: PSY98825
+  :section: '43'
+  :title: Research and Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '6'
+  :open_spots: '6'
+  :xlst: ! '&nbsp'
+  :crn: '27469'
+  :syl: ! '&nbsp'
+  :instructor: Cheng, Ying
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: PSY98825
+  :section: '44'
+  :title: Research and Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '9'
+  :xlst: ! '&nbsp'
+  :crn: '23505'
+  :syl: ! '&nbsp'
+  :instructor: Lapsley, Daniel
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: PSY98825
+  :section: '48'
+  :title: Research and Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '6'
+  :open_spots: '5'
+  :xlst: ! '&nbsp'
+  :crn: '25594'
+  :syl: ! '&nbsp'
+  :instructor: Payne, Jessica
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: PSY98825
+  :section: '50'
+  :title: Research and Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '27479'
+  :syl: ! '&nbsp'
+  :instructor: Zhang, Zhiyong
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: PSY98825
+  :section: '51'
+  :title: Research and Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '6'
+  :open_spots: '6'
+  :xlst: ! '&nbsp'
+  :crn: '25675'
+  :syl: ! '&nbsp'
+  :instructor: Valentino, Kristin
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: PSY98825
+  :section: '53'
+  :title: Research and Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '25567'
+  :syl: ! '&nbsp'
+  :instructor: Clark, Lee Anna
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: PSY98825
+  :section: '54'
+  :title: Research and Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '25568'
+  :syl: ! '&nbsp'
+  :instructor: Watson, David
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: PSY98825
+  :section: '55'
+  :title: Research and Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '6'
+  :open_spots: '6'
+  :xlst: ! '&nbsp'
+  :crn: '25681'
+  :syl: ! '&nbsp'
+  :instructor: Lany, Jill
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: PSY98825
+  :section: '56'
+  :title: Research and Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '9'
+  :xlst: ! '&nbsp'
+  :crn: '25718'
+  :syl: ! '&nbsp'
+  :instructor: Simons, Anne
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: PSY98825
+  :section: '58'
+  :title: Research and Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '27452'
+  :syl: ! '&nbsp'
+  :instructor: Zhang, Guangjian
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: PSY98825
+  :section: '60'
+  :title: Research and Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '27484'
+  :syl: ! '&nbsp'
+  :instructor: Wang, Lijuan
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: PSY98826
+  :section: '04'
+  :title: Nonresident Dissertation Rsrch
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '21720'
+  :syl: ! '&nbsp'
+  :instructor: Borkowski, John
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: PSY98826
+  :section: '06'
+  :title: Nonresident Dissertation Rsrch
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '21612'
+  :syl: ! '&nbsp'
+  :instructor: Crowell, Charles
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: PSY98826
+  :section: 08
+  :title: Nonresident Dissertation Rsrch
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '21240'
+  :syl: ! '&nbsp'
+  :instructor: Day, Jeanne
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: PSY98826
+  :section: 09
+  :title: Nonresident Dissertation Rsrch
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '21270'
+  :syl: ! '&nbsp'
+  :instructor: Gibson, Bradley
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: PSY98826
+  :section: '10'
+  :title: Nonresident Dissertation Rsrch
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '20406'
+  :syl: ! '&nbsp'
+  :instructor: Howard, George
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: PSY98826
+  :section: '11'
+  :title: Nonresident Dissertation Rsrch
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '21336'
+  :syl: ! '&nbsp'
+  :instructor: Park, Irene
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: PSY98826
+  :section: '12'
+  :title: Nonresident Dissertation Rsrch
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '20328'
+  :syl: ! '&nbsp'
+  :instructor: Maxwell, Scott
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: PSY98826
+  :section: '13'
+  :title: Nonresident Dissertation Rsrch
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '20725'
+  :syl: ! '&nbsp'
+  :instructor: Turner, Julianne
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: PSY98826
+  :section: '15'
+  :title: Nonresident Dissertation Rsrch
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '20970'
+  :syl: ! '&nbsp'
+  :instructor: Wirth, Michelle
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: PSY98826
+  :section: '16'
+  :title: Nonresident Dissertation Rsrch
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '20417'
+  :syl: ! '&nbsp'
+  :instructor: Merluzzi, Thomas
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: PSY98826
+  :section: '17'
+  :title: Nonresident Dissertation Rsrch
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '20196'
+  :syl: ! '&nbsp'
+  :instructor: Radvansky, Gabriel
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: PSY98826
+  :section: '18'
+  :title: Nonresident Dissertation Rsrch
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '20932'
+  :syl: ! '&nbsp'
+  :instructor: Bergeman, Cindy
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: PSY98826
+  :section: '19'
+  :title: Nonresident Dissertation Rsrch
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '20286'
+  :syl: ! '&nbsp'
+  :instructor: Venter, Anre
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: PSY98826
+  :section: '20'
+  :title: Nonresident Dissertation Rsrch
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '20359'
+  :syl: ! '&nbsp'
+  :instructor: Kelly, Anita
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: PSY98826
+  :section: '21'
+  :title: Nonresident Dissertation Rsrch
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '20018'
+  :syl: ! '&nbsp'
+  :instructor: Carlson, Laura
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: PSY98826
+  :section: '22'
+  :title: Nonresident Dissertation Rsrch
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '21854'
+  :syl: ! '&nbsp'
+  :instructor: Cummings, Edward
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: PSY98826
+  :section: '23'
+  :title: Nonresident Dissertation Rsrch
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '20560'
+  :syl: ! '&nbsp'
+  :instructor: Whitman, Thomas
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: PSY98826
+  :section: '25'
+  :title: Nonresident Dissertation Rsrch
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '21579'
+  :syl: ! '&nbsp'
+  :instructor: Eberhard, Kathleen
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: PSY98826
+  :section: '26'
+  :title: Nonresident Dissertation Rsrch
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '21527'
+  :syl: ! '&nbsp'
+  :instructor: Pope-Davis, Donald
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: PSY98826
+  :section: '27'
+  :title: Nonresident Dissertation Rsrch
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '21159'
+  :syl: ! '&nbsp'
+  :instructor: Gondoli, Dawn
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: PSY98826
+  :section: '28'
+  :title: Nonresident Dissertation Rsrch
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '20590'
+  :syl: ! '&nbsp'
+  :instructor: Narvaez, Darcia
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: PSY98826
+  :section: '30'
+  :title: Nonresident Dissertation Rsrch
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '20994'
+  :syl: ! '&nbsp'
+  :instructor: Smith, David
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: PSY98826
+  :section: '32'
+  :title: Nonresident Dissertation Rsrch
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '21872'
+  :syl: ! '&nbsp'
+  :instructor: Lubke, Gitta
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: PSY98826
+  :section: '33'
+  :title: Nonresident Dissertation Rsrch
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '21504'
+  :syl: ! '&nbsp'
+  :instructor: Monroe, Scott
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: PSY98826
+  :section: '40'
+  :title: Nonresident Dissertation Rsrch
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '20757'
+  :syl: ! '&nbsp'
+  :instructor: Yuan, Ke-Hai
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: PSY98826
+  :section: '42'
+  :title: Nonresident Dissertation Rsrch
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '25722'
+  :syl: ! '&nbsp'
+  :instructor: Corning, Alexandra
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: PSY98826
+  :section: '43'
+  :title: Nonresident Dissertation Rsrch
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '27470'
+  :syl: ! '&nbsp'
+  :instructor: Cheng, Ying
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: PSY98826
+  :section: '44'
+  :title: Nonresident Dissertation Rsrch
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '23507'
+  :syl: ! '&nbsp'
+  :instructor: Lapsley, Daniel
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: PSY98826
+  :section: '51'
+  :title: Nonresident Dissertation Rsrch
+  :credits: V
+  :status: OP
+  :max_spots: '6'
+  :open_spots: '6'
+  :xlst: ! '&nbsp'
+  :crn: '25676'
+  :syl: ! '&nbsp'
+  :instructor: Valentino, Kristin
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: PSY98826
+  :section: '55'
+  :title: Nonresident Dissertation Rsrch
+  :credits: V
+  :status: OP
+  :max_spots: '6'
+  :open_spots: '6'
+  :xlst: ! '&nbsp'
+  :crn: '25682'
+  :syl: ! '&nbsp'
+  :instructor: Lany, Jill
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: PSY98826
+  :section: '56'
+  :title: Nonresident Dissertation Rsrch
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '25719'
+  :syl: ! '&nbsp'
+  :instructor: Simons, Anne
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA

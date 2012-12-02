@@ -1,0 +1,3269 @@
+---
+- !ruby/object:Course
+  name: American Politics
+  credit: '3'
+  coursenum: POLS10100
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '35'
+    crn: '23786'
+    instructor: Wolbrecht, Christina
+    time: M W  - 9:35A - 10:25A
+    location: Edward J. DeBartolo Hall 131
+- !ruby/object:Course
+  name: International Relations
+  credit: '3'
+  coursenum: POLS10200
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '35'
+    crn: '23788'
+    instructor: Rosato, Susan
+    time: M W  - 10:40A - 11:30A
+    location: Edward J. DeBartolo Hall 140
+- !ruby/object:Course
+  name: Comparative Politics
+  credit: '3'
+  coursenum: POLS10400
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '35'
+    crn: '23790'
+    instructor: Nalepa, Monika
+    time: M W  - 10:40A - 11:30A
+    location: Edward J. DeBartolo Hall 131
+- !ruby/object:Course
+  name: Political Theory
+  credit: '3'
+  coursenum: POLS10600
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '35'
+    crn: '23791'
+    instructor: Deneen, Patrick
+    time: T R  - 9:30A - 10:45A
+    location: Edward J. DeBartolo Hall 140
+- !ruby/object:Course
+  name: Soc Science University Seminar
+  credit: '3'
+  coursenum: POLS13181
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '16'
+    crn: '23332'
+    instructor: Ramirez, Ricardo
+    time: T R  - 3:30P - 4:45P
+    location: Edward J. DeBartolo Hall 224
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '0'
+    max_spots: '16'
+    crn: '23333'
+    instructor: Bleck, Jaimie
+    time: T R  - 9:30A - 10:45A
+    location: O'Shaughnessy Hall 114
+  - !ruby/object:Section
+    section_num: '03'
+    open_spots: '0'
+    max_spots: '16'
+    crn: '24277'
+    instructor: Gould, Andrew
+    time: T R  - 9:30A - 10:45A
+    location: O'Shaughnessy Hall 115
+  - !ruby/object:Section
+    section_num: '04'
+    open_spots: '0'
+    max_spots: '16'
+    crn: '24680'
+    instructor: Singh, Naunihal
+    time: T R  - 2:00P - 3:15P
+    location: Coleman Morse Center 234
+  - !ruby/object:Section
+    section_num: '05'
+    open_spots: '2'
+    max_spots: '16'
+    crn: '25961'
+    instructor: Walshe, A.
+    time: T R  - 5:00P - 6:15P
+    location: Theodore M. Hesburgh Library 1000
+- !ruby/object:Course
+  name: American Politics
+  credit: '3'
+  coursenum: POLS20100
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '21'
+    max_spots: '59'
+    crn: '21958'
+    instructor: Wolbrecht, Christina
+    time: M W  - 9:35A - 10:25A
+    location: Edward J. DeBartolo Hall 131
+- !ruby/object:Course
+  name: International Relations
+  credit: '3'
+  coursenum: POLS20200
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '58'
+    crn: '21923'
+    instructor: Rosato, Susan
+    time: M W  - 10:40A - 11:30A
+    location: Edward J. DeBartolo Hall 140
+- !ruby/object:Course
+  name: Comparative Politics
+  credit: '3'
+  coursenum: POLS20400
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '46'
+    max_spots: '60'
+    crn: '21910'
+    instructor: Nalepa, Monika
+    time: M W  - 10:40A - 11:30A
+    location: Edward J. DeBartolo Hall 131
+- !ruby/object:Course
+  name: Political Theory
+  credit: '3'
+  coursenum: POLS20600
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '10'
+    max_spots: '58'
+    crn: '21912'
+    instructor: Deneen, Patrick
+    time: T R  - 9:30A - 10:45A
+    location: Edward J. DeBartolo Hall 140
+- !ruby/object:Course
+  name: American Politics Discussion
+  credit: '0'
+  coursenum: POLS22100
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '16'
+    crn: '28789'
+    instructor: Wolbrecht, Christina
+    time: F  - 9:35A - 10:25A
+    location: O'Shaughnessy Hall 200
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '0'
+    max_spots: '16'
+    crn: '28793'
+    instructor: Wolbrecht, Christina
+    time: F  - 9:35A - 10:25A
+    location: Edward J. DeBartolo Hall 334
+  - !ruby/object:Section
+    section_num: '03'
+    open_spots: '5'
+    max_spots: '16'
+    crn: '28791'
+    instructor: Wolbrecht, Christina
+    time: F  - 10:40A - 11:30A
+    location: Edward J. DeBartolo Hall 335
+  - !ruby/object:Section
+    section_num: '04'
+    open_spots: '9'
+    max_spots: '16'
+    crn: '28790'
+    instructor: Wolbrecht, Christina
+    time: F  - 10:40A - 11:30A
+    location: Edward J. DeBartolo Hall 334
+  - !ruby/object:Section
+    section_num: '05'
+    open_spots: '0'
+    max_spots: '16'
+    crn: '28792'
+    instructor: Wolbrecht, Christina
+    time: F  - 11:45A - 12:35P
+    location: Edward J. DeBartolo Hall 335
+  - !ruby/object:Section
+    section_num: '06'
+    open_spots: '8'
+    max_spots: '16'
+    crn: '28794'
+    instructor: Wolbrecht, Christina
+    time: F  - 11:45A - 12:35P
+    location: Edward J. DeBartolo Hall 332
+- !ruby/object:Course
+  name: IR Discussion
+  credit: '0'
+  coursenum: POLS22200
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '16'
+    crn: '20527'
+    instructor: Rosato, Susan
+    time: F  - 10:40A - 11:30A
+    location: O'Shaughnessy Hall 200
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '0'
+    max_spots: '16'
+    crn: '22535'
+    instructor: Rosato, Susan
+    time: F  - 10:40A - 11:30A
+    location: O'Shaughnessy Hall 202
+  - !ruby/object:Section
+    section_num: '03'
+    open_spots: '0'
+    max_spots: '16'
+    crn: '21029'
+    instructor: Rosato, Susan
+    time: F  - 9:35A - 10:25A
+    location: O'Shaughnessy Hall 202
+  - !ruby/object:Section
+    section_num: '04'
+    open_spots: '2'
+    max_spots: '16'
+    crn: '23099'
+    instructor: Rosato, Susan
+    time: F  - 9:35A - 10:25A
+    location: Hammes Mowbray Hall 313
+  - !ruby/object:Section
+    section_num: '05'
+    open_spots: '0'
+    max_spots: '16'
+    crn: '20846'
+    instructor: Rosato, Susan
+    time: F  - 11:45A - 12:35P
+    location: O'Shaughnessy Hall 200
+  - !ruby/object:Section
+    section_num: '06'
+    open_spots: '0'
+    max_spots: '16'
+    crn: '23793'
+    instructor: Rosato, Susan
+    time: F  - 11:45A - 12:35P
+    location: Edward J. DeBartolo Hall 349
+- !ruby/object:Course
+  name: Comparative Discussion
+  credit: '0'
+  coursenum: POLS22400
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '16'
+    crn: '23100'
+    instructor: Nalepa, Monika
+    time: F  - 10:40A - 11:30A
+    location: Edward J. DeBartolo Hall 333
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '0'
+    max_spots: '16'
+    crn: '20156'
+    instructor: Nalepa, Monika
+    time: F  - 10:40A - 11:30A
+    location: Edward J. DeBartolo Hall 332
+  - !ruby/object:Section
+    section_num: '03'
+    open_spots: '12'
+    max_spots: '16'
+    crn: '25485'
+    instructor: Nalepa, Monika
+    time: F  - 9:35A - 10:25A
+    location: Edward J. DeBartolo Hall 332
+  - !ruby/object:Section
+    section_num: '04'
+    open_spots: '16'
+    max_spots: '16'
+    crn: '25967'
+    instructor: Nalepa, Monika
+    time: F  - 9:35A - 10:25A
+    location: Edward J. DeBartolo Hall 333
+  - !ruby/object:Section
+    section_num: '05'
+    open_spots: '5'
+    max_spots: '16'
+    crn: '23334'
+    instructor: Nalepa, Monika
+    time: F  - 11:45A - 12:35P
+    location: Edward J. DeBartolo Hall 334
+  - !ruby/object:Section
+    section_num: '06'
+    open_spots: '14'
+    max_spots: '16'
+    crn: '25966'
+    instructor: Nalepa, Monika
+    time: F  - 11:45A - 12:35P
+    location: Edward J. DeBartolo Hall 333
+- !ruby/object:Course
+  name: Presidential Leadership
+  credit: '3'
+  coursenum: POLS30001
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '1'
+    max_spots: '40'
+    crn: '24536'
+    instructor: Arnold, Peri
+    time: M W  - 3:00P - 4:15P
+    location: Edward J. DeBartolo Hall 207
+- !ruby/object:Course
+  name: Public Opinion & Pol Behavior
+  credit: '3'
+  coursenum: POLS30022
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '31'
+    max_spots: '43'
+    crn: '25033'
+    instructor: Davis, Darren
+    time: M W  - 11:45A - 1:00P
+    location: Pasquerilla Center 107
+- !ruby/object:Course
+  name: Interest Group Politics
+  credit: '3'
+  coursenum: POLS30025
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '21'
+    max_spots: '43'
+    crn: '29665'
+    instructor: Adkins, Todd
+    time: M W  - 1:30P - 2:45P
+    location: Pasquerilla Center 114
+- !ruby/object:Course
+  name: Race/Ethnicity & Amer.Politics
+  credit: '3'
+  coursenum: POLS30035
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '3'
+    max_spots: '22'
+    crn: '28795'
+    instructor: Pinderhughes, Dianne
+    time: T R  - 12:30P - 1:45P
+    location: Edward J. DeBartolo Hall 204
+- !ruby/object:Course
+  name: Industrial Ag & Its Critics
+  credit: '3'
+  coursenum: POLS30043
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '24'
+    max_spots: '30'
+    crn: '29661'
+    instructor: Doppke, Matthew
+    time: T R  - 9:30A - 10:45A
+    location: Pasquerilla Center 112
+- !ruby/object:Course
+  name: Inequality and Amer Politics
+  credit: '3'
+  coursenum: POLS30044
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '21'
+    crn: '28796'
+    instructor: Rose, Deondra
+    time: T R  - 11:00A - 12:15P
+    location: Edward J. DeBartolo Hall B011
+- !ruby/object:Course
+  name: Urban Politics
+  credit: '3'
+  coursenum: POLS30051
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '16'
+    max_spots: '42'
+    crn: '26518'
+    instructor: Ramirez, Ricardo
+    time: T R  - 12:30P - 1:45P
+    location: Edward J. DeBartolo Hall 116
+- !ruby/object:Course
+  name: Federalism & the Constitution
+  credit: '3'
+  coursenum: POLS30067
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '28'
+    max_spots: '46'
+    crn: '28797'
+    instructor: Barber, Sotirios
+    time: T R  - 11:00A - 12:15P
+    location: Edward J. DeBartolo Hall 140
+- !ruby/object:Course
+  name: Education Law and Policy
+  credit: '3'
+  coursenum: POLS30154
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '1'
+    max_spots: '10'
+    crn: '25478'
+    instructor: Schoenig, John
+    time: M W  - 3:00P - 4:15P
+    location: Grace Hall 346
+- !ruby/object:Course
+  name: Healthcare and the Poor
+  credit: '3'
+  coursenum: POLS30157
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '1'
+    max_spots: '5'
+    crn: '29276'
+    instructor: Betson, David
+    time: T R  - 2:00P - 3:15P
+    location: Edward J. DeBartolo Hall 304
+- !ruby/object:Course
+  name: Policy Analysis in Education
+  credit: '3'
+  coursenum: POLS30158
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '1'
+    max_spots: '7'
+    crn: '29856'
+    instructor: Hartney, Michael
+    time: T R  - 5:00P - 6:15P
+    location: Main Building 404
+- !ruby/object:Course
+  name: Intro to First Amendment
+  credit: '3'
+  coursenum: POLS30163
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '10'
+    crn: '26984'
+    instructor: Visconsi, Elliott
+    time: T R  - 12:30P - 1:45P
+    location: Edward J. DeBartolo Hall 102
+- !ruby/object:Course
+  name: U.S. Foreign Policy
+  credit: '3'
+  coursenum: POLS30201
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '1'
+    max_spots: '31'
+    crn: '25970'
+    instructor: Maass, Richard
+    time: M W  - 3:00P - 4:15P
+    location: Pasquerilla Center 116
+- !ruby/object:Course
+  name: International Law
+  credit: '3'
+  coursenum: POLS30220
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '37'
+    crn: '28798'
+    instructor: Powell, Emilia Justyna
+    time: T R  - 12:30P - 1:45P
+    location: Coleman Morse Center 330
+- !ruby/object:Course
+  name: Genocide in the Modern World
+  credit: '3'
+  coursenum: POLS30229
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '10'
+    crn: '29277'
+    instructor: Verdeja, Ernesto
+    time: M W  - 4:30P - 5:45P
+    location: Edward J. DeBartolo Hall 320
+- !ruby/object:Course
+  name: Internat'l Political Economy
+  credit: '3'
+  coursenum: POLS30260
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '1'
+    max_spots: '45'
+    crn: '28799'
+    instructor: Guisinger, Alexandra
+    time: T R  - 9:30A - 10:45A
+    location: Edward J. DeBartolo Hall 207
+- !ruby/object:Course
+  name: Pol Econ of Int'l Development
+  credit: '3'
+  coursenum: POLS30271
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '14'
+    max_spots: '26'
+    crn: '25034'
+    instructor: Dutt, Amitava
+    time: T R  - 3:30P - 4:45P
+    location: O'Shaughnessy Hall 118
+- !ruby/object:Course
+  name: Current Issues Intn'l Security
+  credit: '3'
+  coursenum: POLS30312
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '3'
+    max_spots: '35'
+    crn: '28800'
+    instructor: Saiya, Nilay
+    time: T R  - 3:30P - 4:45P
+    location: O'Shaughnessy Hall 109
+- !ruby/object:Course
+  name: Terrorism and Counterterrorism
+  credit: '3'
+  coursenum: POLS30355
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '19'
+    crn: '29660'
+    instructor: Maass, Richard
+    time: M W  - 4:30P - 5:45P
+    location: Edward J. DeBartolo Hall 335
+- !ruby/object:Course
+  name: Election/Soc Protest Latin Amr
+  credit: '3'
+  coursenum: POLS30406
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '25'
+    max_spots: '32'
+    crn: '28802'
+    instructor: Trejo, Guillermo
+    time: M W  - 1:30P - 2:45P
+    location: Jordan Hall of Science 101
+- !ruby/object:Course
+  name: European Politics
+  credit: '3'
+  coursenum: POLS30421
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '1'
+    max_spots: '48'
+    crn: '28803'
+    instructor: Gould, Andrew
+    time: T R  - 11:00A - 12:15P
+    location: Edward J. DeBartolo Hall 131
+- !ruby/object:Course
+  name: African Pol Since Independence
+  credit: '3'
+  coursenum: POLS30458
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '7'
+    max_spots: '42'
+    crn: '28804'
+    instructor: Dowd, Robert
+    time: M W  - 1:30P - 2:45P
+    location: Edward J. DeBartolo Hall 119
+- !ruby/object:Course
+  name: Chinese Politics
+  credit: '3'
+  coursenum: POLS30465
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '30'
+    max_spots: '34'
+    crn: '28805'
+    instructor: Moody, Peter
+    time: M W F  - 10:40A - 11:30A
+    location: Pasquerilla Center 102
+- !ruby/object:Course
+  name: Intellectuals & Latin Amer Pol
+  credit: '3'
+  coursenum: POLS30508
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '17'
+    max_spots: '26'
+    crn: '29662'
+    instructor: Aguilar Rivera, Jose
+    time: M W  - 3:00P - 4:15P
+    location: Coleman Morse Center 330
+- !ruby/object:Course
+  name: Markets & Pol in Latin Amer
+  credit: '3'
+  coursenum: POLS30509
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '13'
+    max_spots: '28'
+    crn: '29651'
+    instructor: Samford, Steven
+    time: M W  - 3:00P - 4:15P
+    location: O'Shaughnessy Hall 201
+- !ruby/object:Course
+  name: Contemporary Dictatorship
+  credit: '3'
+  coursenum: POLS30562
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '25'
+    crn: '29659'
+    instructor: Dukalskis, Alexander
+    time: M W  - 4:30P - 5:45P
+    location: O'Shaughnessy Hall 106
+- !ruby/object:Course
+  name: Intn'l Development in Practice
+  credit: '3'
+  coursenum: POLS30595
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '20'
+    crn: '25037'
+    instructor: Reifenberg, Stephen
+    time: T R  - 9:30A - 10:45A
+    location: Pasquerilla Center 102
+- !ruby/object:Course
+  name: Pol Theory & the Death of God
+  credit: '3'
+  coursenum: POLS30625
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '9'
+    max_spots: '46'
+    crn: '28806'
+    instructor: Villa, Dana
+    time: T R  - 12:30P - 1:45P
+    location: Fitzpatrick Hall of Eng. 356
+- !ruby/object:Course
+  name: Politics and Conscience
+  credit: '3'
+  coursenum: POLS30653
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '14'
+    crn: '25039'
+    instructor: Keys, Mary
+    time: M W  - 11:45A - 1:00P
+    location: O'Shaughnessy Hall 242
+- !ruby/object:Course
+  name: Catholicism and Politics
+  credit: '3'
+  coursenum: POLS30654
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '38'
+    max_spots: '44'
+    crn: '26530'
+    instructor: Philpott, James
+    time: T R  - 9:30A - 10:45A
+    location: Hayes Healy Center 117
+- !ruby/object:Course
+  name: Constitutionalism, Law & Pol
+  credit: '3'
+  coursenum: POLS30661
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '1'
+    max_spots: '27'
+    crn: '28807'
+    instructor: Deneen, Patrick
+    time: T R  - 2:00P - 3:15P
+    location: Pasquerilla Center 107
+- !ruby/object:Course
+  name: ! 'Pol&theNovel: Gencd, Colnlism'
+  credit: '3'
+  coursenum: POLS30762
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '24'
+    max_spots: '30'
+    crn: '29278'
+    instructor: Baluch, Faisal
+    time: T R  - 3:30P - 4:45P
+    location: Edward J. DeBartolo Hall 208
+- !ruby/object:Course
+  name: Economics and Public Policy
+  credit: '3'
+  coursenum: POLS30806
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '8'
+    max_spots: '13'
+    crn: '29279'
+    instructor: Betson, David
+    time: T R  - 12:30P - 1:45P
+    location: Edward J. DeBartolo Hall 304
+- !ruby/object:Course
+  name: Rsrch M. for Fldwk in Devl Wld
+  credit: '3'
+  coursenum: POLS30807
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '9'
+    crn: '29280'
+    instructor: Bleck, Jaimie Michelitch, Kristin
+    time: T R  - 2:00P - 3:15P
+    location: Geddes Hall B034
+- !ruby/object:Course
+  name: ! 'SophSem: Southern Politics'
+  credit: '3'
+  coursenum: POLS33002
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '1'
+    max_spots: '19'
+    crn: '24558'
+    instructor: Kaplan, Joshua
+    time: M W  - 11:45A - 1:00P
+    location: O'Shaughnessy Hall 338
+- !ruby/object:Course
+  name: Internship
+  credit: V
+  coursenum: POLS35901
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '21'
+    max_spots: '30'
+    crn: '20351'
+    instructor: Arroyo, Carolina
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Mock Trial II
+  credit: '2'
+  coursenum: POLS37910
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '30'
+    max_spots: '30'
+    crn: '20259'
+    instructor: Dwyer, William
+    time: W R  - 7:00P - 7:50P
+    location: Edward J. DeBartolo Hall 209
+- !ruby/object:Course
+  name: Mock Trial I
+  credit: '2'
+  coursenum: POLS37911
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '30'
+    max_spots: '30'
+    crn: '24559'
+    instructor: Dwyer, William
+    time: W R  - 6:00P - 6:50P
+    location: Edward J. DeBartolo Hall 209
+- !ruby/object:Course
+  name: Civil Liberties
+  credit: '3'
+  coursenum: POLS40074
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '12'
+    max_spots: '42'
+    crn: '28808'
+    instructor: Munoz, Vincent
+    time: T R  - 5:00P - 6:15P
+    location: Edward J. DeBartolo Hall 319
+- !ruby/object:Course
+  name: Exec Branch & Public Policy
+  credit: '1'
+  coursenum: POLS40150
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '4'
+    max_spots: '20'
+    crn: '22743'
+    instructor: Kernan, Joseph
+    time: W  - 4:30P - 5:45P
+    location: Main Building 404
+- !ruby/object:Course
+  name: Conflct Management&Resolution
+  credit: '3'
+  coursenum: POLS40225
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '32'
+    max_spots: '35'
+    crn: '29663'
+    instructor: Goertz, Gary
+    time: T R  - 5:00P - 6:15P
+    location: O'Shaughnessy Hall 118
+- !ruby/object:Course
+  name: Research Design and Methods
+  credit: '3'
+  coursenum: POLS40800
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '23'
+    max_spots: '28'
+    crn: '20383'
+    instructor: Mueller, Paul
+    time: M W  - 3:00P - 4:15P
+    location: Edward J. DeBartolo Hall 231
+- !ruby/object:Course
+  name: Applied Quantitative Methods
+  credit: '3'
+  coursenum: POLS40813
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '24'
+    max_spots: '28'
+    crn: '28809'
+    instructor: Radcliff, Benjamin
+    time: M W  - 3:00P - 4:15P
+    location: Edward J. DeBartolo Hall 225
+- !ruby/object:Course
+  name: ! 'JrSem: Presidents and War'
+  credit: '3'
+  coursenum: POLS43002
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '16'
+    crn: '22569'
+    instructor: Arnold, Peri
+    time: M W  - 11:45A - 1:00P
+    location: O'Shaughnessy Hall 200
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '9'
+    max_spots: '16'
+    crn: '22575'
+    instructor: Nickerson, David
+    time: M W  - 3:00P - 4:15P
+    location: Flanner Hall 925
+  - !ruby/object:Section
+    section_num: '03'
+    open_spots: '9'
+    max_spots: '16'
+    crn: '22574'
+    instructor: Javeline, Debra
+    time: T R  - 11:00A - 12:15P
+    location: Flanner Hall 824
+  - !ruby/object:Section
+    section_num: '04'
+    open_spots: '10'
+    max_spots: '16'
+    crn: '22570'
+    instructor: Dutt, Amitava
+    time: T R  - 2:00P - 3:15P
+    location: Coleman Morse Center 230
+  - !ruby/object:Section
+    section_num: '05'
+    open_spots: '0'
+    max_spots: '16'
+    crn: '22572'
+    instructor: Rosato, Susan
+    time: M W  - 11:45A - 1:00P
+    location: Edward J. DeBartolo Hall 113
+- !ruby/object:Course
+  name: Directed Readings
+  credit: V
+  coursenum: POLS46902
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '2'
+    max_spots: '3'
+    crn: '20147'
+    instructor: Philpott, James
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '3'
+    max_spots: '3'
+    crn: '21146'
+    instructor: TBA
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '03'
+    open_spots: '3'
+    max_spots: '3'
+    crn: '20041'
+    instructor: TBA
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '04'
+    open_spots: '3'
+    max_spots: '3'
+    crn: '21747'
+    instructor: TBA
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '05'
+    open_spots: '3'
+    max_spots: '3'
+    crn: '21204'
+    instructor: TBA
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Research Apprenticeship
+  credit: V
+  coursenum: POLS47905
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '24'
+    max_spots: '25'
+    crn: '21824'
+    instructor: Kaplan, Joshua
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: ! 'Sr Sem: Constitutional Failure'
+  credit: '3'
+  coursenum: POLS53002
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '5'
+    max_spots: '16'
+    crn: '22576'
+    instructor: Barber, Sotirios
+    time: T R  - 2:00P - 3:15P
+    location: Flanner Hall 824
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '7'
+    max_spots: '16'
+    crn: '22577'
+    instructor: Rose, Deondra
+    time: T R  - 3:30P - 4:45P
+    location: Edward J. DeBartolo Hall 349
+  - !ruby/object:Section
+    section_num: '03'
+    open_spots: '2'
+    max_spots: '16'
+    crn: '23336'
+    instructor: Rosato, Susan
+    time: T R  - 12:30P - 1:45P
+    location: Edward J. DeBartolo Hall 108
+  - !ruby/object:Section
+    section_num: '04'
+    open_spots: '0'
+    max_spots: '16'
+    crn: '24205'
+    instructor: Scully, Timothy
+    time: M W  - 1:30P - 2:45P
+    location: Edward J. DeBartolo Hall 108
+  - !ruby/object:Section
+    section_num: '05'
+    open_spots: '0'
+    max_spots: '16'
+    crn: '22578'
+    instructor: Villa, Dana
+    time: T R  - 3:30P - 4:45P
+    location: Edward J. DeBartolo Hall 225
+- !ruby/object:Course
+  name: Senior Thesis
+  credit: '3'
+  coursenum: POLS58902
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '1'
+    max_spots: '3'
+    crn: '21452'
+    instructor: Rosato, Susan
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '3'
+    max_spots: '3'
+    crn: '21406'
+    instructor: Hui, Victoria
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '03'
+    open_spots: '3'
+    max_spots: '3'
+    crn: '20555'
+    instructor: Desch, Michael
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '04'
+    open_spots: '3'
+    max_spots: '3'
+    crn: '20109'
+    instructor: Rosato, Sebastian
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '05'
+    open_spots: '2'
+    max_spots: '3'
+    crn: '20454'
+    instructor: Radcliff, Benjamin
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '06'
+    open_spots: '1'
+    max_spots: '3'
+    crn: '20931'
+    instructor: Moody, Peter
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '07'
+    open_spots: '2'
+    max_spots: '3'
+    crn: '20844'
+    instructor: Layman, Geoffrey
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: 08
+    open_spots: '2'
+    max_spots: '3'
+    crn: '20928'
+    instructor: Hartney, Michael
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: 09
+    open_spots: '2'
+    max_spots: '3'
+    crn: '21431'
+    instructor: Lindley, Daniel
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '10'
+    open_spots: '3'
+    max_spots: '3'
+    crn: '21040'
+    instructor: Saiya, Nilay
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '11'
+    open_spots: '1'
+    max_spots: '3'
+    crn: '21328'
+    instructor: Baluch, Faisal
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '12'
+    open_spots: '2'
+    max_spots: '3'
+    crn: '21750'
+    instructor: Duffy, John
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '13'
+    open_spots: '0'
+    max_spots: '4'
+    crn: '21648'
+    instructor: Kaplan, Joshua
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '14'
+    open_spots: '2'
+    max_spots: '3'
+    crn: '21433'
+    instructor: Ramirez, Ricardo
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '15'
+    open_spots: '1'
+    max_spots: '3'
+    crn: '20794'
+    instructor: Lopez, George
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '16'
+    open_spots: '2'
+    max_spots: '3'
+    crn: '21311'
+    instructor: McDonnell, Erin
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '17'
+    open_spots: '2'
+    max_spots: '3'
+    crn: '20971'
+    instructor: Munoz, Vincent
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '18'
+    open_spots: '3'
+    max_spots: '3'
+    crn: '20152'
+    instructor: Gould, Andrew
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '19'
+    open_spots: '3'
+    max_spots: '4'
+    crn: '21443'
+    instructor: Bleck, Jaimie
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '20'
+    open_spots: '2'
+    max_spots: '3'
+    crn: '21051'
+    instructor: Guisinger, Alexandra
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '21'
+    open_spots: '3'
+    max_spots: '3'
+    crn: '20043'
+    instructor: Betson, David
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '22'
+    open_spots: '3'
+    max_spots: '3'
+    crn: '20585'
+    instructor: TBA
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '23'
+    open_spots: '3'
+    max_spots: '3'
+    crn: '21230'
+    instructor: TBA
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '24'
+    open_spots: '3'
+    max_spots: '3'
+    crn: '21680'
+    instructor: TBA
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '25'
+    open_spots: '3'
+    max_spots: '3'
+    crn: '21446'
+    instructor: TBA
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Field Sem in Americn Democracy
+  credit: '3'
+  coursenum: POLS60001
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '3'
+    max_spots: '14'
+    crn: '28810'
+    instructor: Wolbrecht, Christina
+    time: M  - 3:00P - 5:30P
+    location: Edward J. DeBartolo Hall 108
+- !ruby/object:Course
+  name: International Political Econmy
+  credit: '3'
+  coursenum: POLS60205
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '4'
+    max_spots: '10'
+    crn: '25978'
+    instructor: Guisinger, Alexandra
+    time: T  - 12:30P - 3:00P
+    location: Grace Hall 345
+- !ruby/object:Course
+  name: Int'l Courts & Dispute Resolut
+  credit: '3'
+  coursenum: POLS60231
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '10'
+    max_spots: '14'
+    crn: '28811'
+    instructor: Powell, Emilia Justyna
+    time: R  - 6:00P - 8:30P
+    location: Haggar Hall B015
+- !ruby/object:Course
+  name: Comparing Democracies
+  credit: '3'
+  coursenum: POLS60408
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '6'
+    max_spots: '14'
+    crn: '28812'
+    instructor: Coppedge, Michael
+    time: T  - 3:30P - 6:00P
+    location: Edward J. DeBartolo Hall 333
+- !ruby/object:Course
+  name: Theories of Civil War
+  credit: '3'
+  coursenum: POLS60439
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '12'
+    max_spots: '14'
+    crn: '28813'
+    instructor: Singh, Naunihal
+    time: T  - 6:30P - 9:00P
+    location: Edward J. DeBartolo Hall 149
+- !ruby/object:Course
+  name: Political Protest
+  credit: '3'
+  coursenum: POLS60442
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '2'
+    max_spots: '10'
+    crn: '28814'
+    instructor: Javeline, Debra
+    time: R  - 12:30P - 3:00P
+    location: Grace Hall 345
+- !ruby/object:Course
+  name: Montesquieu
+  credit: '3'
+  coursenum: POLS60660
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '1'
+    max_spots: '14'
+    crn: '29281'
+    instructor: Zuckert, Michael
+    time: W  - 7:00P - 9:30P
+    location: Haggar Hall B015
+- !ruby/object:Course
+  name: Augustine & Political Thought
+  credit: '3'
+  coursenum: POLS60661
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '1'
+    max_spots: '13'
+    crn: '29282'
+    instructor: Keys, Mary
+    time: W  - 3:00P - 5:30P
+    location: Edward J. DeBartolo Hall 224
+- !ruby/object:Course
+  name: Quantitative Methods I
+  credit: '3'
+  coursenum: POLS60810
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '9'
+    max_spots: '18'
+    crn: '20305'
+    instructor: Layman, Geoffrey
+    time: M  - 6:00P - 8:30P
+    location: Hayes Healy Center 125
+- !ruby/object:Course
+  name: Advanced Quantitative Methods
+  credit: '3'
+  coursenum: POLS60820
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '4'
+    max_spots: '14'
+    crn: '29283'
+    instructor: Nickerson, David
+    time: M W  - 11:45A - 1:00P
+    location: Flanner Hall 925
+- !ruby/object:Course
+  name: Applied Game Theory
+  credit: '3'
+  coursenum: POLS60880
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '9'
+    max_spots: '30'
+    crn: '28815'
+    instructor: Nalepa, Monika
+    time: M W  - 1:30P - 2:45P
+    location: Edward J. DeBartolo Hall 241
+- !ruby/object:Course
+  name: Directed Readings
+  credit: V
+  coursenum: POLS66900
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '15'
+    max_spots: '15'
+    crn: '23175'
+    instructor: Abbey, Ruth
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '15'
+    max_spots: '15'
+    crn: '23176'
+    instructor: Arnold, Peri
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '03'
+    open_spots: '15'
+    max_spots: '15'
+    crn: '23177'
+    instructor: Deneen, Patrick
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '04'
+    open_spots: '9'
+    max_spots: '15'
+    crn: '23178'
+    instructor: Barber, Sotirios
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '05'
+    open_spots: '15'
+    max_spots: '15'
+    crn: '23179'
+    instructor: Botting, Eileen
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '06'
+    open_spots: '15'
+    max_spots: '15'
+    crn: '23180'
+    instructor: Campbell, David
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '07'
+    open_spots: '15'
+    max_spots: '15'
+    crn: '23181'
+    instructor: Davis, Darren
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: 08
+    open_spots: '15'
+    max_spots: '15'
+    crn: '23182'
+    instructor: Coppedge, Michael
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: 09
+    open_spots: '15'
+    max_spots: '15'
+    crn: '23183'
+    instructor: Dallmayr, Fred
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '10'
+    open_spots: '15'
+    max_spots: '15'
+    crn: '23184'
+    instructor: Dowd, Robert
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '11'
+    open_spots: '15'
+    max_spots: '15'
+    crn: '23185'
+    instructor: Dowty, Alan
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '12'
+    open_spots: '15'
+    max_spots: '15'
+    crn: '23186'
+    instructor: Goerner, Edward
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '13'
+    open_spots: '15'
+    max_spots: '15'
+    crn: '23187'
+    instructor: Gould, Andrew
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '14'
+    open_spots: '15'
+    max_spots: '15'
+    crn: '23188'
+    instructor: Goertz, Gary
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '15'
+    open_spots: '15'
+    max_spots: '15'
+    crn: '23189'
+    instructor: Guisinger, Alexandra
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '16'
+    open_spots: '15'
+    max_spots: '15'
+    crn: '23190'
+    instructor: Trejo, Guillermo
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '18'
+    open_spots: '15'
+    max_spots: '15'
+    crn: '23192'
+    instructor: Hosle, Vittorio
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '19'
+    open_spots: '15'
+    max_spots: '15'
+    crn: '23193'
+    instructor: Hui, Victoria
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '20'
+    open_spots: '15'
+    max_spots: '15'
+    crn: '23194'
+    instructor: Javeline, Debra
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '21'
+    open_spots: '15'
+    max_spots: '15'
+    crn: '23195'
+    instructor: Johansen, Robert
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '22'
+    open_spots: '15'
+    max_spots: '15'
+    crn: '23196'
+    instructor: Keys, Mary
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '23'
+    open_spots: '15'
+    max_spots: '15'
+    crn: '23197'
+    instructor: Kommers, Donald
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '24'
+    open_spots: '14'
+    max_spots: '15'
+    crn: '23198'
+    instructor: Munoz, Vincent
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '25'
+    open_spots: '15'
+    max_spots: '15'
+    crn: '23199'
+    instructor: Lindley, Daniel
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '26'
+    open_spots: '15'
+    max_spots: '15'
+    crn: '23200'
+    instructor: Lopez, George
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '27'
+    open_spots: '14'
+    max_spots: '15'
+    crn: '23201'
+    instructor: Mainwaring, Scott
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '28'
+    open_spots: '15'
+    max_spots: '15'
+    crn: '23202'
+    instructor: McAdams, A. James
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '29'
+    open_spots: '15'
+    max_spots: '15'
+    crn: '23203'
+    instructor: Dutt, Amitava
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '30'
+    open_spots: '15'
+    max_spots: '15'
+    crn: '23204'
+    instructor: Nicgorski, Walter
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '31'
+    open_spots: '15'
+    max_spots: '15'
+    crn: '23205'
+    instructor: Nickerson, David
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '32'
+    open_spots: '15'
+    max_spots: '15'
+    crn: '23206'
+    instructor: Powell, Emilia Justyna
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '33'
+    open_spots: '15'
+    max_spots: '15'
+    crn: '23207'
+    instructor: Pinderhughes, Dianne
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '34'
+    open_spots: '15'
+    max_spots: '15'
+    crn: '23208'
+    instructor: Philpott, James
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '35'
+    open_spots: '15'
+    max_spots: '15'
+    crn: '23209'
+    instructor: Radcliff, Benjamin
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '36'
+    open_spots: '15'
+    max_spots: '15'
+    crn: '23210'
+    instructor: McGraw, Sean
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '37'
+    open_spots: '15'
+    max_spots: '15'
+    crn: '23211'
+    instructor: Roos, Leon
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '38'
+    open_spots: '15'
+    max_spots: '15'
+    crn: '23212'
+    instructor: Rosato, Sebastian
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '39'
+    open_spots: '15'
+    max_spots: '15'
+    crn: '23213'
+    instructor: Scully, Timothy
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '40'
+    open_spots: '15'
+    max_spots: '15'
+    crn: '23214'
+    instructor: Singh, Naunihal
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '41'
+    open_spots: '15'
+    max_spots: '15'
+    crn: '23215'
+    instructor: Moody, Peter
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '42'
+    open_spots: '14'
+    max_spots: '15'
+    crn: '23216'
+    instructor: Villa, Dana
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '43'
+    open_spots: '15'
+    max_spots: '15'
+    crn: '23217'
+    instructor: Desch, Michael
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '44'
+    open_spots: '15'
+    max_spots: '15'
+    crn: '23218'
+    instructor: Wolbrecht, Christina
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '45'
+    open_spots: '15'
+    max_spots: '15'
+    crn: '23219'
+    instructor: Zuckert, Catherine
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '46'
+    open_spots: '14'
+    max_spots: '15'
+    crn: '23220'
+    instructor: Zuckert, Michael
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '48'
+    open_spots: '15'
+    max_spots: '15'
+    crn: '23338'
+    instructor: Nalepa, Monika
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '49'
+    open_spots: '15'
+    max_spots: '15'
+    crn: '23339'
+    instructor: Layman, Geoffrey
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '50'
+    open_spots: '15'
+    max_spots: '15'
+    crn: '23340'
+    instructor: Ramirez, Ricardo
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '51'
+    open_spots: '15'
+    max_spots: '15'
+    crn: '23341'
+    instructor: Verdeja, Ernesto
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Directed Readings
+  credit: V
+  coursenum: POLS66903
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '9'
+    max_spots: '10'
+    crn: '23221'
+    instructor: Abbey, Ruth
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '23222'
+    instructor: Arnold, Peri
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '03'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '23223'
+    instructor: Deneen, Patrick
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '04'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '23224'
+    instructor: Barber, Sotirios
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '05'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '23225'
+    instructor: Botting, Eileen
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '06'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '23226'
+    instructor: Campbell, David
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '07'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '23227'
+    instructor: Goertz, Gary
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: 08
+    open_spots: '10'
+    max_spots: '10'
+    crn: '23228'
+    instructor: Coppedge, Michael
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: 09
+    open_spots: '10'
+    max_spots: '10'
+    crn: '23229'
+    instructor: Dallmayr, Fred
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '10'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '23230'
+    instructor: Dowd, Robert
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '11'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '23231'
+    instructor: Dowty, Alan
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '12'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '23232'
+    instructor: Goerner, Edward
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '13'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '23233'
+    instructor: Gould, Andrew
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '14'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '23234'
+    instructor: Trejo, Guillermo
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '15'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '23235'
+    instructor: Guisinger, Alexandra
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '16'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '23236'
+    instructor: Powell, Emilia Justyna
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '17'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '23237'
+    instructor: Davis, Darren
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '18'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '23238'
+    instructor: Hosle, Vittorio
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '19'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '23239'
+    instructor: Hui, Victoria
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '20'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '23240'
+    instructor: Javeline, Debra
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '21'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '23241'
+    instructor: Johansen, Robert
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '22'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '23242'
+    instructor: Keys, Mary
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '23'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '23243'
+    instructor: Kommers, Donald
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '24'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '23244'
+    instructor: Munoz, Vincent
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '25'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '23245'
+    instructor: Lindley, Daniel
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '26'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '23246'
+    instructor: Lopez, George
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '27'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '23247'
+    instructor: Mainwaring, Scott
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '28'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '23248'
+    instructor: McAdams, A. James
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '29'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '23249'
+    instructor: Ramirez, Ricardo
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '30'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '23250'
+    instructor: Nicgorski, Walter
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '31'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '23251'
+    instructor: Nickerson, David
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '32'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '23252'
+    instructor: Verdeja, Ernesto
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '33'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '23253'
+    instructor: Pinderhughes, Dianne
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '34'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '23254'
+    instructor: Philpott, James
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '35'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '23255'
+    instructor: Radcliff, Benjamin
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '36'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '23256'
+    instructor: McGraw, Sean
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '37'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '23257'
+    instructor: Roos, Leon
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '38'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '23258'
+    instructor: Rosato, Sebastian
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '39'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '23259'
+    instructor: Scully, Timothy
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '40'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '23260'
+    instructor: Singh, Naunihal
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '41'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '23261'
+    instructor: Desch, Michael
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '42'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '23262'
+    instructor: Villa, Dana
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '44'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '23264'
+    instructor: Wolbrecht, Christina
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '45'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '23265'
+    instructor: Zuckert, Catherine
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '46'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '23266'
+    instructor: Zuckert, Michael
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '47'
+    open_spots: '15'
+    max_spots: '15'
+    crn: '23343'
+    instructor: Nalepa, Monika
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '48'
+    open_spots: '15'
+    max_spots: '15'
+    crn: '23344'
+    instructor: Layman, Geoffrey
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '49'
+    open_spots: '15'
+    max_spots: '15'
+    crn: '23345'
+    instructor: TBA
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '50'
+    open_spots: '15'
+    max_spots: '15'
+    crn: '23346'
+    instructor: TBA
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '51'
+    open_spots: '15'
+    max_spots: '15'
+    crn: '23347'
+    instructor: TBA
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Examination Preparation
+  credit: V
+  coursenum: POLS67950
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '17'
+    max_spots: '20'
+    crn: '21653'
+    instructor: Layman, Geoffrey
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Thesis Direction
+  credit: V
+  coursenum: POLS78599
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '21502'
+    instructor: Layman, Geoffrey
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Non-resident Thesis Research
+  credit: V
+  coursenum: POLS78600
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '21004'
+    instructor: Layman, Geoffrey
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Research and Dissertation
+  credit: V
+  coursenum: POLS98699
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '17'
+    max_spots: '40'
+    crn: '20014'
+    instructor: Layman, Geoffrey
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Non-resident Dissertation Rsrh
+  credit: V
+  coursenum: POLS98700
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '25'
+    max_spots: '30'
+    crn: '21417'
+    instructor: Layman, Geoffrey
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: The Academic Career
+  credit: '3'
+  coursenum: POLS98701
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '6'
+    max_spots: '14'
+    crn: '23890'
+    instructor: Botting, Eileen
+    time: R  - 5:00P - 7:30P
+    location: Edward J. DeBartolo Hall 204
+Sebastian
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: POLS66900
+  :section: '39'
+  :title: Directed Readings
+  :credits: V
+  :status: OP
+  :max_spots: '15'
+  :open_spots: '15'
+  :xlst: ! '&nbsp'
+  :crn: '23213'
+  :syl: ! '&nbsp'
+  :instructor: Scully, Timothy
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: POLS66900
+  :section: '40'
+  :title: Directed Readings
+  :credits: V
+  :status: OP
+  :max_spots: '15'
+  :open_spots: '15'
+  :xlst: ! '&nbsp'
+  :crn: '23214'
+  :syl: ! '&nbsp'
+  :instructor: Singh, Naunihal
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: POLS66900
+  :section: '41'
+  :title: Directed Readings
+  :credits: V
+  :status: OP
+  :max_spots: '15'
+  :open_spots: '15'
+  :xlst: ! '&nbsp'
+  :crn: '23215'
+  :syl: ! '&nbsp'
+  :instructor: Moody, Peter
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: POLS66900
+  :section: '42'
+  :title: Directed Readings
+  :credits: V
+  :status: OP
+  :max_spots: '15'
+  :open_spots: '14'
+  :xlst: ! '&nbsp'
+  :crn: '23216'
+  :syl: ! '&nbsp'
+  :instructor: Villa, Dana
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: POLS66900
+  :section: '43'
+  :title: Directed Readings
+  :credits: V
+  :status: OP
+  :max_spots: '15'
+  :open_spots: '15'
+  :xlst: ! '&nbsp'
+  :crn: '23217'
+  :syl: ! '&nbsp'
+  :instructor: Desch, Michael
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: POLS66900
+  :section: '44'
+  :title: Directed Readings
+  :credits: V
+  :status: OP
+  :max_spots: '15'
+  :open_spots: '15'
+  :xlst: ! '&nbsp'
+  :crn: '23218'
+  :syl: ! '&nbsp'
+  :instructor: Wolbrecht, Christina
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: POLS66900
+  :section: '45'
+  :title: Directed Readings
+  :credits: V
+  :status: OP
+  :max_spots: '15'
+  :open_spots: '15'
+  :xlst: ! '&nbsp'
+  :crn: '23219'
+  :syl: ! '&nbsp'
+  :instructor: Zuckert, Catherine
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: POLS66900
+  :section: '46'
+  :title: Directed Readings
+  :credits: V
+  :status: OP
+  :max_spots: '15'
+  :open_spots: '15'
+  :xlst: ! '&nbsp'
+  :crn: '23220'
+  :syl: ! '&nbsp'
+  :instructor: Zuckert, Michael
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: POLS66900
+  :section: '48'
+  :title: Directed Readings
+  :credits: V
+  :status: OP
+  :max_spots: '15'
+  :open_spots: '15'
+  :xlst: ! '&nbsp'
+  :crn: '23338'
+  :syl: ! '&nbsp'
+  :instructor: Nalepa, Monika
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: POLS66900
+  :section: '49'
+  :title: Directed Readings
+  :credits: V
+  :status: OP
+  :max_spots: '15'
+  :open_spots: '15'
+  :xlst: ! '&nbsp'
+  :crn: '23339'
+  :syl: ! '&nbsp'
+  :instructor: Layman, Geoffrey
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: POLS66900
+  :section: '50'
+  :title: Directed Readings
+  :credits: V
+  :status: OP
+  :max_spots: '15'
+  :open_spots: '15'
+  :xlst: ! '&nbsp'
+  :crn: '23340'
+  :syl: ! '&nbsp'
+  :instructor: Ramirez, Ricardo
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: POLS66900
+  :section: '51'
+  :title: Directed Readings
+  :credits: V
+  :status: OP
+  :max_spots: '15'
+  :open_spots: '15'
+  :xlst: ! '&nbsp'
+  :crn: '23341'
+  :syl: ! '&nbsp'
+  :instructor: Verdeja, Ernesto
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: POLS66903
+  :section: '01'
+  :title: Directed Readings
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '9'
+  :xlst: ! '&nbsp'
+  :crn: '23221'
+  :syl: ! '&nbsp'
+  :instructor: Abbey, Ruth
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: POLS66903
+  :section: '02'
+  :title: Directed Readings
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '23222'
+  :syl: ! '&nbsp'
+  :instructor: Arnold, Peri
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: POLS66903
+  :section: '03'
+  :title: Directed Readings
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '23223'
+  :syl: ! '&nbsp'
+  :instructor: Deneen, Patrick
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: POLS66903
+  :section: '04'
+  :title: Directed Readings
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '23224'
+  :syl: ! '&nbsp'
+  :instructor: Barber, Sotirios
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: POLS66903
+  :section: '05'
+  :title: Directed Readings
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '23225'
+  :syl: ! '&nbsp'
+  :instructor: Botting, Eileen
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: POLS66903
+  :section: '06'
+  :title: Directed Readings
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '23226'
+  :syl: ! '&nbsp'
+  :instructor: Campbell, David
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: POLS66903
+  :section: '07'
+  :title: Directed Readings
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '23227'
+  :syl: ! '&nbsp'
+  :instructor: Goertz, Gary
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: POLS66903
+  :section: 08
+  :title: Directed Readings
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '23228'
+  :syl: ! '&nbsp'
+  :instructor: Coppedge, Michael
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: POLS66903
+  :section: 09
+  :title: Directed Readings
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '23229'
+  :syl: ! '&nbsp'
+  :instructor: Dallmayr, Fred
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: POLS66903
+  :section: '10'
+  :title: Directed Readings
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '23230'
+  :syl: ! '&nbsp'
+  :instructor: Dowd, Robert
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: POLS66903
+  :section: '11'
+  :title: Directed Readings
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '23231'
+  :syl: ! '&nbsp'
+  :instructor: Dowty, Alan
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: POLS66903
+  :section: '12'
+  :title: Directed Readings
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '23232'
+  :syl: ! '&nbsp'
+  :instructor: Goerner, Edward
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: POLS66903
+  :section: '13'
+  :title: Directed Readings
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '23233'
+  :syl: ! '&nbsp'
+  :instructor: Gould, Andrew
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: POLS66903
+  :section: '14'
+  :title: Directed Readings
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '23234'
+  :syl: ! '&nbsp'
+  :instructor: Trejo, Guillermo
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: POLS66903
+  :section: '15'
+  :title: Directed Readings
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '23235'
+  :syl: ! '&nbsp'
+  :instructor: Guisinger, Alexandra
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: POLS66903
+  :section: '16'
+  :title: Directed Readings
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '23236'
+  :syl: ! '&nbsp'
+  :instructor: Powell, Emilia Justyna
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: POLS66903
+  :section: '17'
+  :title: Directed Readings
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '23237'
+  :syl: ! '&nbsp'
+  :instructor: Davis, Darren
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: POLS66903
+  :section: '18'
+  :title: Directed Readings
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '23238'
+  :syl: ! '&nbsp'
+  :instructor: Hosle, Vittorio
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: POLS66903
+  :section: '19'
+  :title: Directed Readings
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '23239'
+  :syl: ! '&nbsp'
+  :instructor: Hui, Victoria
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: POLS66903
+  :section: '20'
+  :title: Directed Readings
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '23240'
+  :syl: ! '&nbsp'
+  :instructor: Javeline, Debra
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: POLS66903
+  :section: '21'
+  :title: Directed Readings
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '23241'
+  :syl: ! '&nbsp'
+  :instructor: Johansen, Robert
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: POLS66903
+  :section: '22'
+  :title: Directed Readings
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '23242'
+  :syl: ! '&nbsp'
+  :instructor: Keys, Mary
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: POLS66903
+  :section: '23'
+  :title: Directed Readings
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '23243'
+  :syl: ! '&nbsp'
+  :instructor: Kommers, Donald
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: POLS66903
+  :section: '24'
+  :title: Directed Readings
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '23244'
+  :syl: ! '&nbsp'
+  :instructor: Munoz, Vincent
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: POLS66903
+  :section: '25'
+  :title: Directed Readings
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '23245'
+  :syl: ! '&nbsp'
+  :instructor: Lindley, Daniel
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: POLS66903
+  :section: '26'
+  :title: Directed Readings
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '23246'
+  :syl: ! '&nbsp'
+  :instructor: Lopez, George
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: POLS66903
+  :section: '27'
+  :title: Directed Readings
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '23247'
+  :syl: ! '&nbsp'
+  :instructor: Mainwaring, Scott
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: POLS66903
+  :section: '28'
+  :title: Directed Readings
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '23248'
+  :syl: ! '&nbsp'
+  :instructor: McAdams, A. James
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: POLS66903
+  :section: '29'
+  :title: Directed Readings
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '23249'
+  :syl: ! '&nbsp'
+  :instructor: Ramirez, Ricardo
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: POLS66903
+  :section: '30'
+  :title: Directed Readings
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '23250'
+  :syl: ! '&nbsp'
+  :instructor: Nicgorski, Walter
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: POLS66903
+  :section: '31'
+  :title: Directed Readings
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '23251'
+  :syl: ! '&nbsp'
+  :instructor: Nickerson, David
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: POLS66903
+  :section: '32'
+  :title: Directed Readings
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '23252'
+  :syl: ! '&nbsp'
+  :instructor: Verdeja, Ernesto
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: POLS66903
+  :section: '33'
+  :title: Directed Readings
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '23253'
+  :syl: ! '&nbsp'
+  :instructor: Pinderhughes, Dianne
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: POLS66903
+  :section: '34'
+  :title: Directed Readings
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '23254'
+  :syl: ! '&nbsp'
+  :instructor: Philpott, James
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: POLS66903
+  :section: '35'
+  :title: Directed Readings
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '23255'
+  :syl: ! '&nbsp'
+  :instructor: Radcliff, Benjamin
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: POLS66903
+  :section: '36'
+  :title: Directed Readings
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '23256'
+  :syl: ! '&nbsp'
+  :instructor: McGraw, Sean
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: POLS66903
+  :section: '37'
+  :title: Directed Readings
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '23257'
+  :syl: ! '&nbsp'
+  :instructor: Roos, Leon
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: POLS66903
+  :section: '38'
+  :title: Directed Readings
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '23258'
+  :syl: ! '&nbsp'
+  :instructor: Rosato, Sebastian
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: POLS66903
+  :section: '39'
+  :title: Directed Readings
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '23259'
+  :syl: ! '&nbsp'
+  :instructor: Scully, Timothy
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: POLS66903
+  :section: '40'
+  :title: Directed Readings
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '23260'
+  :syl: ! '&nbsp'
+  :instructor: Singh, Naunihal
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: POLS66903
+  :section: '41'
+  :title: Directed Readings
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '23261'
+  :syl: ! '&nbsp'
+  :instructor: Desch, Michael
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: POLS66903
+  :section: '42'
+  :title: Directed Readings
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '23262'
+  :syl: ! '&nbsp'
+  :instructor: Villa, Dana
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: POLS66903
+  :section: '44'
+  :title: Directed Readings
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '23264'
+  :syl: ! '&nbsp'
+  :instructor: Wolbrecht, Christina
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: POLS66903
+  :section: '45'
+  :title: Directed Readings
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '23265'
+  :syl: ! '&nbsp'
+  :instructor: Zuckert, Catherine
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: POLS66903
+  :section: '46'
+  :title: Directed Readings
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '23266'
+  :syl: ! '&nbsp'
+  :instructor: Zuckert, Michael
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: POLS66903
+  :section: '47'
+  :title: Directed Readings
+  :credits: V
+  :status: OP
+  :max_spots: '15'
+  :open_spots: '15'
+  :xlst: ! '&nbsp'
+  :crn: '23343'
+  :syl: ! '&nbsp'
+  :instructor: Nalepa, Monika
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: POLS66903
+  :section: '48'
+  :title: Directed Readings
+  :credits: V
+  :status: OP
+  :max_spots: '15'
+  :open_spots: '15'
+  :xlst: ! '&nbsp'
+  :crn: '23344'
+  :syl: ! '&nbsp'
+  :instructor: Layman, Geoffrey
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: POLS66903
+  :section: '49'
+  :title: Directed Readings
+  :credits: V
+  :status: OP
+  :max_spots: '15'
+  :open_spots: '15'
+  :xlst: ! '&nbsp'
+  :crn: '23345'
+  :syl: ! '&nbsp'
+  :instructor: TBA
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: POLS66903
+  :section: '50'
+  :title: Directed Readings
+  :credits: V
+  :status: OP
+  :max_spots: '15'
+  :open_spots: '15'
+  :xlst: ! '&nbsp'
+  :crn: '23346'
+  :syl: ! '&nbsp'
+  :instructor: TBA
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: POLS66903
+  :section: '51'
+  :title: Directed Readings
+  :credits: V
+  :status: OP
+  :max_spots: '15'
+  :open_spots: '15'
+  :xlst: ! '&nbsp'
+  :crn: '23347'
+  :syl: ! '&nbsp'
+  :instructor: TBA
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: POLS67950
+  :section: '01'
+  :title: Examination Preparation
+  :credits: V
+  :status: OP
+  :max_spots: '20'
+  :open_spots: '19'
+  :xlst: ! '&nbsp'
+  :crn: '21653'
+  :syl: ! '&nbsp'
+  :instructor: Layman, Geoffrey
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: POLS78599
+  :section: '01'
+  :title: Thesis Direction
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '21502'
+  :syl: ! '&nbsp'
+  :instructor: Layman, Geoffrey
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: POLS78600
+  :section: '01'
+  :title: Non-resident Thesis Research
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '21004'
+  :syl: ! '&nbsp'
+  :instructor: Layman, Geoffrey
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: POLS98699
+  :section: '01'
+  :title: Research and Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '40'
+  :open_spots: '31'
+  :xlst: ! '&nbsp'
+  :crn: '20014'
+  :syl: ! '&nbsp'
+  :instructor: Layman, Geoffrey
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: POLS98700
+  :section: '01'
+  :title: Non-resident Dissertation Rsrh
+  :credits: V
+  :status: OP
+  :max_spots: '30'
+  :open_spots: '29'
+  :xlst: ! '&nbsp'
+  :crn: '21417'
+  :syl: ! '&nbsp'
+  :instructor: Layman, Geoffrey
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: POLS98701
+  :section: '01'
+  :title: The Academic Career
+  :credits: '3'
+  :status: OP
+  :max_spots: '14'
+  :open_spots: '7'
+  :xlst: ! '&nbsp'
+  :crn: '23890'
+  :syl: ! '&nbsp'
+  :instructor: Botting, Eileen
+  :when: R  - 5:00P - 7:30P
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: Edward J. DeBartolo Hall 204

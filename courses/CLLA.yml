@@ -1,0 +1,355 @@
+---
+- !ruby/object:Course
+  name: Beginning Latin I
+  credit: '4'
+  coursenum: CLLA10001
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '3'
+    max_spots: '17'
+    crn: '23142'
+    instructor: Adams, Alison
+    time: ! "(1) M W F  - 3:00P - 3:50P\r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\r\n\t\t\t
+      \  \t\t\r\n\t\t\t   \t  \r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\t(2) T  - 3:30P
+      - 4:20P"
+    location: ! "O'Shaughnessy Hall 204A \r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\t\r\n\t\t\t\t
+      \  \t\r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\tO'Shaughnessy Hall 207"
+- !ruby/object:Course
+  name: Beginning Latin II
+  credit: '4'
+  coursenum: CLLA10002
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '1'
+    max_spots: '15'
+    crn: '21936'
+    instructor: Hatter, Jonathan
+    time: ! "(1) M W F  - 8:30A - 9:20A\r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\r\n\t\t\t
+      \  \t\t\r\n\t\t\t   \t  \r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\t(2) T  - 9:30A
+      - 10:20A"
+    location: ! "Edward J. DeBartolo Hall 301 \r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\t\r\n\t\t\t\t
+      \  \t\r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\tO'Shaughnessy Hall 345"
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '4'
+    max_spots: '15'
+    crn: '21964'
+    instructor: Genghini, Maria Giulia
+    time: ! "(1) M W F  - 3:00P - 3:50P\r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\r\n\t\t\t
+      \  \t\t\r\n\t\t\t   \t  \r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\t(2) T  - 2:00P
+      - 2:50P"
+    location: ! "O'Shaughnessy Hall 106 \r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\t\r\n\t\t\t\t
+      \  \t\r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\tO'Shaughnessy Hall 204A"
+- !ruby/object:Course
+  name: Intermediate Latin
+  credit: '3'
+  coursenum: CLLA20003
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '17'
+    crn: '23143'
+    instructor: Schlegel, Catherine
+    time: M W F  - 10:40A - 11:30A
+    location: O'Shaughnessy Hall 106
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '7'
+    max_spots: '17'
+    crn: '23794'
+    instructor: Mazurek, Elizabeth
+    time: M W F  - 3:00P - 3:50P
+    location: O'Shaughnessy Hall 345
+- !ruby/object:Course
+  name: Seneca and Stoicism
+  credit: '3'
+  coursenum: CLLA30034
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '1'
+    max_spots: '16'
+    crn: '28566'
+    instructor: Schlegel, Catherine
+    time: M W  - 5:00P - 6:15P
+    location: Edward J. DeBartolo Hall 204
+- !ruby/object:Course
+  name: Medieval Latin Survey
+  credit: '3'
+  coursenum: CLLA40017
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '2'
+    max_spots: '5'
+    crn: '23796'
+    instructor: Bloomer, W. Martin
+    time: M W  - 11:45A - 1:00P
+    location: Flanner Hall 824
+- !ruby/object:Course
+  name: ! 'Latin Poetry: Age of Augustus'
+  credit: '3'
+  coursenum: CLLA40090
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '6'
+    max_spots: '13'
+    crn: '28567'
+    instructor: Bradley, Keith
+    time: T R  - 3:30P - 4:45P
+    location: Flanner Hall 524
+- !ruby/object:Course
+  name: Beginning Latin I
+  credit: '4'
+  coursenum: CLLA60001
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '2'
+    crn: '23301'
+    instructor: Adams, Alison
+    time: ! "(1) M W F  - 3:00P - 3:50P\r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\r\n\t\t\t
+      \  \t\t\r\n\t\t\t   \t  \r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\t(2) T  - 3:30P
+      - 4:20P"
+    location: ! "O'Shaughnessy Hall 204A \r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\t\r\n\t\t\t\t
+      \  \t\r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\tO'Shaughnessy Hall 207"
+- !ruby/object:Course
+  name: Beginning Latin II
+  credit: '4'
+  coursenum: CLLA60002
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '1'
+    max_spots: '4'
+    crn: '21937'
+    instructor: Hatter, Jonathan
+    time: ! "(1) M W F  - 8:30A - 9:20A\r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\r\n\t\t\t
+      \  \t\t\r\n\t\t\t   \t  \r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\t(2) T  - 9:30A
+      - 10:20A"
+    location: ! "Edward J. DeBartolo Hall 301 \r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\t\r\n\t\t\t\t
+      \  \t\r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\tO'Shaughnessy Hall 345"
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '2'
+    max_spots: '2'
+    crn: '21963'
+    instructor: Genghini, Maria Giulia
+    time: ! "(1) M W F  - 3:00P - 3:50P\r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\r\n\t\t\t
+      \  \t\t\r\n\t\t\t   \t  \r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\t(2) T  - 2:00P
+      - 2:50P"
+    location: ! "O'Shaughnessy Hall 106 \r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\t\r\n\t\t\t\t
+      \  \t\r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\tO'Shaughnessy Hall 204A"
+- !ruby/object:Course
+  name: Intermediate Latin
+  credit: '3'
+  coursenum: CLLA60003
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '1'
+    max_spots: '2'
+    crn: '23303'
+    instructor: Schlegel, Catherine
+    time: M W F  - 10:40A - 11:30A
+    location: O'Shaughnessy Hall 106
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '1'
+    max_spots: '2'
+    crn: '23795'
+    instructor: Mazurek, Elizabeth
+    time: M W F  - 3:00P - 3:50P
+    location: O'Shaughnessy Hall 345
+- !ruby/object:Course
+  name: Medieval Latin Survey
+  credit: '3'
+  coursenum: CLLA60017
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '3'
+    max_spots: '5'
+    crn: '23800'
+    instructor: Bloomer, W. Martin
+    time: M W  - 11:45A - 1:00P
+    location: Flanner Hall 824
+- !ruby/object:Course
+  name: ! 'Latin Poetry: Age of Augustus'
+  credit: '3'
+  coursenum: CLLA60090
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '3'
+    max_spots: '4'
+    crn: '28569'
+    instructor: Bradley, Keith
+    time: T R  - 3:30P - 4:45P
+    location: Flanner Hall 524
+- !ruby/object:Course
+  name: Paleography
+  credit: '3'
+  coursenum: CLLA60118
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '1'
+    max_spots: '2'
+    crn: '29533'
+    instructor: TBA
+    time: T  - 3:30P - 6:00P
+    location: TBA
+- !ruby/object:Course
+  name: Seneca and Stoicism
+  credit: '3'
+  coursenum: CLLA60134
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '1'
+    max_spots: '2'
+    crn: '28570'
+    instructor: Schlegel, Catherine
+    time: M W  - 5:00P - 6:15P
+    location: Edward J. DeBartolo Hall 204
+- !ruby/object:Course
+  name: Latin Survey II
+  credit: '3'
+  coursenum: CLLA60520
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '7'
+    max_spots: '15'
+    crn: '28571'
+    instructor: Bloomer, W. Martin
+    time: M W  - 4:30P - 5:45P
+    location: Edward J. DeBartolo Hall 334
+- !ruby/object:Course
+  name: Editing Medieval Latin Texts
+  credit: '3'
+  coursenum: CLLA63022
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '3'
+    max_spots: '3'
+    crn: '29534'
+    instructor: Emery, Kent
+    time: R  - 2:00P - 4:30P
+    location: O'Shaughnessy Hall 204A
+: M W F  - 10:40A - 11:30A
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: O'Shaughnessy Hall 106
+- :course: CLLA60003
+  :section: '02'
+  :title: Intermediate Latin
+  :credits: '3'
+  :status: OP
+  :max_spots: '2'
+  :open_spots: '1'
+  :xlst: Y
+  :crn: '23795'
+  :syl: ! '&nbsp'
+  :instructor: Mazurek, Elizabeth
+  :when: M W F  - 3:00P - 3:50P
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: O'Shaughnessy Hall 345
+- :course: CLLA60017
+  :section: '01'
+  :title: Medieval Latin Survey
+  :credits: '3'
+  :status: OP
+  :max_spots: '5'
+  :open_spots: '4'
+  :xlst: Y
+  :crn: '23800'
+  :syl: ! '&nbsp'
+  :instructor: Bloomer, W. Martin
+  :when: M W  - 11:45A - 1:00P
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: Flanner Hall 824
+- :course: CLLA60090
+  :section: '01'
+  :title: ! 'Latin Poetry: Age of Augustus'
+  :credits: '3'
+  :status: OP
+  :max_spots: '4'
+  :open_spots: '3'
+  :xlst: Y
+  :crn: '28569'
+  :syl: ! '&nbsp'
+  :instructor: Bradley, Keith
+  :when: T R  - 3:30P - 4:45P
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: Flanner Hall 524
+- :course: CLLA60118
+  :section: '01'
+  :title: Paleography
+  :credits: '3'
+  :status: OP
+  :max_spots: '2'
+  :open_spots: '1'
+  :xlst: Y
+  :crn: '29533'
+  :syl: ! '&nbsp'
+  :instructor: TBA
+  :when: T  - 3:30P - 6:00P
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CLLA60134
+  :section: '01'
+  :title: Seneca and Stoicism
+  :credits: '3'
+  :status: CL
+  :max_spots: '2'
+  :open_spots: '0'
+  :xlst: Y
+  :crn: '28570'
+  :syl: ! '&nbsp'
+  :instructor: Schlegel, Catherine
+  :when: M W  - 5:00P - 6:15P
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: Edward J. DeBartolo Hall 204
+- :course: CLLA60520
+  :section: '01'
+  :title: Latin Survey II
+  :credits: '3'
+  :status: OP
+  :max_spots: '15'
+  :open_spots: '7'
+  :xlst: Y
+  :crn: '28571'
+  :syl: ! '&nbsp'
+  :instructor: Bloomer, W. Martin
+  :when: M W  - 4:30P - 5:45P
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: Edward J. DeBartolo Hall 334
+- :course: CLLA63022
+  :section: '01'
+  :title: Editing Medieval Latin Texts
+  :credits: '3'
+  :status: OP
+  :max_spots: '3'
+  :open_spots: '3'
+  :xlst: Y
+  :crn: '29534'
+  :syl: ! '&nbsp'
+  :instructor: Emery, Kent
+  :when: R  - 2:00P - 4:30P
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: O'Shaughnessy Hall 204A

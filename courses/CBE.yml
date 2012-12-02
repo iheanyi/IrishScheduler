@@ -1,0 +1,1145 @@
+---
+- !ruby/object:Course
+  name: Computer Methods
+  credit: '3'
+  coursenum: CBE20258
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '6'
+    max_spots: '100'
+    crn: '20548'
+    instructor: Goodrich, Victoria Shah, Jindal
+    time: M W F  - 8:30A - 9:20A
+    location: Edward J. DeBartolo Hall 102
+- !ruby/object:Course
+  name: Chemical Engng Thermodyn  I
+  credit: '3'
+  coursenum: CBE20260
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '7'
+    max_spots: '100'
+    crn: '24571'
+    instructor: Maginn, Edward
+    time: T R  - 11:00A - 12:15P
+    location: Edward J. DeBartolo Hall 155
+- !ruby/object:Course
+  name: Career Choices for Engineers
+  credit: '1'
+  coursenum: CBE20290
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '86'
+    max_spots: '100'
+    crn: '21465'
+    instructor: Flynn, Laura
+    time: F  - 3:00P - 4:15P
+    location: Edward J. DeBartolo Hall 138
+- !ruby/object:Course
+  name: Cheg Thermodyn  I -Tutorial
+  credit: '0'
+  coursenum: CBE22260
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '7'
+    max_spots: '30'
+    crn: '24572'
+    instructor: Hill, Davide
+    time: M  - 3:00P - 3:50P
+    location: Edward J. DeBartolo Hall 120
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '17'
+    max_spots: '30'
+    crn: '24573'
+    instructor: Hill, Davide
+    time: W  - 3:00P - 3:50P
+    location: Edward J. DeBartolo Hall 120
+  - !ruby/object:Section
+    section_num: '03'
+    open_spots: '4'
+    max_spots: '30'
+    crn: '24575'
+    instructor: Hill, Davide
+    time: T  - 2:15P - 3:00P
+    location: Nieuwland Science Hall 184
+  - !ruby/object:Section
+    section_num: '04'
+    open_spots: '11'
+    max_spots: '30'
+    crn: '24576'
+    instructor: Hill, Davide
+    time: R  - 2:15P - 3:00P
+    location: Edward J. DeBartolo Hall 242
+- !ruby/object:Course
+  name: Chemical Process Control
+  credit: '3'
+  coursenum: CBE30338
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '9'
+    max_spots: '95'
+    crn: '20730'
+    instructor: Kantor, Jeffrey
+    time: T R  - 11:00A - 12:15P
+    location: Edward J. DeBartolo Hall 126
+- !ruby/object:Course
+  name: Transport Phenomena II
+  credit: '3'
+  coursenum: CBE30356
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '85'
+    crn: '20857'
+    instructor: Zhu, Yingxi
+    time: T R  - 9:30A - 10:45A
+    location: Edward J. DeBartolo Hall 126
+- !ruby/object:Course
+  name: Chemical Engr Lab I
+  credit: '3'
+  coursenum: CBE31358
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '22'
+    crn: '20776'
+    instructor: Saddawi, Salma
+    time: ! "(1) M  - 1:55P - 5:30P\r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\r\n\t\t\t
+      \  \t\t\r\n\t\t\t   \t  \r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\t(2) F  - 3:00P
+      - 5:00P"
+    location: ! "TBA\r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\r\n\t\t\t\t
+      \  \t\t\t\r\n\t\t\t\t   \t\t\tEdward J. DeBartolo Hall 213"
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '0'
+    max_spots: '22'
+    crn: '21849'
+    instructor: Saddawi, Salma
+    time: ! "(1) W  - 1:55P - 5:30P\r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\r\n\t\t\t
+      \  \t\t\r\n\t\t\t   \t  \r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\t(2) F  - 3:00P
+      - 5:00P"
+    location: ! "TBA\r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\r\n\t\t\t\t
+      \  \t\t\t\r\n\t\t\t\t   \t\t\tEdward J. DeBartolo Hall 217"
+  - !ruby/object:Section
+    section_num: '03'
+    open_spots: '1'
+    max_spots: '21'
+    crn: '21656'
+    instructor: Saddawi, Salma
+    time: ! "(1) R  - 2:00P - 5:30P\r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\r\n\t\t\t
+      \  \t\t\r\n\t\t\t   \t  \r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\t(2) F  - 3:00P
+      - 5:00P"
+    location: ! "TBA\r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\r\n\t\t\t\t
+      \  \t\t\t\r\n\t\t\t\t   \t\t\tEdward J. DeBartolo Hall 215"
+  - !ruby/object:Section
+    section_num: '04'
+    open_spots: '0'
+    max_spots: '22'
+    crn: '22468'
+    instructor: Saddawi, Salma
+    time: ! "(1) T  - 2:00P - 5:30P\r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\r\n\t\t\t
+      \  \t\t\r\n\t\t\t   \t  \r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\t(2) F  - 3:00P
+      - 5:00P"
+    location: ! "TBA\r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\r\n\t\t\t\t
+      \  \t\t\t\r\n\t\t\t\t   \t\t\tEdward J. DeBartolo Hall 232"
+- !ruby/object:Course
+  name: Chem Process Control Tutorial
+  credit: '0'
+  coursenum: CBE32338
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '16'
+    max_spots: '43'
+    crn: '20365'
+    instructor: Kantor, Jeffrey
+    time: W  - 3:00P - 3:50P
+    location: Edward J. DeBartolo Hall 217
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '6'
+    max_spots: '52'
+    crn: '22736'
+    instructor: Kantor, Jeffrey
+    time: M  - 12:50P - 1:40P
+    location: Edward J. DeBartolo Hall 126
+- !ruby/object:Course
+  name: Transport Phenomena II Tutrial
+  credit: '0'
+  coursenum: CBE32356
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '85'
+    crn: '20833'
+    instructor: Zhu, Yingxi
+    time: F  - 1:55P - 2:45P
+    location: Edward J. DeBartolo Hall 138
+- !ruby/object:Course
+  name: Process Design
+  credit: '3'
+  coursenum: CBE40448
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '9'
+    max_spots: '80'
+    crn: '21814'
+    instructor: Stadtherr, Mark Hicks, Jason
+    time: M W F  - 1:55P - 2:45P
+    location: Edward J. DeBartolo Hall 129
+- !ruby/object:Course
+  name: Polymer and Colloid Science
+  credit: '3'
+  coursenum: CBE40465
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '7'
+    max_spots: '20'
+    crn: '28931'
+    instructor: Zhu, Yingxi Guo, Ruilan
+    time: T R  - 12:30P - 1:45P
+    location: Edward J. DeBartolo Hall 118
+- !ruby/object:Course
+  name: Nanoscience & Technology
+  credit: '3'
+  coursenum: CBE40477
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '13'
+    max_spots: '40'
+    crn: '26260'
+    instructor: Tao, Franklin
+    time: M W F  - 11:45A - 12:35P
+    location: Edward J. DeBartolo Hall 155
+- !ruby/object:Course
+  name: Intro - Cellular/Tissue Engng
+  credit: '3'
+  coursenum: CBE40479
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '1'
+    max_spots: '27'
+    crn: '26374'
+    instructor: Zartman, Jeremiah
+    time: T R  - 2:00P - 3:15P
+    location: Edward J. DeBartolo Hall 232
+- !ruby/object:Course
+  name: Topics in Biomolecular Engnrng
+  credit: '3'
+  coursenum: CBE40483
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '2'
+    max_spots: '49'
+    crn: '24078'
+    instructor: Bilgicer, Zihni
+    time: T R  - 9:30A - 10:45A
+    location: Edward J. DeBartolo Hall 118
+- !ruby/object:Course
+  name: Mass Transfer Membrane Systems
+  credit: '3'
+  coursenum: CBE40667
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '9'
+    max_spots: '20'
+    crn: '26375'
+    instructor: Phillip, William
+    time: M W F  - 10:40A - 11:30A
+    location: Edward J. DeBartolo Hall 231
+- !ruby/object:Course
+  name: Directed Readings
+  credit: V
+  coursenum: CBE46497
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '22165'
+    instructor: Maginn, Edward
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Undergraduate Research
+  credit: V
+  coursenum: CBE48901
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '12'
+    max_spots: '17'
+    crn: '21407'
+    instructor: Maginn, Edward
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Advanced UG Research
+  credit: '3'
+  coursenum: CBE48902
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '15'
+    max_spots: '15'
+    crn: '21126'
+    instructor: Maginn, Edward
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Undergraduate Thesis
+  credit: '2'
+  coursenum: CBE48903
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '16'
+    max_spots: '16'
+    crn: '21382'
+    instructor: Maginn, Edward
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Undergraduate Thesis
+  credit: '2'
+  coursenum: CBE48904
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '14'
+    max_spots: '15'
+    crn: '22469'
+    instructor: Maginn, Edward
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Nonresident Thesis Research
+  credit: '1'
+  coursenum: CBE58991
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20294'
+    instructor: Maginn, Edward
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Polymer and Colloid Science
+  credit: '3'
+  coursenum: CBE60465
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '10'
+    max_spots: '15'
+    crn: '29817'
+    instructor: Zhu, Yingxi Guo, Ruilan
+    time: T R  - 12:30P - 1:45P
+    location: Edward J. DeBartolo Hall 118
+- !ruby/object:Course
+  name: Transport Phenomena I
+  credit: '3'
+  coursenum: CBE60544
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '11'
+    max_spots: '25'
+    crn: '21187'
+    instructor: Leighton, David
+    time: M W F  - 9:35A - 10:25A
+    location: Fitzpatrick Hall of Eng. 356
+- !ruby/object:Course
+  name: Mathematical Methods II
+  credit: '3'
+  coursenum: CBE60552
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '26'
+    max_spots: '30'
+    crn: '24580'
+    instructor: Chang, Hsueh-Chia
+    time: T R  - 12:30P - 1:45P
+    location: Edward J. DeBartolo Hall 117
+- !ruby/object:Course
+  name: Nanoscience & Technology
+  credit: '3'
+  coursenum: CBE60577
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '9'
+    max_spots: '15'
+    crn: '26262'
+    instructor: Tao, Franklin
+    time: M W F  - 11:45A - 12:35P
+    location: Edward J. DeBartolo Hall 155
+- !ruby/object:Course
+  name: Intro - Cellular/Tissue Engng
+  credit: '3'
+  coursenum: CBE60579
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '4'
+    max_spots: '5'
+    crn: '26377'
+    instructor: Zartman, Jeremiah
+    time: T R  - 2:00P - 3:15P
+    location: Edward J. DeBartolo Hall 232
+- !ruby/object:Course
+  name: Mass Transfer Membrane Systems
+  credit: '3'
+  coursenum: CBE60667
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '6'
+    max_spots: '10'
+    crn: '26378'
+    instructor: Phillip, William
+    time: M W F  - 10:40A - 11:30A
+    location: Edward J. DeBartolo Hall 231
+- !ruby/object:Course
+  name: Transport Phenomena I Tutorial
+  credit: '0'
+  coursenum: CBE62544
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '21'
+    max_spots: '25'
+    crn: '22787'
+    instructor: Leighton, David
+    time: M  - 6:00P - 7:00P
+    location: Fitzpatrick Hall of Eng. 356
+- !ruby/object:Course
+  name: Math Methods II - Tutorial
+  credit: '0'
+  coursenum: CBE62552
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '19'
+    max_spots: '20'
+    crn: '24582'
+    instructor: Chang, Hsueh-Chia
+    time: M  - 4:05P - 4:55P
+    location: Hayes Healy Center 125
+- !ruby/object:Course
+  name: Graduate Seminar
+  credit: '1'
+  coursenum: CBE63001
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '45'
+    max_spots: '85'
+    crn: '20512'
+    instructor: Maginn, Edward
+    time: T  - 3:30P - 4:45P
+    location: Edward J. DeBartolo Hall 140
+- !ruby/object:Course
+  name: Directed Readings
+  credit: V
+  coursenum: CBE66697
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '25668'
+    instructor: Maginn, Edward
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Thesis Direction
+  credit: V
+  coursenum: CBE68801
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20241'
+    instructor: Chang, Hsueh-Chia
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '21596'
+    instructor: Hill, Davide
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '03'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20032'
+    instructor: Leighton, David
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '04'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '24922'
+    instructor: Hicks, Jason
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '05'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '23076'
+    instructor: Kantor, Jeffrey
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '06'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20013'
+    instructor: Wolf, Eduardo
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '07'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '21379'
+    instructor: McCready, Mark
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: 08
+    open_spots: '10'
+    max_spots: '10'
+    crn: '21408'
+    instructor: Brennecke, Joan
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: 09
+    open_spots: '10'
+    max_spots: '10'
+    crn: '21076'
+    instructor: McGinn, Paul
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '10'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20510'
+    instructor: Bilgicer, Zihni
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '11'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '21095'
+    instructor: Maginn, Edward
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '12'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '21476'
+    instructor: Stadtherr, Mark
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '13'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20240'
+    instructor: Bohn, Paul
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '14'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '26263'
+    instructor: Phillip, William
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '15'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '22041'
+    instructor: Zhu, Yingxi
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '16'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '22042'
+    instructor: Schneider, William
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '17'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '26265'
+    instructor: Guo, Ruilan
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '18'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '26264'
+    instructor: Zartman, Jeremiah
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Research and Dissertation
+  credit: V
+  coursenum: CBE68901
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '9'
+    max_spots: '10'
+    crn: '21758'
+    instructor: Chang, Hsueh-Chia
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '21830'
+    instructor: Zhu, Yingxi
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '03'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20815'
+    instructor: Hill, Davide
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '04'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20236'
+    instructor: Leighton, David
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '05'
+    open_spots: '5'
+    max_spots: '10'
+    crn: '24923'
+    instructor: Hicks, Jason
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '06'
+    open_spots: '8'
+    max_spots: '10'
+    crn: '23075'
+    instructor: Kantor, Jeffrey
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '07'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20206'
+    instructor: Wolf, Eduardo
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: 08
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20530'
+    instructor: McCready, Mark
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: 09
+    open_spots: '5'
+    max_spots: '10'
+    crn: '21325'
+    instructor: Brennecke, Joan
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '10'
+    open_spots: '7'
+    max_spots: '10'
+    crn: '20915'
+    instructor: McGinn, Paul
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '11'
+    open_spots: '6'
+    max_spots: '10'
+    crn: '21302'
+    instructor: Bilgicer, Zihni
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '12'
+    open_spots: '7'
+    max_spots: '10'
+    crn: '21682'
+    instructor: Maginn, Edward
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '13'
+    open_spots: '9'
+    max_spots: '10'
+    crn: '20880'
+    instructor: Stadtherr, Mark
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '14'
+    open_spots: '7'
+    max_spots: '10'
+    crn: '20921'
+    instructor: Bohn, Paul
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '15'
+    open_spots: '8'
+    max_spots: '10'
+    crn: '24921'
+    instructor: Kamat, Prashant
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '16'
+    open_spots: '6'
+    max_spots: '10'
+    crn: '22043'
+    instructor: Schneider, William
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '17'
+    open_spots: '9'
+    max_spots: '10'
+    crn: '26266'
+    instructor: Guo, Ruilan
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '18'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '26267'
+    instructor: Zartman, Jeremiah
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '19'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '26268'
+    instructor: Phillip, William
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Non-resident Dissertation Rsrh
+  credit: V
+  coursenum: CBE68991
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '21177'
+    instructor: Maginn, Edward
+    time: TBA
+    location: TBA
+_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '22041'
+  :syl: ! '&nbsp'
+  :instructor: Zhu, Yingxi
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CBE68801
+  :section: '16'
+  :title: Thesis Direction
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '22042'
+  :syl: ! '&nbsp'
+  :instructor: Schneider, William
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CBE68801
+  :section: '17'
+  :title: Thesis Direction
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '26265'
+  :syl: ! '&nbsp'
+  :instructor: Guo, Ruilan
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CBE68801
+  :section: '18'
+  :title: Thesis Direction
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '26264'
+  :syl: ! '&nbsp'
+  :instructor: Zartman, Jeremiah
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CBE68901
+  :section: '01'
+  :title: Research and Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '9'
+  :xlst: ! '&nbsp'
+  :crn: '21758'
+  :syl: ! '&nbsp'
+  :instructor: Chang, Hsueh-Chia
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CBE68901
+  :section: '02'
+  :title: Research and Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '21830'
+  :syl: ! '&nbsp'
+  :instructor: Zhu, Yingxi
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CBE68901
+  :section: '03'
+  :title: Research and Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '20815'
+  :syl: ! '&nbsp'
+  :instructor: Hill, Davide
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CBE68901
+  :section: '04'
+  :title: Research and Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '20236'
+  :syl: ! '&nbsp'
+  :instructor: Leighton, David
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CBE68901
+  :section: '05'
+  :title: Research and Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '6'
+  :xlst: ! '&nbsp'
+  :crn: '24923'
+  :syl: ! '&nbsp'
+  :instructor: Hicks, Jason
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CBE68901
+  :section: '06'
+  :title: Research and Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '8'
+  :xlst: ! '&nbsp'
+  :crn: '23075'
+  :syl: ! '&nbsp'
+  :instructor: Kantor, Jeffrey
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CBE68901
+  :section: '07'
+  :title: Research and Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '20206'
+  :syl: ! '&nbsp'
+  :instructor: Wolf, Eduardo
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CBE68901
+  :section: 08
+  :title: Research and Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '20530'
+  :syl: ! '&nbsp'
+  :instructor: McCready, Mark
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CBE68901
+  :section: 09
+  :title: Research and Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '6'
+  :xlst: ! '&nbsp'
+  :crn: '21325'
+  :syl: ! '&nbsp'
+  :instructor: Brennecke, Joan
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CBE68901
+  :section: '10'
+  :title: Research and Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '8'
+  :xlst: ! '&nbsp'
+  :crn: '20915'
+  :syl: ! '&nbsp'
+  :instructor: McGinn, Paul
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CBE68901
+  :section: '11'
+  :title: Research and Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '6'
+  :xlst: ! '&nbsp'
+  :crn: '21302'
+  :syl: ! '&nbsp'
+  :instructor: Bilgicer, Zihni
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CBE68901
+  :section: '12'
+  :title: Research and Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '7'
+  :xlst: ! '&nbsp'
+  :crn: '21682'
+  :syl: ! '&nbsp'
+  :instructor: Maginn, Edward
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CBE68901
+  :section: '13'
+  :title: Research and Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '9'
+  :xlst: ! '&nbsp'
+  :crn: '20880'
+  :syl: ! '&nbsp'
+  :instructor: Stadtherr, Mark
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CBE68901
+  :section: '14'
+  :title: Research and Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '8'
+  :xlst: ! '&nbsp'
+  :crn: '20921'
+  :syl: ! '&nbsp'
+  :instructor: Bohn, Paul
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CBE68901
+  :section: '15'
+  :title: Research and Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '9'
+  :xlst: ! '&nbsp'
+  :crn: '24921'
+  :syl: ! '&nbsp'
+  :instructor: Kamat, Prashant
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CBE68901
+  :section: '16'
+  :title: Research and Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '6'
+  :xlst: ! '&nbsp'
+  :crn: '22043'
+  :syl: ! '&nbsp'
+  :instructor: Schneider, William
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CBE68901
+  :section: '17'
+  :title: Research and Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '26266'
+  :syl: ! '&nbsp'
+  :instructor: Guo, Ruilan
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CBE68901
+  :section: '18'
+  :title: Research and Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '26267'
+  :syl: ! '&nbsp'
+  :instructor: Zartman, Jeremiah
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CBE68901
+  :section: '19'
+  :title: Research and Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '26268'
+  :syl: ! '&nbsp'
+  :instructor: Phillip, William
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CBE68991
+  :section: '01'
+  :title: Non-resident Dissertation Rsrh
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '21177'
+  :syl: ! '&nbsp'
+  :instructor: Maginn, Edward
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA

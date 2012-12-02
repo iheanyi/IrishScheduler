@@ -1,0 +1,3039 @@
+---
+- !ruby/object:Course
+  name: Intro to Arabic Culture/Civ
+  credit: '3'
+  coursenum: MI10662
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '2'
+    max_spots: '3'
+    crn: '29800'
+    instructor: Bualuan, Ghada
+    time: M W F  - 10:40A - 11:30A
+    location: Geddes Hall B034
+- !ruby/object:Course
+  name: The World of the Middle Ages
+  credit: '3'
+  coursenum: MI20001
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '7'
+    max_spots: '39'
+    crn: '23169'
+    instructor: Noble, Thomas
+    time: M W  - 1:55P - 2:45P
+    location: Edward J. DeBartolo Hall 141
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '9'
+    max_spots: '18'
+    crn: '29567'
+    instructor: Noble, Thomas
+    time: M W  - 1:55P - 2:45P
+    location: Edward J. DeBartolo Hall 141
+- !ruby/object:Course
+  name: ! 'The E. Church: Theo and Histry'
+  credit: '3'
+  coursenum: MI20408
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '1'
+    crn: '25489'
+    instructor: Avvakumov, Yury Dunkle, Brian
+    time: T R  - 12:30P - 1:45P
+    location: Edward J. DeBartolo Hall 216
+- !ruby/object:Course
+  name: Art of the Medieval Codex
+  credit: '3'
+  coursenum: MI20752
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '3'
+    crn: '28727'
+    instructor: Joyner, Danielle
+    time: T R  - 2:00P - 3:15P
+    location: O'Shaughnessy Hall 106
+- !ruby/object:Course
+  name: ! 'World of Middle Ages: Tutorial'
+  credit: '0'
+  coursenum: MI22001
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '18'
+    crn: '23170'
+    instructor: Noble, Thomas
+    time: F  - 12:50P - 1:40P
+    location: O'Shaughnessy Hall 200
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '11'
+    max_spots: '18'
+    crn: '23171'
+    instructor: Noble, Thomas
+    time: F  - 1:55P - 2:45P
+    location: O'Shaughnessy Hall 200
+  - !ruby/object:Section
+    section_num: '03'
+    open_spots: '0'
+    max_spots: '18'
+    crn: '23299'
+    instructor: Noble, Thomas
+    time: F  - 1:55P - 2:45P
+    location: O'Shaughnessy Hall 202
+  - !ruby/object:Section
+    section_num: '04'
+    open_spots: '9'
+    max_spots: '18'
+    crn: '28728'
+    instructor: Noble, Thomas
+    time: F  - 12:50P - 1:40P
+    location: O'Shaughnessy Hall 202
+- !ruby/object:Course
+  name: Italian Renaissance
+  credit: '3'
+  coursenum: MI30214
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '4'
+    max_spots: '5'
+    crn: '29568'
+    instructor: Meserve, Margaret
+    time: M W  - 10:40A - 11:30A
+    location: Geddes Hall B036
+- !ruby/object:Course
+  name: Medieval Middle East
+  credit: '3'
+  coursenum: MI30235
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '1'
+    crn: '29569'
+    instructor: Tor, Deborah
+    time: M W  - 11:45A - 12:35P
+    location: Edward J. DeBartolo Hall 242
+- !ruby/object:Course
+  name: Ancient Japan
+  credit: '3'
+  coursenum: MI30241
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '3'
+    crn: '29570'
+    instructor: Thomas, Julia
+    time: T R  - 11:00A - 12:15P
+    location: Coleman Morse Center 231
+- !ruby/object:Course
+  name: The Popes and the Papacy
+  credit: '3'
+  coursenum: MI30262
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '1'
+    max_spots: '4'
+    crn: '29571'
+    instructor: Noble, Thomas
+    time: M W  - 4:30P - 5:45P
+    location: Edward J. DeBartolo Hall 125
+- !ruby/object:Course
+  name: Natural World in Middle Ages
+  credit: '3'
+  coursenum: MI30263
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '1'
+    max_spots: '2'
+    crn: '29572'
+    instructor: Wilky, Caroline
+    time: T R  - 9:30A - 10:45A
+    location: Edward J. DeBartolo Hall 113
+- !ruby/object:Course
+  name: Ancient & Medieval Philosophy
+  credit: '3'
+  coursenum: MI30301
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '2'
+    max_spots: '2'
+    crn: '23353'
+    instructor: Freddoso, Alfred
+    time: M W  - 1:30P - 2:45P
+    location: Edward J. DeBartolo Hall 203
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '1'
+    max_spots: '2'
+    crn: '26732'
+    instructor: Dumont, Stephen
+    time: T R  - 3:30P - 4:45P
+    location: Edward J. DeBartolo Hall 205
+- !ruby/object:Course
+  name: Survey of Spanish Literature I
+  credit: '3'
+  coursenum: MI30500
+  sections:
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '0'
+    max_spots: '1'
+    crn: '24671'
+    instructor: Vitulli, Juan
+    time: T R  - 12:30P - 1:45P
+    location: Edward J. DeBartolo Hall 301
+- !ruby/object:Course
+  name: French Literature & Culture I
+  credit: '3'
+  coursenum: MI30530
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '0'
+    crn: '21973'
+    instructor: Boulton, Maureen
+    time: T R  - 11:00A - 12:15P
+    location: Theodore M. Hesburgh Library 1000
+- !ruby/object:Course
+  name: The Arabic Literary Heritage
+  credit: '3'
+  coursenum: MI30667
+  sections:
+  - !ruby/object:Section
+    section_num: '04'
+    open_spots: '2'
+    max_spots: '4'
+    crn: '29573'
+    instructor: Guo, Li
+    time: T R  - 3:30P - 4:45P
+    location: Edward J. DeBartolo Hall 125
+- !ruby/object:Course
+  name: Late Antique/Early Christn Art
+  credit: '3'
+  coursenum: MI30720
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '2'
+    max_spots: '2'
+    crn: '29574'
+    instructor: Barber, Charles
+    time: T R  - 9:30A - 10:45A
+    location: O'Shaughnessy Hall 106
+- !ruby/object:Course
+  name: Gateway to East Asia I
+  credit: '3'
+  coursenum: MI30814
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '3'
+    max_spots: '3'
+    crn: '29794'
+    instructor: Yasar, Kerim
+    time: T R  - 3:30P - 4:45P
+    location: Edward J. DeBartolo Hall 246
+- !ruby/object:Course
+  name: Politics and Conscience
+  credit: '3'
+  coursenum: MI30815
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '2'
+    crn: '29826'
+    instructor: Keys, Mary
+    time: M W  - 11:45A - 1:00P
+    location: O'Shaughnessy Hall 242
+- !ruby/object:Course
+  name: Imitation and Devotion
+  credit: '3'
+  coursenum: MI40191
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '2'
+    max_spots: '2'
+    crn: '29575'
+    instructor: Monta, Susannah Zieman, Katherine
+    time: T R  - 12:30P - 1:45P
+    location: Edward J. DeBartolo Hall 203
+- !ruby/object:Course
+  name: Allegory and Imagination
+  credit: '3'
+  coursenum: MI40192
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '2'
+    crn: '29576'
+    instructor: Frese, Dolores
+    time: T R  - 9:30A - 10:45A
+    location: O'Shaughnessy Hall 201
+- !ruby/object:Course
+  name: Popes, Patriarchs, & Councils
+  credit: '3'
+  coursenum: MI40412
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '1'
+    max_spots: '2'
+    crn: '29639'
+    instructor: Avvakumov, Yury
+    time: T R  - 3:30P - 4:45P
+    location: O'Shaughnessy Hall 201
+- !ruby/object:Course
+  name: Augustine
+  credit: '3'
+  coursenum: MI40433
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '3'
+    crn: '28729'
+    instructor: Daley, Brian
+    time: M W  - 8:00A - 9:15A
+    location: Edward J. DeBartolo Hall 216
+- !ruby/object:Course
+  name: Jesus and the Spiritual Life
+  credit: '3'
+  coursenum: MI40460
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '3'
+    max_spots: '3'
+    crn: '29640'
+    instructor: DeFrancis, James
+    time: M W  - 11:45A - 1:00P
+    location: Edward J. DeBartolo Hall 224
+- !ruby/object:Course
+  name: Early Christian Jerusalem
+  credit: '3'
+  coursenum: MI40461
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '1'
+    max_spots: '2'
+    crn: '29793'
+    instructor: Young, Robin
+    time: T R  - 9:30A - 10:45A
+    location: Edward A. Malloy Hall 320
+- !ruby/object:Course
+  name: Eurcharist in the Middle Ages
+  credit: '3'
+  coursenum: MI40466
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '2'
+    crn: '29641'
+    instructor: Wawrykow, Joseph
+    time: M W  - 1:30P - 2:45P
+    location: Edward A. Malloy Hall 320
+- !ruby/object:Course
+  name: From Roland to the Holy Grail
+  credit: '3'
+  coursenum: MI40532
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '1'
+    max_spots: '2'
+    crn: '29577'
+    instructor: Boulton, Maureen
+    time: T R  - 9:30A - 10:45A
+    location: Theodore M. Hesburgh Library 1000
+- !ruby/object:Course
+  name: Dante II
+  credit: '3'
+  coursenum: MI40553
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '3'
+    crn: '21992'
+    instructor: Moevs, Christian
+    time: T R  - 2:00P - 3:15P
+    location: O'Shaughnessy Hall 201
+- !ruby/object:Course
+  name: Medieval Latin Survey
+  credit: '3'
+  coursenum: MI40632
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '1'
+    max_spots: '1'
+    crn: '26744'
+    instructor: Bloomer, W. Martin
+    time: M W  - 11:45A - 1:00P
+    location: Flanner Hall 824
+- !ruby/object:Course
+  name: Knighthood/Chivalry in Med Eur
+  credit: '3'
+  coursenum: MI43285
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '2'
+    max_spots: '3'
+    crn: '29578'
+    instructor: Boulton, D'Arcy
+    time: T R  - 3:30P - 4:45P
+    location: Main Building 218
+- !ruby/object:Course
+  name: Ethics of Aristotle & Aquinas
+  credit: '3'
+  coursenum: MI43349
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '1'
+    max_spots: '2'
+    crn: '29642'
+    instructor: Solomon, William
+    time: M W  - 4:30P - 5:45P
+    location: Edward J. DeBartolo Hall 336
+- !ruby/object:Course
+  name: The Cardinal & Theo Virtues
+  credit: '3'
+  coursenum: MI43376
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '2'
+    crn: '29643'
+    instructor: O'Callaghan, John
+    time: M W  - 9:30A - 10:45A
+    location: Edward J. DeBartolo Hall 333
+- !ruby/object:Course
+  name: The World at 1200
+  credit: '3'
+  coursenum: MI43808
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '2'
+    max_spots: '4'
+    crn: '28730'
+    instructor: Glowacki, Donna Joyner, Danielle
+    time: T R  - 11:00A - 12:15P
+    location: O'Shaughnessy Hall 106
+- !ruby/object:Course
+  name: Directed Readings-Undergrad
+  credit: V
+  coursenum: MI46020
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '1'
+    max_spots: '1'
+    crn: '20342'
+    instructor: TBA
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '1'
+    max_spots: '1'
+    crn: '23919'
+    instructor: TBA
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '03'
+    open_spots: '1'
+    max_spots: '1'
+    crn: '23965'
+    instructor: TBA
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '04'
+    open_spots: '1'
+    max_spots: '1'
+    crn: '25087'
+    instructor: TBA
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '05'
+    open_spots: '1'
+    max_spots: '1'
+    crn: '25088'
+    instructor: TBA
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Italian Senior Seminar
+  credit: '3'
+  coursenum: MI53556
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '1'
+    max_spots: '1'
+    crn: '29644'
+    instructor: Moevs, Christian
+    time: T R  - 11:00A - 12:15P
+    location: Edward J. DeBartolo Hall 349
+- !ruby/object:Course
+  name: Issues in Sacred Architecture
+  credit: '3'
+  coursenum: MI53810
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '3'
+    max_spots: '3'
+    crn: '25664'
+    instructor: Stroik, Duncan
+    time: M  - 6:30P - 9:00P
+    location: TBA
+- !ruby/object:Course
+  name: Senior Research Paper
+  credit: V
+  coursenum: MI56001
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '1'
+    max_spots: '1'
+    crn: '25616'
+    instructor: TBA
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Sr. Honors Thesis II-Writing
+  credit: '3'
+  coursenum: MI58002
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '23565'
+    instructor: TBA
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '24809'
+    instructor: TBA
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '03'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '25089'
+    instructor: TBA
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Paleography
+  credit: '3'
+  coursenum: MI60005
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '12'
+    max_spots: '13'
+    crn: '25428'
+    instructor: TBA
+    time: T  - 3:30P - 6:00P
+    location: TBA
+- !ruby/object:Course
+  name: Translating Anglo-Saxon Poetry
+  credit: '3'
+  coursenum: MI60118
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '4'
+    max_spots: '5'
+    crn: '29579'
+    instructor: Abram, Christopher
+    time: T R  - 9:30A - 10:45A
+    location: O'Shaughnessy Hall 200
+- !ruby/object:Course
+  name: Popes, Patriachs, and Councils
+  credit: '3'
+  coursenum: MI60412
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '1'
+    max_spots: '2'
+    crn: '28731'
+    instructor: Avvakumov, Yury
+    time: T R  - 3:30P - 4:45P
+    location: O'Shaughnessy Hall 201
+- !ruby/object:Course
+  name: Patristic Exegesis
+  credit: '3'
+  coursenum: MI60426
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '2'
+    max_spots: '2'
+    crn: '28732'
+    instructor: Cavadini, John
+    time: T R  - 2:00P - 3:15P
+    location: Edward J. DeBartolo Hall 119
+- !ruby/object:Course
+  name: Early Christian Jerusalem
+  credit: '3'
+  coursenum: MI60461
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '1'
+    max_spots: '1'
+    crn: '29645'
+    instructor: Young, Robin
+    time: T R  - 9:30A - 10:45A
+    location: Edward A. Malloy Hall 320
+- !ruby/object:Course
+  name: Eucharist in the Middle Ages
+  credit: '3'
+  coursenum: MI60466
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '2'
+    crn: '28734'
+    instructor: Wawrykow, Joseph
+    time: M W  - 1:30P - 2:45P
+    location: Edward A. Malloy Hall 320
+- !ruby/object:Course
+  name: Islam & Muslim Christian Dialo
+  credit: '3'
+  coursenum: MI60478
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '2'
+    max_spots: '2'
+    crn: '29646'
+    instructor: Reynolds, Gabriel
+    time: T R  - 11:00A - 12:15P
+    location: Edward A. Malloy Hall 320
+- !ruby/object:Course
+  name: Dante II
+  credit: '3'
+  coursenum: MI60553
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '2'
+    max_spots: '2'
+    crn: '21991'
+    instructor: Moevs, Christian
+    time: T R  - 2:00P - 3:15P
+    location: O'Shaughnessy Hall 201
+- !ruby/object:Course
+  name: Dante's World of Books
+  credit: '3'
+  coursenum: MI60558
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '2'
+    max_spots: '2'
+    crn: '29731'
+    instructor: Baranski, Zygmunt
+    time: T  - 2:00P - 5:00P
+    location: Hayes Healy Center 129
+- !ruby/object:Course
+  name: Medieval Latin Survey
+  credit: '3'
+  coursenum: MI60632
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '5'
+    max_spots: '6'
+    crn: '23863'
+    instructor: Bloomer, W. Martin
+    time: M W  - 11:45A - 1:00P
+    location: Flanner Hall 824
+- !ruby/object:Course
+  name: Late Antique/Early Christn Art
+  credit: '3'
+  coursenum: MI60720
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '2'
+    max_spots: '2'
+    crn: '29580'
+    instructor: Barber, Charles
+    time: T R  - 9:30A - 10:45A
+    location: O'Shaughnessy Hall 106
+- !ruby/object:Course
+  name: Perf. Renaissance Polyphony
+  credit: '3'
+  coursenum: MI60773
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '1'
+    max_spots: '2'
+    crn: '29647'
+    instructor: Blachly, Alexander
+    time: T R  - 11:00A - 12:15P
+    location: DeBartolo Performing Arts Ctr. Penote
+- !ruby/object:Course
+  name: Augustine & Political Thought
+  credit: '3'
+  coursenum: MI60813
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '1'
+    max_spots: '1'
+    crn: '29648'
+    instructor: Keys, Mary
+    time: W  - 3:00P - 5:30P
+    location: Edward J. DeBartolo Hall 224
+- !ruby/object:Course
+  name: (Un)Natural World in Med Lit
+  credit: '3'
+  coursenum: MI63197
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '3'
+    max_spots: '4'
+    crn: '29825'
+    instructor: Abram, Christopher
+    time: M  - 3:00P - 5:30P
+    location: O'Shaughnessy Hall 200
+- !ruby/object:Course
+  name: Proseminar:Mdvl Islamic World
+  credit: '3'
+  coursenum: MI63246
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '3'
+    max_spots: '3'
+    crn: '29581'
+    instructor: Tor, Deborah
+    time: M  - 1:30P - 4:00P
+    location: Pasquerilla Center 107
+- !ruby/object:Course
+  name: Medieval Communication
+  credit: '3'
+  coursenum: MI63265
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '1'
+    max_spots: '4'
+    crn: '29582'
+    instructor: Hobbins, Daniel
+    time: W  - 3:00P - 5:30P
+    location: TBA
+- !ruby/object:Course
+  name: Aquin on Actions & Intentions
+  credit: '3'
+  coursenum: MI63340
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '2'
+    max_spots: '2'
+    crn: '29649'
+    instructor: O'Callaghan, John
+    time: T R  - 9:30A - 10:45A
+    location: Edward A. Malloy Hall 220
+- !ruby/object:Course
+  name: Relations & Ident in Med Phil
+  credit: '3'
+  coursenum: MI63377
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '2'
+    max_spots: '2'
+    crn: '29650'
+    instructor: Cross, Richard
+    time: R  - 3:30P - 6:00P
+    location: Edward A. Malloy Hall 220
+- !ruby/object:Course
+  name: Early Christianity Seminar
+  credit: '3'
+  coursenum: MI63421
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '1'
+    max_spots: '2'
+    crn: '25515'
+    instructor: Daley, Brian
+    time: R  - 3:30P - 6:00P
+    location: O'Shaughnessy Hall 207
+- !ruby/object:Course
+  name: Hagiography
+  credit: '3'
+  coursenum: MI63487
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '1'
+    max_spots: '3'
+    crn: '28735'
+    instructor: Astell, Ann
+    time: F  - 9:00A - 11:30A
+    location: Pasquerilla Center 105
+- !ruby/object:Course
+  name: Books,Authors,Readers in Italy
+  credit: '3'
+  coursenum: MI63568
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '2'
+    max_spots: '2'
+    crn: '29729'
+    instructor: Marcozzi, Luca
+    time: M  - 3:30P - 6:15P
+    location: O'Shaughnessy Hall 116
+- !ruby/object:Course
+  name: Directed Readings-Grad
+  credit: V
+  coursenum: MI66020
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '23931'
+    instructor: Noble, Thomas
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '21609'
+    instructor: Van Engen, John
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '03'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '22094'
+    instructor: Gersh, Stephen
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '04'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '22095'
+    instructor: Bradley, Keith
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '05'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '22096'
+    instructor: Barber, Charles
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '06'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '22097'
+    instructor: Meserve, Margaret
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '07'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '22098'
+    instructor: Muller, Hildegund
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: 08
+    open_spots: '10'
+    max_spots: '10'
+    crn: '23932'
+    instructor: Boulton, Maureen
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: 09
+    open_spots: '10'
+    max_spots: '10'
+    crn: '23933'
+    instructor: Abram, Christopher
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '10'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '22099'
+    instructor: Astell, Ann
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '11'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '22100'
+    instructor: Wawrykow, Joseph
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '12'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '23934'
+    instructor: Hobbins, Daniel
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '13'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '22101'
+    instructor: Dumont, Stephen
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '14'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '22102'
+    instructor: Daley, Brian
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '15'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '22103'
+    instructor: Cavadini, John
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '16'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '22104'
+    instructor: Gregory, Brad
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '17'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '22105'
+    instructor: Bloomer, W. Martin
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '18'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '22106'
+    instructor: Cachey, Theodore
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '19'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '22107'
+    instructor: Moevs, Christian
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '20'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '22108'
+    instructor: Constable, Olivia
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '21'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '22109'
+    instructor: Fassler, Margot
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '22'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '22110'
+    instructor: Krostenko, Brian
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '23'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '22111'
+    instructor: Emery, Kent
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '24'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '23935'
+    instructor: Zieman, Katherine
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '25'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '23936'
+    instructor: Kerby-Fulton, Kathryn
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '26'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '22161'
+    instructor: Marvin, Julia
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '27'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '23937'
+    instructor: Joyner, Danielle
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '28'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '23938'
+    instructor: Cross, Richard
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '29'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '23967'
+    instructor: Reynolds, Gabriel
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '30'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '25090'
+    instructor: Zachman, Randall
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '31'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '25091'
+    instructor: Jeffery, Peter
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '32'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '25092'
+    instructor: Tor, Deborah
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '33'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '25429'
+    instructor: Avvakumov, Yury
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '34'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '29584'
+    instructor: Baranski, Zygmunt
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '35'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '29583'
+    instructor: TBA
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: 2nd Year Research Tutorial II
+  credit: '3'
+  coursenum: MI67002
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '9'
+    max_spots: '10'
+    crn: '22219'
+    instructor: Muller, Hildegund
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '22643'
+    instructor: Bloomer, W. Martin
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '03'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '23172'
+    instructor: Boulton, Maureen
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '04'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '23699'
+    instructor: TBA
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Editing Medieval Manuscripts
+  credit: '3'
+  coursenum: MI67020
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '12'
+    max_spots: '12'
+    crn: '29585'
+    instructor: Emery, Kent
+    time: R  - 2:00P - 4:30P
+    location: O'Shaughnessy Hall 204A
+- !ruby/object:Course
+  name: Field Examination Preparation
+  credit: V
+  coursenum: MI77001
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '21827'
+    instructor: Boulton, Maureen
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Dissertation Proposal Prep
+  credit: V
+  coursenum: MI77002
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20457'
+    instructor: Noble, Thomas
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '23706'
+    instructor: Van Engen, John
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '03'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '23707'
+    instructor: Gersh, Stephen
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '04'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '23708'
+    instructor: Bradley, Keith
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '05'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '23709'
+    instructor: Barber, Charles
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '06'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '23710'
+    instructor: Meserve, Margaret
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '07'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '23711'
+    instructor: Muller, Hildegund
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: 08
+    open_spots: '10'
+    max_spots: '10'
+    crn: '23712'
+    instructor: Boulton, Maureen
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: 09
+    open_spots: '10'
+    max_spots: '10'
+    crn: '23713'
+    instructor: Abram, Christopher
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '10'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '23714'
+    instructor: Astell, Ann
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '11'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '23715'
+    instructor: Wawrykow, Joseph
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '12'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '23716'
+    instructor: Hobbins, Daniel
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '13'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '23717'
+    instructor: Dumont, Stephen
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '14'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '23718'
+    instructor: Daley, Brian
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '15'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '23719'
+    instructor: Cavadini, John
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '16'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '23720'
+    instructor: Gregory, Brad
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '17'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '23721'
+    instructor: Bloomer, W. Martin
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '18'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '23722'
+    instructor: Cachey, Theodore
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '19'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '23723'
+    instructor: Moevs, Christian
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '20'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '23724'
+    instructor: Constable, Olivia
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '21'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '23725'
+    instructor: Fassler, Margot
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '22'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '23726'
+    instructor: Krostenko, Brian
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '23'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '23727'
+    instructor: Emery, Kent
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '24'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '23728'
+    instructor: Zieman, Katherine
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '25'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '23729'
+    instructor: Kerby-Fulton, Kathryn
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '26'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '23730'
+    instructor: Marvin, Julia
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '27'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '23929'
+    instructor: Joyner, Danielle
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '28'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '23930'
+    instructor: Cross, Richard
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '29'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '24151'
+    instructor: Reynolds, Gabriel
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '30'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '25093'
+    instructor: Zachman, Randall
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '31'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '25094'
+    instructor: Jeffery, Peter
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '32'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '25095'
+    instructor: Tor, Deborah
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '33'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '25430'
+    instructor: Avvakumov, Yury
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '34'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '29586'
+    instructor: Baranski, Zygmunt
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '35'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '29587'
+    instructor: TBA
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Resident Dissertation Research
+  credit: V
+  coursenum: MI88001
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '12'
+    max_spots: '12'
+    crn: '20441'
+    instructor: Noble, Thomas
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '12'
+    max_spots: '12'
+    crn: '23731'
+    instructor: Van Engen, John
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '03'
+    open_spots: '12'
+    max_spots: '12'
+    crn: '23732'
+    instructor: Gersh, Stephen
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '04'
+    open_spots: '12'
+    max_spots: '12'
+    crn: '23733'
+    instructor: Bradley, Keith
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '05'
+    open_spots: '12'
+    max_spots: '12'
+    crn: '23734'
+    instructor: Barber, Charles
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '06'
+    open_spots: '12'
+    max_spots: '12'
+    crn: '23735'
+    instructor: Meserve, Margaret
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '07'
+    open_spots: '12'
+    max_spots: '12'
+    crn: '23736'
+    instructor: Muller, Hildegund
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: 08
+    open_spots: '12'
+    max_spots: '12'
+    crn: '23737'
+    instructor: Boulton, Maureen
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: 09
+    open_spots: '12'
+    max_spots: '12'
+    crn: '23738'
+    instructor: Abram, Christopher
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '10'
+    open_spots: '12'
+    max_spots: '12'
+    crn: '23739'
+    instructor: Astell, Ann
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '11'
+    open_spots: '12'
+    max_spots: '12'
+    crn: '23740'
+    instructor: Wawrykow, Joseph
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '12'
+    open_spots: '12'
+    max_spots: '12'
+    crn: '23741'
+    instructor: Hobbins, Daniel
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '13'
+    open_spots: '12'
+    max_spots: '12'
+    crn: '23742'
+    instructor: Dumont, Stephen
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '14'
+    open_spots: '12'
+    max_spots: '12'
+    crn: '23743'
+    instructor: Daley, Brian
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '15'
+    open_spots: '12'
+    max_spots: '12'
+    crn: '23745'
+    instructor: Cavadini, John
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '16'
+    open_spots: '12'
+    max_spots: '12'
+    crn: '23748'
+    instructor: Gregory, Brad
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '17'
+    open_spots: '12'
+    max_spots: '12'
+    crn: '23749'
+    instructor: Bloomer, W. Martin
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '18'
+    open_spots: '12'
+    max_spots: '12'
+    crn: '23751'
+    instructor: Cachey, Theodore
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '19'
+    open_spots: '12'
+    max_spots: '12'
+    crn: '23752'
+    instructor: Moevs, Christian
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '20'
+    open_spots: '12'
+    max_spots: '12'
+    crn: '23753'
+    instructor: Constable, Olivia
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '21'
+    open_spots: '12'
+    max_spots: '12'
+    crn: '23754'
+    instructor: Fassler, Margot
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '22'
+    open_spots: '12'
+    max_spots: '12'
+    crn: '23755'
+    instructor: Krostenko, Brian
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '23'
+    open_spots: '12'
+    max_spots: '12'
+    crn: '23756'
+    instructor: Emery, Kent
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '24'
+    open_spots: '12'
+    max_spots: '12'
+    crn: '23757'
+    instructor: Zieman, Katherine
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '25'
+    open_spots: '11'
+    max_spots: '12'
+    crn: '23758'
+    instructor: Kerby-Fulton, Kathryn
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '26'
+    open_spots: '12'
+    max_spots: '12'
+    crn: '23759'
+    instructor: Marvin, Julia
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '27'
+    open_spots: '12'
+    max_spots: '12'
+    crn: '23927'
+    instructor: Joyner, Danielle
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '28'
+    open_spots: '12'
+    max_spots: '12'
+    crn: '23928'
+    instructor: Cross, Richard
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '29'
+    open_spots: '12'
+    max_spots: '12'
+    crn: '24152'
+    instructor: Reynolds, Gabriel
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '30'
+    open_spots: '12'
+    max_spots: '12'
+    crn: '25096'
+    instructor: Zachman, Randall
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '31'
+    open_spots: '12'
+    max_spots: '12'
+    crn: '25097'
+    instructor: Jeffery, Peter
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '32'
+    open_spots: '12'
+    max_spots: '12'
+    crn: '25098'
+    instructor: Tor, Deborah
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '33'
+    open_spots: '12'
+    max_spots: '12'
+    crn: '25431'
+    instructor: Avvakumov, Yury
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '34'
+    open_spots: '12'
+    max_spots: '12'
+    crn: '29589'
+    instructor: Baranski, Zygmunt
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '35'
+    open_spots: '12'
+    max_spots: '12'
+    crn: '29588'
+    instructor: TBA
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Nonresident Dissertation Rsrch
+  credit: V
+  coursenum: MI88002
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '9'
+    max_spots: '10'
+    crn: '20903'
+    instructor: Noble, Thomas
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '23761'
+    instructor: Van Engen, John
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '03'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '23762'
+    instructor: Gersh, Stephen
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '04'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '23763'
+    instructor: Bradley, Keith
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '05'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '23764'
+    instructor: Barber, Charles
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '06'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '23765'
+    instructor: Meserve, Margaret
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '07'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '23766'
+    instructor: Muller, Hildegund
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: 08
+    open_spots: '10'
+    max_spots: '10'
+    crn: '23767'
+    instructor: Boulton, Maureen
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: 09
+    open_spots: '10'
+    max_spots: '10'
+    crn: '23768'
+    instructor: Abram, Christopher
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '10'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '23769'
+    instructor: Astell, Ann
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '11'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '23770'
+    instructor: Wawrykow, Joseph
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '12'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '23771'
+    instructor: Hobbins, Daniel
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '13'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '23772'
+    instructor: Dumont, Stephen
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '14'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '23773'
+    instructor: Daley, Brian
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '15'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '23774'
+    instructor: Cavadini, John
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '16'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '23775'
+    instructor: Gregory, Brad
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '17'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '23776'
+    instructor: Bloomer, W. Martin
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '18'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '23777'
+    instructor: Cachey, Theodore
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '19'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '23778'
+    instructor: Moevs, Christian
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '20'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '23779'
+    instructor: Constable, Olivia
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '21'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '23780'
+    instructor: Fassler, Margot
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '22'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '23781'
+    instructor: Krostenko, Brian
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '23'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '23782'
+    instructor: Emery, Kent
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '24'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '23783'
+    instructor: Zieman, Katherine
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '25'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '23784'
+    instructor: Kerby-Fulton, Kathryn
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '26'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '23785'
+    instructor: Marvin, Julia
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '27'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '23925'
+    instructor: Joyner, Danielle
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '28'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '23926'
+    instructor: Cross, Richard
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '29'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '24153'
+    instructor: Reynolds, Gabriel
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '30'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '25099'
+    instructor: Zachman, Randall
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '31'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '25100'
+    instructor: Jeffery, Peter
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '32'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '25101'
+    instructor: Tor, Deborah
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '33'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '25433'
+    instructor: Avvakumov, Yury
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '34'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '29590'
+    instructor: Baranski, Zygmunt
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '35'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '29591'
+    instructor: TBA
+    time: TBA
+    location: TBA
+location: TBA
+- :course: MI88001
+  :section: '04'
+  :title: Resident Dissertation Research
+  :credits: V
+  :status: OP
+  :max_spots: '12'
+  :open_spots: '12'
+  :xlst: ! '&nbsp'
+  :crn: '23733'
+  :syl: ! '&nbsp'
+  :instructor: Bradley, Keith
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: MI88001
+  :section: '05'
+  :title: Resident Dissertation Research
+  :credits: V
+  :status: OP
+  :max_spots: '12'
+  :open_spots: '12'
+  :xlst: ! '&nbsp'
+  :crn: '23734'
+  :syl: ! '&nbsp'
+  :instructor: Barber, Charles
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: MI88001
+  :section: '06'
+  :title: Resident Dissertation Research
+  :credits: V
+  :status: OP
+  :max_spots: '12'
+  :open_spots: '12'
+  :xlst: ! '&nbsp'
+  :crn: '23735'
+  :syl: ! '&nbsp'
+  :instructor: Meserve, Margaret
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: MI88001
+  :section: '07'
+  :title: Resident Dissertation Research
+  :credits: V
+  :status: OP
+  :max_spots: '12'
+  :open_spots: '12'
+  :xlst: ! '&nbsp'
+  :crn: '23736'
+  :syl: ! '&nbsp'
+  :instructor: Muller, Hildegund
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: MI88001
+  :section: 08
+  :title: Resident Dissertation Research
+  :credits: V
+  :status: OP
+  :max_spots: '12'
+  :open_spots: '12'
+  :xlst: ! '&nbsp'
+  :crn: '23737'
+  :syl: ! '&nbsp'
+  :instructor: Boulton, Maureen
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: MI88001
+  :section: 09
+  :title: Resident Dissertation Research
+  :credits: V
+  :status: OP
+  :max_spots: '12'
+  :open_spots: '12'
+  :xlst: ! '&nbsp'
+  :crn: '23738'
+  :syl: ! '&nbsp'
+  :instructor: Abram, Christopher
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: MI88001
+  :section: '10'
+  :title: Resident Dissertation Research
+  :credits: V
+  :status: OP
+  :max_spots: '12'
+  :open_spots: '12'
+  :xlst: ! '&nbsp'
+  :crn: '23739'
+  :syl: ! '&nbsp'
+  :instructor: Astell, Ann
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: MI88001
+  :section: '11'
+  :title: Resident Dissertation Research
+  :credits: V
+  :status: OP
+  :max_spots: '12'
+  :open_spots: '12'
+  :xlst: ! '&nbsp'
+  :crn: '23740'
+  :syl: ! '&nbsp'
+  :instructor: Wawrykow, Joseph
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: MI88001
+  :section: '12'
+  :title: Resident Dissertation Research
+  :credits: V
+  :status: OP
+  :max_spots: '12'
+  :open_spots: '12'
+  :xlst: ! '&nbsp'
+  :crn: '23741'
+  :syl: ! '&nbsp'
+  :instructor: Hobbins, Daniel
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: MI88001
+  :section: '13'
+  :title: Resident Dissertation Research
+  :credits: V
+  :status: OP
+  :max_spots: '12'
+  :open_spots: '12'
+  :xlst: ! '&nbsp'
+  :crn: '23742'
+  :syl: ! '&nbsp'
+  :instructor: Dumont, Stephen
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: MI88001
+  :section: '14'
+  :title: Resident Dissertation Research
+  :credits: V
+  :status: OP
+  :max_spots: '12'
+  :open_spots: '12'
+  :xlst: ! '&nbsp'
+  :crn: '23743'
+  :syl: ! '&nbsp'
+  :instructor: Daley, Brian
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: MI88001
+  :section: '15'
+  :title: Resident Dissertation Research
+  :credits: V
+  :status: OP
+  :max_spots: '12'
+  :open_spots: '12'
+  :xlst: ! '&nbsp'
+  :crn: '23745'
+  :syl: ! '&nbsp'
+  :instructor: Cavadini, John
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: MI88001
+  :section: '16'
+  :title: Resident Dissertation Research
+  :credits: V
+  :status: OP
+  :max_spots: '12'
+  :open_spots: '12'
+  :xlst: ! '&nbsp'
+  :crn: '23748'
+  :syl: ! '&nbsp'
+  :instructor: Gregory, Brad
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: MI88001
+  :section: '17'
+  :title: Resident Dissertation Research
+  :credits: V
+  :status: OP
+  :max_spots: '12'
+  :open_spots: '12'
+  :xlst: ! '&nbsp'
+  :crn: '23749'
+  :syl: ! '&nbsp'
+  :instructor: Bloomer, W. Martin
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: MI88001
+  :section: '18'
+  :title: Resident Dissertation Research
+  :credits: V
+  :status: OP
+  :max_spots: '12'
+  :open_spots: '12'
+  :xlst: ! '&nbsp'
+  :crn: '23751'
+  :syl: ! '&nbsp'
+  :instructor: Cachey, Theodore
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: MI88001
+  :section: '19'
+  :title: Resident Dissertation Research
+  :credits: V
+  :status: OP
+  :max_spots: '12'
+  :open_spots: '12'
+  :xlst: ! '&nbsp'
+  :crn: '23752'
+  :syl: ! '&nbsp'
+  :instructor: Moevs, Christian
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: MI88001
+  :section: '20'
+  :title: Resident Dissertation Research
+  :credits: V
+  :status: OP
+  :max_spots: '12'
+  :open_spots: '12'
+  :xlst: ! '&nbsp'
+  :crn: '23753'
+  :syl: ! '&nbsp'
+  :instructor: Constable, Olivia
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: MI88001
+  :section: '21'
+  :title: Resident Dissertation Research
+  :credits: V
+  :status: OP
+  :max_spots: '12'
+  :open_spots: '12'
+  :xlst: ! '&nbsp'
+  :crn: '23754'
+  :syl: ! '&nbsp'
+  :instructor: Fassler, Margot
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: MI88001
+  :section: '22'
+  :title: Resident Dissertation Research
+  :credits: V
+  :status: OP
+  :max_spots: '12'
+  :open_spots: '12'
+  :xlst: ! '&nbsp'
+  :crn: '23755'
+  :syl: ! '&nbsp'
+  :instructor: Krostenko, Brian
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: MI88001
+  :section: '23'
+  :title: Resident Dissertation Research
+  :credits: V
+  :status: OP
+  :max_spots: '12'
+  :open_spots: '12'
+  :xlst: ! '&nbsp'
+  :crn: '23756'
+  :syl: ! '&nbsp'
+  :instructor: Emery, Kent
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: MI88001
+  :section: '24'
+  :title: Resident Dissertation Research
+  :credits: V
+  :status: OP
+  :max_spots: '12'
+  :open_spots: '12'
+  :xlst: ! '&nbsp'
+  :crn: '23757'
+  :syl: ! '&nbsp'
+  :instructor: Zieman, Katherine
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: MI88001
+  :section: '25'
+  :title: Resident Dissertation Research
+  :credits: V
+  :status: OP
+  :max_spots: '12'
+  :open_spots: '11'
+  :xlst: ! '&nbsp'
+  :crn: '23758'
+  :syl: ! '&nbsp'
+  :instructor: Kerby-Fulton, Kathryn
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: MI88001
+  :section: '26'
+  :title: Resident Dissertation Research
+  :credits: V
+  :status: OP
+  :max_spots: '12'
+  :open_spots: '12'
+  :xlst: ! '&nbsp'
+  :crn: '23759'
+  :syl: ! '&nbsp'
+  :instructor: Marvin, Julia
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: MI88001
+  :section: '27'
+  :title: Resident Dissertation Research
+  :credits: V
+  :status: OP
+  :max_spots: '12'
+  :open_spots: '12'
+  :xlst: ! '&nbsp'
+  :crn: '23927'
+  :syl: ! '&nbsp'
+  :instructor: Joyner, Danielle
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: MI88001
+  :section: '28'
+  :title: Resident Dissertation Research
+  :credits: V
+  :status: OP
+  :max_spots: '12'
+  :open_spots: '12'
+  :xlst: ! '&nbsp'
+  :crn: '23928'
+  :syl: ! '&nbsp'
+  :instructor: Cross, Richard
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: MI88001
+  :section: '29'
+  :title: Resident Dissertation Research
+  :credits: V
+  :status: OP
+  :max_spots: '12'
+  :open_spots: '12'
+  :xlst: ! '&nbsp'
+  :crn: '24152'
+  :syl: ! '&nbsp'
+  :instructor: Reynolds, Gabriel
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: MI88001
+  :section: '30'
+  :title: Resident Dissertation Research
+  :credits: V
+  :status: OP
+  :max_spots: '12'
+  :open_spots: '12'
+  :xlst: ! '&nbsp'
+  :crn: '25096'
+  :syl: ! '&nbsp'
+  :instructor: Zachman, Randall
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: MI88001
+  :section: '31'
+  :title: Resident Dissertation Research
+  :credits: V
+  :status: OP
+  :max_spots: '12'
+  :open_spots: '12'
+  :xlst: ! '&nbsp'
+  :crn: '25097'
+  :syl: ! '&nbsp'
+  :instructor: Jeffery, Peter
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: MI88001
+  :section: '32'
+  :title: Resident Dissertation Research
+  :credits: V
+  :status: OP
+  :max_spots: '12'
+  :open_spots: '12'
+  :xlst: ! '&nbsp'
+  :crn: '25098'
+  :syl: ! '&nbsp'
+  :instructor: Tor, Deborah
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: MI88001
+  :section: '33'
+  :title: Resident Dissertation Research
+  :credits: V
+  :status: OP
+  :max_spots: '12'
+  :open_spots: '12'
+  :xlst: ! '&nbsp'
+  :crn: '25431'
+  :syl: ! '&nbsp'
+  :instructor: Avvakumov, Yury
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: MI88001
+  :section: '34'
+  :title: Resident Dissertation Research
+  :credits: V
+  :status: OP
+  :max_spots: '12'
+  :open_spots: '12'
+  :xlst: ! '&nbsp'
+  :crn: '29589'
+  :syl: ! '&nbsp'
+  :instructor: Baranski, Zygmunt
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: MI88001
+  :section: '35'
+  :title: Resident Dissertation Research
+  :credits: V
+  :status: OP
+  :max_spots: '12'
+  :open_spots: '12'
+  :xlst: ! '&nbsp'
+  :crn: '29588'
+  :syl: ! '&nbsp'
+  :instructor: TBA
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: MI88002
+  :section: '01'
+  :title: Nonresident Dissertation Rsrch
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '9'
+  :xlst: ! '&nbsp'
+  :crn: '20903'
+  :syl: ! '&nbsp'
+  :instructor: Noble, Thomas
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: MI88002
+  :section: '02'
+  :title: Nonresident Dissertation Rsrch
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '23761'
+  :syl: ! '&nbsp'
+  :instructor: Van Engen, John
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: MI88002
+  :section: '03'
+  :title: Nonresident Dissertation Rsrch
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '23762'
+  :syl: ! '&nbsp'
+  :instructor: Gersh, Stephen
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: MI88002
+  :section: '04'
+  :title: Nonresident Dissertation Rsrch
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '23763'
+  :syl: ! '&nbsp'
+  :instructor: Bradley, Keith
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: MI88002
+  :section: '05'
+  :title: Nonresident Dissertation Rsrch
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '23764'
+  :syl: ! '&nbsp'
+  :instructor: Barber, Charles
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: MI88002
+  :section: '06'
+  :title: Nonresident Dissertation Rsrch
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '23765'
+  :syl: ! '&nbsp'
+  :instructor: Meserve, Margaret
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: MI88002
+  :section: '07'
+  :title: Nonresident Dissertation Rsrch
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '23766'
+  :syl: ! '&nbsp'
+  :instructor: Muller, Hildegund
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: MI88002
+  :section: 08
+  :title: Nonresident Dissertation Rsrch
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '23767'
+  :syl: ! '&nbsp'
+  :instructor: Boulton, Maureen
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: MI88002
+  :section: 09
+  :title: Nonresident Dissertation Rsrch
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '23768'
+  :syl: ! '&nbsp'
+  :instructor: Abram, Christopher
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: MI88002
+  :section: '10'
+  :title: Nonresident Dissertation Rsrch
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '23769'
+  :syl: ! '&nbsp'
+  :instructor: Astell, Ann
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: MI88002
+  :section: '11'
+  :title: Nonresident Dissertation Rsrch
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '23770'
+  :syl: ! '&nbsp'
+  :instructor: Wawrykow, Joseph
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: MI88002
+  :section: '12'
+  :title: Nonresident Dissertation Rsrch
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '23771'
+  :syl: ! '&nbsp'
+  :instructor: Hobbins, Daniel
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: MI88002
+  :section: '13'
+  :title: Nonresident Dissertation Rsrch
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '23772'
+  :syl: ! '&nbsp'
+  :instructor: Dumont, Stephen
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: MI88002
+  :section: '14'
+  :title: Nonresident Dissertation Rsrch
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '23773'
+  :syl: ! '&nbsp'
+  :instructor: Daley, Brian
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: MI88002
+  :section: '15'
+  :title: Nonresident Dissertation Rsrch
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '23774'
+  :syl: ! '&nbsp'
+  :instructor: Cavadini, John
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: MI88002
+  :section: '16'
+  :title: Nonresident Dissertation Rsrch
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '23775'
+  :syl: ! '&nbsp'
+  :instructor: Gregory, Brad
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: MI88002
+  :section: '17'
+  :title: Nonresident Dissertation Rsrch
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '23776'
+  :syl: ! '&nbsp'
+  :instructor: Bloomer, W. Martin
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: MI88002
+  :section: '18'
+  :title: Nonresident Dissertation Rsrch
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '23777'
+  :syl: ! '&nbsp'
+  :instructor: Cachey, Theodore
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: MI88002
+  :section: '19'
+  :title: Nonresident Dissertation Rsrch
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '23778'
+  :syl: ! '&nbsp'
+  :instructor: Moevs, Christian
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: MI88002
+  :section: '20'
+  :title: Nonresident Dissertation Rsrch
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '23779'
+  :syl: ! '&nbsp'
+  :instructor: Constable, Olivia
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: MI88002
+  :section: '21'
+  :title: Nonresident Dissertation Rsrch
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '23780'
+  :syl: ! '&nbsp'
+  :instructor: Fassler, Margot
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: MI88002
+  :section: '22'
+  :title: Nonresident Dissertation Rsrch
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '23781'
+  :syl: ! '&nbsp'
+  :instructor: Krostenko, Brian
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: MI88002
+  :section: '23'
+  :title: Nonresident Dissertation Rsrch
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '23782'
+  :syl: ! '&nbsp'
+  :instructor: Emery, Kent
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: MI88002
+  :section: '24'
+  :title: Nonresident Dissertation Rsrch
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '23783'
+  :syl: ! '&nbsp'
+  :instructor: Zieman, Katherine
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: MI88002
+  :section: '25'
+  :title: Nonresident Dissertation Rsrch
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '23784'
+  :syl: ! '&nbsp'
+  :instructor: Kerby-Fulton, Kathryn
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: MI88002
+  :section: '26'
+  :title: Nonresident Dissertation Rsrch
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '23785'
+  :syl: ! '&nbsp'
+  :instructor: Marvin, Julia
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: MI88002
+  :section: '27'
+  :title: Nonresident Dissertation Rsrch
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '23925'
+  :syl: ! '&nbsp'
+  :instructor: Joyner, Danielle
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: MI88002
+  :section: '28'
+  :title: Nonresident Dissertation Rsrch
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '23926'
+  :syl: ! '&nbsp'
+  :instructor: Cross, Richard
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: MI88002
+  :section: '29'
+  :title: Nonresident Dissertation Rsrch
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '24153'
+  :syl: ! '&nbsp'
+  :instructor: Reynolds, Gabriel
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: MI88002
+  :section: '30'
+  :title: Nonresident Dissertation Rsrch
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '25099'
+  :syl: ! '&nbsp'
+  :instructor: Zachman, Randall
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: MI88002
+  :section: '31'
+  :title: Nonresident Dissertation Rsrch
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '25100'
+  :syl: ! '&nbsp'
+  :instructor: Jeffery, Peter
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: MI88002
+  :section: '32'
+  :title: Nonresident Dissertation Rsrch
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '25101'
+  :syl: ! '&nbsp'
+  :instructor: Tor, Deborah
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: MI88002
+  :section: '33'
+  :title: Nonresident Dissertation Rsrch
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '25433'
+  :syl: ! '&nbsp'
+  :instructor: Avvakumov, Yury
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: MI88002
+  :section: '34'
+  :title: Nonresident Dissertation Rsrch
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '29590'
+  :syl: ! '&nbsp'
+  :instructor: Baranski, Zygmunt
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: MI88002
+  :section: '35'
+  :title: Nonresident Dissertation Rsrch
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '29591'
+  :syl: ! '&nbsp'
+  :instructor: TBA
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA

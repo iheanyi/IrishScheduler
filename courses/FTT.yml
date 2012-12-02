@@ -1,0 +1,1665 @@
+---
+- !ruby/object:Course
+  name: Basics of Film and Television
+  credit: '3'
+  coursenum: FTT10101
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '38'
+    max_spots: '80'
+    crn: '21949'
+    instructor: Collins, James
+    time: M W  - 1:55P - 2:45P
+    location: DeBartolo Performing Arts Ctr. Brw_Cine
+- !ruby/object:Course
+  name: Introduction to Theatre
+  credit: '3'
+  coursenum: FTT10701
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '19'
+    crn: '21952'
+    instructor: Cole, Clayton
+    time: M W F  - 10:40A - 11:30A
+    location: DeBartolo Performing Arts Ctr. Brw_Cinema
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '0'
+    max_spots: '19'
+    crn: '24130'
+    instructor: Stephens, Marcus
+    time: T R  - 12:30P - 1:45P
+    location: DeBartolo Performing Arts Ctr. Brw_Cinema
+- !ruby/object:Course
+  name: Basics/Film & Television Lab
+  credit: '0'
+  coursenum: FTT11101
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '38'
+    max_spots: '80'
+    crn: '21966'
+    instructor: Collins, James
+    time: M  - 6:45P - 8:45P
+    location: DeBartolo Performing Arts Ctr. Brw_Cinema
+- !ruby/object:Course
+  name: Basics of Film & TV Tutorial
+  credit: '0'
+  coursenum: FTT12101
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '4'
+    max_spots: '20'
+    crn: '23132'
+    instructor: Martell De La Torre, James
+    time: F  - 9:35A - 10:25A
+    location: Edward J. DeBartolo Hall 242
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '17'
+    max_spots: '20'
+    crn: '23133'
+    instructor: Zomorodian, Maryam
+    time: F  - 9:35A - 10:25A
+    location: Edward J. DeBartolo Hall 244
+  - !ruby/object:Section
+    section_num: '03'
+    open_spots: '0'
+    max_spots: '20'
+    crn: '23134'
+    instructor: Martell De La Torre, James
+    time: F  - 10:40A - 11:30A
+    location: Edward J. DeBartolo Hall 246
+  - !ruby/object:Section
+    section_num: '04'
+    open_spots: '17'
+    max_spots: '20'
+    crn: '23131'
+    instructor: Zomorodian, Maryam
+    time: F  - 10:40A - 11:30A
+    location: Edward J. DeBartolo Hall 217
+- !ruby/object:Course
+  name: Fine Arts University Seminar
+  credit: '3'
+  coursenum: FTT13182
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '16'
+    crn: '26451'
+    instructor: Garcia-Romero, Anne
+    time: T R  - 11:00A - 12:15P
+    location: Edward J. DeBartolo Hall 205
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '0'
+    max_spots: '16'
+    crn: '28639'
+    instructor: Donnelly, Richard
+    time: T R  - 9:30A - 10:45A
+    location: Coleman Morse Center 234
+- !ruby/object:Course
+  name: Broadway Theatre Experience
+  credit: '1'
+  coursenum: FTT20009
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '18'
+    max_spots: '20'
+    crn: '20987'
+    instructor: Donnelly, Richard
+    time: W  - 6:30P - 9:00P
+    location: DeBartolo Performing Arts Ctr. B042
+- !ruby/object:Course
+  name: Basics of Film and Television
+  credit: '3'
+  coursenum: FTT20101
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '2'
+    max_spots: '40'
+    crn: '21950'
+    instructor: Collins, James
+    time: M W  - 1:55P - 2:45P
+    location: DeBartolo Performing Arts Ctr. Brw_Cine
+- !ruby/object:Course
+  name: Video Games Gendered Role
+  credit: '3'
+  coursenum: FTT20230
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '4'
+    max_spots: '9'
+    crn: '29166'
+    instructor: Ayo, Denise
+    time: M W  - 11:45A - 1:00P
+    location: DeBartolo Performing Arts Ctr. B042
+- !ruby/object:Course
+  name: La Telenovela
+  credit: '3'
+  coursenum: FTT20260
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '8'
+    crn: '29167'
+    instructor: Barry, Kevin
+    time: T R  - 9:30A - 10:45A
+    location: Edward J. DeBartolo Hall B011
+- !ruby/object:Course
+  name: Introduction to Theatre
+  credit: '3'
+  coursenum: FTT20701
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '17'
+    max_spots: '19'
+    crn: '21951'
+    instructor: Cole, Clayton
+    time: M W F  - 10:40A - 11:30A
+    location: DeBartolo Performing Arts Ctr. Brw_Cinema
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '9'
+    max_spots: '19'
+    crn: '24131'
+    instructor: Stephens, Marcus
+    time: T R  - 12:30P - 1:45P
+    location: DeBartolo Performing Arts Ctr. Brw_Cinema
+- !ruby/object:Course
+  name: Theatrical Production
+  credit: '3'
+  coursenum: FTT20703
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '3'
+    max_spots: '12'
+    crn: '23878'
+    instructor: Cole, Clayton
+    time: M W  - 11:45A - 1:00P
+    location: DeBartolo Performing Arts Ctr. B019
+- !ruby/object:Course
+  name: Acting for the non-major
+  credit: '3'
+  coursenum: FTT20801
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '14'
+    crn: '29878'
+    instructor: Juan, Anthony
+    time: T R  - 3:30P - 4:45P
+    location: DeBartolo Performing Arts Ctr. B024
+- !ruby/object:Course
+  name: ! 'Acting: Process'
+  credit: '3'
+  coursenum: FTT21001
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '11'
+    crn: '26452'
+    instructor: Scott, Siiri
+    time: M W  - 1:30P - 2:45P
+    location: DeBartolo Performing Arts Ctr. B024
+- !ruby/object:Course
+  name: Playwriting
+  credit: '3'
+  coursenum: FTT21006
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '2'
+    max_spots: '12'
+    crn: '25080'
+    instructor: Garcia-Romero, Anne
+    time: T R  - 11:00A - 12:15P
+    location: DeBartolo Performing Arts Ctr. 211
+- !ruby/object:Course
+  name: Basics/Film & Television Lab
+  credit: '0'
+  coursenum: FTT21101
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '2'
+    max_spots: '40'
+    crn: '21965'
+    instructor: Collins, James
+    time: M  - 6:45P - 8:45P
+    location: DeBartolo Performing Arts Ctr. Brw_Cinema
+- !ruby/object:Course
+  name: Basics of Film & TV Tutorial
+  credit: '0'
+  coursenum: FTT22101
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '10'
+    crn: '25059'
+    instructor: Martell De La Torre, James
+    time: F  - 9:35A - 10:25A
+    location: Edward J. DeBartolo Hall 242
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '2'
+    max_spots: '10'
+    crn: '25060'
+    instructor: Zomorodian, Maryam
+    time: F  - 9:35A - 10:25A
+    location: Edward J. DeBartolo Hall 244
+  - !ruby/object:Section
+    section_num: '03'
+    open_spots: '0'
+    max_spots: '10'
+    crn: '25061'
+    instructor: Martell De La Torre, James
+    time: F  - 10:40A - 11:30A
+    location: Edward J. DeBartolo Hall 246
+  - !ruby/object:Section
+    section_num: '04'
+    open_spots: '0'
+    max_spots: '10'
+    crn: '25062'
+    instructor: Zomorodian, Maryam
+    time: F  - 10:40A - 11:30A
+    location: Edward J. DeBartolo Hall 217
+- !ruby/object:Course
+  name: History of Film II
+  credit: '3'
+  coursenum: FTT30102
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '2'
+    max_spots: '24'
+    crn: '20035'
+    instructor: Barron, Edward
+    time: M W  - 11:45A - 1:00P
+    location: DeBartolo Performing Arts Ctr. Brw_Cinema
+- !ruby/object:Course
+  name: The Family in Japanese Film
+  credit: '3'
+  coursenum: FTT30240
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '3'
+    max_spots: '5'
+    crn: '29169'
+    instructor: Yasar, Kerim
+    time: T R  - 11:00A - 12:15P
+    location: O'Shaughnessy Hall 107
+- !ruby/object:Course
+  name: Screening the Irish Troubles
+  credit: '3'
+  coursenum: FTT30247
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '2'
+    max_spots: '7'
+    crn: '28640'
+    instructor: Nic Dhiarmada, Briona
+    time: T R  - 2:00P - 3:15P
+    location: O'Shaughnessy Hall 204
+- !ruby/object:Course
+  name: Internet Television Production
+  credit: '3'
+  coursenum: FTT30407
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '4'
+    max_spots: '20'
+    crn: '26454'
+    instructor: Mandell, Theodore
+    time: M W  - 11:45A - 1:00P
+    location: DeBartolo Performing Arts Ctr. B043
+- !ruby/object:Course
+  name: Intro to Film & TV Production
+  credit: '3'
+  coursenum: FTT30410
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '26'
+    crn: '21916'
+    instructor: Mandell, Theodore
+    time: T R  - 3:30P - 4:45P
+    location: DeBartolo Performing Arts Ctr. B043
+- !ruby/object:Course
+  name: 3D Digital Production
+  credit: '3'
+  coursenum: FTT30416
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '12'
+    crn: '29171'
+    instructor: Spoonhower, Jeffrey
+    time: M W F  - 10:40A - 11:30A
+    location: Cushing Hall of Engineering 303
+- !ruby/object:Course
+  name: Gender and Fan Studies
+  credit: '3'
+  coursenum: FTT30417
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '1'
+    max_spots: '8'
+    crn: '29172'
+    instructor: TBA
+    time: M W  - 3:00P - 4:15P
+    location: DeBartolo Performing Arts Ctr. B042
+- !ruby/object:Course
+  name: History of Television
+  credit: '3'
+  coursenum: FTT30461
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '3'
+    max_spots: '24'
+    crn: '22510'
+    instructor: Becker, Christine
+    time: M W  - 1:30P - 2:45P
+    location: DeBartolo Performing Arts Ctr. B043
+- !ruby/object:Course
+  name: Broadcasting and Cable
+  credit: '3'
+  coursenum: FTT30463
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '2'
+    max_spots: '24'
+    crn: '20541'
+    instructor: Heisler, Karen
+    time: T R  - 12:30P - 1:45P
+    location: DeBartolo Performing Arts Ctr. B043
+- !ruby/object:Course
+  name: Ethics in Journalism
+  credit: '3'
+  coursenum: FTT30468
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '7'
+    max_spots: '15'
+    crn: '29173'
+    instructor: Sieber, Gary
+    time: T R  - 3:30P - 4:45P
+    location: Edward J. DeBartolo Hall 308
+- !ruby/object:Course
+  name: Debate
+  credit: V
+  coursenum: FTT30491
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '29'
+    max_spots: '30'
+    crn: '21764'
+    instructor: Ohmer, Susan
+    time: W  - 6:00P - 9:00P
+    location: Edward J. DeBartolo Hall 245
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '29'
+    max_spots: '30'
+    crn: '23135'
+    instructor: Ohmer, Susan
+    time: M  - 6:00P - 9:00P
+    location: Edward J. DeBartolo Hall 246
+- !ruby/object:Course
+  name: Theatre, History, & Society II
+  credit: '3'
+  coursenum: FTT30705
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '9'
+    max_spots: '18'
+    crn: '28641'
+    instructor: Pilkinton, Mark
+    time: T R  - 12:30P - 1:45P
+    location: Edward J. DeBartolo Hall 246
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '10'
+    max_spots: '18'
+    crn: '28642'
+    instructor: Pilkinton, Mark
+    time: T R  - 2:00P - 3:15P
+    location: Edward J. DeBartolo Hall 246
+- !ruby/object:Course
+  name: Scenic Painting
+  credit: '3'
+  coursenum: FTT30800
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '5'
+    max_spots: '12'
+    crn: '28643'
+    instructor: Stephens, Marcus
+    time: T R  - 11:00A - 12:15P
+    location: DeBartolo Performing Arts Ctr. B019
+- !ruby/object:Course
+  name: Lighting Design
+  credit: '3'
+  coursenum: FTT30802
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '4'
+    max_spots: '10'
+    crn: '24594'
+    instructor: Dreyer, Kevin
+    time: T R  - 9:30A - 10:45A
+    location: DeBartolo Performing Arts Ctr. B019
+- !ruby/object:Course
+  name: Race and the American Theatre
+  credit: '3'
+  coursenum: FTT30901
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '10'
+    max_spots: '14'
+    crn: '28644'
+    instructor: Prizant, Yael
+    time: M W  - 4:30P - 5:45P
+    location: DeBartolo Performing Arts Ctr. B042
+- !ruby/object:Course
+  name: Adaptation/Translat/Stg/Screen
+  credit: '3'
+  coursenum: FTT30903
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '1'
+    max_spots: '12'
+    crn: '29174'
+    instructor: Prizant, Yael
+    time: M W  - 1:30P - 2:45P
+    location: Edward J. DeBartolo Hall 307
+- !ruby/object:Course
+  name: Voice and Movement
+  credit: '3'
+  coursenum: FTT31002
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '1'
+    max_spots: '14'
+    crn: '22018'
+    instructor: Scott, Siiri
+    time: M W  - 3:00P - 4:15P
+    location: DeBartolo Performing Arts Ctr. B024
+- !ruby/object:Course
+  name: Theatre Production Workshop
+  credit: V
+  coursenum: FTT31005
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '24290'
+    instructor: Juan, Anthony
+    time: M W F  - 5:10P - 6:00P
+    location: DeBartolo Performing Arts Ctr. B024
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '28645'
+    instructor: Dreyer, Kevin
+    time: M W F  - 5:10P - 6:00P
+    location: DeBartolo Performing Arts Ctr. B024
+- !ruby/object:Course
+  name: History of Film II Lab
+  credit: '0'
+  coursenum: FTT31102
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '2'
+    max_spots: '24'
+    crn: '20789'
+    instructor: Barron, Edward
+    time: M  - 4:30P - 6:30P
+    location: DeBartolo Performing Arts Ctr. Brw_Cinema
+- !ruby/object:Course
+  name: Family in Japan Film/Anime Lab
+  credit: '0'
+  coursenum: FTT31240
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '3'
+    max_spots: '5'
+    crn: '29175'
+    instructor: Yasar, Kerim
+    time: W  - 5:00P - 7:00P
+    location: Edward J. DeBartolo Hall 349
+- !ruby/object:Course
+  name: Moving Pictures
+  credit: '3'
+  coursenum: FTT31403
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '4'
+    crn: '25615'
+    instructor: Gray, Richard
+    time: T R  - 9:30A - 12:15P
+    location: Riley Hall of Art 201
+- !ruby/object:Course
+  name: Intro to Film & TV Prod. Lab
+  credit: '0'
+  coursenum: FTT31410
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '26'
+    crn: '23674'
+    instructor: Mandell, Theodore
+    time: T R  - 5:00P - 6:15P
+    location: DeBartolo Performing Arts Ctr. B043
+- !ruby/object:Course
+  name: History of Television Lab
+  credit: '0'
+  coursenum: FTT31461
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '3'
+    max_spots: '24'
+    crn: '22511'
+    instructor: Becker, Christine
+    time: T  - 6:30P - 8:30P
+    location: DeBartolo Performing Arts Ctr. B043
+- !ruby/object:Course
+  name: FTT Internship
+  credit: V
+  coursenum: FTT35501
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '19'
+    max_spots: '19'
+    crn: '24679'
+    instructor: Heisler, Karen
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Drama Text/Prod/Social Concer
+  credit: '3'
+  coursenum: FTT40008
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '2'
+    max_spots: '12'
+    crn: '26161'
+    instructor: Juan, Anthony
+    time: T R  - 2:00P - 3:15P
+    location: DeBartolo Performing Arts Ctr. 211
+- !ruby/object:Course
+  name: Film and Television Theory
+  credit: '3'
+  coursenum: FTT40101
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '25'
+    crn: '22236'
+    instructor: Wojcik, Pamela
+    time: T R  - 12:30P - 1:45P
+    location: Edward J. DeBartolo Hall 210
+- !ruby/object:Course
+  name: Brazilian Cinema
+  credit: '3'
+  coursenum: FTT40239
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '4'
+    crn: '29471'
+    instructor: Wells, Sarah
+    time: T R  - 11:00A - 12:15P
+    location: Edward J. DeBartolo Hall 303
+- !ruby/object:Course
+  name: ! 'Italian Cin: Realities of Hist'
+  credit: '3'
+  coursenum: FTT40249
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '5'
+    crn: '26163'
+    instructor: Baranski, Zygmunt
+    time: T R  - 12:30P - 1:45P
+    location: O'Shaughnessy Hall 208
+- !ruby/object:Course
+  name: Intermediate Filmmaking
+  credit: '3'
+  coursenum: FTT40410
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '6'
+    max_spots: '16'
+    crn: '21510'
+    instructor: Donaruma, William
+    time: T R  - 9:30A - 10:45A
+    location: DeBartolo Performing Arts Ctr. B042
+- !ruby/object:Course
+  name: Advanced Filmmaking
+  credit: '3'
+  coursenum: FTT40412
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '10'
+    crn: '24595'
+    instructor: Spoonhower, Jeffrey
+    time: T R  - 9:30A - 10:45A
+    location: DeBartolo Performing Arts Ctr. B043
+- !ruby/object:Course
+  name: Gender/Nat'l Ident -Spain Cine
+  credit: '3'
+  coursenum: FTT40429
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '2'
+    crn: '29176'
+    instructor: Jerez-Farran, Carlos
+    time: M W  - 3:00P - 4:15P
+    location: O'Shaughnessy Hall 208
+- !ruby/object:Course
+  name: ! 'Film Topics: Film Noir'
+  credit: '3'
+  coursenum: FTT40440
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '2'
+    max_spots: '21'
+    crn: '29177'
+    instructor: Crafton, Donald
+    time: M W  - 3:00P - 4:15P
+    location: DeBartolo Performing Arts Ctr. B043
+- !ruby/object:Course
+  name: The Movie Musical
+  credit: '3'
+  coursenum: FTT40445
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '3'
+    max_spots: '28'
+    crn: '28646'
+    instructor: Wojcik, Pamela
+    time: T R  - 2:00P - 3:15P
+    location: Edward J. DeBartolo Hall 210
+- !ruby/object:Course
+  name: TV as a Storytelling Medium
+  credit: '3'
+  coursenum: FTT40495
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '25'
+    crn: '28647'
+    instructor: Becker, Christine
+    time: M W  - 4:30P - 5:45P
+    location: DeBartolo Performing Arts Ctr. B043
+- !ruby/object:Course
+  name: Contemporary Media Practices
+  credit: '1'
+  coursenum: FTT40900
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '10'
+    max_spots: '45'
+    crn: '25398'
+    instructor: Mandell, Theodore
+    time: F  - 3:00P - 5:45P
+    location: DeBartolo Performing Arts Ctr. Brw_Cinema
+- !ruby/object:Course
+  name: Acting Shakespeare
+  credit: '3'
+  coursenum: FTT41005
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '4'
+    max_spots: '12'
+    crn: '28648'
+    instructor: Mudge, Grant
+    time: T R  - 12:30P - 1:45P
+    location: DeBartolo Performing Arts Ctr. B024
+- !ruby/object:Course
+  name: Film and Television Theory Lab
+  credit: '0'
+  coursenum: FTT41101
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '1'
+    max_spots: '25'
+    crn: '20161'
+    instructor: Wojcik, Pamela
+    time: T  - 6:00P - 8:00P
+    location: Edward J. DeBartolo Hall 210
+- !ruby/object:Course
+  name: Intermediate Filmmaking Lab
+  credit: '1'
+  coursenum: FTT41410
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '6'
+    max_spots: '16'
+    crn: '22509'
+    instructor: Donaruma, William
+    time: T R  - 11:00A - 12:15P
+    location: DeBartolo Performing Arts Ctr. B042
+- !ruby/object:Course
+  name: Advanced Filmmaking Lab
+  credit: '1'
+  coursenum: FTT41412
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '10'
+    crn: '24596'
+    instructor: Spoonhower, Jeffrey
+    time: T R  - 11:00A - 12:15P
+    location: DeBartolo Performing Arts Ctr. B043
+- !ruby/object:Course
+  name: ! 'Film Topics: Film Noir Lab'
+  credit: '0'
+  coursenum: FTT41440
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '2'
+    max_spots: '21'
+    crn: '29179'
+    instructor: Crafton, Donald
+    time: T  - 7:00P - 9:00P
+    location: DeBartolo Performing Arts Ctr. Brw_Cinema
+- !ruby/object:Course
+  name: The Movie Musical Lab
+  credit: '0'
+  coursenum: FTT41445
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '5'
+    max_spots: '30'
+    crn: '28649'
+    instructor: Wojcik, Pamela
+    time: R  - 5:00P - 7:00P
+    location: Edward J. DeBartolo Hall 210
+- !ruby/object:Course
+  name: TV as Storytelling Medium Lab
+  credit: '0'
+  coursenum: FTT41495
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '25'
+    crn: '28650'
+    instructor: Becker, Christine
+    time: W  - 6:30P - 8:30P
+    location: DeBartolo Performing Arts Ctr. B043
+- !ruby/object:Course
+  name: Acting Pedagogy & Practice
+  credit: V
+  coursenum: FTT46000
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '5'
+    max_spots: '6'
+    crn: '26512'
+    instructor: Scott, Siiri
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Thesis/Undergraduate Research
+  credit: V
+  coursenum: FTT46600
+  sections:
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20267'
+    instructor: Collins, James
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Practicum
+  credit: '1'
+  coursenum: FTT47001
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '5'
+    max_spots: '8'
+    crn: '26164'
+    instructor: Cole, Clayton
+    time: M  - 6:30P - 9:30P
+    location: DeBartolo Performing Arts Ctr. B042
+- !ruby/object:Course
+  name: Notre Dame Film Society
+  credit: V
+  coursenum: FTT47600
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '18'
+    max_spots: '50'
+    crn: '23677'
+    instructor: Becker, Christine
+    time: U  - 7:00P - 9:30P
+    location: DeBartolo Performing Arts Ctr. Brw_Cinema
+- !ruby/object:Course
+  name: Special Studies
+  credit: V
+  coursenum: FTT47601
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '21683'
+    instructor: Becker, Christine
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '21700'
+    instructor: Cole, Clayton
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '03'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '21617'
+    instructor: Collins, James
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '04'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20497'
+    instructor: Crafton, Donald
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '05'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '21789'
+    instructor: Donaruma, William
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '06'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '21873'
+    instructor: Donnelly, Richard
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '07'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20336'
+    instructor: Dreyer, Kevin
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: 09
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20153'
+    instructor: Heisler, Karen
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '10'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20982'
+    instructor: Holland, Peter
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '11'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '22029'
+    instructor: Juan, Anthony
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '13'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20584'
+    instructor: Mandell, Theodore
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '14'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '22823'
+    instructor: Ohmer, Susan
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '15'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '21663'
+    instructor: Pilkinton, Mark
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '16'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20356'
+    instructor: Prizant, Yael
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '17'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '21219'
+    instructor: Scott, Siiri
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '18'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '21018'
+    instructor: Sieber, Gary
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '20'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '24302'
+    instructor: Stephens, Marcus
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '21'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '22164'
+    instructor: Wojcik, Pamela
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Honors Special Studies
+  credit: V
+  coursenum: FTT47700
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '26931'
+    instructor: Becker, Christine
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '26932'
+    instructor: Cole, Clayton
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '03'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '26933'
+    instructor: Collins, James
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '04'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '26934'
+    instructor: Crafton, Donald
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '05'
+    open_spots: '9'
+    max_spots: '10'
+    crn: '26935'
+    instructor: Donaruma, William
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '06'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '26936'
+    instructor: Donnelly, Richard
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '07'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '26937'
+    instructor: Dreyer, Kevin
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: 08
+    open_spots: '10'
+    max_spots: '10'
+    crn: '26938'
+    instructor: Heisler, Karen
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: 09
+    open_spots: '10'
+    max_spots: '10'
+    crn: '26939'
+    instructor: Holland, Peter
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '10'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '26940'
+    instructor: Juan, Anthony
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '12'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '26942'
+    instructor: Mandell, Theodore
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '13'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '26943'
+    instructor: Ohmer, Susan
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '14'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '26944'
+    instructor: Pilkinton, Mark
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '15'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '26945'
+    instructor: Prizant, Yael
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '16'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '26946'
+    instructor: Scott, Siiri
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '17'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '26947'
+    instructor: Sieber, Gary
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '19'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '26949'
+    instructor: Stephens, Marcus
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '20'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '26950'
+    instructor: Wojcik, Pamela
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '21'
+    open_spots: '4'
+    max_spots: '5'
+    crn: '26951'
+    instructor: Garcia-Romero, Anne
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Film and Television Theory
+  credit: '3'
+  coursenum: FTT60101
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '29181'
+    instructor: Wojcik, Pamela
+    time: T R  - 12:30P - 1:45P
+    location: Edward J. DeBartolo Hall 210
+- !ruby/object:Course
+  name: ! 'History of Italian Cinema:'
+  credit: '3'
+  coursenum: FTT60250
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '2'
+    max_spots: '2'
+    crn: '26514'
+    instructor: Baranski, Zygmunt
+    time: T R  - 12:30P - 1:45P
+    location: O'Shaughnessy Hall 208
+- !ruby/object:Course
+  name: The Movie Musical
+  credit: '3'
+  coursenum: FTT60436
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '2'
+    max_spots: '2'
+    crn: '28651'
+    instructor: Wojcik, Pamela
+    time: T R  - 2:00P - 3:15P
+    location: Edward J. DeBartolo Hall 210
+- !ruby/object:Course
+  name: ! 'Film Topics: Film Noir'
+  credit: '3'
+  coursenum: FTT60440
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '3'
+    crn: '29182'
+    instructor: Crafton, Donald
+    time: M W  - 3:00P - 4:15P
+    location: DeBartolo Performing Arts Ctr. B043
+- !ruby/object:Course
+  name: Contemporary Media Practices
+  credit: '1'
+  coursenum: FTT60900
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '25397'
+    instructor: Mandell, Theodore
+    time: F  - 3:00P - 5:45P
+    location: DeBartolo Performing Arts Ctr. Brw_Cinema
+- !ruby/object:Course
+  name: Film and Television Theory Lab
+  credit: '0'
+  coursenum: FTT61101
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '29183'
+    instructor: Wojcik, Pamela
+    time: T  - 6:00P - 8:00P
+    location: Edward J. DeBartolo Hall 210
+- !ruby/object:Course
+  name: The Movie Musical Lab
+  credit: '0'
+  coursenum: FTT61436
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '0'
+    crn: '28652'
+    instructor: Wojcik, Pamela
+    time: R  - 5:00P - 7:00P
+    location: Edward J. DeBartolo Hall 210
+- !ruby/object:Course
+  name: ! 'Film Topics: Film Noir Lab'
+  credit: '0'
+  coursenum: FTT61440
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '3'
+    crn: '29184'
+    instructor: Crafton, Donald
+    time: T  - 7:00P - 9:00P
+    location: TBA
+- !ruby/object:Course
+  name: Practicum Teaching Screen Cult
+  credit: '1'
+  coursenum: FTT67600
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '2'
+    max_spots: '2'
+    crn: '25488'
+    instructor: Collins, James
+    time: TBA
+    location: TBA
+ '10'
+  :xlst: ! '&nbsp'
+  :crn: '26936'
+  :syl: ! '&nbsp'
+  :instructor: Donnelly, Richard
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: FTT47700
+  :section: '07'
+  :title: Honors Special Studies
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '26937'
+  :syl: ! '&nbsp'
+  :instructor: Dreyer, Kevin
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: FTT47700
+  :section: 08
+  :title: Honors Special Studies
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '26938'
+  :syl: ! '&nbsp'
+  :instructor: Heisler, Karen
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: FTT47700
+  :section: 09
+  :title: Honors Special Studies
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '26939'
+  :syl: ! '&nbsp'
+  :instructor: Holland, Peter
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: FTT47700
+  :section: '10'
+  :title: Honors Special Studies
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '26940'
+  :syl: ! '&nbsp'
+  :instructor: Juan, Anthony
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: FTT47700
+  :section: '12'
+  :title: Honors Special Studies
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '26942'
+  :syl: ! '&nbsp'
+  :instructor: Mandell, Theodore
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: FTT47700
+  :section: '13'
+  :title: Honors Special Studies
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '26943'
+  :syl: ! '&nbsp'
+  :instructor: Ohmer, Susan
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: FTT47700
+  :section: '14'
+  :title: Honors Special Studies
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '26944'
+  :syl: ! '&nbsp'
+  :instructor: Pilkinton, Mark
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: FTT47700
+  :section: '15'
+  :title: Honors Special Studies
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '26945'
+  :syl: ! '&nbsp'
+  :instructor: Prizant, Yael
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: FTT47700
+  :section: '16'
+  :title: Honors Special Studies
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '26946'
+  :syl: ! '&nbsp'
+  :instructor: Scott, Siiri
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: FTT47700
+  :section: '17'
+  :title: Honors Special Studies
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '26947'
+  :syl: ! '&nbsp'
+  :instructor: Sieber, Gary
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: FTT47700
+  :section: '19'
+  :title: Honors Special Studies
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '26949'
+  :syl: ! '&nbsp'
+  :instructor: Stephens, Marcus
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: FTT47700
+  :section: '20'
+  :title: Honors Special Studies
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '26950'
+  :syl: ! '&nbsp'
+  :instructor: Wojcik, Pamela
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: FTT47700
+  :section: '21'
+  :title: Honors Special Studies
+  :credits: V
+  :status: OP
+  :max_spots: '5'
+  :open_spots: '4'
+  :xlst: ! '&nbsp'
+  :crn: '26951'
+  :syl: ! '&nbsp'
+  :instructor: Garcia-Romero, Anne
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: FTT60101
+  :section: '01'
+  :title: Film and Television Theory
+  :credits: '3'
+  :status: OP
+  :max_spots: '5'
+  :open_spots: '4'
+  :xlst: Y
+  :crn: '29181'
+  :syl: ! '&nbsp'
+  :instructor: Wojcik, Pamela
+  :when: T R  - 12:30P - 1:45P
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: Edward J. DeBartolo Hall 210
+- :course: FTT60250
+  :section: '01'
+  :title: ! 'History of Italian Cinema:'
+  :credits: '3'
+  :status: OP
+  :max_spots: '2'
+  :open_spots: '2'
+  :xlst: Y
+  :crn: '26514'
+  :syl: ! '&nbsp'
+  :instructor: Baranski, Zygmunt
+  :when: T R  - 12:30P - 1:45P
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: O'Shaughnessy Hall 208
+- :course: FTT60436
+  :section: '01'
+  :title: The Movie Musical
+  :credits: '3'
+  :status: OP
+  :max_spots: '2'
+  :open_spots: '2'
+  :xlst: Y
+  :crn: '28651'
+  :syl: ! '&nbsp'
+  :instructor: Wojcik, Pamela
+  :when: T R  - 2:00P - 3:15P
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: Edward J. DeBartolo Hall 210
+- :course: FTT60440
+  :section: '01'
+  :title: ! 'Film Topics: Film Noir'
+  :credits: '3'
+  :status: CL
+  :max_spots: '3'
+  :open_spots: '0'
+  :xlst: Y
+  :crn: '29182'
+  :syl: ! '&nbsp'
+  :instructor: Crafton, Donald
+  :when: M W  - 3:00P - 4:15P
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: DeBartolo Performing Arts Ctr. B043
+- :course: FTT60900
+  :section: '01'
+  :title: Contemporary Media Practices
+  :credits: '1'
+  :status: OP
+  :max_spots: '5'
+  :open_spots: '5'
+  :xlst: Y
+  :crn: '25397'
+  :syl: ! '&nbsp'
+  :instructor: Mandell, Theodore
+  :when: F  - 3:00P - 5:45P
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: DeBartolo Performing Arts Ctr. Brw_Cinema
+- :course: FTT61101
+  :section: '01'
+  :title: Film and Television Theory Lab
+  :credits: '0'
+  :status: OP
+  :max_spots: '5'
+  :open_spots: '4'
+  :xlst: Y
+  :crn: '29183'
+  :syl: ! '&nbsp'
+  :instructor: Wojcik, Pamela
+  :when: T  - 6:00P - 8:00P
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: Edward J. DeBartolo Hall 210
+- :course: FTT61436
+  :section: '01'
+  :title: The Movie Musical Lab
+  :credits: '0'
+  :status: OP
+  :max_spots: '2'
+  :open_spots: '2'
+  :xlst: Y
+  :crn: '28652'
+  :syl: ! '&nbsp'
+  :instructor: Wojcik, Pamela
+  :when: R  - 5:00P - 7:00P
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: Edward J. DeBartolo Hall 210
+- :course: FTT61440
+  :section: '01'
+  :title: ! 'Film Topics: Film Noir Lab'
+  :credits: '0'
+  :status: CL
+  :max_spots: '3'
+  :open_spots: '0'
+  :xlst: ! '&nbsp'
+  :crn: '29184'
+  :syl: ! '&nbsp'
+  :instructor: Crafton, Donald
+  :when: T  - 7:00P - 9:00P
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: FTT67600
+  :section: '01'
+  :title: Practicum Teaching Screen Cult
+  :credits: '1'
+  :status: OP
+  :max_spots: '2'
+  :open_spots: '2'
+  :xlst: ! '&nbsp'
+  :crn: '25488'
+  :syl: ! '&nbsp'
+  :instructor: Collins, James
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA

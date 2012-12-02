@@ -1,0 +1,603 @@
+---
+- !ruby/object:Course
+  name: Beginning French I
+  credit: '4'
+  coursenum: ROFR10101
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '14'
+    max_spots: '19'
+    crn: '25011'
+    instructor: Malewitz, Lea
+    time: ! "(1) M W F  - 9:35A - 10:25A\r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\r\n\t\t\t
+      \  \t\t\r\n\t\t\t   \t  \r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\t(2) R  - 9:30A
+      - 10:45A"
+    location: ! "O'Shaughnessy Hall 207 \r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\t\r\n\t\t\t\t
+      \  \t\r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\tO'Shaughnessy Hall 206"
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '14'
+    max_spots: '19'
+    crn: '24234'
+    instructor: Reising, Claire
+    time: ! "(1) M W F  - 10:40A - 11:30A\r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\r\n\t\t\t
+      \  \t\t\r\n\t\t\t   \t  \r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\t(2) R  - 9:30A
+      - 10:45A"
+    location: ! "Edward J. DeBartolo Hall 330 \r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\t\r\n\t\t\t\t
+      \  \t\r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\tO'Shaughnessy Hall 345"
+- !ruby/object:Course
+  name: Beginning French II
+  credit: '4'
+  coursenum: ROFR10102
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '6'
+    max_spots: '19'
+    crn: '21112'
+    instructor: Jauneau, Vincent
+    time: ! "(1) M W F  - 8:30A - 9:20A\r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\r\n\t\t\t
+      \  \t\t\r\n\t\t\t   \t  \r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\t(2) T  - 9:30A
+      - 10:45A"
+    location: ! "Edward J. DeBartolo Hall 304 \r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\t\r\n\t\t\t\t
+      \  \t\r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\tEdward J. DeBartolo Hall 305"
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '0'
+    max_spots: '19'
+    crn: '24150'
+    instructor: Louessard, Camille
+    time: ! "(1) M W F  - 9:35A - 10:25A\r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\r\n\t\t\t
+      \  \t\t\r\n\t\t\t   \t  \r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\t(2) T  - 9:30A
+      - 10:45A"
+    location: ! "Edward J. DeBartolo Hall 302 \r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\t\r\n\t\t\t\t
+      \  \t\r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\tEdward J. DeBartolo Hall 304"
+- !ruby/object:Course
+  name: Intensive Beginning French
+  credit: '6'
+  coursenum: ROFR10115
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '10'
+    max_spots: '15'
+    crn: '28832'
+    instructor: Werner, Kathleen
+    time: ! "(1) M W F  - 9:35A - 10:25A\r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\r\n\t\t\t
+      \  \t\t\r\n\t\t\t   \t  \r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\t(2) T R  -
+      9:30A - 10:45A"
+    location: ! "O'Shaughnessy Hall 338 \r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\t\r\n\t\t\t\t
+      \  \t\r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\tEdward J. DeBartolo Hall 203"
+- !ruby/object:Course
+  name: Intermediate French I
+  credit: '3'
+  coursenum: ROFR20201
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '6'
+    max_spots: '19'
+    crn: '20071'
+    instructor: Martin, Patrick
+    time: M W F  - 9:35A - 10:25A
+    location: Edward J. DeBartolo Hall 303
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '9'
+    max_spots: '19'
+    crn: '21145'
+    instructor: Martin, Patrick
+    time: M W F  - 10:40A - 11:30A
+    location: Edward J. DeBartolo Hall 303
+  - !ruby/object:Section
+    section_num: '03'
+    open_spots: '9'
+    max_spots: '19'
+    crn: '20016'
+    instructor: Martin, Patrick
+    time: M W F  - 12:50P - 1:40P
+    location: Edward J. DeBartolo Hall 303
+- !ruby/object:Course
+  name: Intermediate French II
+  credit: '3'
+  coursenum: ROFR20202
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '12'
+    max_spots: '19'
+    crn: '22046'
+    instructor: McDowell, Paul
+    time: M W F  - 9:35A - 10:25A
+    location: Edward J. DeBartolo Hall 304
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '8'
+    max_spots: '19'
+    crn: '24225'
+    instructor: McDowell, Paul
+    time: M W F  - 10:40A - 11:30A
+    location: Edward J. DeBartolo Hall 304
+  - !ruby/object:Section
+    section_num: '03'
+    open_spots: '11'
+    max_spots: '19'
+    crn: '24588'
+    instructor: McDowell, Paul
+    time: M W F  - 11:45A - 12:35P
+    location: Edward J. DeBartolo Hall 304
+- !ruby/object:Course
+  name: Intensive Intermediate French
+  credit: '6'
+  coursenum: ROFR20215
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '7'
+    max_spots: '15'
+    crn: '25013'
+    instructor: Werner, Kathleen
+    time: ! "(1) M W F  - 1:55P - 2:45P\r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\r\n\t\t\t
+      \  \t\t\r\n\t\t\t   \t  \r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\t(2) T R  -
+      11:00A - 12:15P"
+    location: ! "Edward J. DeBartolo Hall 303 \r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\t\r\n\t\t\t\t
+      \  \t\r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\tEdward J. DeBartolo Hall 203"
+- !ruby/object:Course
+  name: Conversational French
+  credit: '3'
+  coursenum: ROFR20300
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '15'
+    crn: '23287'
+    instructor: Escoda-Risto, Marie-Christine
+    time: M W F  - 10:40A - 11:30A
+    location: Edward J. DeBartolo Hall 305
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '0'
+    max_spots: '15'
+    crn: '26559'
+    instructor: Escoda-Risto, Marie-Christine
+    time: M W F  - 11:45A - 12:35P
+    location: Edward J. DeBartolo Hall 305
+- !ruby/object:Course
+  name: French Through Acting
+  credit: '3'
+  coursenum: ROFR20305
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '8'
+    max_spots: '19'
+    crn: '28833'
+    instructor: McDowell, Paul
+    time: T R  - 11:00A - 12:15P
+    location: O'Shaughnessy Hall 204A
+- !ruby/object:Course
+  name: Creole Language and Culture II
+  credit: '3'
+  coursenum: ROFR20680
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '9'
+    max_spots: '13'
+    crn: '25435'
+    instructor: Richman, Karen
+    time: T R  - 3:30P - 4:45P
+    location: Edward J. DeBartolo Hall 143
+- !ruby/object:Course
+  name: ! 'France: Atelier'
+  credit: '1'
+  coursenum: ROFR21205
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '39'
+    max_spots: '40'
+    crn: '22247'
+    instructor: Douthwaite, Julia
+    time: T R  - 7:00P - 8:15P
+    location: O'Shaughnessy Hall 204
+- !ruby/object:Course
+  name: LAC French Discussion Group
+  credit: '1'
+  coursenum: ROFR22300
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '19'
+    max_spots: '19'
+    crn: '23592'
+    instructor: TBA
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: La Chanson française
+  credit: '1'
+  coursenum: ROFR23500
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '9'
+    max_spots: '19'
+    crn: '29364'
+    instructor: Toumayan, Alain
+    time: W  - 7:00P - 8:15P
+    location: Edward J. DeBartolo Hall 113
+- !ruby/object:Course
+  name: French & Francophone Cultures
+  credit: '3'
+  coursenum: ROFR27500
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '3'
+    max_spots: '19'
+    crn: '28835'
+    instructor: Escoda-Risto, Marie-Christine
+    time: M W  - 1:30P - 2:45P
+    location: Edward J. DeBartolo Hall 308
+- !ruby/object:Course
+  name: ! 'Art of Interpretation: Paris'
+  credit: '3'
+  coursenum: ROFR30310
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '2'
+    max_spots: '19'
+    crn: '21071'
+    instructor: Douthwaite, Julia
+    time: T R  - 3:30P - 4:45P
+    location: Edward J. DeBartolo Hall 330
+- !ruby/object:Course
+  name: ! 'Advncd Compstn: Art of Writing'
+  credit: '3'
+  coursenum: ROFR30320
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '3'
+    max_spots: '19'
+    crn: '22124'
+    instructor: Askildson, Virginie
+    time: M W  - 3:00P - 4:15P
+    location: Edward J. DeBartolo Hall B011
+- !ruby/object:Course
+  name: French Literature & Culture I
+  credit: '3'
+  coursenum: ROFR30710
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '16'
+    crn: '21972'
+    instructor: Boulton, Maureen
+    time: T R  - 11:00A - 12:15P
+    location: Theodore M. Hesburgh Library 1000
+- !ruby/object:Course
+  name: LAC French Discussion Group
+  credit: '1'
+  coursenum: ROFR32300
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '23594'
+    instructor: Douthwaite, Julia
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Contemporary Issues
+  credit: '3'
+  coursenum: ROFR37500
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '5'
+    max_spots: '19'
+    crn: '25012'
+    instructor: Perry, Catherine
+    time: M W  - 1:30P - 2:45P
+    location: Coleman Morse Center 201
+- !ruby/object:Course
+  name: From Roland to the Holy Grail
+  credit: '3'
+  coursenum: ROFR40110
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '5'
+    max_spots: '14'
+    crn: '29365'
+    instructor: Boulton, Maureen
+    time: T R  - 9:30A - 10:45A
+    location: Theodore M. Hesburgh Library 1000
+- !ruby/object:Course
+  name: Directed Readings
+  credit: '3'
+  coursenum: ROFR46000
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '2'
+    max_spots: '2'
+    crn: '20807'
+    instructor: TBA
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Timelessness and Modernity
+  credit: '3'
+  coursenum: ROFR47500
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '19'
+    crn: '26956'
+    instructor: MacKenzie, Louis
+    time: T R  - 2:00P - 3:15P
+    location: Edward J. DeBartolo Hall 207
+- !ruby/object:Course
+  name: Thesis
+  credit: V
+  coursenum: ROFR48000
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '1'
+    max_spots: '1'
+    crn: '20946'
+    instructor: TBA
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Sen Sem
+  credit: '3'
+  coursenum: ROFR53000
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '7'
+    max_spots: '19'
+    crn: '21890'
+    instructor: Rice, Alison
+    time: M W  - 11:45A - 1:00P
+    location: Flanner Hall 323
+- !ruby/object:Course
+  name: Beginning French II
+  credit: V
+  coursenum: ROFR60102
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '1'
+    max_spots: '1'
+    crn: '27523'
+    instructor: Jauneau, Vincent
+    time: ! "(1) M W F  - 8:30A - 9:20A\r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\r\n\t\t\t
+      \  \t\t\r\n\t\t\t   \t  \r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\t(2) T  - 9:30A
+      - 10:45A"
+    location: ! "Edward J. DeBartolo Hall 304 \r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\t\r\n\t\t\t\t
+      \  \t\r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\tEdward J. DeBartolo Hall 305"
+- !ruby/object:Course
+  name: Baudelaire
+  credit: '3'
+  coursenum: ROFR63617
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '10'
+    max_spots: '11'
+    crn: '28836'
+    instructor: Toumayan, Alain
+    time: M  - 3:30P - 6:15P
+    location: O'Shaughnessy Hall 107
+- !ruby/object:Course
+  name: Proust:A World Lost & Regained
+  credit: '3'
+  coursenum: ROFR63731
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '9'
+    max_spots: '9'
+    crn: '28837'
+    instructor: Perry, Catherine
+    time: W  - 3:30P - 6:15P
+    location: Edward J. DeBartolo Hall 307
+- !ruby/object:Course
+  name: Directed Readings
+  credit: V
+  coursenum: ROFR66000
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '21843'
+    instructor: Toumayan, Alain
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '1'
+    max_spots: '1'
+    crn: '21405'
+    instructor: TBA
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Thesis Direction
+  credit: V
+  coursenum: ROFR78599
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '2'
+    max_spots: '2'
+    crn: '21196'
+    instructor: TBA
+    time: TBA
+    location: TBA
+d Readings
+  :credits: '3'
+  :status: OP
+  :max_spots: '2'
+  :open_spots: '2'
+  :xlst: ! '&nbsp'
+  :crn: '20807'
+  :syl: ! '&nbsp'
+  :instructor: TBA
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: ROFR47500
+  :section: '01'
+  :title: Timelessness and Modernity
+  :credits: '3'
+  :status: CL
+  :max_spots: '19'
+  :open_spots: '0'
+  :xlst: ! '&nbsp'
+  :crn: '26956'
+  :syl: ! '&nbsp'
+  :instructor: MacKenzie, Louis
+  :when: T R  - 2:00P - 3:15P
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: Edward J. DeBartolo Hall 207
+- :course: ROFR48000
+  :section: '01'
+  :title: Thesis
+  :credits: V
+  :status: OP
+  :max_spots: '1'
+  :open_spots: '1'
+  :xlst: ! '&nbsp'
+  :crn: '20946'
+  :syl: ! '&nbsp'
+  :instructor: TBA
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: ROFR53000
+  :section: '01'
+  :title: Sen Sem
+  :credits: '3'
+  :status: OP
+  :max_spots: '19'
+  :open_spots: '7'
+  :xlst: ! '&nbsp'
+  :crn: '21890'
+  :syl: ! '&nbsp'
+  :instructor: Rice, Alison
+  :when: M W  - 11:45A - 1:00P
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: Flanner Hall 323
+- :course: ROFR60102
+  :section: '01'
+  :title: Beginning French II
+  :credits: V
+  :status: OP
+  :max_spots: '1'
+  :open_spots: '1'
+  :xlst: Y
+  :crn: '27523'
+  :syl: ! '&nbsp'
+  :instructor: Jauneau, Vincent
+  :when: ! "(1) M W F  - 8:30A - 9:20A\r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\r\n\t\t\t
+    \  \t\t\r\n\t\t\t   \t  \r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\t(2) T  - 9:30A
+    - 10:45A"
+  :begin: ! "(1) 01/15/2013\r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\r\n\t\t\t   \t\t\r\n\t\t\t
+    \  \t  \r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\t(2) 01/15/2013"
+  :end: ! "(1) 05/01/2013\r\n\t\t\t\t   \t\t\r\n\t\t\t   \t\t\r\n\t\t\t   \t\t\r\n\t\t\t
+    \  \t  \r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\t(2) 05/01/2013"
+  :location: ! "Edward J. DeBartolo Hall 304 \r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\t\r\n\t\t\t\t
+    \  \t\r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\tEdward J. DeBartolo Hall 305"
+- :course: ROFR63617
+  :section: '01'
+  :title: Baudelaire
+  :credits: '3'
+  :status: OP
+  :max_spots: '11'
+  :open_spots: '10'
+  :xlst: Y
+  :crn: '28836'
+  :syl: ! '&nbsp'
+  :instructor: Toumayan, Alain
+  :when: M  - 3:30P - 6:15P
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: O'Shaughnessy Hall 107
+- :course: ROFR63731
+  :section: '01'
+  :title: Proust:A World Lost & Regained
+  :credits: '3'
+  :status: OP
+  :max_spots: '9'
+  :open_spots: '9'
+  :xlst: Y
+  :crn: '28837'
+  :syl: ! '&nbsp'
+  :instructor: Perry, Catherine
+  :when: W  - 3:30P - 6:15P
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: Edward J. DeBartolo Hall 307
+- :course: ROFR66000
+  :section: '01'
+  :title: Directed Readings
+  :credits: V
+  :status: OP
+  :max_spots: '5'
+  :open_spots: '5'
+  :xlst: ! '&nbsp'
+  :crn: '21843'
+  :syl: ! '&nbsp'
+  :instructor: Toumayan, Alain
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: ROFR66000
+  :section: '02'
+  :title: Directed Readings
+  :credits: V
+  :status: OP
+  :max_spots: '1'
+  :open_spots: '1'
+  :xlst: ! '&nbsp'
+  :crn: '21405'
+  :syl: ! '&nbsp'
+  :instructor: TBA
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: ROFR78599
+  :section: '01'
+  :title: Thesis Direction
+  :credits: V
+  :status: OP
+  :max_spots: '2'
+  :open_spots: '2'
+  :xlst: ! '&nbsp'
+  :crn: '21196'
+  :syl: ! '&nbsp'
+  :instructor: TBA
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA

@@ -1,0 +1,370 @@
+---
+- !ruby/object:Course
+  name: Writing and Rhetoric Tutorial
+  credit: '1'
+  coursenum: WR12100
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '6'
+    max_spots: '8'
+    crn: '26038'
+    instructor: MacLaughlin, Nicole
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '8'
+    max_spots: '8'
+    crn: '26037'
+    instructor: MacLaughlin, Nicole
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '03'
+    open_spots: '8'
+    max_spots: '8'
+    crn: '26416'
+    instructor: MacLaughlin, Nicole
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Writing and Rhetoric
+  credit: '3'
+  coursenum: WR13100
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '14'
+    crn: '26042'
+    instructor: Duffy, John
+    time: T R  - 11:00A - 12:15P
+    location: Coleman Morse Center 201
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '0'
+    max_spots: '14'
+    crn: '26043'
+    instructor: Wong, Suen
+    time: M W F  - 12:50P - 1:40P
+    location: Coleman Morse Center 242
+  - !ruby/object:Section
+    section_num: '03'
+    open_spots: '-1'
+    max_spots: '14'
+    crn: '26049'
+    instructor: VanHoozer, Emma
+    time: M W F  - 11:45A - 12:35P
+    location: Coleman Morse Center 243
+  - !ruby/object:Section
+    section_num: '04'
+    open_spots: '0'
+    max_spots: '14'
+    crn: '26045'
+    instructor: Evans, Elizabeth
+    time: M W F  - 9:35A - 10:25A
+    location: Coleman Morse Center 201
+  - !ruby/object:Section
+    section_num: '05'
+    open_spots: '-1'
+    max_spots: '14'
+    crn: '26044'
+    instructor: Clauss, Patrick
+    time: T R  - 12:30P - 1:45P
+    location: Coleman Morse Center 242
+  - !ruby/object:Section
+    section_num: '07'
+    open_spots: '0'
+    max_spots: '16'
+    crn: '26040'
+    instructor: Harrington, Marjorie
+    time: T R  - 2:00P - 3:15P
+    location: Coleman Morse Center 243
+  - !ruby/object:Section
+    section_num: 08
+    open_spots: '0'
+    max_spots: '0'
+    crn: '26050'
+    instructor: Zomorodian, Maryam
+    time: T R  - 2:00P - 3:15P
+    location: Coleman Morse Center 242
+  - !ruby/object:Section
+    section_num: '10'
+    open_spots: '-1'
+    max_spots: '14'
+    crn: '26053'
+    instructor: Jimenez-Moreno, Ana
+    time: M W F  - 11:45A - 12:35P
+    location: Coleman Morse Center 242
+  - !ruby/object:Section
+    section_num: '11'
+    open_spots: '0'
+    max_spots: '14'
+    crn: '26048'
+    instructor: Grzesiak, Monika
+    time: M W F  - 1:55P - 2:45P
+    location: Coleman Morse Center 243
+  - !ruby/object:Section
+    section_num: '12'
+    open_spots: '0'
+    max_spots: '14'
+    crn: '26041'
+    instructor: Reinhard, Ben
+    time: T R  - 12:30P - 1:45P
+    location: Coleman Morse Center 243
+  - !ruby/object:Section
+    section_num: '13'
+    open_spots: '-1'
+    max_spots: '14'
+    crn: '26047'
+    instructor: Capdevielle, Matthew
+    time: T R  - 9:30A - 10:45A
+    location: Coleman Morse Center 242
+  - !ruby/object:Section
+    section_num: '14'
+    open_spots: '0'
+    max_spots: '14'
+    crn: '26054'
+    instructor: Evans, Elizabeth
+    time: M W F  - 10:40A - 11:30A
+    location: Coleman Morse Center 201
+  - !ruby/object:Section
+    section_num: '16'
+    open_spots: '0'
+    max_spots: '14'
+    crn: '26906'
+    instructor: Zurro, Damian
+    time: M W F  - 10:40A - 11:30A
+    location: Coleman Morse Center 242
+- !ruby/object:Course
+  name: Community Writing & Rhetoric
+  credit: '3'
+  coursenum: WR13200
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '14'
+    crn: '26056'
+    instructor: Kelly, Edward
+    time: T R  - 11:00A - 12:15P
+    location: Coleman Morse Center 243
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '11'
+    max_spots: '14'
+    crn: '26055'
+    instructor: Clark, Adam
+    time: M W F  - 10:40A - 11:30A
+    location: Coleman Morse Center 243
+  - !ruby/object:Section
+    section_num: '03'
+    open_spots: '2'
+    max_spots: '14'
+    crn: '29142'
+    instructor: McCarthy, Sheila
+    time: T R  - 9:30A - 10:45A
+    location: Coleman Morse Center 243
+  - !ruby/object:Section
+    section_num: '04'
+    open_spots: '0'
+    max_spots: '14'
+    crn: '29537'
+    instructor: O'Neil, Gary
+    time: M W F  - 12:50P - 1:40P
+    location: Coleman Morse Center 243
+- !ruby/object:Course
+  name: Multimedia Writing & Rhetoric
+  credit: '3'
+  coursenum: WR13300
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '14'
+    crn: '26257'
+    instructor: Matos, Angel
+    time: T R  - 11:00A - 12:15P
+    location: Coleman Morse Center 234
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '2'
+    max_spots: '14'
+    crn: '26256'
+    instructor: McCoul, Melissa
+    time: M W F  - 9:35A - 10:25A
+    location: Coleman Morse Center 242
+  - !ruby/object:Section
+    section_num: '03'
+    open_spots: '0'
+    max_spots: '14'
+    crn: '29143'
+    instructor: Dietel-McLaughlin, Erin
+    time: T R  - 3:30P - 4:45P
+    location: O'Shaughnessy Hall 204
+  - !ruby/object:Section
+    section_num: '04'
+    open_spots: '0'
+    max_spots: '14'
+    crn: '29538'
+    instructor: Milberger, Kurt
+    time: M W F  - 11:45A - 12:35P
+    location: Coleman Morse Center 201
+  - !ruby/object:Section
+    section_num: '05'
+    open_spots: '0'
+    max_spots: '14'
+    crn: '29539'
+    instructor: Duhaime, Douglas
+    time: T R  - 9:30A - 10:45A
+    location: Coleman Morse Center 201
+  - !ruby/object:Section
+    section_num: '06'
+    open_spots: '0'
+    max_spots: '14'
+    crn: '29540'
+    instructor: Bohne, Amanda
+    time: T R  - 2:00P - 3:15P
+    location: Coleman Morse Center 201
+  - !ruby/object:Section
+    section_num: '07'
+    open_spots: '0'
+    max_spots: '14'
+    crn: '29813'
+    instructor: Bain-Conkin, Jeffrey
+    time: M W F  - 9:35A - 10:25A
+    location: Coleman Morse Center 330
+g & Rhetoric
+  :credits: '3'
+  :status: OP
+  :max_spots: '12'
+  :open_spots: '12'
+  :xlst: ! '&nbsp'
+  :crn: '29142'
+  :syl: ! '&nbsp'
+  :instructor: McCarthy, Sheila
+  :when: T R  - 9:30A - 10:45A
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: Coleman Morse Center 243
+- :course: WR13200
+  :section: '04'
+  :title: Community Writing & Rhetoric
+  :credits: '3'
+  :status: OP
+  :max_spots: '12'
+  :open_spots: '12'
+  :xlst: ! '&nbsp'
+  :crn: '29537'
+  :syl: ! '&nbsp'
+  :instructor: O'Neil, Gary
+  :when: M W F  - 12:50P - 1:40P
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: Coleman Morse Center 243
+- :course: WR13300
+  :section: '01'
+  :title: Multimedia Writing & Rhetoric
+  :credits: '3'
+  :status: OP
+  :max_spots: '12'
+  :open_spots: '12'
+  :xlst: ! '&nbsp'
+  :crn: '26257'
+  :syl: ! '&nbsp'
+  :instructor: Matos, Angel
+  :when: T R  - 11:00A - 12:15P
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: Coleman Morse Center 234
+- :course: WR13300
+  :section: '02'
+  :title: Multimedia Writing & Rhetoric
+  :credits: '3'
+  :status: OP
+  :max_spots: '12'
+  :open_spots: '12'
+  :xlst: ! '&nbsp'
+  :crn: '26256'
+  :syl: ! '&nbsp'
+  :instructor: McCoul, Melissa
+  :when: M W F  - 9:35A - 10:25A
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: Coleman Morse Center 242
+- :course: WR13300
+  :section: '03'
+  :title: Multimedia Writing & Rhetoric
+  :credits: '3'
+  :status: OP
+  :max_spots: '12'
+  :open_spots: '12'
+  :xlst: ! '&nbsp'
+  :crn: '29143'
+  :syl: ! '&nbsp'
+  :instructor: Dietel-McLaughlin, Erin
+  :when: T R  - 3:30P - 4:45P
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: O'Shaughnessy Hall 204
+- :course: WR13300
+  :section: '04'
+  :title: Multimedia Writing & Rhetoric
+  :credits: '3'
+  :status: OP
+  :max_spots: '12'
+  :open_spots: '12'
+  :xlst: ! '&nbsp'
+  :crn: '29538'
+  :syl: ! '&nbsp'
+  :instructor: Milberger, Kurt
+  :when: M W F  - 11:45A - 12:35P
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: Coleman Morse Center 201
+- :course: WR13300
+  :section: '05'
+  :title: Multimedia Writing & Rhetoric
+  :credits: '3'
+  :status: OP
+  :max_spots: '12'
+  :open_spots: '11'
+  :xlst: ! '&nbsp'
+  :crn: '29539'
+  :syl: ! '&nbsp'
+  :instructor: Duhaime, Douglas
+  :when: T R  - 9:30A - 10:45A
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: Coleman Morse Center 201
+- :course: WR13300
+  :section: '06'
+  :title: Multimedia Writing & Rhetoric
+  :credits: '3'
+  :status: OP
+  :max_spots: '12'
+  :open_spots: '12'
+  :xlst: ! '&nbsp'
+  :crn: '29540'
+  :syl: ! '&nbsp'
+  :instructor: Bohne, Amanda
+  :when: T R  - 2:00P - 3:15P
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: Coleman Morse Center 201
+- :course: WR13300
+  :section: '07'
+  :title: Multimedia Writing & Rhetoric
+  :credits: '3'
+  :status: OP
+  :max_spots: '12'
+  :open_spots: '12'
+  :xlst: ! '&nbsp'
+  :crn: '29813'
+  :syl: ! '&nbsp'
+  :instructor: Bain-Conkin, Jeffrey
+  :when: M W F  - 9:35A - 10:25A
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: Coleman Morse Center 330

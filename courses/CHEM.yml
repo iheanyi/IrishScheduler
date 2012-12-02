@@ -1,0 +1,4418 @@
+---
+- !ruby/object:Course
+  name: Gen Chem-Principles&Processes
+  credit: '3'
+  coursenum: CHEM10122
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '23'
+    max_spots: '240'
+    crn: '20658'
+    instructor: Goodson, Holly Lappin, Alexander
+    time: M W F  - 8:30A - 9:20A
+    location: Jordan Hall of Science 105
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '3'
+    max_spots: '240'
+    crn: '22054'
+    instructor: Goodson, Holly Lappin, Alexander
+    time: M W F  - 9:35A - 10:25A
+    location: Jordan Hall of Science 105
+- !ruby/object:Course
+  name: Organic Structure & Reactivity
+  credit: '4'
+  coursenum: CHEM10172
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '170'
+    crn: '23617'
+    instructor: Creary, Xavier West, Sarah
+    time: M W F  - 8:30A - 9:20A
+    location: Jordan Hall of Science 101
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '0'
+    max_spots: '170'
+    crn: '23618'
+    instructor: Parise, James West, Sarah
+    time: M W F  - 9:35A - 10:25A
+    location: Jordan Hall of Science 101
+  - !ruby/object:Section
+    section_num: '03'
+    open_spots: '36'
+    max_spots: '170'
+    crn: '23619'
+    instructor: Parise, James West, Sarah
+    time: M W F  - 10:40A - 11:30A
+    location: Jordan Hall of Science 101
+- !ruby/object:Course
+  name: Organic Structure and Mech
+  credit: '4'
+  coursenum: CHEM10182
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '13'
+    max_spots: '72'
+    crn: '22479'
+    instructor: Gao, Haifeng
+    time: M W F  - 10:40A - 11:30A
+    location: Hayes Healy Center 127
+- !ruby/object:Course
+  name: Structure and Reactivity lab
+  credit: '0'
+  coursenum: CHEM11172
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '2'
+    max_spots: '65'
+    crn: '23620'
+    instructor: Peterson, Kathleen West, Sarah
+    time: T  - 9:30A - 12:15P
+    location: TBA
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '20'
+    max_spots: '65'
+    crn: '23621'
+    instructor: Peterson, Kathleen
+    time: T  - 12:30P - 3:15P
+    location: TBA
+  - !ruby/object:Section
+    section_num: '03'
+    open_spots: '11'
+    max_spots: '65'
+    crn: '23622'
+    instructor: Peterson, Kathleen
+    time: T  - 3:30P - 6:15P
+    location: TBA
+  - !ruby/object:Section
+    section_num: '04'
+    open_spots: '5'
+    max_spots: '64'
+    crn: '23623'
+    instructor: Peterson, Kathleen West, Sarah
+    time: W  - 1:05P - 3:50P
+    location: TBA
+  - !ruby/object:Section
+    section_num: '05'
+    open_spots: '1'
+    max_spots: '65'
+    crn: '23624'
+    instructor: Peterson, Kathleen
+    time: W  - 4:05P - 6:50P
+    location: TBA
+  - !ruby/object:Section
+    section_num: '06'
+    open_spots: '0'
+    max_spots: '65'
+    crn: '23625'
+    instructor: Peterson, Kathleen
+    time: R  - 9:30A - 12:15P
+    location: TBA
+  - !ruby/object:Section
+    section_num: '07'
+    open_spots: '2'
+    max_spots: '65'
+    crn: '23626'
+    instructor: Peterson, Kathleen
+    time: R  - 12:30P - 3:15P
+    location: TBA
+  - !ruby/object:Section
+    section_num: 08
+    open_spots: '5'
+    max_spots: '65'
+    crn: '23627'
+    instructor: Peterson, Kathleen West, Sarah
+    time: R  - 3:30P - 6:15P
+    location: TBA
+  - !ruby/object:Section
+    section_num: 09
+    open_spots: '0'
+    max_spots: '0'
+    crn: '24391'
+    instructor: Peterson, Kathleen
+    time: M  - 1:55P - 4:55P
+    location: TBA
+- !ruby/object:Course
+  name: Organic Struc and Mech Lab
+  credit: '0'
+  coursenum: CHEM11182
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '12'
+    max_spots: '36'
+    crn: '22480'
+    instructor: Wietstock, Steven
+    time: T  - 9:30A - 1:30P
+    location: TBA
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '0'
+    max_spots: '36'
+    crn: '22950'
+    instructor: Wietstock, Steven
+    time: R  - 9:30A - 1:30P
+    location: TBA
+  - !ruby/object:Section
+    section_num: '03'
+    open_spots: '0'
+    max_spots: '0'
+    crn: '26302'
+    instructor: Wietstock, Steven
+    time: R  - 1:55P - 5:55P
+    location: TBA
+- !ruby/object:Course
+  name: Structure &Reactivity tutorial
+  credit: '0'
+  coursenum: CHEM12172
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '24'
+    crn: '23628'
+    instructor: Parise, James West, Sarah
+    time: T  - 9:30A - 10:45A
+    location: Edward J. DeBartolo Hall 245
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '12'
+    max_spots: '24'
+    crn: '23629'
+    instructor: Parise, James West, Sarah
+    time: T  - 9:30A - 10:45A
+    location: Edward J. DeBartolo Hall 244
+  - !ruby/object:Section
+    section_num: '03'
+    open_spots: '7'
+    max_spots: '24'
+    crn: '23630'
+    instructor: Parise, James West, Sarah
+    time: T  - 9:30A - 10:45A
+    location: Edward J. DeBartolo Hall 242
+  - !ruby/object:Section
+    section_num: '04'
+    open_spots: '5'
+    max_spots: '24'
+    crn: '23631'
+    instructor: Creary, Xavier West, Sarah
+    time: T  - 9:30A - 10:45A
+    location: Edward J. DeBartolo Hall 241
+  - !ruby/object:Section
+    section_num: '05'
+    open_spots: '11'
+    max_spots: '24'
+    crn: '23632'
+    instructor: Creary, Xavier Parise, JamesWest, Sarah
+    time: T  - 9:30A - 10:45A
+    location: Edward J. DeBartolo Hall 240
+  - !ruby/object:Section
+    section_num: '06'
+    open_spots: '0'
+    max_spots: '24'
+    crn: '23633'
+    instructor: Parise, James West, Sarah
+    time: T  - 11:00A - 12:15P
+    location: Edward J. DeBartolo Hall 245
+  - !ruby/object:Section
+    section_num: '07'
+    open_spots: '0'
+    max_spots: '24'
+    crn: '23634'
+    instructor: Parise, James West, Sarah
+    time: T  - 11:00A - 12:15P
+    location: Edward J. DeBartolo Hall 244
+  - !ruby/object:Section
+    section_num: 08
+    open_spots: '0'
+    max_spots: '24'
+    crn: '23635'
+    instructor: Parise, James West, Sarah
+    time: T  - 11:00A - 12:15P
+    location: Edward J. DeBartolo Hall 242
+  - !ruby/object:Section
+    section_num: 09
+    open_spots: '0'
+    max_spots: '24'
+    crn: '23636'
+    instructor: Creary, Xavier West, Sarah
+    time: T  - 11:00A - 12:15P
+    location: Edward J. DeBartolo Hall 240
+  - !ruby/object:Section
+    section_num: '10'
+    open_spots: '0'
+    max_spots: '24'
+    crn: '23637'
+    instructor: Creary, Xavier Parise, JamesWest, Sarah
+    time: T  - 11:00A - 12:15P
+    location: Edward J. DeBartolo Hall 241
+  - !ruby/object:Section
+    section_num: '11'
+    open_spots: '0'
+    max_spots: '24'
+    crn: '23638'
+    instructor: Parise, James West, Sarah
+    time: T  - 12:30P - 1:45P
+    location: Edward J. DeBartolo Hall 241
+  - !ruby/object:Section
+    section_num: '12'
+    open_spots: '1'
+    max_spots: '24'
+    crn: '23639'
+    instructor: Parise, James West, Sarah
+    time: T  - 12:30P - 1:45P
+    location: Edward J. DeBartolo Hall 245
+  - !ruby/object:Section
+    section_num: '13'
+    open_spots: '4'
+    max_spots: '24'
+    crn: '23640'
+    instructor: Parise, James West, Sarah
+    time: T  - 12:30P - 1:45P
+    location: Edward J. DeBartolo Hall 244
+  - !ruby/object:Section
+    section_num: '14'
+    open_spots: '0'
+    max_spots: '24'
+    crn: '23641'
+    instructor: Creary, Xavier West, Sarah
+    time: T  - 12:30P - 1:45P
+    location: Edward J. DeBartolo Hall 242
+  - !ruby/object:Section
+    section_num: '15'
+    open_spots: '13'
+    max_spots: '24'
+    crn: '23642'
+    instructor: Creary, Xavier Parise, JamesWest, Sarah
+    time: T  - 12:30P - 1:45P
+    location: Edward J. DeBartolo Hall 240
+  - !ruby/object:Section
+    section_num: '16'
+    open_spots: '1'
+    max_spots: '24'
+    crn: '23643'
+    instructor: Parise, James West, Sarah
+    time: T  - 2:00P - 3:15P
+    location: Edward J. DeBartolo Hall 240
+  - !ruby/object:Section
+    section_num: '17'
+    open_spots: '0'
+    max_spots: '24'
+    crn: '23644'
+    instructor: Parise, James West, Sarah
+    time: T  - 2:00P - 3:15P
+    location: Edward J. DeBartolo Hall 245
+  - !ruby/object:Section
+    section_num: '18'
+    open_spots: '1'
+    max_spots: '24'
+    crn: '23646'
+    instructor: Parise, James West, Sarah
+    time: T  - 2:00P - 3:15P
+    location: Edward J. DeBartolo Hall 244
+  - !ruby/object:Section
+    section_num: '19'
+    open_spots: '0'
+    max_spots: '24'
+    crn: '23647'
+    instructor: Creary, Xavier West, Sarah
+    time: T  - 2:00P - 3:15P
+    location: Edward J. DeBartolo Hall 242
+  - !ruby/object:Section
+    section_num: '20'
+    open_spots: '0'
+    max_spots: '24'
+    crn: '23648'
+    instructor: Creary, Xavier Parise, JamesWest, Sarah
+    time: T  - 2:00P - 3:15P
+    location: Edward J. DeBartolo Hall 241
+  - !ruby/object:Section
+    section_num: '21'
+    open_spots: '0'
+    max_spots: '24'
+    crn: '23651'
+    instructor: Parise, James West, Sarah
+    time: T  - 3:30P - 4:45P
+    location: Edward J. DeBartolo Hall 241
+  - !ruby/object:Section
+    section_num: '22'
+    open_spots: '0'
+    max_spots: '24'
+    crn: '23652'
+    instructor: Creary, Xavier Parise, JamesWest, Sarah
+    time: T  - 3:30P - 4:45P
+    location: Edward J. DeBartolo Hall 245
+- !ruby/object:Course
+  name: Orgo Struct/Mech - Tutorial
+  credit: '0'
+  coursenum: CHEM12182
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '13'
+    max_spots: '72'
+    crn: '22481'
+    instructor: Gao, Haifeng
+    time: W  - 4:05P - 4:55P
+    location: Edward J. DeBartolo Hall 155
+- !ruby/object:Course
+  name: Environmental Chemistry
+  credit: '3'
+  coursenum: CHEM20204
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '26'
+    max_spots: '80'
+    crn: '21948'
+    instructor: Kamat, Prashant
+    time: T R  - 2:00P - 3:15P
+    location: Jordan Hall of Science 101
+- !ruby/object:Course
+  name: Math. Methods for Chem. Sci
+  credit: '3'
+  coursenum: CHEM20262
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '5'
+    max_spots: '50'
+    crn: '23657'
+    instructor: Gezelter, J. Daniel
+    time: M W F  - 11:45A - 12:35P
+    location: Edward J. DeBartolo Hall 207
+- !ruby/object:Course
+  name: Organic Reactions & Applicatio
+  credit: '3'
+  coursenum: CHEM20273
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '58'
+    max_spots: '150'
+    crn: '24089'
+    instructor: Helquist, Paul
+    time: M W F  - 12:50P - 1:40P
+    location: Jordan Hall of Science 105
+- !ruby/object:Course
+  name: Chem across Periodic Table
+  credit: '3'
+  coursenum: CHEM20274
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '50'
+    max_spots: '200'
+    crn: '24090'
+    instructor: Sevov, Slavi
+    time: M W F  - 8:30A - 9:20A
+    location: Edward J. DeBartolo Hall 155
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '12'
+    max_spots: '212'
+    crn: '24392'
+    instructor: Lappin, Alexander
+    time: M W F  - 10:40A - 11:30A
+    location: Jordan Hall of Science 105
+- !ruby/object:Course
+  name: Chemistry Across PeriodicTable
+  credit: '3'
+  coursenum: CHEM20284
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '8'
+    max_spots: '55'
+    crn: '22951'
+    instructor: Iluc, Vlad
+    time: M W F  - 10:40A - 11:30A
+    location: Edward J. DeBartolo Hall 155
+- !ruby/object:Course
+  name: Across the Periodic Table Lab
+  credit: '1'
+  coursenum: CHEM21274
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '28'
+    max_spots: '80'
+    crn: '24091'
+    instructor: Johnson, James
+    time: T  - 9:30A - 12:15P
+    location: TBA
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '0'
+    max_spots: '80'
+    crn: '24092'
+    instructor: Johnson, James
+    time: T  - 2:00P - 4:45P
+    location: TBA
+  - !ruby/object:Section
+    section_num: '03'
+    open_spots: '23'
+    max_spots: '80'
+    crn: '24093'
+    instructor: Johnson, James
+    time: W  - 1:55P - 4:40P
+    location: TBA
+  - !ruby/object:Section
+    section_num: '04'
+    open_spots: '7'
+    max_spots: '80'
+    crn: '24094'
+    instructor: Johnson, James
+    time: R  - 9:30A - 12:15P
+    location: TBA
+  - !ruby/object:Section
+    section_num: '05'
+    open_spots: '0'
+    max_spots: '80'
+    crn: '24095'
+    instructor: Johnson, James
+    time: R  - 2:00P - 4:45P
+    location: TBA
+- !ruby/object:Course
+  name: CHEM Across Periodic Table Lab
+  credit: '1'
+  coursenum: CHEM21284
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '8'
+    max_spots: '28'
+    crn: '22952'
+    instructor: Wietstock, Steven
+    time: M  - 1:55P - 4:55P
+    location: TBA
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '0'
+    max_spots: '28'
+    crn: '22953'
+    instructor: Wietstock, Steven
+    time: T  - 1:55P - 4:55P
+    location: TBA
+- !ruby/object:Course
+  name: Chemistry Seminar
+  credit: '1'
+  coursenum: CHEM23202
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '10'
+    max_spots: '12'
+    crn: '22115'
+    instructor: Chang, Mayland
+    time: T  - 2:00P - 2:50P
+    location: Jordan Hall of Science 105
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '1'
+    max_spots: '12'
+    crn: '23492'
+    instructor: Lieberman, Marya
+    time: R  - 2:00P - 2:50P
+    location: Edward J. DeBartolo Hall 245
+  - !ruby/object:Section
+    section_num: '03'
+    open_spots: '5'
+    max_spots: '12'
+    crn: '21232'
+    instructor: Lieberman, Marya
+    time: R  - 12:30P - 1:20P
+    location: Edward J. DeBartolo Hall 245
+  - !ruby/object:Section
+    section_num: '04'
+    open_spots: '0'
+    max_spots: '12'
+    crn: '23493'
+    instructor: Kandel, S. Alex
+    time: R  - 12:30P - 1:20P
+    location: Edward J. DeBartolo Hall 241
+  - !ruby/object:Section
+    section_num: '05'
+    open_spots: '3'
+    max_spots: '12'
+    crn: '22731'
+    instructor: Henderson, Kenneth
+    time: R  - 2:00P - 2:50P
+    location: Edward J. DeBartolo Hall 140
+- !ruby/object:Course
+  name: Physical Chemistry II
+  credit: '3'
+  coursenum: CHEM30322
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '11'
+    max_spots: '50'
+    crn: '21809'
+    instructor: Kuno, Masaru
+    time: M W F  - 11:45A - 12:35P
+    location: Edward J. DeBartolo Hall 125
+- !ruby/object:Course
+  name: Physical Chem for Engineers
+  credit: '3'
+  coursenum: CHEM30324
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '80'
+    crn: '20149'
+    instructor: Schneider, William
+    time: M W F  - 10:40A - 11:30A
+    location: Nieuwland Science Hall 123
+- !ruby/object:Course
+  name: Analytical Chemistry I
+  credit: '3'
+  coursenum: CHEM30333
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '8'
+    max_spots: '40'
+    crn: '25116'
+    instructor: Hummon, Amanda
+    time: M W F  - 8:30A - 9:20A
+    location: Jordan Hall of Science 322
+- !ruby/object:Course
+  name: Intermediary Metabolism
+  credit: '3'
+  coursenum: CHEM30342
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '17'
+    max_spots: '40'
+    crn: '20253'
+    instructor: Baker, Brian
+    time: M W F  - 9:35A - 10:25A
+    location: Edward J. DeBartolo Hall 209
+- !ruby/object:Course
+  name: Physical Chemistry II Lab
+  credit: '2'
+  coursenum: CHEM31322
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '12'
+    max_spots: '20'
+    crn: '20769'
+    instructor: Miller, Douglas Kuno, Masaru
+    time: T R  - 2:00P - 5:30P
+    location: TBA
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '11'
+    max_spots: '20'
+    crn: '25590'
+    instructor: Miller, Douglas Kuno, Masaru
+    time: M W  - 2:00P - 5:30P
+    location: TBA
+- !ruby/object:Course
+  name: Analytical Chemistry I Lab
+  credit: '1'
+  coursenum: CHEM31333
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '4'
+    max_spots: '20'
+    crn: '25117'
+    instructor: Goodenough-Lashua, DeeAnne
+    time: T  - 12:30P - 4:30P
+    location: TBA
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '8'
+    max_spots: '20'
+    crn: '25118'
+    instructor: Goodenough-Lashua, DeeAnne
+    time: W  - 1:15P - 5:15P
+    location: TBA
+- !ruby/object:Course
+  name: Principles of Biochemistry
+  credit: '3'
+  coursenum: CHEM40420
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '12'
+    max_spots: '100'
+    crn: '21218'
+    instructor: Huber, Paul
+    time: M W F  - 9:35A - 10:25A
+    location: Edward J. DeBartolo Hall 155
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '0'
+    max_spots: '100'
+    crn: '25864'
+    instructor: Clark, Patricia
+    time: M W F  - 9:35A - 10:25A
+    location: Edward J. DeBartolo Hall 102
+- !ruby/object:Course
+  name: Instrumental Methods /Analysis
+  credit: '3'
+  coursenum: CHEM40436
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '7'
+    max_spots: '30'
+    crn: '29528'
+    instructor: Schultz, Zachary
+    time: T R  - 9:30A - 10:45A
+    location: Jordan Hall of Science 322
+- !ruby/object:Course
+  name: Nanoscience & Technology
+  credit: '3'
+  coursenum: CHEM40477
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '5'
+    max_spots: '10'
+    crn: '27507'
+    instructor: Tao, Franklin
+    time: M W F  - 11:45A - 12:35P
+    location: Edward J. DeBartolo Hall 155
+- !ruby/object:Course
+  name: Chem of Lanth and Actinides
+  credit: '3'
+  coursenum: CHEM40480
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '10'
+    crn: '25493'
+    instructor: Burns, Peter
+    time: M W F  - 9:35A - 10:25A
+    location: TBA
+- !ruby/object:Course
+  name: Structure & Reactivity Lab
+  credit: '1'
+  coursenum: CHEM41172
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '1'
+    crn: '29824'
+    instructor: Peterson, Kathleen West, Sarah
+    time: W  - 1:05P - 3:50P
+    location: TBA
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '0'
+    max_spots: '1'
+    crn: '29879'
+    instructor: Peterson, Kathleen
+    time: T  - 12:30P - 3:15P
+    location: TBA
+- !ruby/object:Course
+  name: Directed Readings
+  credit: V
+  coursenum: CHEM46497
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '3'
+    max_spots: '5'
+    crn: '21484'
+    instructor: Lappin, Alexander
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Undergraduate Research
+  credit: V
+  coursenum: CHEM48498
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '9'
+    max_spots: '10'
+    crn: '22822'
+    instructor: Ashfeld, Brandon
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '7'
+    max_spots: '10'
+    crn: '21500'
+    instructor: Baker, Brian
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '03'
+    open_spots: '6'
+    max_spots: '10'
+    crn: '20289'
+    instructor: Brown, Seth
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '04'
+    open_spots: '9'
+    max_spots: '10'
+    crn: '22486'
+    instructor: Carmichael, Ian
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '05'
+    open_spots: '9'
+    max_spots: '10'
+    crn: '20247'
+    instructor: Castellino, Francis
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '06'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20208'
+    instructor: Clark, Patricia
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '07'
+    open_spots: '9'
+    max_spots: '10'
+    crn: '22487'
+    instructor: Corcelli, Steven
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: 08
+    open_spots: '6'
+    max_spots: '10'
+    crn: '21111'
+    instructor: Creary, Xavier
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: 09
+    open_spots: '7'
+    max_spots: '10'
+    crn: '25120'
+    instructor: Dovichi, Norman
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '11'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20448'
+    instructor: Gezelter, J. Daniel
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '12'
+    open_spots: '7'
+    max_spots: '10'
+    crn: '20708'
+    instructor: Goodson, Holly
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '13'
+    open_spots: '9'
+    max_spots: '10'
+    crn: '21540'
+    instructor: Hartland, Gregory
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '14'
+    open_spots: '8'
+    max_spots: '10'
+    crn: '21362'
+    instructor: Helquist, Paul
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '15'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '21575'
+    instructor: Henderson, Kenneth
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '16'
+    open_spots: '7'
+    max_spots: '10'
+    crn: '20264'
+    instructor: Huber, Paul
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '17'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '24393'
+    instructor: Hummon, Amanda
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '19'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '22488'
+    instructor: Kamat, Prashant
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '20'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '21039'
+    instructor: Kandel, S. Alex
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '21'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '21292'
+    instructor: Kuno, Masaru
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '22'
+    open_spots: '9'
+    max_spots: '10'
+    crn: '20005'
+    instructor: Lappin, Alexander
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '23'
+    open_spots: '5'
+    max_spots: '10'
+    crn: '21795'
+    instructor: Lieberman, Marya
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '24'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '21755'
+    instructor: Marino, Joseph
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '25'
+    open_spots: '7'
+    max_spots: '10'
+    crn: '20981'
+    instructor: Miller, Marvin
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '26'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20419'
+    instructor: Mobashery, Shahriar
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '28'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '21518'
+    instructor: Peng, Jeffrey
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '29'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '21466'
+    instructor: Scheidt, W. Robert
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '30'
+    open_spots: '8'
+    max_spots: '10'
+    crn: '24394'
+    instructor: Schultz, Zachary
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '31'
+    open_spots: '9'
+    max_spots: '10'
+    crn: '20086'
+    instructor: Serianni, Anthony
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '32'
+    open_spots: '9'
+    max_spots: '10'
+    crn: '20653'
+    instructor: Sevov, Slavi
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '33'
+    open_spots: '7'
+    max_spots: '10'
+    crn: '21140'
+    instructor: Smith, Bradley
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '34'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '25121'
+    instructor: Tao, Franklin
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '35'
+    open_spots: '4'
+    max_spots: '10'
+    crn: '21404'
+    instructor: Taylor, Richard
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '36'
+    open_spots: '9'
+    max_spots: '10'
+    crn: '21785'
+    instructor: Wiest, Olaf
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '37'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '22954'
+    instructor: Krchnak, Viktor
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '38'
+    open_spots: '9'
+    max_spots: '10'
+    crn: '24791'
+    instructor: Leevy, W. Matthew
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '39'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '22956'
+    instructor: Schneider, William
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '40'
+    open_spots: '8'
+    max_spots: '10'
+    crn: '22955'
+    instructor: Stahelin, Robert
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '41'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '21780'
+    instructor: Bohn, Paul
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '42'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '25867'
+    instructor: Gao, Haifeng
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '43'
+    open_spots: '9'
+    max_spots: '10'
+    crn: '25866'
+    instructor: Iluc, Vlad
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '44'
+    open_spots: '9'
+    max_spots: '10'
+    crn: '25865'
+    instructor: Stack, Sharon
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '45'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '27048'
+    instructor: Balsara, Rashna
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '46'
+    open_spots: '9'
+    max_spots: '10'
+    crn: '27049'
+    instructor: Burns, Peter
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '47'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '27050'
+    instructor: Cowden Dahl, Karen
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '48'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '27055'
+    instructor: Albrecht-Schmitt, Thomas
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '49'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '27112'
+    instructor: Krylova, Galyna
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '50'
+    open_spots: '5'
+    max_spots: '10'
+    crn: '29000'
+    instructor: Littlepage, Laurie
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Research Thesis Chem/Biochem
+  credit: '1'
+  coursenum: CHEM48500
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '25'
+    max_spots: '30'
+    crn: '27009'
+    instructor: Lappin, Alexander
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Molecular Biology II
+  credit: '3'
+  coursenum: CHEM50532
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '15'
+    max_spots: '15'
+    crn: '29529'
+    instructor: Hyde, David O'Tousa, Joseph
+    time: T R  - 9:30A - 10:45A
+    location: Pasquerilla Center 107
+- !ruby/object:Course
+  name: Chem of Lanth and Actinides
+  credit: '3'
+  coursenum: CHEM60480
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '1'
+    max_spots: '10'
+    crn: '27506'
+    instructor: Burns, Peter
+    time: M W F  - 9:35A - 10:25A
+    location: TBA
+- !ruby/object:Course
+  name: Principles of Biochemistry
+  credit: '3'
+  coursenum: CHEM60520
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '23973'
+    instructor: Huber, Paul
+    time: M W F  - 9:35A - 10:25A
+    location: Edward J. DeBartolo Hall 155
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '25868'
+    instructor: Clark, Patricia
+    time: M W F  - 9:35A - 10:25A
+    location: Edward J. DeBartolo Hall 102
+- !ruby/object:Course
+  name: Hallmarks of Cancer & Therapy
+  credit: '3'
+  coursenum: CHEM60531
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '24'
+    max_spots: '30'
+    crn: '29217'
+    instructor: Littlepage, Laurie
+    time: M W F  - 11:45A - 12:35P
+    location: Edward J. DeBartolo Hall 208
+- !ruby/object:Course
+  name: Methods in Biochemistry
+  credit: '2'
+  coursenum: CHEM60534
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '28'
+    max_spots: '30'
+    crn: '29218'
+    instructor: Stack, Sharon
+    time: M W  - 10:40A - 11:30A
+    location: Edward J. DeBartolo Hall 246
+- !ruby/object:Course
+  name: Medicinal Chemistry
+  credit: '3'
+  coursenum: CHEM60535
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '28'
+    max_spots: '30'
+    crn: '29002'
+    instructor: Fisher, Jed
+    time: M W F  - 8:30A - 9:20A
+    location: Jordan Hall of Science 310
+- !ruby/object:Course
+  name: Carbohydrates and Glycobiology
+  credit: '1'
+  coursenum: CHEM60537
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '29'
+    max_spots: '30'
+    crn: '24395'
+    instructor: Serianni, Anthony
+    time: M W F  - 8:00A - 9:30A
+    location: Jordan Hall of Science 310
+- !ruby/object:Course
+  name: Lipids and Membranes
+  credit: '1'
+  coursenum: CHEM60538
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '29'
+    max_spots: '30'
+    crn: '24396'
+    instructor: Stahelin, Robert
+    time: M W F  - 8:00A - 9:30A
+    location: Jordan Hall of Science 310
+- !ruby/object:Course
+  name: Molecular Metabolism
+  credit: '1'
+  coursenum: CHEM60539
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '29'
+    max_spots: '30'
+    crn: '24397'
+    instructor: Serianni, Anthony
+    time: M W F  - 8:00A - 9:30A
+    location: Jordan Hall of Science 310
+- !ruby/object:Course
+  name: Signal Transduction
+  credit: '1'
+  coursenum: CHEM60540
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '29'
+    max_spots: '30'
+    crn: '29219'
+    instructor: Cowden Dahl, Karen
+    time: M W F  - 8:00A - 9:30A
+    location: Jordan Hall of Science 310
+- !ruby/object:Course
+  name: Molecular Pharmacology
+  credit: '3'
+  coursenum: CHEM60542
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '24'
+    max_spots: '30'
+    crn: '25870'
+    instructor: Stahelin, Robert
+    time: M W F  - 10:40A - 11:30A
+    location: Pasquerilla Center 116
+- !ruby/object:Course
+  name: Nanoscience and Technology
+  credit: '3'
+  coursenum: CHEM60577
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '17'
+    max_spots: '20'
+    crn: '25871'
+    instructor: Tao, Franklin
+    time: M W F  - 11:45A - 12:35P
+    location: Edward J. DeBartolo Hall 155
+- !ruby/object:Course
+  name: Chemical Crystallography
+  credit: '3'
+  coursenum: CHEM60618
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '23'
+    max_spots: '30'
+    crn: '26303'
+    instructor: Oliver, Allen
+    time: M W F  - 8:30A - 9:20A
+    location: Edward J. DeBartolo Hall 317
+- !ruby/object:Course
+  name: Advanced Organic Chemistry II
+  credit: '3'
+  coursenum: CHEM60632
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '34'
+    max_spots: '40'
+    crn: '24096'
+    instructor: Ashfeld, Brandon
+    time: M W F  - 9:35A - 10:25A
+    location: Edward J. DeBartolo Hall 208
+- !ruby/object:Course
+  name: Structural Elucidation
+  credit: '3'
+  coursenum: CHEM60634
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '17'
+    max_spots: '30'
+    crn: '25872'
+    instructor: Smith, Bradley
+    time: M W F  - 10:40A - 11:30A
+    location: Hammes Mowbray Hall 306
+- !ruby/object:Course
+  name: Thesis Direction
+  credit: V
+  coursenum: CHEM78599
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '9'
+    max_spots: '10'
+    crn: '23668'
+    instructor: Ashfeld, Brandon
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '21192'
+    instructor: Baker, Brian
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '03'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '21155'
+    instructor: Brown, Seth
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '04'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '22489'
+    instructor: Carmichael, Ian
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '05'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '21326'
+    instructor: Castellino, Francis
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '06'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '21213'
+    instructor: Clark, Patricia
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '07'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '22490'
+    instructor: Corcelli, Steven
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: 08
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20355'
+    instructor: Creary, Xavier
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: 09
+    open_spots: '10'
+    max_spots: '10'
+    crn: '25128'
+    instructor: Dovichi, Norman
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '11'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20011'
+    instructor: Gezelter, J. Daniel
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '12'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '21531'
+    instructor: Goodson, Holly
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '13'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20494'
+    instructor: Hartland, Gregory
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '14'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '21874'
+    instructor: Helquist, Paul
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '15'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20872'
+    instructor: Henderson, Kenneth
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '16'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20209'
+    instructor: Huber, Paul
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '17'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '24404'
+    instructor: Hummon, Amanda
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '19'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '22491'
+    instructor: Kamat, Prashant
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '20'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '21752'
+    instructor: Kandel, S. Alex
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '21'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20771'
+    instructor: Kuno, Masaru
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '22'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '21692'
+    instructor: Lappin, Alexander
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '23'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '21479'
+    instructor: Lieberman, Marya
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '24'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '21572'
+    instructor: Marino, Joseph
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '25'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20089'
+    instructor: Miller, Marvin
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '26'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20401'
+    instructor: Mobashery, Shahriar
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '28'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20766'
+    instructor: Peng, Jeffrey
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '29'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '21339'
+    instructor: Scheidt, W. Robert
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '30'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '24405'
+    instructor: Schultz, Zachary
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '31'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20765'
+    instructor: Serianni, Anthony
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '32'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20913'
+    instructor: Sevov, Slavi
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '33'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20266'
+    instructor: Smith, Bradley
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '34'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '25127'
+    instructor: Tao, Franklin
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '35'
+    open_spots: '9'
+    max_spots: '10'
+    crn: '20709'
+    instructor: Taylor, Richard
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '36'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '21179'
+    instructor: Wiest, Olaf
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '37'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '24293'
+    instructor: Burns, Peter
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '38'
+    open_spots: '9'
+    max_spots: '10'
+    crn: '22788'
+    instructor: Schneider, William
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '39'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '25874'
+    instructor: Gao, Haifeng
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '40'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '25876'
+    instructor: Iluc, Vlad
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '41'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '25875'
+    instructor: Stack, Sharon
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '42'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '27223'
+    instructor: Albrecht-Schmitt, Thomas
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '43'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '29003'
+    instructor: Littlepage, Laurie
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Bioinorganic Chemistry
+  credit: '3'
+  coursenum: CHEM90620
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '29'
+    max_spots: '30'
+    crn: '29004'
+    instructor: Scheidt, W. Robert
+    time: M W F  - 11:45A - 12:35P
+    location: Jordan Hall of Science 105
+- !ruby/object:Course
+  name: Special Topics in Biochemistry
+  credit: '3'
+  coursenum: CHEM90628
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '24'
+    max_spots: '30'
+    crn: '23669'
+    instructor: Dovichi, Norman
+    time: M W F  - 9:35A - 10:25A
+    location: Hammes Mowbray Hall 306
+- !ruby/object:Course
+  name: Molecular Spectroscopy
+  credit: '3'
+  coursenum: CHEM90652
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '25'
+    max_spots: '30'
+    crn: '29005'
+    instructor: Kandel, S. Alex
+    time: M W F  - 10:40A - 11:30A
+    location: O'Shaughnessy Hall 116
+- !ruby/object:Course
+  name: Directed Readings
+  credit: V
+  coursenum: CHEM90697
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '23495'
+    instructor: Corcelli, Steven
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Seminar in Chemistry
+  credit: '0'
+  coursenum: CHEM93602
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '84'
+    max_spots: '123'
+    crn: '21323'
+    instructor: Henderson, Kenneth
+    time: M T W R F  - 4:00P - 6:00P
+    location: Nieuwland Science Hall 123
+- !ruby/object:Course
+  name: Seminar in Inorganic Chemistry
+  credit: '1'
+  coursenum: CHEM93612
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '50'
+    max_spots: '50'
+    crn: '20691'
+    instructor: Scheidt, W. Robert
+    time: F  - 1:00P - 2:00P
+    location: Edward J. DeBartolo Hall 118
+- !ruby/object:Course
+  name: Seminar in Biochemistry
+  credit: '1'
+  coursenum: CHEM93622
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '60'
+    max_spots: '60'
+    crn: '21053'
+    instructor: Baker, Brian
+    time: F  - 12:00P - 1:00P
+    location: Nieuwland Science Hall 184
+- !ruby/object:Course
+  name: Seminar in Organic Chemistry
+  credit: '1'
+  coursenum: CHEM93636
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '48'
+    max_spots: '50'
+    crn: '21495'
+    instructor: Ashfeld, Brandon
+    time: R  - 4:00P - 5:15P
+    location: Nieuwland Science Hall 123
+- !ruby/object:Course
+  name: Seminar in Physical Chemistry
+  credit: '1'
+  coursenum: CHEM93644
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '30'
+    max_spots: '30'
+    crn: '21678'
+    instructor: Schultz, Zachary
+    time: R  - 12:30P - 1:45P
+    location: Edward J. DeBartolo Hall 240
+- !ruby/object:Course
+  name: CHEM & BIOS Interface Seminar
+  credit: '1'
+  coursenum: CHEM93652
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '39'
+    max_spots: '40'
+    crn: '24097'
+    instructor: Chang, Mayland Miller, MarvinSchorey, Jeffrey
+    time: R  - 2:00P - 3:00P
+    location: Nieuwland Science Hall 184
+- !ruby/object:Course
+  name: Research and Dissertation
+  credit: V
+  coursenum: CHEM98698
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '17'
+    max_spots: '20'
+    crn: '23670'
+    instructor: Ashfeld, Brandon
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '20'
+    max_spots: '20'
+    crn: '21257'
+    instructor: Baker, Brian
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '03'
+    open_spots: '20'
+    max_spots: '20'
+    crn: '20175'
+    instructor: Brown, Seth
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '04'
+    open_spots: '19'
+    max_spots: '20'
+    crn: '22492'
+    instructor: Carmichael, Ian
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '05'
+    open_spots: '19'
+    max_spots: '20'
+    crn: '20503'
+    instructor: Castellino, Francis
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '06'
+    open_spots: '19'
+    max_spots: '20'
+    crn: '21327'
+    instructor: Clark, Patricia
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '07'
+    open_spots: '19'
+    max_spots: '20'
+    crn: '22493'
+    instructor: Corcelli, Steven
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: 08
+    open_spots: '20'
+    max_spots: '20'
+    crn: '20597'
+    instructor: Creary, Xavier
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: 09
+    open_spots: '18'
+    max_spots: '20'
+    crn: '25132'
+    instructor: Dovichi, Norman
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '11'
+    open_spots: '20'
+    max_spots: '20'
+    crn: '21844'
+    instructor: Gezelter, J. Daniel
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '12'
+    open_spots: '19'
+    max_spots: '20'
+    crn: '21688'
+    instructor: Goodson, Holly
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '13'
+    open_spots: '20'
+    max_spots: '20'
+    crn: '20699'
+    instructor: Hartland, Gregory
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '14'
+    open_spots: '19'
+    max_spots: '20'
+    crn: '21032'
+    instructor: Helquist, Paul
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '15'
+    open_spots: '24'
+    max_spots: '25'
+    crn: '20866'
+    instructor: Henderson, Kenneth
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '16'
+    open_spots: '20'
+    max_spots: '20'
+    crn: '21862'
+    instructor: Huber, Paul
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '17'
+    open_spots: '19'
+    max_spots: '20'
+    crn: '24406'
+    instructor: Hummon, Amanda
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '19'
+    open_spots: '18'
+    max_spots: '20'
+    crn: '22494'
+    instructor: Kamat, Prashant
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '20'
+    open_spots: '16'
+    max_spots: '20'
+    crn: '21045'
+    instructor: Kandel, S. Alex
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '21'
+    open_spots: '20'
+    max_spots: '20'
+    crn: '20489'
+    instructor: Kuno, Masaru
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '22'
+    open_spots: '20'
+    max_spots: '20'
+    crn: '21818'
+    instructor: Lappin, Alexander
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '23'
+    open_spots: '20'
+    max_spots: '20'
+    crn: '21657'
+    instructor: Lieberman, Marya
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '24'
+    open_spots: '20'
+    max_spots: '20'
+    crn: '20073'
+    instructor: Marino, Joseph
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '25'
+    open_spots: '19'
+    max_spots: '20'
+    crn: '20848'
+    instructor: Miller, Marvin
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '26'
+    open_spots: '20'
+    max_spots: '20'
+    crn: '21660'
+    instructor: Mobashery, Shahriar
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '28'
+    open_spots: '19'
+    max_spots: '20'
+    crn: '20491'
+    instructor: Peng, Jeffrey
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '29'
+    open_spots: '20'
+    max_spots: '20'
+    crn: '21774'
+    instructor: Scheidt, W. Robert
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '30'
+    open_spots: '19'
+    max_spots: '20'
+    crn: '24409'
+    instructor: Schultz, Zachary
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '31'
+    open_spots: '20'
+    max_spots: '20'
+    crn: '20969'
+    instructor: Serianni, Anthony
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '32'
+    open_spots: '19'
+    max_spots: '20'
+    crn: '20586'
+    instructor: Sevov, Slavi
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '33'
+    open_spots: '18'
+    max_spots: '20'
+    crn: '20107'
+    instructor: Smith, Bradley
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '34'
+    open_spots: '20'
+    max_spots: '20'
+    crn: '25129'
+    instructor: Tao, Franklin
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '35'
+    open_spots: '48'
+    max_spots: '50'
+    crn: '21350'
+    instructor: Taylor, Richard
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '36'
+    open_spots: '20'
+    max_spots: '20'
+    crn: '21543'
+    instructor: Wiest, Olaf
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '37'
+    open_spots: '19'
+    max_spots: '20'
+    crn: '24771'
+    instructor: Albrecht-Schmitt, Thomas
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '38'
+    open_spots: '20'
+    max_spots: '20'
+    crn: '24773'
+    instructor: Bilgicer, Zihni
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '39'
+    open_spots: '19'
+    max_spots: '20'
+    crn: '23496'
+    instructor: Bohn, Paul
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '40'
+    open_spots: '18'
+    max_spots: '20'
+    crn: '23948'
+    instructor: Burns, Peter
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '41'
+    open_spots: '19'
+    max_spots: '20'
+    crn: '22789'
+    instructor: Schneider, William
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '42'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '24296'
+    instructor: Stahelin, Robert
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '43'
+    open_spots: '2'
+    max_spots: '2'
+    crn: '25880'
+    instructor: Gao, Haifeng
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '44'
+    open_spots: '20'
+    max_spots: '20'
+    crn: '25881'
+    instructor: Iluc, Vlad
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '45'
+    open_spots: '20'
+    max_spots: '20'
+    crn: '25882'
+    instructor: Stack, Sharon
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '46'
+    open_spots: '9'
+    max_spots: '10'
+    crn: '27222'
+    instructor: Cowden Dahl, Karen
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '47'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '29006'
+    instructor: Littlepage, Laurie
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Visiting Student Research
+  credit: V
+  coursenum: CHEM98699
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '23671'
+    instructor: Ashfeld, Brandon
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '21132'
+    instructor: Baker, Brian
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '03'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '21569'
+    instructor: Brown, Seth
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '04'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '22495'
+    instructor: Carmichael, Ian
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '05'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '20716'
+    instructor: Castellino, Francis
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '06'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '20389'
+    instructor: Clark, Patricia
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '07'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '22496'
+    instructor: Corcelli, Steven
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: 08
+    open_spots: '5'
+    max_spots: '5'
+    crn: '21549'
+    instructor: Creary, Xavier
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: 09
+    open_spots: '5'
+    max_spots: '5'
+    crn: '25135'
+    instructor: Dovichi, Norman
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '11'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '21304'
+    instructor: Gezelter, J. Daniel
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '12'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '21793'
+    instructor: Goodson, Holly
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '13'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '21559'
+    instructor: Hartland, Gregory
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '14'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '20088'
+    instructor: Helquist, Paul
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '15'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '20316'
+    instructor: Henderson, Kenneth
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '16'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '20537'
+    instructor: Huber, Paul
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '17'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '24411'
+    instructor: Hummon, Amanda
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '19'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '22497'
+    instructor: Kamat, Prashant
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '20'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '21212'
+    instructor: Kandel, S. Alex
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '21'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '21662'
+    instructor: Kuno, Masaru
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '22'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '20929'
+    instructor: Lappin, Alexander
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '23'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '21689'
+    instructor: Lieberman, Marya
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '24'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '21184'
+    instructor: Marino, Joseph
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '25'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '21628'
+    instructor: Miller, Marvin
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '26'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '20329'
+    instructor: Mobashery, Shahriar
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '28'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '21253'
+    instructor: Peng, Jeffrey
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '29'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '21719'
+    instructor: Scheidt, W. Robert
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '30'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '24416'
+    instructor: Schultz, Zachary
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '31'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '20094'
+    instructor: Serianni, Anthony
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '32'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '21759'
+    instructor: Sevov, Slavi
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '33'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '21775'
+    instructor: Smith, Bradley
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '34'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '25133'
+    instructor: Tao, Franklin
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '35'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '21079'
+    instructor: Taylor, Richard
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '36'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '20838'
+    instructor: Wiest, Olaf
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '37'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '22790'
+    instructor: Schneider, William
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '38'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '25883'
+    instructor: Gao, Haifeng
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '39'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '25884'
+    instructor: Iluc, Vlad
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '40'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '25885'
+    instructor: Stack, Sharon
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '41'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '29007'
+    instructor: Littlepage, Laurie
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Nonresident Dissertation Rsrch
+  credit: V
+  coursenum: CHEM98700
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '23672'
+    instructor: Ashfeld, Brandon
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '21133'
+    instructor: Baker, Brian
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '03'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '21702'
+    instructor: Brown, Seth
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '04'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '22498'
+    instructor: Carmichael, Ian
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '05'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '20350'
+    instructor: Castellino, Francis
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '06'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '21436'
+    instructor: Clark, Patricia
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '07'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '22499'
+    instructor: Corcelli, Steven
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: 08
+    open_spots: '5'
+    max_spots: '5'
+    crn: '20564'
+    instructor: Creary, Xavier
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: 09
+    open_spots: '5'
+    max_spots: '5'
+    crn: '25137'
+    instructor: Dovichi, Norman
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '11'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '21441'
+    instructor: Gezelter, J. Daniel
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '12'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '21422'
+    instructor: Goodson, Holly
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '13'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '21279'
+    instructor: Hartland, Gregory
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '14'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '20554'
+    instructor: Helquist, Paul
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '15'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '20727'
+    instructor: Henderson, Kenneth
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '16'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '20786'
+    instructor: Huber, Paul
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '17'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '24417'
+    instructor: Hummon, Amanda
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '19'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '22500'
+    instructor: Kamat, Prashant
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '20'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '21158'
+    instructor: Kandel, S. Alex
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '21'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '21368'
+    instructor: Kuno, Masaru
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '22'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '20029'
+    instructor: Lappin, Alexander
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '23'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '21403'
+    instructor: Lieberman, Marya
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '24'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '21638'
+    instructor: Marino, Joseph
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '25'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '20343'
+    instructor: Miller, Marvin
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '26'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '21561'
+    instructor: Mobashery, Shahriar
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '28'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '20057'
+    instructor: Peng, Jeffrey
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '29'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '20618'
+    instructor: Scheidt, W. Robert
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '30'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '24418'
+    instructor: Schultz, Zachary
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '31'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '20650'
+    instructor: Serianni, Anthony
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '32'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '21724'
+    instructor: Sevov, Slavi
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '33'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '20934'
+    instructor: Smith, Bradley
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '34'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '25136'
+    instructor: Tao, Franklin
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '35'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '20133'
+    instructor: Taylor, Richard
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '36'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '21580'
+    instructor: Wiest, Olaf
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '37'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '22791'
+    instructor: Schneider, William
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '38'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '25886'
+    instructor: Gao, Haifeng
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '39'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '25888'
+    instructor: Iluc, Vlad
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '40'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '25887'
+    instructor: Stack, Sharon
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '41'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '29008'
+    instructor: Littlepage, Laurie
+    time: TBA
+    location: TBA
+el
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CHEM98698
+  :section: '12'
+  :title: Research and Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '20'
+  :open_spots: '19'
+  :xlst: ! '&nbsp'
+  :crn: '21688'
+  :syl: ! '&nbsp'
+  :instructor: Goodson, Holly
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CHEM98698
+  :section: '13'
+  :title: Research and Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '20'
+  :open_spots: '20'
+  :xlst: ! '&nbsp'
+  :crn: '20699'
+  :syl: ! '&nbsp'
+  :instructor: Hartland, Gregory
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CHEM98698
+  :section: '14'
+  :title: Research and Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '20'
+  :open_spots: '19'
+  :xlst: ! '&nbsp'
+  :crn: '21032'
+  :syl: ! '&nbsp'
+  :instructor: Helquist, Paul
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CHEM98698
+  :section: '15'
+  :title: Research and Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '25'
+  :open_spots: '24'
+  :xlst: ! '&nbsp'
+  :crn: '20866'
+  :syl: ! '&nbsp'
+  :instructor: Henderson, Kenneth
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CHEM98698
+  :section: '16'
+  :title: Research and Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '20'
+  :open_spots: '20'
+  :xlst: ! '&nbsp'
+  :crn: '21862'
+  :syl: ! '&nbsp'
+  :instructor: Huber, Paul
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CHEM98698
+  :section: '17'
+  :title: Research and Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '20'
+  :open_spots: '20'
+  :xlst: ! '&nbsp'
+  :crn: '24406'
+  :syl: ! '&nbsp'
+  :instructor: Hummon, Amanda
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CHEM98698
+  :section: '19'
+  :title: Research and Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '20'
+  :open_spots: '18'
+  :xlst: ! '&nbsp'
+  :crn: '22494'
+  :syl: ! '&nbsp'
+  :instructor: Kamat, Prashant
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CHEM98698
+  :section: '20'
+  :title: Research and Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '20'
+  :open_spots: '18'
+  :xlst: ! '&nbsp'
+  :crn: '21045'
+  :syl: ! '&nbsp'
+  :instructor: Kandel, S. Alex
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CHEM98698
+  :section: '21'
+  :title: Research and Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '20'
+  :open_spots: '20'
+  :xlst: ! '&nbsp'
+  :crn: '20489'
+  :syl: ! '&nbsp'
+  :instructor: Kuno, Masaru
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CHEM98698
+  :section: '22'
+  :title: Research and Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '20'
+  :open_spots: '20'
+  :xlst: ! '&nbsp'
+  :crn: '21818'
+  :syl: ! '&nbsp'
+  :instructor: Lappin, Alexander
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CHEM98698
+  :section: '23'
+  :title: Research and Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '20'
+  :open_spots: '20'
+  :xlst: ! '&nbsp'
+  :crn: '21657'
+  :syl: ! '&nbsp'
+  :instructor: Lieberman, Marya
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CHEM98698
+  :section: '24'
+  :title: Research and Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '20'
+  :open_spots: '20'
+  :xlst: ! '&nbsp'
+  :crn: '20073'
+  :syl: ! '&nbsp'
+  :instructor: Marino, Joseph
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CHEM98698
+  :section: '25'
+  :title: Research and Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '20'
+  :open_spots: '19'
+  :xlst: ! '&nbsp'
+  :crn: '20848'
+  :syl: ! '&nbsp'
+  :instructor: Miller, Marvin
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CHEM98698
+  :section: '26'
+  :title: Research and Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '20'
+  :open_spots: '20'
+  :xlst: ! '&nbsp'
+  :crn: '21660'
+  :syl: ! '&nbsp'
+  :instructor: Mobashery, Shahriar
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CHEM98698
+  :section: '28'
+  :title: Research and Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '20'
+  :open_spots: '20'
+  :xlst: ! '&nbsp'
+  :crn: '20491'
+  :syl: ! '&nbsp'
+  :instructor: Peng, Jeffrey
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CHEM98698
+  :section: '29'
+  :title: Research and Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '20'
+  :open_spots: '20'
+  :xlst: ! '&nbsp'
+  :crn: '21774'
+  :syl: ! '&nbsp'
+  :instructor: Scheidt, W. Robert
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CHEM98698
+  :section: '30'
+  :title: Research and Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '20'
+  :open_spots: '19'
+  :xlst: ! '&nbsp'
+  :crn: '24409'
+  :syl: ! '&nbsp'
+  :instructor: Schultz, Zachary
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CHEM98698
+  :section: '31'
+  :title: Research and Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '20'
+  :open_spots: '20'
+  :xlst: ! '&nbsp'
+  :crn: '20969'
+  :syl: ! '&nbsp'
+  :instructor: Serianni, Anthony
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CHEM98698
+  :section: '32'
+  :title: Research and Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '20'
+  :open_spots: '19'
+  :xlst: ! '&nbsp'
+  :crn: '20586'
+  :syl: ! '&nbsp'
+  :instructor: Sevov, Slavi
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CHEM98698
+  :section: '33'
+  :title: Research and Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '20'
+  :open_spots: '18'
+  :xlst: ! '&nbsp'
+  :crn: '20107'
+  :syl: ! '&nbsp'
+  :instructor: Smith, Bradley
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CHEM98698
+  :section: '34'
+  :title: Research and Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '20'
+  :open_spots: '20'
+  :xlst: ! '&nbsp'
+  :crn: '25129'
+  :syl: ! '&nbsp'
+  :instructor: Tao, Franklin
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CHEM98698
+  :section: '35'
+  :title: Research and Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '50'
+  :open_spots: '49'
+  :xlst: ! '&nbsp'
+  :crn: '21350'
+  :syl: ! '&nbsp'
+  :instructor: Taylor, Richard
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CHEM98698
+  :section: '36'
+  :title: Research and Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '20'
+  :open_spots: '20'
+  :xlst: ! '&nbsp'
+  :crn: '21543'
+  :syl: ! '&nbsp'
+  :instructor: Wiest, Olaf
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CHEM98698
+  :section: '37'
+  :title: Research and Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '20'
+  :open_spots: '19'
+  :xlst: ! '&nbsp'
+  :crn: '24771'
+  :syl: ! '&nbsp'
+  :instructor: Albrecht-Schmitt, Thomas
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CHEM98698
+  :section: '38'
+  :title: Research and Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '20'
+  :open_spots: '20'
+  :xlst: ! '&nbsp'
+  :crn: '24773'
+  :syl: ! '&nbsp'
+  :instructor: Bilgicer, Zihni
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CHEM98698
+  :section: '39'
+  :title: Research and Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '20'
+  :open_spots: '19'
+  :xlst: ! '&nbsp'
+  :crn: '23496'
+  :syl: ! '&nbsp'
+  :instructor: Bohn, Paul
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CHEM98698
+  :section: '40'
+  :title: Research and Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '20'
+  :open_spots: '18'
+  :xlst: ! '&nbsp'
+  :crn: '23948'
+  :syl: ! '&nbsp'
+  :instructor: Burns, Peter
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CHEM98698
+  :section: '41'
+  :title: Research and Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '20'
+  :open_spots: '20'
+  :xlst: ! '&nbsp'
+  :crn: '22789'
+  :syl: ! '&nbsp'
+  :instructor: Schneider, William
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CHEM98698
+  :section: '42'
+  :title: Research and Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '24296'
+  :syl: ! '&nbsp'
+  :instructor: Stahelin, Robert
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CHEM98698
+  :section: '43'
+  :title: Research and Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '2'
+  :open_spots: '2'
+  :xlst: ! '&nbsp'
+  :crn: '25880'
+  :syl: ! '&nbsp'
+  :instructor: Gao, Haifeng
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CHEM98698
+  :section: '44'
+  :title: Research and Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '20'
+  :open_spots: '20'
+  :xlst: ! '&nbsp'
+  :crn: '25881'
+  :syl: ! '&nbsp'
+  :instructor: Iluc, Vlad
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CHEM98698
+  :section: '45'
+  :title: Research and Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '20'
+  :open_spots: '20'
+  :xlst: ! '&nbsp'
+  :crn: '25882'
+  :syl: ! '&nbsp'
+  :instructor: Stack, Sharon
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CHEM98698
+  :section: '46'
+  :title: Research and Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '27222'
+  :syl: ! '&nbsp'
+  :instructor: Cowden Dahl, Karen
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CHEM98698
+  :section: '47'
+  :title: Research and Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '29006'
+  :syl: ! '&nbsp'
+  :instructor: Littlepage, Laurie
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CHEM98699
+  :section: '01'
+  :title: Visiting Student Research
+  :credits: V
+  :status: OP
+  :max_spots: '5'
+  :open_spots: '5'
+  :xlst: ! '&nbsp'
+  :crn: '23671'
+  :syl: ! '&nbsp'
+  :instructor: Ashfeld, Brandon
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CHEM98699
+  :section: '02'
+  :title: Visiting Student Research
+  :credits: V
+  :status: OP
+  :max_spots: '5'
+  :open_spots: '5'
+  :xlst: ! '&nbsp'
+  :crn: '21132'
+  :syl: ! '&nbsp'
+  :instructor: Baker, Brian
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CHEM98699
+  :section: '03'
+  :title: Visiting Student Research
+  :credits: V
+  :status: OP
+  :max_spots: '5'
+  :open_spots: '5'
+  :xlst: ! '&nbsp'
+  :crn: '21569'
+  :syl: ! '&nbsp'
+  :instructor: Brown, Seth
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CHEM98699
+  :section: '04'
+  :title: Visiting Student Research
+  :credits: V
+  :status: OP
+  :max_spots: '5'
+  :open_spots: '5'
+  :xlst: ! '&nbsp'
+  :crn: '22495'
+  :syl: ! '&nbsp'
+  :instructor: Carmichael, Ian
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CHEM98699
+  :section: '05'
+  :title: Visiting Student Research
+  :credits: V
+  :status: OP
+  :max_spots: '5'
+  :open_spots: '5'
+  :xlst: ! '&nbsp'
+  :crn: '20716'
+  :syl: ! '&nbsp'
+  :instructor: Castellino, Francis
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CHEM98699
+  :section: '06'
+  :title: Visiting Student Research
+  :credits: V
+  :status: OP
+  :max_spots: '5'
+  :open_spots: '5'
+  :xlst: ! '&nbsp'
+  :crn: '20389'
+  :syl: ! '&nbsp'
+  :instructor: Clark, Patricia
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CHEM98699
+  :section: '07'
+  :title: Visiting Student Research
+  :credits: V
+  :status: OP
+  :max_spots: '5'
+  :open_spots: '5'
+  :xlst: ! '&nbsp'
+  :crn: '22496'
+  :syl: ! '&nbsp'
+  :instructor: Corcelli, Steven
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CHEM98699
+  :section: 08
+  :title: Visiting Student Research
+  :credits: V
+  :status: OP
+  :max_spots: '5'
+  :open_spots: '5'
+  :xlst: ! '&nbsp'
+  :crn: '21549'
+  :syl: ! '&nbsp'
+  :instructor: Creary, Xavier
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CHEM98699
+  :section: 09
+  :title: Visiting Student Research
+  :credits: V
+  :status: OP
+  :max_spots: '5'
+  :open_spots: '5'
+  :xlst: ! '&nbsp'
+  :crn: '25135'
+  :syl: ! '&nbsp'
+  :instructor: Dovichi, Norman
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CHEM98699
+  :section: '11'
+  :title: Visiting Student Research
+  :credits: V
+  :status: OP
+  :max_spots: '5'
+  :open_spots: '5'
+  :xlst: ! '&nbsp'
+  :crn: '21304'
+  :syl: ! '&nbsp'
+  :instructor: Gezelter, J. Daniel
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CHEM98699
+  :section: '12'
+  :title: Visiting Student Research
+  :credits: V
+  :status: OP
+  :max_spots: '5'
+  :open_spots: '5'
+  :xlst: ! '&nbsp'
+  :crn: '21793'
+  :syl: ! '&nbsp'
+  :instructor: Goodson, Holly
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CHEM98699
+  :section: '13'
+  :title: Visiting Student Research
+  :credits: V
+  :status: OP
+  :max_spots: '5'
+  :open_spots: '5'
+  :xlst: ! '&nbsp'
+  :crn: '21559'
+  :syl: ! '&nbsp'
+  :instructor: Hartland, Gregory
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CHEM98699
+  :section: '14'
+  :title: Visiting Student Research
+  :credits: V
+  :status: OP
+  :max_spots: '5'
+  :open_spots: '5'
+  :xlst: ! '&nbsp'
+  :crn: '20088'
+  :syl: ! '&nbsp'
+  :instructor: Helquist, Paul
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CHEM98699
+  :section: '15'
+  :title: Visiting Student Research
+  :credits: V
+  :status: OP
+  :max_spots: '5'
+  :open_spots: '5'
+  :xlst: ! '&nbsp'
+  :crn: '20316'
+  :syl: ! '&nbsp'
+  :instructor: Henderson, Kenneth
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CHEM98699
+  :section: '16'
+  :title: Visiting Student Research
+  :credits: V
+  :status: OP
+  :max_spots: '5'
+  :open_spots: '5'
+  :xlst: ! '&nbsp'
+  :crn: '20537'
+  :syl: ! '&nbsp'
+  :instructor: Huber, Paul
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CHEM98699
+  :section: '17'
+  :title: Visiting Student Research
+  :credits: V
+  :status: OP
+  :max_spots: '5'
+  :open_spots: '5'
+  :xlst: ! '&nbsp'
+  :crn: '24411'
+  :syl: ! '&nbsp'
+  :instructor: Hummon, Amanda
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CHEM98699
+  :section: '19'
+  :title: Visiting Student Research
+  :credits: V
+  :status: OP
+  :max_spots: '5'
+  :open_spots: '5'
+  :xlst: ! '&nbsp'
+  :crn: '22497'
+  :syl: ! '&nbsp'
+  :instructor: Kamat, Prashant
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CHEM98699
+  :section: '20'
+  :title: Visiting Student Research
+  :credits: V
+  :status: OP
+  :max_spots: '5'
+  :open_spots: '5'
+  :xlst: ! '&nbsp'
+  :crn: '21212'
+  :syl: ! '&nbsp'
+  :instructor: Kandel, S. Alex
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CHEM98699
+  :section: '21'
+  :title: Visiting Student Research
+  :credits: V
+  :status: OP
+  :max_spots: '5'
+  :open_spots: '5'
+  :xlst: ! '&nbsp'
+  :crn: '21662'
+  :syl: ! '&nbsp'
+  :instructor: Kuno, Masaru
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CHEM98699
+  :section: '22'
+  :title: Visiting Student Research
+  :credits: V
+  :status: OP
+  :max_spots: '5'
+  :open_spots: '5'
+  :xlst: ! '&nbsp'
+  :crn: '20929'
+  :syl: ! '&nbsp'
+  :instructor: Lappin, Alexander
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CHEM98699
+  :section: '23'
+  :title: Visiting Student Research
+  :credits: V
+  :status: OP
+  :max_spots: '5'
+  :open_spots: '5'
+  :xlst: ! '&nbsp'
+  :crn: '21689'
+  :syl: ! '&nbsp'
+  :instructor: Lieberman, Marya
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CHEM98699
+  :section: '24'
+  :title: Visiting Student Research
+  :credits: V
+  :status: OP
+  :max_spots: '5'
+  :open_spots: '5'
+  :xlst: ! '&nbsp'
+  :crn: '21184'
+  :syl: ! '&nbsp'
+  :instructor: Marino, Joseph
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CHEM98699
+  :section: '25'
+  :title: Visiting Student Research
+  :credits: V
+  :status: OP
+  :max_spots: '5'
+  :open_spots: '5'
+  :xlst: ! '&nbsp'
+  :crn: '21628'
+  :syl: ! '&nbsp'
+  :instructor: Miller, Marvin
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CHEM98699
+  :section: '26'
+  :title: Visiting Student Research
+  :credits: V
+  :status: OP
+  :max_spots: '5'
+  :open_spots: '5'
+  :xlst: ! '&nbsp'
+  :crn: '20329'
+  :syl: ! '&nbsp'
+  :instructor: Mobashery, Shahriar
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CHEM98699
+  :section: '28'
+  :title: Visiting Student Research
+  :credits: V
+  :status: OP
+  :max_spots: '5'
+  :open_spots: '5'
+  :xlst: ! '&nbsp'
+  :crn: '21253'
+  :syl: ! '&nbsp'
+  :instructor: Peng, Jeffrey
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CHEM98699
+  :section: '29'
+  :title: Visiting Student Research
+  :credits: V
+  :status: OP
+  :max_spots: '5'
+  :open_spots: '5'
+  :xlst: ! '&nbsp'
+  :crn: '21719'
+  :syl: ! '&nbsp'
+  :instructor: Scheidt, W. Robert
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CHEM98699
+  :section: '30'
+  :title: Visiting Student Research
+  :credits: V
+  :status: OP
+  :max_spots: '5'
+  :open_spots: '5'
+  :xlst: ! '&nbsp'
+  :crn: '24416'
+  :syl: ! '&nbsp'
+  :instructor: Schultz, Zachary
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CHEM98699
+  :section: '31'
+  :title: Visiting Student Research
+  :credits: V
+  :status: OP
+  :max_spots: '5'
+  :open_spots: '5'
+  :xlst: ! '&nbsp'
+  :crn: '20094'
+  :syl: ! '&nbsp'
+  :instructor: Serianni, Anthony
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CHEM98699
+  :section: '32'
+  :title: Visiting Student Research
+  :credits: V
+  :status: OP
+  :max_spots: '5'
+  :open_spots: '5'
+  :xlst: ! '&nbsp'
+  :crn: '21759'
+  :syl: ! '&nbsp'
+  :instructor: Sevov, Slavi
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CHEM98699
+  :section: '33'
+  :title: Visiting Student Research
+  :credits: V
+  :status: OP
+  :max_spots: '5'
+  :open_spots: '5'
+  :xlst: ! '&nbsp'
+  :crn: '21775'
+  :syl: ! '&nbsp'
+  :instructor: Smith, Bradley
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CHEM98699
+  :section: '34'
+  :title: Visiting Student Research
+  :credits: V
+  :status: OP
+  :max_spots: '5'
+  :open_spots: '5'
+  :xlst: ! '&nbsp'
+  :crn: '25133'
+  :syl: ! '&nbsp'
+  :instructor: Tao, Franklin
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CHEM98699
+  :section: '35'
+  :title: Visiting Student Research
+  :credits: V
+  :status: OP
+  :max_spots: '5'
+  :open_spots: '5'
+  :xlst: ! '&nbsp'
+  :crn: '21079'
+  :syl: ! '&nbsp'
+  :instructor: Taylor, Richard
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CHEM98699
+  :section: '36'
+  :title: Visiting Student Research
+  :credits: V
+  :status: OP
+  :max_spots: '5'
+  :open_spots: '5'
+  :xlst: ! '&nbsp'
+  :crn: '20838'
+  :syl: ! '&nbsp'
+  :instructor: Wiest, Olaf
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CHEM98699
+  :section: '37'
+  :title: Visiting Student Research
+  :credits: V
+  :status: OP
+  :max_spots: '5'
+  :open_spots: '5'
+  :xlst: ! '&nbsp'
+  :crn: '22790'
+  :syl: ! '&nbsp'
+  :instructor: Schneider, William
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CHEM98699
+  :section: '38'
+  :title: Visiting Student Research
+  :credits: V
+  :status: OP
+  :max_spots: '5'
+  :open_spots: '5'
+  :xlst: ! '&nbsp'
+  :crn: '25883'
+  :syl: ! '&nbsp'
+  :instructor: Gao, Haifeng
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CHEM98699
+  :section: '39'
+  :title: Visiting Student Research
+  :credits: V
+  :status: OP
+  :max_spots: '5'
+  :open_spots: '5'
+  :xlst: ! '&nbsp'
+  :crn: '25884'
+  :syl: ! '&nbsp'
+  :instructor: Iluc, Vlad
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CHEM98699
+  :section: '40'
+  :title: Visiting Student Research
+  :credits: V
+  :status: OP
+  :max_spots: '5'
+  :open_spots: '5'
+  :xlst: ! '&nbsp'
+  :crn: '25885'
+  :syl: ! '&nbsp'
+  :instructor: Stack, Sharon
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CHEM98699
+  :section: '41'
+  :title: Visiting Student Research
+  :credits: V
+  :status: OP
+  :max_spots: '5'
+  :open_spots: '5'
+  :xlst: ! '&nbsp'
+  :crn: '29007'
+  :syl: ! '&nbsp'
+  :instructor: Littlepage, Laurie
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CHEM98700
+  :section: '01'
+  :title: Nonresident Dissertation Rsrch
+  :credits: V
+  :status: OP
+  :max_spots: '5'
+  :open_spots: '5'
+  :xlst: ! '&nbsp'
+  :crn: '23672'
+  :syl: ! '&nbsp'
+  :instructor: Ashfeld, Brandon
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CHEM98700
+  :section: '02'
+  :title: Nonresident Dissertation Rsrch
+  :credits: V
+  :status: OP
+  :max_spots: '5'
+  :open_spots: '5'
+  :xlst: ! '&nbsp'
+  :crn: '21133'
+  :syl: ! '&nbsp'
+  :instructor: Baker, Brian
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CHEM98700
+  :section: '03'
+  :title: Nonresident Dissertation Rsrch
+  :credits: V
+  :status: OP
+  :max_spots: '5'
+  :open_spots: '5'
+  :xlst: ! '&nbsp'
+  :crn: '21702'
+  :syl: ! '&nbsp'
+  :instructor: Brown, Seth
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CHEM98700
+  :section: '04'
+  :title: Nonresident Dissertation Rsrch
+  :credits: V
+  :status: OP
+  :max_spots: '5'
+  :open_spots: '5'
+  :xlst: ! '&nbsp'
+  :crn: '22498'
+  :syl: ! '&nbsp'
+  :instructor: Carmichael, Ian
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CHEM98700
+  :section: '05'
+  :title: Nonresident Dissertation Rsrch
+  :credits: V
+  :status: OP
+  :max_spots: '5'
+  :open_spots: '5'
+  :xlst: ! '&nbsp'
+  :crn: '20350'
+  :syl: ! '&nbsp'
+  :instructor: Castellino, Francis
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CHEM98700
+  :section: '06'
+  :title: Nonresident Dissertation Rsrch
+  :credits: V
+  :status: OP
+  :max_spots: '5'
+  :open_spots: '5'
+  :xlst: ! '&nbsp'
+  :crn: '21436'
+  :syl: ! '&nbsp'
+  :instructor: Clark, Patricia
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CHEM98700
+  :section: '07'
+  :title: Nonresident Dissertation Rsrch
+  :credits: V
+  :status: OP
+  :max_spots: '5'
+  :open_spots: '5'
+  :xlst: ! '&nbsp'
+  :crn: '22499'
+  :syl: ! '&nbsp'
+  :instructor: Corcelli, Steven
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CHEM98700
+  :section: 08
+  :title: Nonresident Dissertation Rsrch
+  :credits: V
+  :status: OP
+  :max_spots: '5'
+  :open_spots: '5'
+  :xlst: ! '&nbsp'
+  :crn: '20564'
+  :syl: ! '&nbsp'
+  :instructor: Creary, Xavier
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CHEM98700
+  :section: 09
+  :title: Nonresident Dissertation Rsrch
+  :credits: V
+  :status: OP
+  :max_spots: '5'
+  :open_spots: '5'
+  :xlst: ! '&nbsp'
+  :crn: '25137'
+  :syl: ! '&nbsp'
+  :instructor: Dovichi, Norman
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CHEM98700
+  :section: '11'
+  :title: Nonresident Dissertation Rsrch
+  :credits: V
+  :status: OP
+  :max_spots: '5'
+  :open_spots: '5'
+  :xlst: ! '&nbsp'
+  :crn: '21441'
+  :syl: ! '&nbsp'
+  :instructor: Gezelter, J. Daniel
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CHEM98700
+  :section: '12'
+  :title: Nonresident Dissertation Rsrch
+  :credits: V
+  :status: OP
+  :max_spots: '5'
+  :open_spots: '5'
+  :xlst: ! '&nbsp'
+  :crn: '21422'
+  :syl: ! '&nbsp'
+  :instructor: Goodson, Holly
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CHEM98700
+  :section: '13'
+  :title: Nonresident Dissertation Rsrch
+  :credits: V
+  :status: OP
+  :max_spots: '5'
+  :open_spots: '5'
+  :xlst: ! '&nbsp'
+  :crn: '21279'
+  :syl: ! '&nbsp'
+  :instructor: Hartland, Gregory
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CHEM98700
+  :section: '14'
+  :title: Nonresident Dissertation Rsrch
+  :credits: V
+  :status: OP
+  :max_spots: '5'
+  :open_spots: '5'
+  :xlst: ! '&nbsp'
+  :crn: '20554'
+  :syl: ! '&nbsp'
+  :instructor: Helquist, Paul
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CHEM98700
+  :section: '15'
+  :title: Nonresident Dissertation Rsrch
+  :credits: V
+  :status: OP
+  :max_spots: '5'
+  :open_spots: '5'
+  :xlst: ! '&nbsp'
+  :crn: '20727'
+  :syl: ! '&nbsp'
+  :instructor: Henderson, Kenneth
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CHEM98700
+  :section: '16'
+  :title: Nonresident Dissertation Rsrch
+  :credits: V
+  :status: OP
+  :max_spots: '5'
+  :open_spots: '5'
+  :xlst: ! '&nbsp'
+  :crn: '20786'
+  :syl: ! '&nbsp'
+  :instructor: Huber, Paul
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CHEM98700
+  :section: '17'
+  :title: Nonresident Dissertation Rsrch
+  :credits: V
+  :status: OP
+  :max_spots: '5'
+  :open_spots: '5'
+  :xlst: ! '&nbsp'
+  :crn: '24417'
+  :syl: ! '&nbsp'
+  :instructor: Hummon, Amanda
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CHEM98700
+  :section: '19'
+  :title: Nonresident Dissertation Rsrch
+  :credits: V
+  :status: OP
+  :max_spots: '5'
+  :open_spots: '5'
+  :xlst: ! '&nbsp'
+  :crn: '22500'
+  :syl: ! '&nbsp'
+  :instructor: Kamat, Prashant
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CHEM98700
+  :section: '20'
+  :title: Nonresident Dissertation Rsrch
+  :credits: V
+  :status: OP
+  :max_spots: '5'
+  :open_spots: '5'
+  :xlst: ! '&nbsp'
+  :crn: '21158'
+  :syl: ! '&nbsp'
+  :instructor: Kandel, S. Alex
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CHEM98700
+  :section: '21'
+  :title: Nonresident Dissertation Rsrch
+  :credits: V
+  :status: OP
+  :max_spots: '5'
+  :open_spots: '5'
+  :xlst: ! '&nbsp'
+  :crn: '21368'
+  :syl: ! '&nbsp'
+  :instructor: Kuno, Masaru
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CHEM98700
+  :section: '22'
+  :title: Nonresident Dissertation Rsrch
+  :credits: V
+  :status: OP
+  :max_spots: '5'
+  :open_spots: '5'
+  :xlst: ! '&nbsp'
+  :crn: '20029'
+  :syl: ! '&nbsp'
+  :instructor: Lappin, Alexander
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CHEM98700
+  :section: '23'
+  :title: Nonresident Dissertation Rsrch
+  :credits: V
+  :status: OP
+  :max_spots: '5'
+  :open_spots: '5'
+  :xlst: ! '&nbsp'
+  :crn: '21403'
+  :syl: ! '&nbsp'
+  :instructor: Lieberman, Marya
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CHEM98700
+  :section: '24'
+  :title: Nonresident Dissertation Rsrch
+  :credits: V
+  :status: OP
+  :max_spots: '5'
+  :open_spots: '5'
+  :xlst: ! '&nbsp'
+  :crn: '21638'
+  :syl: ! '&nbsp'
+  :instructor: Marino, Joseph
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CHEM98700
+  :section: '25'
+  :title: Nonresident Dissertation Rsrch
+  :credits: V
+  :status: OP
+  :max_spots: '5'
+  :open_spots: '5'
+  :xlst: ! '&nbsp'
+  :crn: '20343'
+  :syl: ! '&nbsp'
+  :instructor: Miller, Marvin
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CHEM98700
+  :section: '26'
+  :title: Nonresident Dissertation Rsrch
+  :credits: V
+  :status: OP
+  :max_spots: '5'
+  :open_spots: '5'
+  :xlst: ! '&nbsp'
+  :crn: '21561'
+  :syl: ! '&nbsp'
+  :instructor: Mobashery, Shahriar
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CHEM98700
+  :section: '28'
+  :title: Nonresident Dissertation Rsrch
+  :credits: V
+  :status: OP
+  :max_spots: '5'
+  :open_spots: '5'
+  :xlst: ! '&nbsp'
+  :crn: '20057'
+  :syl: ! '&nbsp'
+  :instructor: Peng, Jeffrey
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CHEM98700
+  :section: '29'
+  :title: Nonresident Dissertation Rsrch
+  :credits: V
+  :status: OP
+  :max_spots: '5'
+  :open_spots: '5'
+  :xlst: ! '&nbsp'
+  :crn: '20618'
+  :syl: ! '&nbsp'
+  :instructor: Scheidt, W. Robert
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CHEM98700
+  :section: '30'
+  :title: Nonresident Dissertation Rsrch
+  :credits: V
+  :status: OP
+  :max_spots: '5'
+  :open_spots: '5'
+  :xlst: ! '&nbsp'
+  :crn: '24418'
+  :syl: ! '&nbsp'
+  :instructor: Schultz, Zachary
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CHEM98700
+  :section: '31'
+  :title: Nonresident Dissertation Rsrch
+  :credits: V
+  :status: OP
+  :max_spots: '5'
+  :open_spots: '5'
+  :xlst: ! '&nbsp'
+  :crn: '20650'
+  :syl: ! '&nbsp'
+  :instructor: Serianni, Anthony
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CHEM98700
+  :section: '32'
+  :title: Nonresident Dissertation Rsrch
+  :credits: V
+  :status: OP
+  :max_spots: '5'
+  :open_spots: '5'
+  :xlst: ! '&nbsp'
+  :crn: '21724'
+  :syl: ! '&nbsp'
+  :instructor: Sevov, Slavi
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CHEM98700
+  :section: '33'
+  :title: Nonresident Dissertation Rsrch
+  :credits: V
+  :status: OP
+  :max_spots: '5'
+  :open_spots: '5'
+  :xlst: ! '&nbsp'
+  :crn: '20934'
+  :syl: ! '&nbsp'
+  :instructor: Smith, Bradley
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CHEM98700
+  :section: '34'
+  :title: Nonresident Dissertation Rsrch
+  :credits: V
+  :status: OP
+  :max_spots: '5'
+  :open_spots: '5'
+  :xlst: ! '&nbsp'
+  :crn: '25136'
+  :syl: ! '&nbsp'
+  :instructor: Tao, Franklin
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CHEM98700
+  :section: '35'
+  :title: Nonresident Dissertation Rsrch
+  :credits: V
+  :status: OP
+  :max_spots: '5'
+  :open_spots: '5'
+  :xlst: ! '&nbsp'
+  :crn: '20133'
+  :syl: ! '&nbsp'
+  :instructor: Taylor, Richard
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CHEM98700
+  :section: '36'
+  :title: Nonresident Dissertation Rsrch
+  :credits: V
+  :status: OP
+  :max_spots: '5'
+  :open_spots: '5'
+  :xlst: ! '&nbsp'
+  :crn: '21580'
+  :syl: ! '&nbsp'
+  :instructor: Wiest, Olaf
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CHEM98700
+  :section: '37'
+  :title: Nonresident Dissertation Rsrch
+  :credits: V
+  :status: OP
+  :max_spots: '5'
+  :open_spots: '5'
+  :xlst: ! '&nbsp'
+  :crn: '22791'
+  :syl: ! '&nbsp'
+  :instructor: Schneider, William
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CHEM98700
+  :section: '38'
+  :title: Nonresident Dissertation Rsrch
+  :credits: V
+  :status: OP
+  :max_spots: '5'
+  :open_spots: '5'
+  :xlst: ! '&nbsp'
+  :crn: '25886'
+  :syl: ! '&nbsp'
+  :instructor: Gao, Haifeng
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CHEM98700
+  :section: '39'
+  :title: Nonresident Dissertation Rsrch
+  :credits: V
+  :status: OP
+  :max_spots: '5'
+  :open_spots: '5'
+  :xlst: ! '&nbsp'
+  :crn: '25888'
+  :syl: ! '&nbsp'
+  :instructor: Iluc, Vlad
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CHEM98700
+  :section: '40'
+  :title: Nonresident Dissertation Rsrch
+  :credits: V
+  :status: OP
+  :max_spots: '5'
+  :open_spots: '5'
+  :xlst: ! '&nbsp'
+  :crn: '25887'
+  :syl: ! '&nbsp'
+  :instructor: Stack, Sharon
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CHEM98700
+  :section: '41'
+  :title: Nonresident Dissertation Rsrch
+  :credits: V
+  :status: OP
+  :max_spots: '5'
+  :open_spots: '5'
+  :xlst: ! '&nbsp'
+  :crn: '29008'
+  :syl: ! '&nbsp'
+  :instructor: Littlepage, Laurie
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA

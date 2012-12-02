@@ -1,0 +1,441 @@
+---
+- !ruby/object:Course
+  name: Surficial Processes
+  credit: '3'
+  coursenum: ENVG30300
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '7'
+    max_spots: '10'
+    crn: '21091'
+    instructor: Simonetti, Stefanie
+    time: M W F  - 10:40A - 11:30A
+    location: TBA
+- !ruby/object:Course
+  name: Structural Geolgy/Rock Mechnic
+  credit: '3'
+  coursenum: ENVG30400
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '8'
+    max_spots: '12'
+    crn: '23900'
+    instructor: Simonetti, Stefanie
+    time: T R  - 11:00A - 12:15P
+    location: TBA
+- !ruby/object:Course
+  name: Structural Geo/Rock Mech
+  credit: '1'
+  coursenum: ENVG31400
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '8'
+    max_spots: '12'
+    crn: '23899'
+    instructor: Simonetti, Stefanie
+    time: F  - 11:31A - 1:30P
+    location: TBA
+- !ruby/object:Course
+  name: Envrmntl Impact of Rsrc Utltzn
+  credit: '3'
+  coursenum: ENVG40310
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '8'
+    max_spots: '15'
+    crn: '28935'
+    instructor: Neal, Clive
+    time: T R  - 2:00P - 3:15P
+    location: TBA
+- !ruby/object:Course
+  name: Environ Surfaces & Interfaces
+  credit: '3'
+  coursenum: ENVG40340
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '6'
+    max_spots: '15'
+    crn: '22442'
+    instructor: Maurice, Patricia
+    time: M W  - 11:45A - 1:00P
+    location: TBA
+- !ruby/object:Course
+  name: Geomicrobiology
+  credit: '3'
+  coursenum: ENVG40360
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '8'
+    max_spots: '20'
+    crn: '22117'
+    instructor: Fein, Jeremy
+    time: M W  - 3:00P - 4:15P
+    location: TBA
+- !ruby/object:Course
+  name: Chem of Lanth and Actinides
+  credit: '3'
+  coursenum: ENVG40480
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '3'
+    max_spots: '10'
+    crn: '25492'
+    instructor: Burns, Peter
+    time: M W F  - 9:35A - 10:25A
+    location: TBA
+- !ruby/object:Course
+  name: Field Trip
+  credit: '1'
+  coursenum: ENVG45200
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '9'
+    max_spots: '15'
+    crn: '20188'
+    instructor: Simonetti, Antonio Burns, Peter
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Special Studies
+  credit: V
+  coursenum: ENVG47600
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '20744'
+    instructor: Burns, Peter
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '20027'
+    instructor: TBA
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '03'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '20566'
+    instructor: Neal, Clive
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '04'
+    open_spots: '19'
+    max_spots: '19'
+    crn: '21470'
+    instructor: Fein, Jeremy
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '05'
+    open_spots: '20'
+    max_spots: '20'
+    crn: '21620'
+    instructor: Maurice, Patricia
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: 08
+    open_spots: '10'
+    max_spots: '10'
+    crn: '22120'
+    instructor: TBA
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Undergraduate Research
+  credit: V
+  coursenum: ENVG48600
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20277'
+    instructor: TBA
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20904'
+    instructor: Fein, Jeremy
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '03'
+    open_spots: '9'
+    max_spots: '10'
+    crn: '21143'
+    instructor: Burns, Peter
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '04'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '21019'
+    instructor: Neal, Clive
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '05'
+    open_spots: '20'
+    max_spots: '20'
+    crn: '21615'
+    instructor: Maurice, Patricia
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: 09
+    open_spots: '10'
+    max_spots: '10'
+    crn: '22118'
+    instructor: Simonetti, Antonio
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '10'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '25660'
+    instructor: TBA
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Environ Surfaces & Interfaces
+  credit: '3'
+  coursenum: ENVG60340
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '22785'
+    instructor: Maurice, Patricia
+    time: M W  - 11:45A - 1:00P
+    location: TBA
+- !ruby/object:Course
+  name: Geomicrobiology
+  credit: '3'
+  coursenum: ENVG60360
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '22786'
+    instructor: Fein, Jeremy
+    time: M W  - 3:00P - 4:15P
+    location: TBA
+- !ruby/object:Course
+  name: Chem of Lanth and Actinides
+  credit: '3'
+  coursenum: ENVG60480
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '20'
+    max_spots: '20'
+    crn: '25546'
+    instructor: Burns, Peter
+    time: M W F  - 9:35A - 10:25A
+    location: TBA
+- !ruby/object:Course
+  name: Special Studies
+  credit: V
+  coursenum: ENVG67600
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20299'
+    instructor: Neal, Clive
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20339'
+    instructor: Fein, Jeremy
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '03'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20845'
+    instructor: Burns, Peter
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '04'
+    open_spots: '20'
+    max_spots: '20'
+    crn: '21128'
+    instructor: TBA
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '05'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '21810'
+    instructor: Maurice, Patricia
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: 08
+    open_spots: '10'
+    max_spots: '10'
+    crn: '22119'
+    instructor: Simonetti, Antonio
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: 09
+    open_spots: '10'
+    max_spots: '10'
+    crn: '25661'
+    instructor: TBA
+    time: TBA
+    location: TBA
+13
+  :location: TBA
+- :course: ENVG60480
+  :section: '01'
+  :title: Chem of Lanth and Actinides
+  :credits: '3'
+  :status: OP
+  :max_spots: '20'
+  :open_spots: '20'
+  :xlst: Y
+  :crn: '25546'
+  :syl: ! '&nbsp'
+  :instructor: Burns, Peter
+  :when: M W F  - 9:35A - 10:25A
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: ENVG67600
+  :section: '01'
+  :title: Special Studies
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '20299'
+  :syl: ! '&nbsp'
+  :instructor: Neal, Clive
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: ENVG67600
+  :section: '02'
+  :title: Special Studies
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '20339'
+  :syl: ! '&nbsp'
+  :instructor: Fein, Jeremy
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: ENVG67600
+  :section: '03'
+  :title: Special Studies
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '20845'
+  :syl: ! '&nbsp'
+  :instructor: Burns, Peter
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: ENVG67600
+  :section: '04'
+  :title: Special Studies
+  :credits: V
+  :status: OP
+  :max_spots: '20'
+  :open_spots: '20'
+  :xlst: ! '&nbsp'
+  :crn: '21128'
+  :syl: ! '&nbsp'
+  :instructor: TBA
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: ENVG67600
+  :section: '05'
+  :title: Special Studies
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '21810'
+  :syl: ! '&nbsp'
+  :instructor: Maurice, Patricia
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: ENVG67600
+  :section: 08
+  :title: Special Studies
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '22119'
+  :syl: ! '&nbsp'
+  :instructor: Simonetti, Antonio
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: ENVG67600
+  :section: 09
+  :title: Special Studies
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '25661'
+  :syl: ! '&nbsp'
+  :instructor: TBA
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA

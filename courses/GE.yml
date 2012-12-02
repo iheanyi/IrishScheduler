@@ -1,0 +1,350 @@
+---
+- !ruby/object:Course
+  name: Beginning German I
+  credit: '4'
+  coursenum: GE10101
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '1'
+    max_spots: '17'
+    crn: '20511'
+    instructor: Dutt, Carsten
+    time: ! "(1) M W F  - 10:40A - 11:30A\r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\r\n\t\t\t
+      \  \t\t\r\n\t\t\t   \t  \r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\t(2) T  - 9:30A
+      - 10:20A"
+    location: ! "O'Shaughnessy Hall 201 \r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\t\r\n\t\t\t\t
+      \  \t\r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\tO'Shaughnessy Hall 207"
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '9'
+    max_spots: '19'
+    crn: '22525'
+    instructor: DellaRossa, Denise
+    time: ! "(1) M W F  - 1:55P - 2:45P\r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\r\n\t\t\t
+      \  \t\t\r\n\t\t\t   \t  \r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\t(2) T  - 2:00P
+      - 2:50P"
+    location: ! "O'Shaughnessy Hall 204 \r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\t\r\n\t\t\t\t
+      \  \t\r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\tEdward J. DeBartolo Hall 303"
+- !ruby/object:Course
+  name: Beginning German II
+  credit: '4'
+  coursenum: GE10102
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '7'
+    max_spots: '19'
+    crn: '21289'
+    instructor: DellaRossa, Denise
+    time: ! "(1) M W F  - 10:40A - 11:30A\r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\r\n\t\t\t
+      \  \t\t\r\n\t\t\t   \t  \r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\t(2) T  - 9:30A
+      - 10:20A"
+    location: ! "O'Shaughnessy Hall 338 \r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\t\r\n\t\t\t\t
+      \  \t\r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\tO'Shaughnessy Hall 206"
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '10'
+    max_spots: '19'
+    crn: '20357'
+    instructor: Jones, Claire
+    time: ! "(1) M W F  - 1:55P - 2:45P\r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\r\n\t\t\t
+      \  \t\t\r\n\t\t\t   \t  \r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\t(2) T  - 2:00P
+      - 2:50P"
+    location: ! "O'Shaughnessy Hall 345 \r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\t\r\n\t\t\t\t
+      \  \t\r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\tO'Shaughnessy Hall 209"
+- !ruby/object:Course
+  name: Intensive Beginning German II
+  credit: '6'
+  coursenum: GE10112
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '4'
+    max_spots: '15'
+    crn: '21819'
+    instructor: Weber, Hannelore
+    time: ! "(1) M W F  - 10:40A - 11:30A\r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\r\n\t\t\t
+      \  \t\t\r\n\t\t\t   \t  \r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\t(2) T R  -
+      11:00A - 12:15P"
+    location: ! "O'Shaughnessy Hall 204 \r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\t\r\n\t\t\t\t
+      \  \t\r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\tO'Shaughnessy Hall 345"
+- !ruby/object:Course
+  name: Intermediate German I
+  credit: '3'
+  coursenum: GE20201
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '1'
+    max_spots: '16'
+    crn: '21008'
+    instructor: Gallagher, Maureen
+    time: M W F  - 10:40A - 11:30A
+    location: O'Shaughnessy Hall 345
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '9'
+    max_spots: '16'
+    crn: '28663'
+    instructor: Boes, Tobias
+    time: M W F  - 3:00P - 3:50P
+    location: O'Shaughnessy Hall 338
+- !ruby/object:Course
+  name: Intermediate German II
+  credit: '3'
+  coursenum: GE20202
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '10'
+    max_spots: '19'
+    crn: '20894'
+    instructor: Weber, Hannelore
+    time: M W F  - 3:00P - 3:50P
+    location: O'Shaughnessy Hall 207
+- !ruby/object:Course
+  name: Intensive Inter German II
+  credit: '3'
+  coursenum: GE20222
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '8'
+    max_spots: '10'
+    crn: '29636'
+    instructor: Weber, Hannelore
+    time: T R  - 12:30P - 1:45P
+    location: O'Shaughnessy Hall 345
+- !ruby/object:Course
+  name: Advanced Comp. & Conv.
+  credit: '3'
+  coursenum: GE30104
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '14'
+    crn: '26168'
+    instructor: Jones, Claire
+    time: M W F  - 3:00P - 3:50P
+    location: O'Shaughnessy Hall 206
+- !ruby/object:Course
+  name: Intro GE Lit and Culture
+  credit: '3'
+  coursenum: GE30204
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '2'
+    max_spots: '15'
+    crn: '28665'
+    instructor: Dutt, Carsten
+    time: M W F  - 9:35A - 10:25A
+    location: Theodore M. Hesburgh Library 1000
+- !ruby/object:Course
+  name: Modern Germany Since 1871
+  credit: '3'
+  coursenum: GE30465
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '3'
+    crn: '25407'
+    instructor: Morgan, Stephen
+    time: T R  - 12:30P - 1:45P
+    location: Edward J. DeBartolo Hall 349
+- !ruby/object:Course
+  name: ! 'Richard Wagner: Artwork of Fut'
+  credit: '3'
+  coursenum: GE40103
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '10'
+    crn: '29742'
+    instructor: Boes, Tobias
+    time: M W  - 1:30P - 2:45P
+    location: Main Building 404
+- !ruby/object:Course
+  name: Max Kade Seminar
+  credit: '3'
+  coursenum: GE43400
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '6'
+    max_spots: '8'
+    crn: '24647'
+    instructor: Doering, Sabine
+    time: T R  - 3:30P - 5:30P
+    location: Edward J. DeBartolo Hall 347
+- !ruby/object:Course
+  name: Special Studies
+  credit: V
+  coursenum: GE47498
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '1'
+    crn: '23516'
+    instructor: DellaRossa, Denise
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Senior Thesis
+  credit: V
+  coursenum: GE48499
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '1'
+    max_spots: '1'
+    crn: '23874'
+    instructor: DellaRossa, Denise
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '1'
+    max_spots: '1'
+    crn: '24786'
+    instructor: Boes, Tobias
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Beginning German
+  credit: '4'
+  coursenum: GE60101
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '2'
+    max_spots: '3'
+    crn: '27079'
+    instructor: Dutt, Carsten
+    time: ! "(1) M W F  - 10:40A - 11:30A\r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\r\n\t\t\t
+      \  \t\t\r\n\t\t\t   \t  \r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\t(2) T  - 9:30A
+      - 10:20A"
+    location: ! "O'Shaughnessy Hall 201 \r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\t\r\n\t\t\t\t
+      \  \t\r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\tO'Shaughnessy Hall 207"
+- !ruby/object:Course
+  name: Intensive Beginning German II
+  credit: '6'
+  coursenum: GE90112
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '3'
+    max_spots: '3'
+    crn: '23509'
+    instructor: Weber, Hannelore
+    time: ! "(1) M W F  - 10:40A - 11:30A\r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\r\n\t\t\t
+      \  \t\t\r\n\t\t\t   \t  \r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\t(2) T R  -
+      11:00A - 12:15P"
+    location: ! "O'Shaughnessy Hall 204 \r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\t\r\n\t\t\t\t
+      \  \t\r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\tO'Shaughnessy Hall 345"
+- !ruby/object:Course
+  name: Max Kade Seminar
+  credit: '3'
+  coursenum: GE93400
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '3'
+    max_spots: '3'
+    crn: '25572'
+    instructor: Doering, Sabine
+    time: T R  - 3:30P - 5:30P
+    location: Edward J. DeBartolo Hall 347
+15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: GE48499
+  :section: '01'
+  :title: Senior Thesis
+  :credits: V
+  :status: OP
+  :max_spots: '1'
+  :open_spots: '1'
+  :xlst: ! '&nbsp'
+  :crn: '23874'
+  :syl: ! '&nbsp'
+  :instructor: DellaRossa, Denise
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: GE48499
+  :section: '02'
+  :title: Senior Thesis
+  :credits: V
+  :status: OP
+  :max_spots: '1'
+  :open_spots: '1'
+  :xlst: ! '&nbsp'
+  :crn: '24786'
+  :syl: ! '&nbsp'
+  :instructor: Boes, Tobias
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: GE60101
+  :section: '01'
+  :title: Beginning German
+  :credits: '4'
+  :status: OP
+  :max_spots: '3'
+  :open_spots: '2'
+  :xlst: Y
+  :crn: '27079'
+  :syl: ! '&nbsp'
+  :instructor: Dutt, Carsten
+  :when: ! "(1) M W F  - 10:40A - 11:30A\r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\r\n\t\t\t
+    \  \t\t\r\n\t\t\t   \t  \r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\t(2) T  - 9:30A
+    - 10:20A"
+  :begin: ! "(1) 01/15/2013\r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\r\n\t\t\t   \t\t\r\n\t\t\t
+    \  \t  \r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\t(2) 01/15/2013"
+  :end: ! "(1) 05/01/2013\r\n\t\t\t\t   \t\t\r\n\t\t\t   \t\t\r\n\t\t\t   \t\t\r\n\t\t\t
+    \  \t  \r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\t(2) 05/01/2013"
+  :location: ! "O'Shaughnessy Hall 201 \r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\t\r\n\t\t\t\t
+    \  \t\r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\tO'Shaughnessy Hall 207"
+- :course: GE90112
+  :section: '01'
+  :title: Intensive Beginning German II
+  :credits: '6'
+  :status: OP
+  :max_spots: '3'
+  :open_spots: '3'
+  :xlst: Y
+  :crn: '23509'
+  :syl: ! '&nbsp'
+  :instructor: Weber, Hannelore
+  :when: ! "(1) M W F  - 10:40A - 11:30A\r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\r\n\t\t\t
+    \  \t\t\r\n\t\t\t   \t  \r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\t(2) T R  - 11:00A
+    - 12:15P"
+  :begin: ! "(1) 01/15/2013\r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\r\n\t\t\t   \t\t\r\n\t\t\t
+    \  \t  \r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\t(2) 01/15/2013"
+  :end: ! "(1) 05/01/2013\r\n\t\t\t\t   \t\t\r\n\t\t\t   \t\t\r\n\t\t\t   \t\t\r\n\t\t\t
+    \  \t  \r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\t(2) 05/01/2013"
+  :location: ! "O'Shaughnessy Hall 204 \r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\t\r\n\t\t\t\t
+    \  \t\r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\tO'Shaughnessy Hall 345"
+- :course: GE93400
+  :section: '01'
+  :title: Max Kade Seminar
+  :credits: '3'
+  :status: OP
+  :max_spots: '3'
+  :open_spots: '3'
+  :xlst: Y
+  :crn: '25572'
+  :syl: ! '&nbsp'
+  :instructor: Doering, Sabine
+  :when: T R  - 3:30P - 5:30P
+  :begin: 02/28/2013
+  :end: 05/01/2013
+  :location: Edward J. DeBartolo Hall 347

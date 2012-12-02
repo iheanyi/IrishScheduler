@@ -1,0 +1,43 @@
+---
+- !ruby/object:Course
+  name: Chinese Civilization & Culture
+  credit: '3'
+  coursenum: ASIA20101
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '5'
+    crn: '29385'
+    instructor: Yang, Xiaoshan
+    time: T R  - 2:00P - 3:15P
+    location: Edward J. DeBartolo Hall 126
+- !ruby/object:Course
+  name: Immigration Global Perspective
+  credit: '3'
+  coursenum: ASIA30305
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '1'
+    crn: '28547'
+    instructor: Albahari, Maurizio
+    time: M W  - 1:30P - 2:45P
+    location: Flanner Hall 824
+- !ruby/object:Course
+  name: Capstone Thesis
+  credit: '3'
+  coursenum: ASIA48512
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '2'
+    crn: '25723'
+    instructor: Noble, Jonathan
+    time: TBA
+    location: TBA
+egin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA

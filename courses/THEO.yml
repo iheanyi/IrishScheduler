@@ -1,0 +1,4608 @@
+---
+- !ruby/object:Course
+  name: ! 'Found of Theo: Biblcl Historcl'
+  credit: '3'
+  coursenum: THEO10001
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '49'
+    crn: '20404'
+    instructor: Ehrman, Terrence
+    time: T R  - 9:30A - 10:45A
+    location: Edward J. DeBartolo Hall 208
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '0'
+    max_spots: '40'
+    crn: '23448'
+    instructor: Feder, Julia
+    time: T R  - 2:00P - 3:15P
+    location: Pasquerilla Center 112
+  - !ruby/object:Section
+    section_num: '03'
+    open_spots: '0'
+    max_spots: '40'
+    crn: '20596'
+    instructor: Feder, Julia
+    time: T R  - 3:30P - 4:45P
+    location: Pasquerilla Center 112
+  - !ruby/object:Section
+    section_num: '04'
+    open_spots: '0'
+    max_spots: '40'
+    crn: '20485'
+    instructor: Lee, Brian
+    time: T R  - 11:00A - 12:15P
+    location: O'Shaughnessy Hall 114
+  - !ruby/object:Section
+    section_num: '05'
+    open_spots: '0'
+    max_spots: '40'
+    crn: '20775'
+    instructor: Lee, Brian
+    time: T R  - 12:30P - 1:45P
+    location: O'Shaughnessy Hall 114
+  - !ruby/object:Section
+    section_num: '06'
+    open_spots: '0'
+    max_spots: '40'
+    crn: '20963'
+    instructor: Sehorn, John
+    time: M W F  - 12:50P - 1:40P
+    location: O'Shaughnessy Hall 204
+  - !ruby/object:Section
+    section_num: '07'
+    open_spots: '0'
+    max_spots: '40'
+    crn: '21013'
+    instructor: Sehorn, John
+    time: M W F  - 11:45A - 12:35P
+    location: O'Shaughnessy Hall 204
+  - !ruby/object:Section
+    section_num: 08
+    open_spots: '0'
+    max_spots: '40'
+    crn: '21494'
+    instructor: Sanders, Aaron
+    time: T R  - 2:00P - 3:15P
+    location: O'Shaughnessy Hall 116
+  - !ruby/object:Section
+    section_num: 09
+    open_spots: '3'
+    max_spots: '100'
+    crn: '21676'
+    instructor: Anderson, Gary
+    time: M W  - 10:40A - 11:30A
+    location: Edward J. DeBartolo Hall 141
+  - !ruby/object:Section
+    section_num: '10'
+    open_spots: '0'
+    max_spots: '40'
+    crn: '21586'
+    instructor: Sanders, Aaron
+    time: T R  - 3:30P - 4:45P
+    location: O'Shaughnessy Hall 116
+  - !ruby/object:Section
+    section_num: '11'
+    open_spots: '0'
+    max_spots: '40'
+    crn: '20219'
+    instructor: Rambau, Leonsi
+    time: T R  - 12:30P - 1:45P
+    location: O'Shaughnessy Hall 204
+  - !ruby/object:Section
+    section_num: '12'
+    open_spots: '0'
+    max_spots: '49'
+    crn: '21571'
+    instructor: Rowe, Eric
+    time: M W F  - 3:00P - 3:50P
+    location: Pasquerilla Center 112
+  - !ruby/object:Section
+    section_num: '13'
+    open_spots: '0'
+    max_spots: '49'
+    crn: '22152'
+    instructor: Rowe, Eric
+    time: M W F  - 1:55P - 2:45P
+    location: Pasquerilla Center 112
+- !ruby/object:Course
+  name: ! 'Found of Theo: Biblcl Historcl'
+  credit: '3'
+  coursenum: THEO10002
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '13'
+    max_spots: '49'
+    crn: '28858'
+    instructor: DeFrancis, James
+    time: M W F  - 10:40A - 11:30A
+    location: Pasquerilla Center 109
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '20'
+    max_spots: '40'
+    crn: '28860'
+    instructor: Rambau, Leonsi
+    time: T R  - 9:30A - 10:45A
+    location: Coleman Morse Center 330
+  - !ruby/object:Section
+    section_num: '03'
+    open_spots: '0'
+    max_spots: '49'
+    crn: '28859'
+    instructor: Cavadini, Catherine
+    time: T R  - 2:00P - 3:15P
+    location: Edward J. DeBartolo Hall 118
+- !ruby/object:Course
+  name: Discussion - Foundatns of Theo
+  credit: '0'
+  coursenum: THEO12001
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '1'
+    max_spots: '25'
+    crn: '28864'
+    instructor: Anderson, Gary
+    time: F  - 10:40A - 11:30A
+    location: Edward J. DeBartolo Hall 216
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '0'
+    max_spots: '25'
+    crn: '28862'
+    instructor: Anderson, Gary
+    time: F  - 10:40A - 11:30A
+    location: Edward J. DeBartolo Hall 245
+  - !ruby/object:Section
+    section_num: '03'
+    open_spots: '0'
+    max_spots: '25'
+    crn: '28863'
+    instructor: Anderson, Gary
+    time: F  - 10:40A - 11:30A
+    location: Edward J. DeBartolo Hall 244
+  - !ruby/object:Section
+    section_num: '04'
+    open_spots: '2'
+    max_spots: '25'
+    crn: '28861'
+    instructor: Anderson, Gary
+    time: F  - 10:40A - 11:30A
+    location: Edward J. DeBartolo Hall B011
+- !ruby/object:Course
+  name: ! 'Hnrs Fdt of Theo: Biblcl/Hist'
+  credit: '3'
+  coursenum: THEO13002
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '9'
+    max_spots: '19'
+    crn: '28866'
+    instructor: Odozor, Paulinus
+    time: T R  - 11:00A - 12:15P
+    location: O'Shaughnessy Hall 202
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '0'
+    max_spots: '19'
+    crn: '28865'
+    instructor: Moss, Candida
+    time: T R  - 12:30P - 1:45P
+    location: Coleman Morse Center 230
+- !ruby/object:Course
+  name: Theology University Seminar
+  credit: '3'
+  coursenum: THEO13183
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '-2'
+    max_spots: '14'
+    crn: '22012'
+    instructor: Zachman, Randall
+    time: T R  - 12:30P - 1:45P
+    location: Coleman Morse Center 234
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '-2'
+    max_spots: '14'
+    crn: '22013'
+    instructor: Arner, Neil
+    time: T R  - 12:30P - 1:45P
+    location: Edward A. Malloy Hall 320
+  - !ruby/object:Section
+    section_num: '03'
+    open_spots: '-2'
+    max_spots: '14'
+    crn: '22014'
+    instructor: Moss, Candida
+    time: T R  - 11:00A - 12:15P
+    location: Coleman Morse Center 230
+  - !ruby/object:Section
+    section_num: '04'
+    open_spots: '-2'
+    max_spots: '14'
+    crn: '22015'
+    instructor: Arner, Neil
+    time: T R  - 3:30P - 4:45P
+    location: Edward J. DeBartolo Hall 207
+  - !ruby/object:Section
+    section_num: '05'
+    open_spots: '-2'
+    max_spots: '14'
+    crn: '22016'
+    instructor: Walatka, Todd
+    time: T R  - 2:00P - 3:15P
+    location: Edward J. DeBartolo Hall 336
+  - !ruby/object:Section
+    section_num: '06'
+    open_spots: '-2'
+    max_spots: '14'
+    crn: '22017'
+    instructor: Driscoll, Michael
+    time: T R  - 2:00P - 3:15P
+    location: Haggar Hall B015
+- !ruby/object:Course
+  name: One Jesus & His Many Portraits
+  credit: '3'
+  coursenum: THEO20103
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '1'
+    max_spots: '46'
+    crn: '26005'
+    instructor: Meier, John
+    time: T R  - 9:30A - 10:45A
+    location: Pasquerilla Center 109
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '0'
+    max_spots: '2'
+    crn: '29150'
+    instructor: Meier, John
+    time: T R  - 9:30A - 10:45A
+    location: Pasquerilla Center 109
+- !ruby/object:Course
+  name: Bible, Black Church, Blues
+  credit: '3'
+  coursenum: THEO20112
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '41'
+    crn: '28867'
+    instructor: Page, Hugh
+    time: T R  - 12:30P - 1:45P
+    location: O'Shaughnessy Hall 109
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '0'
+    max_spots: '2'
+    crn: '29151'
+    instructor: Page, Hugh
+    time: T R  - 12:30P - 1:45P
+    location: O'Shaughnessy Hall 109
+- !ruby/object:Course
+  name: U.S. Latino Spirituality
+  credit: '3'
+  coursenum: THEO20206
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '23'
+    crn: '21978'
+    instructor: Groody, Daniel Elizondo, Virgilio
+    time: T R  - 11:00A - 12:15P
+    location: Edward J. DeBartolo Hall 117
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '0'
+    max_spots: '15'
+    crn: '28868'
+    instructor: Groody, Daniel Elizondo, Virgilio
+    time: T R  - 11:00A - 12:15P
+    location: Edward J. DeBartolo Hall 117
+- !ruby/object:Course
+  name: Eastern Churches
+  credit: '3'
+  coursenum: THEO20249
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '48'
+    crn: '25124'
+    instructor: Avvakumov, Yury Dunkle, Brian
+    time: T R  - 12:30P - 1:45P
+    location: Edward J. DeBartolo Hall 216
+- !ruby/object:Course
+  name: The Catholic Faith
+  credit: '3'
+  coursenum: THEO20251
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '95'
+    crn: '25426'
+    instructor: Cavadini, John
+    time: T R  - 9:30A - 10:45A
+    location: Edward J. DeBartolo Hall 138
+- !ruby/object:Course
+  name: Christ, Nature & Ends of Wrld
+  credit: '3'
+  coursenum: THEO20255
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '1'
+    max_spots: '47'
+    crn: '28870'
+    instructor: Young, Robin
+    time: T R  - 11:00A - 12:15P
+    location: Edward J. DeBartolo Hall 125
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '0'
+    max_spots: '2'
+    crn: '29152'
+    instructor: Young, Robin
+    time: T R  - 11:00A - 12:15P
+    location: Edward J. DeBartolo Hall 125
+- !ruby/object:Course
+  name: Chrstn Initiation & Eucharist
+  credit: '3'
+  coursenum: THEO20412
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '49'
+    crn: '28871'
+    instructor: Johnson, Maxwell
+    time: M W  - 11:45A - 1:00P
+    location: Edward J. DeBartolo Hall 209
+- !ruby/object:Course
+  name: Savoring the Mystery
+  credit: '3'
+  coursenum: THEO20420
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '60'
+    crn: '28872'
+    instructor: O'Malley, Timothy
+    time: M W  - 3:00P - 4:15P
+    location: Edward J. DeBartolo Hall 131
+- !ruby/object:Course
+  name: Christian Rituals & Culture
+  credit: '3'
+  coursenum: THEO20421
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '49'
+    crn: '29153'
+    instructor: McGowan, Anne
+    time: M W F  - 1:55P - 2:45P
+    location: Pasquerilla Center 109
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '1'
+    max_spots: '49'
+    crn: '29154'
+    instructor: McGowan, Anne
+    time: M W F  - 3:00P - 3:50P
+    location: Pasquerilla Center 109
+- !ruby/object:Course
+  name: Intro to Catholic Moral Theo
+  credit: '3'
+  coursenum: THEO20605
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '40'
+    crn: '24541'
+    instructor: Elliot, David
+    time: T R  - 2:00P - 3:15P
+    location: O'Shaughnessy Hall 117
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '0'
+    max_spots: '40'
+    crn: '28873'
+    instructor: Elliot, David
+    time: T R  - 3:30P - 4:45P
+    location: O'Shaughnessy Hall 117
+- !ruby/object:Course
+  name: Rich, Poor, and War
+  credit: '3'
+  coursenum: THEO20619
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '36'
+    crn: '26009'
+    instructor: Whitmore, Todd
+    time: T R  - 12:30P - 1:45P
+    location: Pasquerilla Center 112
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '0'
+    max_spots: '3'
+    crn: '26953'
+    instructor: Whitmore, Todd
+    time: T R  - 12:30P - 1:45P
+    location: Pasquerilla Center 112
+- !ruby/object:Course
+  name: Biomedical Ethics
+  credit: '3'
+  coursenum: THEO20637
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '22'
+    max_spots: '46'
+    crn: '28874'
+    instructor: McKenny, Gerald
+    time: M W  - 10:40A - 11:30A
+    location: Edward J. DeBartolo Hall 117
+- !ruby/object:Course
+  name: Theology of Nature
+  credit: '3'
+  coursenum: THEO20658
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '1'
+    max_spots: '49'
+    crn: '28875'
+    instructor: Dolcich-Ashley, Anselma
+    time: M W F  - 9:35A - 10:25A
+    location: Pasquerilla Center 109
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '0'
+    max_spots: '49'
+    crn: '28876'
+    instructor: Dolcich-Ashley, Anselma
+    time: M W F  - 10:40A - 11:30A
+    location: O'Shaughnessy Hall 242
+  - !ruby/object:Section
+    section_num: '03'
+    open_spots: '0'
+    max_spots: '2'
+    crn: '29155'
+    instructor: Dolcich-Ashley, Anselma
+    time: M W F  - 9:35A - 10:25A
+    location: Pasquerilla Center 109
+- !ruby/object:Course
+  name: Theo, Disability, and Dependen
+  credit: '3'
+  coursenum: THEO20801
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '1'
+    max_spots: '49'
+    crn: '29156'
+    instructor: Romero, Miguel
+    time: T R  - 9:30A - 10:45A
+    location: Edward J. DeBartolo Hall 209
+- !ruby/object:Course
+  name: World Religns & Cath in Dialg
+  credit: '3'
+  coursenum: THEO20825
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '32'
+    crn: '22316'
+    instructor: Gorski, Eugene
+    time: T R  - 11:00A - 12:15P
+    location: Edward J. DeBartolo Hall 118
+- !ruby/object:Course
+  name: Church in History & Eternity
+  credit: '3'
+  coursenum: THEO20862
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '54'
+    crn: '27060'
+    instructor: Murphy, Francesca
+    time: T R  - 2:00P - 3:15P
+    location: Edward J. DeBartolo Hall 101
+- !ruby/object:Course
+  name: ! 'Exprng God: Theo as Spirit'
+  credit: '3'
+  coursenum: THEO20893
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '37'
+    max_spots: '49'
+    crn: '28877'
+    instructor: Connors, Michael
+    time: T R  - 3:30P - 4:45P
+    location: Edward J. DeBartolo Hall 215
+- !ruby/object:Course
+  name: ! 'Chrstn Exprnc: Voc & Theol Ima'
+  credit: '3'
+  coursenum: THEO20894
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '5'
+    max_spots: '42'
+    crn: '28878'
+    instructor: O'Malley, Timothy
+    time: M W  - 1:30P - 2:45P
+    location: Edward J. DeBartolo Hall 120
+- !ruby/object:Course
+  name: Christianity and Judaism
+  credit: '3'
+  coursenum: THEO20895
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '15'
+    crn: '26011'
+    instructor: O'Brien, Bridget
+    time: M W  - 4:30P - 5:45P
+    location: O'Shaughnessy Hall 115
+- !ruby/object:Course
+  name: Biomedical Ethics Discussion
+  credit: '0'
+  coursenum: THEO22637
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '16'
+    crn: '28880'
+    instructor: McKenny, Gerald
+    time: F  - 10:40A - 11:30A
+    location: Edward J. DeBartolo Hall 108
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '10'
+    max_spots: '16'
+    crn: '28882'
+    instructor: McKenny, Gerald
+    time: F  - 10:40A - 11:30A
+    location: Edward J. DeBartolo Hall 113
+  - !ruby/object:Section
+    section_num: '03'
+    open_spots: '14'
+    max_spots: '16'
+    crn: '28881'
+    instructor: McKenny, Gerald
+    time: F  - 11:45A - 12:35P
+    location: Edward J. DeBartolo Hall 108
+- !ruby/object:Course
+  name: ! 'Know Yr Cath Faith: Mass'
+  credit: '1'
+  coursenum: THEO30014
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '1'
+    max_spots: '45'
+    crn: '29157'
+    instructor: Fagerberg, David
+    time: R  - 6:00P - 8:05P
+    location: Edward J. DeBartolo Hall 213
+- !ruby/object:Course
+  name: ! 'KnowYrCath Fa: Ignation Spirit'
+  credit: '1'
+  coursenum: THEO30015
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '20'
+    crn: '28883'
+    instructor: Daley, Brian
+    time: U S  - 9:00A - 3:00P
+    location: O'Shaughnessy Hall 106
+- !ruby/object:Course
+  name: Liturgical Choir
+  credit: V
+  coursenum: THEO30021
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '41'
+    max_spots: '50'
+    crn: '20674'
+    instructor: McShane, Andrew
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Women's Liturgical Choir
+  credit: V
+  coursenum: THEO30022
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '68'
+    max_spots: '70'
+    crn: '20662'
+    instructor: Bayless, Daniel
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Folk Choir
+  credit: V
+  coursenum: THEO30023
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '44'
+    max_spots: '50'
+    crn: '21784'
+    instructor: Warner, Steven
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Catholic View, World Religions
+  credit: '1'
+  coursenum: THEO30037
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '89'
+    max_spots: '100'
+    crn: '29158'
+    instructor: Sullivan, Lawrence
+    time: M  - 5:00P - 6:05P
+    location: Edward J. DeBartolo Hall 138
+- !ruby/object:Course
+  name: ! 'KYCF: Holy Cross Spirituality'
+  credit: '1'
+  coursenum: THEO30038
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '10'
+    max_spots: '35'
+    crn: '29541'
+    instructor: TBA
+    time: W  - 7:00P - 9:30P
+    location: O'Shaughnessy Hall 107
+- !ruby/object:Course
+  name: Biblical Imagination
+  credit: '1'
+  coursenum: THEO33503
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '33'
+    max_spots: '40'
+    crn: '28884'
+    instructor: O'Malley, Timothy Delorenzo, LeonardShepherd, Megan
+    time: U  - 5:45P - 8:15P
+    location: Edward J. DeBartolo Hall 117
+- !ruby/object:Course
+  name: ! 'Smr Srv Lrn Intern: Social Ven'
+  credit: '1'
+  coursenum: THEO33931
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20850'
+    instructor: Shappell, Andrea Paulsen, Melissa
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: ! 'Smr Srv Lrn: Cross-cultural'
+  credit: '3'
+  coursenum: THEO33933
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '8'
+    max_spots: '8'
+    crn: '20592'
+    instructor: Shappell, Andrea
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Smr Srv Lrn:Confrnt Soc Issues
+  credit: '3'
+  coursenum: THEO33936
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '45'
+    max_spots: '50'
+    crn: '21432'
+    instructor: Shappell, Andrea Pfeil, Margaret
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: ! 'Sum Svc Lrning: Directed Read'
+  credit: '3'
+  coursenum: THEO33937
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '9'
+    max_spots: '9'
+    crn: '20655'
+    instructor: Shappell, Andrea Pfeil, Margaret
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: ! 'Smr Srv Lrn: Soc Issues Intl'
+  credit: '3'
+  coursenum: THEO33938
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '7'
+    max_spots: '12'
+    crn: '20431'
+    instructor: Tomas Morgan, Rachel Kollman, Paul
+    time: R  - 6:30P - 7:45P
+    location: O'Shaughnessy Hall 209
+- !ruby/object:Course
+  name: ! 'Soc Con Sem: Appalachia'
+  credit: '1'
+  coursenum: THEO33950
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '123'
+    max_spots: '125'
+    crn: '22239'
+    instructor: Toms Smedley, Cynthia
+    time: T  - 7:00P - 8:30P
+    location: Edward J. DeBartolo Hall 101
+- !ruby/object:Course
+  name: ! 'U.S. Healthcare: Policy & Pov'
+  credit: '1'
+  coursenum: THEO33951
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '12'
+    max_spots: '12'
+    crn: '26398'
+    instructor: Toms Smedley, Cynthia
+    time: W  - 7:00P - 8:30P
+    location: Geddes Hall B034
+- !ruby/object:Course
+  name: ! 'Soc Con Sem: Social Change'
+  credit: '1'
+  coursenum: THEO33952
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20649'
+    instructor: Toms Smedley, Cynthia Mick, Connie
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Leadership Through Solidarity
+  credit: '1'
+  coursenum: THEO33954
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '3'
+    max_spots: '3'
+    crn: '26981'
+    instructor: Hebbeler, Michael
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Soc Con Sem:Church/Social Actn
+  credit: '1'
+  coursenum: THEO33963
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '82'
+    max_spots: '150'
+    crn: '21670'
+    instructor: Purcell, William
+    time: U  - 6:30P - 8:30P
+    location: Edward J. DeBartolo Hall 101
+- !ruby/object:Course
+  name: ! 'Soc Con Sem: Orgnzg Power&Hope'
+  credit: '1'
+  coursenum: THEO33965
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '8'
+    max_spots: '9'
+    crn: '21281'
+    instructor: Mick, Connie Caponigro, Jerome
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Soc Con Sem:Migrant Experience
+  credit: '1'
+  coursenum: THEO33967
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '9'
+    max_spots: '10'
+    crn: '20354'
+    instructor: Toms Smedley, Cynthia
+    time: M  - 7:00P - 8:30P
+    location: Geddes Hall B034
+- !ruby/object:Course
+  name: ! 'Soc Con Sem: L''Arche C''munty'
+  credit: '1'
+  coursenum: THEO33968
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '6'
+    max_spots: '6'
+    crn: '21979'
+    instructor: Toms Smedley, Cynthia
+    time: W  - 5:00P - 6:30P
+    location: Geddes Hall B036
+- !ruby/object:Course
+  name: International Issues
+  credit: '1'
+  coursenum: THEO33970
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '70'
+    max_spots: '70'
+    crn: '21836'
+    instructor: Tomas Morgan, Rachel
+    time: R  - 6:30P - 7:45P
+    location: Edward J. DeBartolo Hall 140
+- !ruby/object:Course
+  name: Global Health Seminar
+  credit: '1'
+  coursenum: THEO33995
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '3'
+    max_spots: '6'
+    crn: '25666'
+    instructor: Toms Smedley, Cynthia
+    time: M  - 7:00P - 8:30P
+    location: TBA
+- !ruby/object:Course
+  name: Elementary Hebrew II
+  credit: '3'
+  coursenum: THEO40003
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '4'
+    max_spots: '5'
+    crn: '28885'
+    instructor: Wadler, Shlomo
+    time: M W  - 11:45A - 1:00P
+    location: O'Shaughnessy Hall 117
+- !ruby/object:Course
+  name: Intermediate Hebrew II
+  credit: '3'
+  coursenum: THEO40005
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '28886'
+    instructor: Winitzer, Abraham
+    time: M W  - 1:30P - 2:45P
+    location: Edward J. DeBartolo Hall 305
+- !ruby/object:Course
+  name: New Testament Introduction
+  credit: '3'
+  coursenum: THEO40108
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '1'
+    max_spots: '37'
+    crn: '22317'
+    instructor: Fitzgerald, John
+    time: T R  - 11:00A - 12:15P
+    location: Pasquerilla Center 116
+- !ruby/object:Course
+  name: The Christian Tradition II
+  credit: '3'
+  coursenum: THEO40202
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '5'
+    max_spots: '40'
+    crn: '21852'
+    instructor: Betz, John
+    time: T R  - 9:30A - 10:45A
+    location: Edward J. DeBartolo Hall 117
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '0'
+    max_spots: '40'
+    crn: '25134'
+    instructor: O'Regan, Cyril
+    time: M W  - 1:30P - 2:45P
+    location: Theodore M. Hesburgh Library 107
+- !ruby/object:Course
+  name: Christianity and Judaism
+  credit: '3'
+  coursenum: THEO40217
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '14'
+    max_spots: '15'
+    crn: '29775'
+    instructor: O'Brien, Bridget
+    time: M W  - 4:30P - 5:45P
+    location: O'Shaughnessy Hall 115
+- !ruby/object:Course
+  name: Augustine
+  credit: '3'
+  coursenum: THEO40245
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '12'
+    max_spots: '47'
+    crn: '28887'
+    instructor: Daley, Brian
+    time: M W  - 8:00A - 9:15A
+    location: Edward J. DeBartolo Hall 216
+- !ruby/object:Course
+  name: Early Christian Jerusalem
+  credit: '3'
+  coursenum: THEO40277
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '11'
+    max_spots: '11'
+    crn: '28888'
+    instructor: Young, Robin
+    time: T R  - 9:30A - 10:45A
+    location: Edward A. Malloy Hall 320
+- !ruby/object:Course
+  name: Eucharist in the Middle Ages
+  credit: '3'
+  coursenum: THEO40287
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '7'
+    crn: '28889'
+    instructor: Wawrykow, Joseph
+    time: M W  - 1:30P - 2:45P
+    location: Edward A. Malloy Hall 320
+- !ruby/object:Course
+  name: Jesus and the Spiritual Life
+  credit: '3'
+  coursenum: THEO40288
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '18'
+    max_spots: '27'
+    crn: '28890'
+    instructor: DeFrancis, James
+    time: M W  - 11:45A - 1:00P
+    location: Edward J. DeBartolo Hall 224
+- !ruby/object:Course
+  name: Modern Ecclesial Movements
+  credit: '3'
+  coursenum: THEO40289
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '12'
+    max_spots: '20'
+    crn: '28891'
+    instructor: Astell, Ann
+    time: T R  - 2:00P - 3:15P
+    location: Theodore M. Hesburgh Library 107
+- !ruby/object:Course
+  name: Popes, Patriachs, and Councils
+  credit: '3'
+  coursenum: THEO40290
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '3'
+    max_spots: '7'
+    crn: '29329'
+    instructor: Avvakumov, Yury
+    time: T R  - 3:30P - 4:45P
+    location: O'Shaughnessy Hall 201
+- !ruby/object:Course
+  name: Feasts and Seasons
+  credit: '3'
+  coursenum: THEO40402
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '1'
+    max_spots: '10'
+    crn: '28892'
+    instructor: Johnson, Maxwell
+    time: M W  - 3:00P - 4:15P
+    location: O'Shaughnessy Hall 109
+- !ruby/object:Course
+  name: Restorative Justice
+  credit: '3'
+  coursenum: THEO40624
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '5'
+    crn: '28893'
+    instructor: Pfeil, Margaret Sharpe, Susan
+    time: M W  - 11:45A - 1:00P
+    location: O'Shaughnessy Hall 118
+- !ruby/object:Course
+  name: War Peace Catholic Imagination
+  credit: '3'
+  coursenum: THEO40625
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '5'
+    crn: '29159'
+    instructor: Powers, Gerard
+    time: M W  - 3:00P - 4:15P
+    location: Edward J. DeBartolo Hall 245
+- !ruby/object:Course
+  name: Politics and Conscience
+  credit: '3'
+  coursenum: THEO40626
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '5'
+    crn: '29838'
+    instructor: Keys, Mary
+    time: M W  - 11:45A - 1:00P
+    location: O'Shaughnessy Hall 242
+- !ruby/object:Course
+  name: Religion and Autobiography
+  credit: '3'
+  coursenum: THEO40811
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '5'
+    max_spots: '30'
+    crn: '24235'
+    instructor: Dunne, John
+    time: T R  - 11:00A - 12:15P
+    location: Edward J. DeBartolo Hall 223
+- !ruby/object:Course
+  name: Chesterton and Catholicism
+  credit: '3'
+  coursenum: THEO40831
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '16'
+    max_spots: '75'
+    crn: '28894'
+    instructor: Fagerberg, David
+    time: T R  - 12:30P - 1:45P
+    location: Edward J. DeBartolo Hall 136
+- !ruby/object:Course
+  name: The Worlds of Buddhism
+  credit: '3'
+  coursenum: THEO40858
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '5'
+    max_spots: '10'
+    crn: '29160'
+    instructor: Gimello, Robert
+    time: T R  - 2:00P - 3:15P
+    location: Edward J. DeBartolo Hall 120
+- !ruby/object:Course
+  name: Proseminar
+  credit: '1'
+  coursenum: THEO43001
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '19'
+    max_spots: '75'
+    crn: '21015'
+    instructor: Reynolds, Gabriel
+    time: T  - 5:00P - 6:05P
+    location: Edward J. DeBartolo Hall 131
+- !ruby/object:Course
+  name: ! 'Joint Sem Phil/Theo: Ratzinger'
+  credit: '3'
+  coursenum: THEO43203
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '11'
+    crn: '23905'
+    instructor: Heintz, Michael Freddoso, Alfred
+    time: M W  - 3:00P - 4:15P
+    location: Edward J. DeBartolo Hall 347
+- !ruby/object:Course
+  name: Issues in Sacred Architecture
+  credit: '3'
+  coursenum: THEO43401
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '1'
+    crn: '29870'
+    instructor: Stroik, Duncan
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Directed Readings
+  credit: V
+  coursenum: THEO46001
+  sections:
+  - !ruby/object:Section
+    section_num: '38'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '25596'
+    instructor: Pfeil, Margaret
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '39'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '25685'
+    instructor: Gimello, Robert
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Directed Readings
+  credit: V
+  coursenum: THEO46002
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '16'
+    max_spots: '16'
+    crn: '20514'
+    instructor: Fagerberg, David
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '15'
+    max_spots: '15'
+    crn: '20375'
+    instructor: Poorman, Janice
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '04'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '22748'
+    instructor: Elizondo, Virgilio
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '05'
+    open_spots: '15'
+    max_spots: '15'
+    crn: '22784'
+    instructor: Cavadini, John
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '06'
+    open_spots: '9'
+    max_spots: '10'
+    crn: '25530'
+    instructor: Heintz, Michael
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '07'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '27486'
+    instructor: Dolcich-Ashley, Anselma
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Ph/Th Thesis Writing
+  credit: V
+  coursenum: THEO48002
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '6'
+    max_spots: '10'
+    crn: '22726'
+    instructor: Reynolds, Gabriel
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Honors Thesis Writing
+  credit: '3'
+  coursenum: THEO48003
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '7'
+    max_spots: '12'
+    crn: '22191'
+    instructor: Reynolds, Gabriel
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Elementary Hebrew II
+  credit: '3'
+  coursenum: THEO60003
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '8'
+    max_spots: '10'
+    crn: '21956'
+    instructor: Wadler, Shlomo
+    time: M W  - 11:45A - 1:00P
+    location: O'Shaughnessy Hall 117
+- !ruby/object:Course
+  name: Intermediate Hebrew II
+  credit: '3'
+  coursenum: THEO60018
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '3'
+    max_spots: '6'
+    crn: '26404'
+    instructor: Winitzer, Abraham
+    time: M W  - 1:30P - 2:45P
+    location: Edward J. DeBartolo Hall 305
+- !ruby/object:Course
+  name: New Testament Introduction
+  credit: '3'
+  coursenum: THEO60102
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '14'
+    max_spots: '27'
+    crn: '24548'
+    instructor: D'Angelo, Mary
+    time: T R  - 11:00A - 12:15P
+    location: Edward J. DeBartolo Hall 225
+- !ruby/object:Course
+  name: Prophets
+  credit: '3'
+  coursenum: THEO60106
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '19'
+    crn: '28895'
+    instructor: VanderKam, James
+    time: T R  - 12:30P - 1:45P
+    location: O'Shaughnessy Hall 338
+- !ruby/object:Course
+  name: The Gospel of John
+  credit: '3'
+  coursenum: THEO60113
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '5'
+    max_spots: '27'
+    crn: '28896'
+    instructor: Meier, John
+    time: T R  - 2:00P - 3:15P
+    location: Hayes Healy Center 117
+- !ruby/object:Course
+  name: Women & Christian Origins
+  credit: '3'
+  coursenum: THEO60120
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '10'
+    max_spots: '14'
+    crn: '28897'
+    instructor: D'Angelo, Mary
+    time: T R  - 3:30P - 4:45P
+    location: Edward J. DeBartolo Hall 335
+- !ruby/object:Course
+  name: The Tabernacle/Temple Isrl
+  credit: '3'
+  coursenum: THEO60154
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '16'
+    max_spots: '27'
+    crn: '28898'
+    instructor: Anderson, Gary
+    time: M W  - 8:00A - 9:15A
+    location: Edward A. Malloy Hall 320
+- !ruby/object:Course
+  name: Eucharist in the Middle Ages
+  credit: '3'
+  coursenum: THEO60213
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '5'
+    max_spots: '16'
+    crn: '28899'
+    instructor: Wawrykow, Joseph
+    time: M W  - 1:30P - 2:45P
+    location: Edward A. Malloy Hall 320
+- !ruby/object:Course
+  name: Patristic Exegesis
+  credit: '3'
+  coursenum: THEO60228
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '5'
+    max_spots: '38'
+    crn: '28900'
+    instructor: Cavadini, John
+    time: T R  - 2:00P - 3:15P
+    location: Edward J. DeBartolo Hall 119
+- !ruby/object:Course
+  name: Popes, Patriachs, and Councils
+  credit: '3'
+  coursenum: THEO60278
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '9'
+    max_spots: '18'
+    crn: '28901'
+    instructor: Avvakumov, Yury
+    time: T R  - 3:30P - 4:45P
+    location: O'Shaughnessy Hall 201
+- !ruby/object:Course
+  name: Early Christian Jerusalem
+  credit: '3'
+  coursenum: THEO60283
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '7'
+    max_spots: '13'
+    crn: '28902'
+    instructor: Young, Robin
+    time: T R  - 9:30A - 10:45A
+    location: Edward A. Malloy Hall 320
+- !ruby/object:Course
+  name: Modern Ecclesial Movements
+  credit: '3'
+  coursenum: THEO60296
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '9'
+    max_spots: '10'
+    crn: '29854'
+    instructor: Astell, Ann
+    time: T R  - 2:00P - 3:15P
+    location: Theodore M. Hesburgh Library 107
+- !ruby/object:Course
+  name: Liturgical Year
+  credit: '3'
+  coursenum: THEO60421
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '8'
+    max_spots: '17'
+    crn: '28903'
+    instructor: Johnson, Maxwell
+    time: M W  - 3:00P - 4:15P
+    location: O'Shaughnessy Hall 109
+- !ruby/object:Course
+  name: Foundations of Moral Theology
+  credit: '3'
+  coursenum: THEO60601
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '19'
+    max_spots: '27'
+    crn: '24553'
+    instructor: Clairmont, David
+    time: M W  - 11:45A - 1:00P
+    location: Edward J. DeBartolo Hall 232
+- !ruby/object:Course
+  name: Catholic Social Teaching
+  credit: '3'
+  coursenum: THEO60614
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '13'
+    max_spots: '22'
+    crn: '23888'
+    instructor: Pfeil, Margaret
+    time: M W  - 1:30P - 2:45P
+    location: Coleman Morse Center 330
+- !ruby/object:Course
+  name: Christ Political Theo & Ethics
+  credit: '3'
+  coursenum: THEO60622
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '8'
+    max_spots: '27'
+    crn: '28904'
+    instructor: McKenny, Gerald
+    time: M W  - 3:00P - 4:15P
+    location: Edward J. DeBartolo Hall 244
+- !ruby/object:Course
+  name: Restorative Justice
+  credit: '3'
+  coursenum: THEO60638
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '5'
+    crn: '28905'
+    instructor: Pfeil, Margaret Sharpe, Susan
+    time: M W  - 11:45A - 1:00P
+    location: O'Shaughnessy Hall 118
+- !ruby/object:Course
+  name: Ecclesiology
+  credit: '3'
+  coursenum: THEO60806
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '19'
+    max_spots: '27'
+    crn: '29161'
+    instructor: Phelps, Jamie
+    time: T R  - 12:30P - 1:45P
+    location: Main Building 404
+- !ruby/object:Course
+  name: Islam & Muslim Christian Dialo
+  credit: '3'
+  coursenum: THEO60833
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '10'
+    max_spots: '25'
+    crn: '28906'
+    instructor: Reynolds, Gabriel
+    time: T R  - 11:00A - 12:15P
+    location: Edward A. Malloy Hall 320
+- !ruby/object:Course
+  name: Orders and Ministry
+  credit: '3'
+  coursenum: THEO60838
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '18'
+    max_spots: '27'
+    crn: '22192'
+    instructor: Fagerberg, David
+    time: T R  - 9:30A - 10:45A
+    location: Edward J. DeBartolo Hall 246
+- !ruby/object:Course
+  name: Nineteenth Century Theology
+  credit: '3'
+  coursenum: THEO60880
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '8'
+    max_spots: '27'
+    crn: '28908'
+    instructor: O'Regan, Cyril
+    time: M W  - 11:45A - 1:00P
+    location: Edward J. DeBartolo Hall 241
+- !ruby/object:Course
+  name: The Worlds of Buddhism
+  credit: '3'
+  coursenum: THEO60891
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '9'
+    max_spots: '10'
+    crn: '29740'
+    instructor: Gimello, Robert
+    time: T R  - 2:00P - 3:15P
+    location: Edward J. DeBartolo Hall 120
+- !ruby/object:Course
+  name: Theology of Migration
+  credit: '3'
+  coursenum: THEO60892
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '19'
+    max_spots: '22'
+    crn: '29162'
+    instructor: Groody, Daniel
+    time: T R  - 2:00P - 3:15P
+    location: Edward A. Malloy Hall 320
+- !ruby/object:Course
+  name: Liturgcl Celebration/Minsty II
+  credit: '2'
+  coursenum: THEO60947
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '11'
+    max_spots: '15'
+    crn: '21162'
+    instructor: Jones, Thomas
+    time: W  - 9:30A - 11:30A
+    location: O'Shaughnessy Hall 202
+- !ruby/object:Course
+  name: Preaching III
+  credit: '2'
+  coursenum: THEO60950
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '10'
+    max_spots: '15'
+    crn: '20396'
+    instructor: Connors, Michael
+    time: F  - 9:00A - 11:30A
+    location: Edward A. Malloy Hall 320
+- !ruby/object:Course
+  name: Reconciliation Ministry
+  credit: '1'
+  coursenum: THEO60951
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '20'
+    max_spots: '25'
+    crn: '20851'
+    instructor: Jarret, Peter
+    time: T R  - 8:00A - 9:30A
+    location: O'Shaughnessy Hall 115
+- !ruby/object:Course
+  name: Formation for Lay Ministry
+  credit: '1'
+  coursenum: THEO60981
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '2'
+    max_spots: '27'
+    crn: '28909'
+    instructor: Noem, Stacey
+    time: M  - 5:30P - 8:00P
+    location: Edward A. Malloy Hall 320
+- !ruby/object:Course
+  name: Pastoral Topics I
+  credit: '3'
+  coursenum: THEO60995
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '15'
+    max_spots: '25'
+    crn: '28910'
+    instructor: TBA
+    time: T R  - 3:30P - 4:45P
+    location: Hammes Mowbray Hall 306
+- !ruby/object:Course
+  name: Pastoral Topics II
+  credit: '3'
+  coursenum: THEO60996
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '7'
+    max_spots: '25'
+    crn: '28911'
+    instructor: TBA
+    time: T R  - 3:30P - 4:45P
+    location: Edward J. DeBartolo Hall 210
+- !ruby/object:Course
+  name: Synthesis Seminar
+  credit: '2'
+  coursenum: THEO63001
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '5'
+    max_spots: '15'
+    crn: '20322'
+    instructor: Poorman, Janice
+    time: M  - 9:30A - 11:30A
+    location: TBA
+- !ruby/object:Course
+  name: Dante's World of Books
+  credit: '3'
+  coursenum: THEO63205
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '2'
+    max_spots: '2'
+    crn: '29785'
+    instructor: Baranski, Zygmunt
+    time: T  - 2:00P - 5:00P
+    location: Hayes Healy Center 129
+- !ruby/object:Course
+  name: Images & Models of Ministry II
+  credit: '3'
+  coursenum: THEO65932
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '3'
+    max_spots: '12'
+    crn: '21414'
+    instructor: Heintz, Michael
+    time: M W  - 9:30A - 10:45A
+    location: Edward A. Malloy Hall 320
+- !ruby/object:Course
+  name: Articulating Faith II
+  credit: '3'
+  coursenum: THEO65934
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '2'
+    max_spots: '20'
+    crn: '21704'
+    instructor: Poorman, Janice
+    time: M W  - 11:45A - 1:00P
+    location: Edward A. Malloy Hall 320
+- !ruby/object:Course
+  name: Directed Readings
+  credit: V
+  coursenum: THEO66004
+  sections:
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '25699'
+    instructor: Moss, Candida
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Directed Reading
+  credit: V
+  coursenum: THEO66900
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '25554'
+    instructor: Groody, Daniel
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: MTS Colloquium
+  credit: '0'
+  coursenum: THEO67001
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '24'
+    max_spots: '45'
+    crn: '23451'
+    instructor: Clairmont, David
+    time: W  - 4:30P - 6:00P
+    location: O'Shaughnessy Hall 118
+- !ruby/object:Course
+  name: Special Studies
+  credit: V
+  coursenum: THEO67002
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '21877'
+    instructor: Driscoll, Michael
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '21135'
+    instructor: Aune, David
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '03'
+    open_spots: '16'
+    max_spots: '16'
+    crn: '20501'
+    instructor: Cavadini, John
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '04'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '21330'
+    instructor: D'Angelo, Mary
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '05'
+    open_spots: '15'
+    max_spots: '15'
+    crn: '21207'
+    instructor: Daley, Brian
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '06'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '20221'
+    instructor: Krieg, Robert
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '07'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '21639'
+    instructor: Cavadini, John
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: 08
+    open_spots: '5'
+    max_spots: '5'
+    crn: '20961'
+    instructor: Poorman, Janice
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: 09
+    open_spots: '5'
+    max_spots: '5'
+    crn: '20867'
+    instructor: Malkovsky, Bradley
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '10'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '20603'
+    instructor: Sullivan, Lawrence
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '11'
+    open_spots: '4'
+    max_spots: '5'
+    crn: '21535'
+    instructor: Fagerberg, David
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '12'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '21249'
+    instructor: Page, Hugh
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '13'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '21174'
+    instructor: Porter, Jean
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '15'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20742'
+    instructor: Johnson, Maxwell
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '16'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '20663'
+    instructor: Wawrykow, Joseph
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '17'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '21619'
+    instructor: Ulrich, Eugene
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '20'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '21469'
+    instructor: VanderKam, James
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '21'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '20103'
+    instructor: Ashley, James
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '22'
+    open_spots: '7'
+    max_spots: '7'
+    crn: '20677'
+    instructor: Ryan, Maura
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '23'
+    open_spots: '15'
+    max_spots: '15'
+    crn: '21291'
+    instructor: Baumbach, Gerard
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '24'
+    open_spots: '15'
+    max_spots: '15'
+    crn: '20752'
+    instructor: Leyerle, Blake
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '25'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '20473'
+    instructor: Meier, John
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '26'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '20274'
+    instructor: Sterling, Gregory
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '27'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '21546'
+    instructor: Cunningham, Lawrence
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '28'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '21005'
+    instructor: Matovina, Timothy
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '29'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20490'
+    instructor: Odozor, Paulinus
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '30'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20617'
+    instructor: Winitzer, Abraham
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '31'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '20070'
+    instructor: Mitchell, Nathan
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '32'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '20256'
+    instructor: Hilkert, M. Catherine
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '33'
+    open_spots: '15'
+    max_spots: '15'
+    crn: '20181'
+    instructor: Heintz, Michael
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '34'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '20017'
+    instructor: Dunne, John
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '35'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '20330'
+    instructor: Amar, Joseph
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '36'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '22138'
+    instructor: Anderson, Gary
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '37'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '22162'
+    instructor: Elizondo, Virgilio
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '38'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '22747'
+    instructor: Kollman, Paul
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '39'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '22818'
+    instructor: Reynolds, Gabriel
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '40'
+    open_spots: '50'
+    max_spots: '50'
+    crn: '23485'
+    instructor: Whitmore, Todd
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '41'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '23962'
+    instructor: Winitzer, Abraham
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '42'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '24781'
+    instructor: McKenny, Gerald
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '43'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '25688'
+    instructor: Clairmont, David
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '44'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '27449'
+    instructor: Murphy, Francesca
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Special Studies
+  credit: V
+  coursenum: THEO67003
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '21093'
+    instructor: Zachman, Randall
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Special Studies
+  credit: V
+  coursenum: THEO67004
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20233'
+    instructor: Astell, Ann
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Special Studies
+  credit: V
+  coursenum: THEO67005
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '4'
+    max_spots: '4'
+    crn: '21820'
+    instructor: O'Regan, Cyril
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Special Studies
+  credit: V
+  coursenum: THEO67006
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '21231'
+    instructor: Connors, Michael
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Special Studies
+  credit: V
+  coursenum: THEO67007
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20063'
+    instructor: Pfeil, Margaret
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Special Studies
+  credit: V
+  coursenum: THEO67008
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '20550'
+    instructor: Ryba, Thomas
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '25686'
+    instructor: Gimello, Robert
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Supervised Placement
+  credit: '0'
+  coursenum: THEO67010
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '15'
+    max_spots: '16'
+    crn: '23483'
+    instructor: Driscoll, Michael
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Echo Field Placement
+  credit: '3'
+  coursenum: THEO67014
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '50'
+    max_spots: '50'
+    crn: '28912'
+    instructor: Cavadini, Catherine
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Thesis Direction
+  credit: V
+  coursenum: THEO78599
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20852'
+    instructor: Zachman, Randall
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20499'
+    instructor: Zachman, Randall
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Nonresident Thesis Research
+  credit: '1'
+  coursenum: THEO78600
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '17'
+    max_spots: '17'
+    crn: '21042'
+    instructor: Zachman, Randall
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Advanced Hebrew
+  credit: '3'
+  coursenum: THEO83002
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '12'
+    max_spots: '14'
+    crn: '28913'
+    instructor: Winitzer, Abraham
+    time: R  - 8:15A - 10:45A
+    location: Edward J. DeBartolo Hall 307
+- !ruby/object:Course
+  name: Elementary Akkadian II
+  credit: '3'
+  coursenum: THEO83009
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '11'
+    max_spots: '12'
+    crn: '28914'
+    instructor: Winitzer, Abraham
+    time: M W  - 3:00P - 4:15P
+    location: Edward J. DeBartolo Hall 240
+- !ruby/object:Course
+  name: ! 'Hebrew Bible Sem: Genesis'
+  credit: '3'
+  coursenum: THEO83102
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '18'
+    max_spots: '19'
+    crn: '25139'
+    instructor: VanderKam, James
+    time: T  - 8:15A - 10:45A
+    location: Flanner Hall 725
+- !ruby/object:Course
+  name: New Testament Seminar
+  credit: '3'
+  coursenum: THEO83111
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '14'
+    max_spots: '20'
+    crn: '25141'
+    instructor: Fitzgerald, John
+    time: F  - 9:00A - 11:30A
+    location: Edward J. DeBartolo Hall 232
+- !ruby/object:Course
+  name: Early Christianity Seminar
+  credit: '3'
+  coursenum: THEO83204
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '7'
+    max_spots: '18'
+    crn: '25142'
+    instructor: Daley, Brian
+    time: R  - 3:30P - 6:00P
+    location: O'Shaughnessy Hall 207
+- !ruby/object:Course
+  name: Our Lady of Guadalupe
+  credit: '3'
+  coursenum: THEO83206
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '14'
+    max_spots: '20'
+    crn: '28915'
+    instructor: Matovina, Timothy Elizondo, Virgilio
+    time: R  - 8:15A - 10:45A
+    location: Edward J. DeBartolo Hall 125
+- !ruby/object:Course
+  name: Theology of Kierkegaard
+  credit: '3'
+  coursenum: THEO83209
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '17'
+    max_spots: '20'
+    crn: '28916'
+    instructor: Zachman, Randall
+    time: T  - 3:30P - 6:00P
+    location: O'Shaughnessy Hall 208
+- !ruby/object:Course
+  name: Hagiography
+  credit: '3'
+  coursenum: THEO83227
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '11'
+    max_spots: '17'
+    crn: '28917'
+    instructor: Astell, Ann
+    time: F  - 9:00A - 11:30A
+    location: Pasquerilla Center 105
+- !ruby/object:Course
+  name: On being "Interreligious" Relg
+  credit: '3'
+  coursenum: THEO83229
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '17'
+    max_spots: '19'
+    crn: '28918'
+    instructor: Gimello, Robert
+    time: T  - 8:15A - 10:45A
+    location: Edward J. DeBartolo Hall 332
+- !ruby/object:Course
+  name: Theological Pedagogy
+  credit: '3'
+  coursenum: THEO83301
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '16'
+    max_spots: '20'
+    crn: '29860'
+    instructor: Krieg, Robert
+    time: M  - 6:00P - 8:30P
+    location: TBA
+- !ruby/object:Course
+  name: Eastern Liturgies
+  credit: '3'
+  coursenum: THEO83402
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '15'
+    max_spots: '20'
+    crn: '28919'
+    instructor: Findikyan, Michael
+    time: ! "(1) M  - 9:00A - 11:30A\r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\r\n\t\t\t
+      \  \t\t\r\n\t\t\t   \t  \r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\t(2) F  - 3:00P
+      - 5:30P"
+    location: ! "Edward A. Malloy Hall 220 \r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\t\r\n\t\t\t\t
+      \  \t\r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\tEdward A. Malloy Hall 320"
+- !ruby/object:Course
+  name: Ritual Studies Seminar
+  credit: '3'
+  coursenum: THEO83407
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '10'
+    max_spots: '16'
+    crn: '28920'
+    instructor: Jeffery, Peter
+    time: T  - 3:30P - 6:00P
+    location: Edward A. Malloy Hall 320
+- !ruby/object:Course
+  name: Catholic Social Teaching
+  credit: '3'
+  coursenum: THEO83614
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '14'
+    max_spots: '20'
+    crn: '28921'
+    instructor: Whitmore, Todd
+    time: T  - 8:15A - 10:45A
+    location: Edward J. DeBartolo Hall 204
+- !ruby/object:Course
+  name: Theo, Ethics, Responsibility
+  credit: '3'
+  coursenum: THEO83650
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '10'
+    max_spots: '20'
+    crn: '29163'
+    instructor: Clairmont, David
+    time: W  - 9:00A - 11:30A
+    location: Edward J. DeBartolo Hall 232
+- !ruby/object:Course
+  name: Theology and Peacebuilding
+  credit: '3'
+  coursenum: THEO83651
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '5'
+    max_spots: '8'
+    crn: '29767'
+    instructor: Katongole, Emmanuel
+    time: R  - 6:15P - 8:45P
+    location: O'Shaughnessy Hall 201
+- !ruby/object:Course
+  name: ! 'Systematics Seminar: God'
+  credit: '3'
+  coursenum: THEO83804
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '16'
+    max_spots: '20'
+    crn: '28922'
+    instructor: Betz, John
+    time: W  - 3:30P - 6:00P
+    location: Edward A. Malloy Hall 320
+- !ruby/object:Course
+  name: ! 'Systematic Seminar: Christ'
+  credit: '3'
+  coursenum: THEO83805
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '13'
+    max_spots: '19'
+    crn: '28923'
+    instructor: Krieg, Robert
+    time: R  - 8:15A - 10:45A
+    location: Flanner Hall 725
+- !ruby/object:Course
+  name: African Christian Theologies
+  credit: '3'
+  coursenum: THEO83816
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '15'
+    max_spots: '19'
+    crn: '28924'
+    instructor: Odozor, Paulinus
+    time: R  - 3:30P - 6:00P
+    location: O'Shaughnessy Hall 208
+- !ruby/object:Course
+  name: Special Studies
+  credit: V
+  coursenum: THEO87001
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '11'
+    max_spots: '11'
+    crn: '20900'
+    instructor: Anderson, Gary
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '20290'
+    instructor: Anderson, Gary
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '03'
+    open_spots: '15'
+    max_spots: '15'
+    crn: '20327'
+    instructor: Matovina, Timothy
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '04'
+    open_spots: '15'
+    max_spots: '15'
+    crn: '21261'
+    instructor: Clairmont, David
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '05'
+    open_spots: '15'
+    max_spots: '15'
+    crn: '21556'
+    instructor: Cavadini, John
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '06'
+    open_spots: '15'
+    max_spots: '15'
+    crn: '21699'
+    instructor: Cunningham, Lawrence
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '07'
+    open_spots: '15'
+    max_spots: '15'
+    crn: '21551'
+    instructor: D'Angelo, Mary
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: 08
+    open_spots: '15'
+    max_spots: '15'
+    crn: '20200'
+    instructor: Driscoll, Michael
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: 09
+    open_spots: '15'
+    max_spots: '15'
+    crn: '20534'
+    instructor: Hilkert, M. Catherine
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '10'
+    open_spots: '15'
+    max_spots: '15'
+    crn: '20956'
+    instructor: Krieg, Robert
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '11'
+    open_spots: '15'
+    max_spots: '15'
+    crn: '20382'
+    instructor: Leyerle, Blake
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '12'
+    open_spots: '15'
+    max_spots: '15'
+    crn: '20643'
+    instructor: Reydams-Schils, Gretchen
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '13'
+    open_spots: '13'
+    max_spots: '13'
+    crn: '20284'
+    instructor: Malkovsky, Bradley
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '14'
+    open_spots: '15'
+    max_spots: '15'
+    crn: '21416'
+    instructor: McBrien, Richard
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '15'
+    open_spots: '15'
+    max_spots: '15'
+    crn: '21725'
+    instructor: Astell, Ann
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '16'
+    open_spots: '15'
+    max_spots: '15'
+    crn: '21665'
+    instructor: McKenny, Gerald
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '17'
+    open_spots: '15'
+    max_spots: '15'
+    crn: '21241'
+    instructor: Young, Robin
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '18'
+    open_spots: '15'
+    max_spots: '15'
+    crn: '20410'
+    instructor: Page, Hugh
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '19'
+    open_spots: '15'
+    max_spots: '15'
+    crn: '20698'
+    instructor: Porter, Jean
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '20'
+    open_spots: '15'
+    max_spots: '15'
+    crn: '20834'
+    instructor: Ryan, Maura
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '21'
+    open_spots: '15'
+    max_spots: '15'
+    crn: '20186'
+    instructor: Sterling, Gregory
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '22'
+    open_spots: '15'
+    max_spots: '15'
+    crn: '20646'
+    instructor: Whitmore, Todd
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '23'
+    open_spots: '15'
+    max_spots: '15'
+    crn: '21763'
+    instructor: Ulrich, Eugene
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '24'
+    open_spots: '15'
+    max_spots: '15'
+    crn: '21033'
+    instructor: VanderKam, James
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '25'
+    open_spots: '15'
+    max_spots: '15'
+    crn: '21083'
+    instructor: Wawrykow, Joseph
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '26'
+    open_spots: '15'
+    max_spots: '15'
+    crn: '21645'
+    instructor: Aune, David
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '27'
+    open_spots: '15'
+    max_spots: '15'
+    crn: '21672'
+    instructor: Betz, John
+    time: F  - 1:30P - 3:00P
+    location: Edward A. Malloy Hall 320
+  - !ruby/object:Section
+    section_num: '28'
+    open_spots: '15'
+    max_spots: '15'
+    crn: '23311'
+    instructor: Meier, John
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '29'
+    open_spots: '15'
+    max_spots: '15'
+    crn: '20183'
+    instructor: Zachman, Randall
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '30'
+    open_spots: '15'
+    max_spots: '15'
+    crn: '20238'
+    instructor: Ashley, James
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '31'
+    open_spots: '15'
+    max_spots: '15'
+    crn: '20515'
+    instructor: Johnson, Maxwell
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '32'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20830'
+    instructor: Daley, Brian
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '33'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20916'
+    instructor: O'Regan, Cyril
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '34'
+    open_spots: '15'
+    max_spots: '15'
+    crn: '20282'
+    instructor: Muller, Hildegund
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '35'
+    open_spots: '15'
+    max_spots: '15'
+    crn: '21411'
+    instructor: Gutierrez, Gustavo
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '36'
+    open_spots: '15'
+    max_spots: '15'
+    crn: '20841'
+    instructor: Mitchell, Nathan
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '37'
+    open_spots: '15'
+    max_spots: '15'
+    crn: '22154'
+    instructor: Young, Robin
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '38'
+    open_spots: '15'
+    max_spots: '15'
+    crn: '22155'
+    instructor: McKenny, Gerald
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '39'
+    open_spots: '15'
+    max_spots: '15'
+    crn: '22762'
+    instructor: Fagerberg, David
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '40'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '23502'
+    instructor: Dunne, John
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '41'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '25628'
+    instructor: Fassler, Margot
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '42'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '25687'
+    instructor: Gimello, Robert
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '43'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '25694'
+    instructor: Murphy, Francesca
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '44'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '27503'
+    instructor: Avvakumov, Yury
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '45'
+    open_spots: '4'
+    max_spots: '5'
+    crn: '29897'
+    instructor: Noll, Mark
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Liturgy Dissertation Rsch Sem
+  credit: '0'
+  coursenum: THEO88401
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '12'
+    max_spots: '15'
+    crn: '20439'
+    instructor: Johnson, Maxwell
+    time: F  - 11:45A - 2:15P
+    location: TBA
+- !ruby/object:Course
+  name: Research and Dissertation
+  credit: V
+  coursenum: THEO98699
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '100'
+    max_spots: '100'
+    crn: '21710'
+    instructor: Daley, Brian
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '40'
+    max_spots: '40'
+    crn: '21437'
+    instructor: Hilkert, M. Catherine
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '03'
+    open_spots: '40'
+    max_spots: '40'
+    crn: '20922'
+    instructor: Deane-Drummond, Celia
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '04'
+    open_spots: '40'
+    max_spots: '40'
+    crn: '20037'
+    instructor: Burrell, David
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '05'
+    open_spots: '39'
+    max_spots: '40'
+    crn: '21194'
+    instructor: Cavadini, John
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '06'
+    open_spots: '40'
+    max_spots: '40'
+    crn: '20689'
+    instructor: Cunningham, Lawrence
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '07'
+    open_spots: '40'
+    max_spots: '40'
+    crn: '21480'
+    instructor: D'Angelo, Mary
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: 08
+    open_spots: '40'
+    max_spots: '40'
+    crn: '21509'
+    instructor: Driscoll, Michael
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: 09
+    open_spots: '40'
+    max_spots: '40'
+    crn: '21377'
+    instructor: Ashley, James
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '10'
+    open_spots: '38'
+    max_spots: '40'
+    crn: '20246'
+    instructor: Krieg, Robert
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '11'
+    open_spots: '38'
+    max_spots: '40'
+    crn: '20476'
+    instructor: Johnson, Maxwell
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '13'
+    open_spots: '40'
+    max_spots: '40'
+    crn: '20898'
+    instructor: McBrien, Richard
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '15'
+    open_spots: '40'
+    max_spots: '40'
+    crn: '20263'
+    instructor: Astell, Ann
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '16'
+    open_spots: '39'
+    max_spots: '40'
+    crn: '21115'
+    instructor: Fagerberg, David
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '17'
+    open_spots: '40'
+    max_spots: '40'
+    crn: '21451'
+    instructor: Ryan, Maura
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '18'
+    open_spots: '38'
+    max_spots: '40'
+    crn: '21567'
+    instructor: Porter, Jean
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '19'
+    open_spots: '40'
+    max_spots: '40'
+    crn: '20249'
+    instructor: Young, Robin
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '20'
+    open_spots: '40'
+    max_spots: '40'
+    crn: '20741'
+    instructor: Sterling, Gregory
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '21'
+    open_spots: '40'
+    max_spots: '40'
+    crn: '20262'
+    instructor: Ulrich, Eugene
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '22'
+    open_spots: '38'
+    max_spots: '40'
+    crn: '20402'
+    instructor: VanderKam, James
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '23'
+    open_spots: '38'
+    max_spots: '40'
+    crn: '21247'
+    instructor: Wawrykow, Joseph
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '24'
+    open_spots: '38'
+    max_spots: '40'
+    crn: '21833'
+    instructor: Anderson, Gary
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '25'
+    open_spots: '39'
+    max_spots: '40'
+    crn: '21712'
+    instructor: Whitmore, Todd
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '26'
+    open_spots: '40'
+    max_spots: '40'
+    crn: '21209'
+    instructor: Page, Hugh
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '27'
+    open_spots: '39'
+    max_spots: '40'
+    crn: '20467'
+    instructor: Zachman, Randall
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '28'
+    open_spots: '39'
+    max_spots: '40'
+    crn: '20381'
+    instructor: Aune, David
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '29'
+    open_spots: '40'
+    max_spots: '40'
+    crn: '21675'
+    instructor: Mitchell, Nathan
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '30'
+    open_spots: '39'
+    max_spots: '40'
+    crn: '21048'
+    instructor: O'Regan, Cyril
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '31'
+    open_spots: '39'
+    max_spots: '40'
+    crn: '21651'
+    instructor: McKenny, Gerald
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '34'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '25671'
+    instructor: Amar, Joseph
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Nonresident Dissertation Rsrch
+  credit: V
+  coursenum: THEO98700
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '20'
+    max_spots: '20'
+    crn: '21805'
+    instructor: Hilkert, M. Catherine
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '20'
+    max_spots: '20'
+    crn: '20385'
+    instructor: D'Angelo, Mary
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '04'
+    open_spots: '19'
+    max_spots: '19'
+    crn: '20902'
+    instructor: Cavadini, John
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '05'
+    open_spots: '20'
+    max_spots: '20'
+    crn: '21206'
+    instructor: Cunningham, Lawrence
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '06'
+    open_spots: '20'
+    max_spots: '20'
+    crn: '20164'
+    instructor: Burrell, David
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '07'
+    open_spots: '20'
+    max_spots: '20'
+    crn: '21552'
+    instructor: Daley, Brian
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: 08
+    open_spots: '20'
+    max_spots: '20'
+    crn: '20577'
+    instructor: Krieg, Robert
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '11'
+    open_spots: '20'
+    max_spots: '20'
+    crn: '21455'
+    instructor: McBrien, Richard
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '12'
+    open_spots: '20'
+    max_spots: '20'
+    crn: '21227'
+    instructor: Wawrykow, Joseph
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '13'
+    open_spots: '20'
+    max_spots: '20'
+    crn: '21276'
+    instructor: Sullivan, Lawrence
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '14'
+    open_spots: '20'
+    max_spots: '20'
+    crn: '20753'
+    instructor: TBA
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '16'
+    open_spots: '20'
+    max_spots: '20'
+    crn: '20648'
+    instructor: Porter, Jean
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '17'
+    open_spots: '20'
+    max_spots: '20'
+    crn: '21541'
+    instructor: Page, Hugh
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '18'
+    open_spots: '20'
+    max_spots: '20'
+    crn: '21312'
+    instructor: TBA
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '19'
+    open_spots: '20'
+    max_spots: '20'
+    crn: '21374'
+    instructor: Sterling, Gregory
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '20'
+    open_spots: '20'
+    max_spots: '20'
+    crn: '20788'
+    instructor: Ulrich, Eugene
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '21'
+    open_spots: '20'
+    max_spots: '20'
+    crn: '20438'
+    instructor: VanderKam, James
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '22'
+    open_spots: '20'
+    max_spots: '20'
+    crn: '21799'
+    instructor: Mitchell, Nathan
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '23'
+    open_spots: '20'
+    max_spots: '20'
+    crn: '20740'
+    instructor: Whitmore, Todd
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '24'
+    open_spots: '20'
+    max_spots: '20'
+    crn: '21538'
+    instructor: Driscoll, Michael
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '25'
+    open_spots: '20'
+    max_spots: '20'
+    crn: '20312'
+    instructor: Zachman, Randall
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '26'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '21553'
+    instructor: Ryan, Maura
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '27'
+    open_spots: '20'
+    max_spots: '20'
+    crn: '20488'
+    instructor: Johnson, Maxwell
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '28'
+    open_spots: '20'
+    max_spots: '20'
+    crn: '21418'
+    instructor: Aune, David
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '29'
+    open_spots: '20'
+    max_spots: '20'
+    crn: '20414'
+    instructor: McKenny, Gerald
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '30'
+    open_spots: '75'
+    max_spots: '75'
+    crn: '22193'
+    instructor: Ashley, James
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '31'
+    open_spots: '19'
+    max_spots: '20'
+    crn: '23312'
+    instructor: O'Regan, Cyril
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '32'
+    open_spots: '20'
+    max_spots: '20'
+    crn: '23313'
+    instructor: Young, Robin
+    time: TBA
+    location: TBA
+: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: THEO87001
+  :section: '18'
+  :title: Special Studies
+  :credits: V
+  :status: OP
+  :max_spots: '15'
+  :open_spots: '15'
+  :xlst: ! '&nbsp'
+  :crn: '20410'
+  :syl: ! '&nbsp'
+  :instructor: Page, Hugh
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: THEO87001
+  :section: '19'
+  :title: Special Studies
+  :credits: V
+  :status: OP
+  :max_spots: '15'
+  :open_spots: '15'
+  :xlst: ! '&nbsp'
+  :crn: '20698'
+  :syl: ! '&nbsp'
+  :instructor: Porter, Jean
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: THEO87001
+  :section: '20'
+  :title: Special Studies
+  :credits: V
+  :status: OP
+  :max_spots: '15'
+  :open_spots: '15'
+  :xlst: ! '&nbsp'
+  :crn: '20834'
+  :syl: ! '&nbsp'
+  :instructor: Ryan, Maura
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: THEO87001
+  :section: '21'
+  :title: Special Studies
+  :credits: V
+  :status: OP
+  :max_spots: '15'
+  :open_spots: '15'
+  :xlst: ! '&nbsp'
+  :crn: '20186'
+  :syl: ! '&nbsp'
+  :instructor: Sterling, Gregory
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: THEO87001
+  :section: '22'
+  :title: Special Studies
+  :credits: V
+  :status: OP
+  :max_spots: '15'
+  :open_spots: '15'
+  :xlst: ! '&nbsp'
+  :crn: '20646'
+  :syl: ! '&nbsp'
+  :instructor: Whitmore, Todd
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: THEO87001
+  :section: '23'
+  :title: Special Studies
+  :credits: V
+  :status: OP
+  :max_spots: '15'
+  :open_spots: '15'
+  :xlst: ! '&nbsp'
+  :crn: '21763'
+  :syl: ! '&nbsp'
+  :instructor: Ulrich, Eugene
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: THEO87001
+  :section: '24'
+  :title: Special Studies
+  :credits: V
+  :status: OP
+  :max_spots: '15'
+  :open_spots: '15'
+  :xlst: ! '&nbsp'
+  :crn: '21033'
+  :syl: ! '&nbsp'
+  :instructor: VanderKam, James
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: THEO87001
+  :section: '25'
+  :title: Special Studies
+  :credits: V
+  :status: OP
+  :max_spots: '15'
+  :open_spots: '15'
+  :xlst: ! '&nbsp'
+  :crn: '21083'
+  :syl: ! '&nbsp'
+  :instructor: Wawrykow, Joseph
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: THEO87001
+  :section: '26'
+  :title: Special Studies
+  :credits: V
+  :status: OP
+  :max_spots: '15'
+  :open_spots: '15'
+  :xlst: ! '&nbsp'
+  :crn: '21645'
+  :syl: ! '&nbsp'
+  :instructor: Aune, David
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: THEO87001
+  :section: '27'
+  :title: Special Studies
+  :credits: V
+  :status: OP
+  :max_spots: '15'
+  :open_spots: '15'
+  :xlst: ! '&nbsp'
+  :crn: '21672'
+  :syl: ! '&nbsp'
+  :instructor: Betz, John
+  :when: F  - 1:30P - 3:00P
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: Edward A. Malloy Hall 320
+- :course: THEO87001
+  :section: '28'
+  :title: Special Studies
+  :credits: V
+  :status: OP
+  :max_spots: '15'
+  :open_spots: '15'
+  :xlst: ! '&nbsp'
+  :crn: '23311'
+  :syl: ! '&nbsp'
+  :instructor: Meier, John
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: THEO87001
+  :section: '29'
+  :title: Special Studies
+  :credits: V
+  :status: OP
+  :max_spots: '15'
+  :open_spots: '15'
+  :xlst: ! '&nbsp'
+  :crn: '20183'
+  :syl: ! '&nbsp'
+  :instructor: Zachman, Randall
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: THEO87001
+  :section: '30'
+  :title: Special Studies
+  :credits: V
+  :status: OP
+  :max_spots: '15'
+  :open_spots: '15'
+  :xlst: ! '&nbsp'
+  :crn: '20238'
+  :syl: ! '&nbsp'
+  :instructor: Ashley, James
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: THEO87001
+  :section: '31'
+  :title: Special Studies
+  :credits: V
+  :status: OP
+  :max_spots: '15'
+  :open_spots: '15'
+  :xlst: ! '&nbsp'
+  :crn: '20515'
+  :syl: ! '&nbsp'
+  :instructor: Johnson, Maxwell
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: THEO87001
+  :section: '32'
+  :title: Special Studies
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '20830'
+  :syl: ! '&nbsp'
+  :instructor: Daley, Brian
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: THEO87001
+  :section: '33'
+  :title: Special Studies
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '20916'
+  :syl: ! '&nbsp'
+  :instructor: O'Regan, Cyril
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: THEO87001
+  :section: '34'
+  :title: Special Studies
+  :credits: V
+  :status: OP
+  :max_spots: '15'
+  :open_spots: '15'
+  :xlst: ! '&nbsp'
+  :crn: '20282'
+  :syl: ! '&nbsp'
+  :instructor: Muller, Hildegund
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: THEO87001
+  :section: '35'
+  :title: Special Studies
+  :credits: V
+  :status: OP
+  :max_spots: '15'
+  :open_spots: '15'
+  :xlst: ! '&nbsp'
+  :crn: '21411'
+  :syl: ! '&nbsp'
+  :instructor: Gutierrez, Gustavo
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: THEO87001
+  :section: '36'
+  :title: Special Studies
+  :credits: V
+  :status: OP
+  :max_spots: '15'
+  :open_spots: '15'
+  :xlst: ! '&nbsp'
+  :crn: '20841'
+  :syl: ! '&nbsp'
+  :instructor: Mitchell, Nathan
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: THEO87001
+  :section: '37'
+  :title: Special Studies
+  :credits: V
+  :status: OP
+  :max_spots: '15'
+  :open_spots: '15'
+  :xlst: ! '&nbsp'
+  :crn: '22154'
+  :syl: ! '&nbsp'
+  :instructor: Young, Robin
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: THEO87001
+  :section: '38'
+  :title: Special Studies
+  :credits: V
+  :status: OP
+  :max_spots: '15'
+  :open_spots: '15'
+  :xlst: ! '&nbsp'
+  :crn: '22155'
+  :syl: ! '&nbsp'
+  :instructor: McKenny, Gerald
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: THEO87001
+  :section: '39'
+  :title: Special Studies
+  :credits: V
+  :status: OP
+  :max_spots: '15'
+  :open_spots: '15'
+  :xlst: ! '&nbsp'
+  :crn: '22762'
+  :syl: ! '&nbsp'
+  :instructor: Fagerberg, David
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: THEO87001
+  :section: '40'
+  :title: Special Studies
+  :credits: V
+  :status: OP
+  :max_spots: '5'
+  :open_spots: '5'
+  :xlst: ! '&nbsp'
+  :crn: '23502'
+  :syl: ! '&nbsp'
+  :instructor: Dunne, John
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: THEO87001
+  :section: '41'
+  :title: Special Studies
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '25628'
+  :syl: ! '&nbsp'
+  :instructor: Fassler, Margot
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: THEO87001
+  :section: '42'
+  :title: Special Studies
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '25687'
+  :syl: ! '&nbsp'
+  :instructor: Gimello, Robert
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: THEO87001
+  :section: '43'
+  :title: Special Studies
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '25694'
+  :syl: ! '&nbsp'
+  :instructor: Murphy, Francesca
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: THEO87001
+  :section: '44'
+  :title: Special Studies
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '27503'
+  :syl: ! '&nbsp'
+  :instructor: Avvakumov, Yury
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: THEO88401
+  :section: '01'
+  :title: Liturgy Dissertation Rsch Sem
+  :credits: '0'
+  :status: OP
+  :max_spots: '15'
+  :open_spots: '12'
+  :xlst: ! '&nbsp'
+  :crn: '20439'
+  :syl: ! '&nbsp'
+  :instructor: Johnson, Maxwell
+  :when: F  - 11:45A - 2:15P
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: THEO98699
+  :section: '01'
+  :title: Research and Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '100'
+  :open_spots: '100'
+  :xlst: ! '&nbsp'
+  :crn: '21710'
+  :syl: ! '&nbsp'
+  :instructor: Daley, Brian
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: THEO98699
+  :section: '02'
+  :title: Research and Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '40'
+  :open_spots: '40'
+  :xlst: ! '&nbsp'
+  :crn: '21437'
+  :syl: ! '&nbsp'
+  :instructor: Hilkert, M. Catherine
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: THEO98699
+  :section: '03'
+  :title: Research and Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '40'
+  :open_spots: '40'
+  :xlst: ! '&nbsp'
+  :crn: '20922'
+  :syl: ! '&nbsp'
+  :instructor: Deane-Drummond, Celia
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: THEO98699
+  :section: '04'
+  :title: Research and Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '40'
+  :open_spots: '40'
+  :xlst: ! '&nbsp'
+  :crn: '20037'
+  :syl: ! '&nbsp'
+  :instructor: Burrell, David
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: THEO98699
+  :section: '05'
+  :title: Research and Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '40'
+  :open_spots: '40'
+  :xlst: ! '&nbsp'
+  :crn: '21194'
+  :syl: ! '&nbsp'
+  :instructor: Cavadini, John
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: THEO98699
+  :section: '06'
+  :title: Research and Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '40'
+  :open_spots: '40'
+  :xlst: ! '&nbsp'
+  :crn: '20689'
+  :syl: ! '&nbsp'
+  :instructor: Cunningham, Lawrence
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: THEO98699
+  :section: '07'
+  :title: Research and Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '40'
+  :open_spots: '40'
+  :xlst: ! '&nbsp'
+  :crn: '21480'
+  :syl: ! '&nbsp'
+  :instructor: D'Angelo, Mary
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: THEO98699
+  :section: 08
+  :title: Research and Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '40'
+  :open_spots: '40'
+  :xlst: ! '&nbsp'
+  :crn: '21509'
+  :syl: ! '&nbsp'
+  :instructor: Driscoll, Michael
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: THEO98699
+  :section: 09
+  :title: Research and Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '40'
+  :open_spots: '40'
+  :xlst: ! '&nbsp'
+  :crn: '21377'
+  :syl: ! '&nbsp'
+  :instructor: Ashley, James
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: THEO98699
+  :section: '10'
+  :title: Research and Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '40'
+  :open_spots: '39'
+  :xlst: ! '&nbsp'
+  :crn: '20246'
+  :syl: ! '&nbsp'
+  :instructor: Krieg, Robert
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: THEO98699
+  :section: '11'
+  :title: Research and Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '40'
+  :open_spots: '39'
+  :xlst: ! '&nbsp'
+  :crn: '20476'
+  :syl: ! '&nbsp'
+  :instructor: Johnson, Maxwell
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: THEO98699
+  :section: '13'
+  :title: Research and Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '40'
+  :open_spots: '40'
+  :xlst: ! '&nbsp'
+  :crn: '20898'
+  :syl: ! '&nbsp'
+  :instructor: McBrien, Richard
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: THEO98699
+  :section: '15'
+  :title: Research and Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '40'
+  :open_spots: '40'
+  :xlst: ! '&nbsp'
+  :crn: '20263'
+  :syl: ! '&nbsp'
+  :instructor: Astell, Ann
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: THEO98699
+  :section: '16'
+  :title: Research and Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '40'
+  :open_spots: '39'
+  :xlst: ! '&nbsp'
+  :crn: '21115'
+  :syl: ! '&nbsp'
+  :instructor: Fagerberg, David
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: THEO98699
+  :section: '17'
+  :title: Research and Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '40'
+  :open_spots: '40'
+  :xlst: ! '&nbsp'
+  :crn: '21451'
+  :syl: ! '&nbsp'
+  :instructor: Ryan, Maura
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: THEO98699
+  :section: '18'
+  :title: Research and Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '40'
+  :open_spots: '40'
+  :xlst: ! '&nbsp'
+  :crn: '21567'
+  :syl: ! '&nbsp'
+  :instructor: Porter, Jean
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: THEO98699
+  :section: '19'
+  :title: Research and Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '40'
+  :open_spots: '40'
+  :xlst: ! '&nbsp'
+  :crn: '20249'
+  :syl: ! '&nbsp'
+  :instructor: Young, Robin
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: THEO98699
+  :section: '20'
+  :title: Research and Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '40'
+  :open_spots: '40'
+  :xlst: ! '&nbsp'
+  :crn: '20741'
+  :syl: ! '&nbsp'
+  :instructor: Sterling, Gregory
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: THEO98699
+  :section: '21'
+  :title: Research and Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '40'
+  :open_spots: '40'
+  :xlst: ! '&nbsp'
+  :crn: '20262'
+  :syl: ! '&nbsp'
+  :instructor: Ulrich, Eugene
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: THEO98699
+  :section: '22'
+  :title: Research and Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '40'
+  :open_spots: '39'
+  :xlst: ! '&nbsp'
+  :crn: '20402'
+  :syl: ! '&nbsp'
+  :instructor: VanderKam, James
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: THEO98699
+  :section: '23'
+  :title: Research and Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '40'
+  :open_spots: '38'
+  :xlst: ! '&nbsp'
+  :crn: '21247'
+  :syl: ! '&nbsp'
+  :instructor: Wawrykow, Joseph
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: THEO98699
+  :section: '24'
+  :title: Research and Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '40'
+  :open_spots: '39'
+  :xlst: ! '&nbsp'
+  :crn: '21833'
+  :syl: ! '&nbsp'
+  :instructor: Anderson, Gary
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: THEO98699
+  :section: '25'
+  :title: Research and Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '40'
+  :open_spots: '40'
+  :xlst: ! '&nbsp'
+  :crn: '21712'
+  :syl: ! '&nbsp'
+  :instructor: Whitmore, Todd
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: THEO98699
+  :section: '26'
+  :title: Research and Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '40'
+  :open_spots: '40'
+  :xlst: ! '&nbsp'
+  :crn: '21209'
+  :syl: ! '&nbsp'
+  :instructor: Page, Hugh
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: THEO98699
+  :section: '27'
+  :title: Research and Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '40'
+  :open_spots: '40'
+  :xlst: ! '&nbsp'
+  :crn: '20467'
+  :syl: ! '&nbsp'
+  :instructor: Zachman, Randall
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: THEO98699
+  :section: '28'
+  :title: Research and Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '40'
+  :open_spots: '39'
+  :xlst: ! '&nbsp'
+  :crn: '20381'
+  :syl: ! '&nbsp'
+  :instructor: Aune, David
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: THEO98699
+  :section: '29'
+  :title: Research and Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '40'
+  :open_spots: '40'
+  :xlst: ! '&nbsp'
+  :crn: '21675'
+  :syl: ! '&nbsp'
+  :instructor: Mitchell, Nathan
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: THEO98699
+  :section: '30'
+  :title: Research and Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '40'
+  :open_spots: '40'
+  :xlst: ! '&nbsp'
+  :crn: '21048'
+  :syl: ! '&nbsp'
+  :instructor: O'Regan, Cyril
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: THEO98699
+  :section: '31'
+  :title: Research and Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '40'
+  :open_spots: '39'
+  :xlst: ! '&nbsp'
+  :crn: '21651'
+  :syl: ! '&nbsp'
+  :instructor: McKenny, Gerald
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: THEO98699
+  :section: '34'
+  :title: Research and Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '25671'
+  :syl: ! '&nbsp'
+  :instructor: Amar, Joseph
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: THEO98700
+  :section: '01'
+  :title: Nonresident Dissertation Rsrch
+  :credits: V
+  :status: OP
+  :max_spots: '20'
+  :open_spots: '20'
+  :xlst: ! '&nbsp'
+  :crn: '21805'
+  :syl: ! '&nbsp'
+  :instructor: Hilkert, M. Catherine
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: THEO98700
+  :section: '02'
+  :title: Nonresident Dissertation Rsrch
+  :credits: V
+  :status: OP
+  :max_spots: '20'
+  :open_spots: '20'
+  :xlst: ! '&nbsp'
+  :crn: '20385'
+  :syl: ! '&nbsp'
+  :instructor: D'Angelo, Mary
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: THEO98700
+  :section: '04'
+  :title: Nonresident Dissertation Rsrch
+  :credits: V
+  :status: OP
+  :max_spots: '19'
+  :open_spots: '19'
+  :xlst: ! '&nbsp'
+  :crn: '20902'
+  :syl: ! '&nbsp'
+  :instructor: Cavadini, John
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: THEO98700
+  :section: '05'
+  :title: Nonresident Dissertation Rsrch
+  :credits: V
+  :status: OP
+  :max_spots: '20'
+  :open_spots: '20'
+  :xlst: ! '&nbsp'
+  :crn: '21206'
+  :syl: ! '&nbsp'
+  :instructor: Cunningham, Lawrence
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: THEO98700
+  :section: '06'
+  :title: Nonresident Dissertation Rsrch
+  :credits: V
+  :status: OP
+  :max_spots: '20'
+  :open_spots: '20'
+  :xlst: ! '&nbsp'
+  :crn: '20164'
+  :syl: ! '&nbsp'
+  :instructor: Burrell, David
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: THEO98700
+  :section: '07'
+  :title: Nonresident Dissertation Rsrch
+  :credits: V
+  :status: OP
+  :max_spots: '20'
+  :open_spots: '20'
+  :xlst: ! '&nbsp'
+  :crn: '21552'
+  :syl: ! '&nbsp'
+  :instructor: Daley, Brian
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: THEO98700
+  :section: 08
+  :title: Nonresident Dissertation Rsrch
+  :credits: V
+  :status: OP
+  :max_spots: '20'
+  :open_spots: '20'
+  :xlst: ! '&nbsp'
+  :crn: '20577'
+  :syl: ! '&nbsp'
+  :instructor: Krieg, Robert
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: THEO98700
+  :section: '11'
+  :title: Nonresident Dissertation Rsrch
+  :credits: V
+  :status: OP
+  :max_spots: '20'
+  :open_spots: '20'
+  :xlst: ! '&nbsp'
+  :crn: '21455'
+  :syl: ! '&nbsp'
+  :instructor: McBrien, Richard
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: THEO98700
+  :section: '12'
+  :title: Nonresident Dissertation Rsrch
+  :credits: V
+  :status: OP
+  :max_spots: '20'
+  :open_spots: '20'
+  :xlst: ! '&nbsp'
+  :crn: '21227'
+  :syl: ! '&nbsp'
+  :instructor: Wawrykow, Joseph
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: THEO98700
+  :section: '13'
+  :title: Nonresident Dissertation Rsrch
+  :credits: V
+  :status: OP
+  :max_spots: '20'
+  :open_spots: '20'
+  :xlst: ! '&nbsp'
+  :crn: '21276'
+  :syl: ! '&nbsp'
+  :instructor: Sullivan, Lawrence
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: THEO98700
+  :section: '14'
+  :title: Nonresident Dissertation Rsrch
+  :credits: V
+  :status: OP
+  :max_spots: '20'
+  :open_spots: '20'
+  :xlst: ! '&nbsp'
+  :crn: '20753'
+  :syl: ! '&nbsp'
+  :instructor: TBA
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: THEO98700
+  :section: '16'
+  :title: Nonresident Dissertation Rsrch
+  :credits: V
+  :status: OP
+  :max_spots: '20'
+  :open_spots: '20'
+  :xlst: ! '&nbsp'
+  :crn: '20648'
+  :syl: ! '&nbsp'
+  :instructor: Porter, Jean
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: THEO98700
+  :section: '17'
+  :title: Nonresident Dissertation Rsrch
+  :credits: V
+  :status: OP
+  :max_spots: '20'
+  :open_spots: '20'
+  :xlst: ! '&nbsp'
+  :crn: '21541'
+  :syl: ! '&nbsp'
+  :instructor: Page, Hugh
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: THEO98700
+  :section: '18'
+  :title: Nonresident Dissertation Rsrch
+  :credits: V
+  :status: OP
+  :max_spots: '20'
+  :open_spots: '20'
+  :xlst: ! '&nbsp'
+  :crn: '21312'
+  :syl: ! '&nbsp'
+  :instructor: TBA
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: THEO98700
+  :section: '19'
+  :title: Nonresident Dissertation Rsrch
+  :credits: V
+  :status: OP
+  :max_spots: '20'
+  :open_spots: '20'
+  :xlst: ! '&nbsp'
+  :crn: '21374'
+  :syl: ! '&nbsp'
+  :instructor: Sterling, Gregory
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: THEO98700
+  :section: '20'
+  :title: Nonresident Dissertation Rsrch
+  :credits: V
+  :status: OP
+  :max_spots: '20'
+  :open_spots: '20'
+  :xlst: ! '&nbsp'
+  :crn: '20788'
+  :syl: ! '&nbsp'
+  :instructor: Ulrich, Eugene
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: THEO98700
+  :section: '21'
+  :title: Nonresident Dissertation Rsrch
+  :credits: V
+  :status: OP
+  :max_spots: '20'
+  :open_spots: '20'
+  :xlst: ! '&nbsp'
+  :crn: '20438'
+  :syl: ! '&nbsp'
+  :instructor: VanderKam, James
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: THEO98700
+  :section: '22'
+  :title: Nonresident Dissertation Rsrch
+  :credits: V
+  :status: OP
+  :max_spots: '20'
+  :open_spots: '20'
+  :xlst: ! '&nbsp'
+  :crn: '21799'
+  :syl: ! '&nbsp'
+  :instructor: Mitchell, Nathan
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: THEO98700
+  :section: '23'
+  :title: Nonresident Dissertation Rsrch
+  :credits: V
+  :status: OP
+  :max_spots: '20'
+  :open_spots: '20'
+  :xlst: ! '&nbsp'
+  :crn: '20740'
+  :syl: ! '&nbsp'
+  :instructor: Whitmore, Todd
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: THEO98700
+  :section: '24'
+  :title: Nonresident Dissertation Rsrch
+  :credits: V
+  :status: OP
+  :max_spots: '20'
+  :open_spots: '20'
+  :xlst: ! '&nbsp'
+  :crn: '21538'
+  :syl: ! '&nbsp'
+  :instructor: Driscoll, Michael
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: THEO98700
+  :section: '25'
+  :title: Nonresident Dissertation Rsrch
+  :credits: V
+  :status: OP
+  :max_spots: '20'
+  :open_spots: '20'
+  :xlst: ! '&nbsp'
+  :crn: '20312'
+  :syl: ! '&nbsp'
+  :instructor: Zachman, Randall
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: THEO98700
+  :section: '26'
+  :title: Nonresident Dissertation Rsrch
+  :credits: V
+  :status: OP
+  :max_spots: '5'
+  :open_spots: '5'
+  :xlst: ! '&nbsp'
+  :crn: '21553'
+  :syl: ! '&nbsp'
+  :instructor: Ryan, Maura
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: THEO98700
+  :section: '27'
+  :title: Nonresident Dissertation Rsrch
+  :credits: V
+  :status: OP
+  :max_spots: '20'
+  :open_spots: '20'
+  :xlst: ! '&nbsp'
+  :crn: '20488'
+  :syl: ! '&nbsp'
+  :instructor: Johnson, Maxwell
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: THEO98700
+  :section: '28'
+  :title: Nonresident Dissertation Rsrch
+  :credits: V
+  :status: OP
+  :max_spots: '20'
+  :open_spots: '20'
+  :xlst: ! '&nbsp'
+  :crn: '21418'
+  :syl: ! '&nbsp'
+  :instructor: Aune, David
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: THEO98700
+  :section: '29'
+  :title: Nonresident Dissertation Rsrch
+  :credits: V
+  :status: OP
+  :max_spots: '20'
+  :open_spots: '20'
+  :xlst: ! '&nbsp'
+  :crn: '20414'
+  :syl: ! '&nbsp'
+  :instructor: McKenny, Gerald
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: THEO98700
+  :section: '30'
+  :title: Nonresident Dissertation Rsrch
+  :credits: V
+  :status: OP
+  :max_spots: '75'
+  :open_spots: '75'
+  :xlst: ! '&nbsp'
+  :crn: '22193'
+  :syl: ! '&nbsp'
+  :instructor: Ashley, James
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: THEO98700
+  :section: '31'
+  :title: Nonresident Dissertation Rsrch
+  :credits: V
+  :status: OP
+  :max_spots: '20'
+  :open_spots: '19'
+  :xlst: ! '&nbsp'
+  :crn: '23312'
+  :syl: ! '&nbsp'
+  :instructor: O'Regan, Cyril
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: THEO98700
+  :section: '32'
+  :title: Nonresident Dissertation Rsrch
+  :credits: V
+  :status: OP
+  :max_spots: '20'
+  :open_spots: '20'
+  :xlst: ! '&nbsp'
+  :crn: '23313'
+  :syl: ! '&nbsp'
+  :instructor: Young, Robin
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA

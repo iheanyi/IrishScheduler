@@ -1,0 +1,549 @@
+---
+- !ruby/object:Course
+  name: 2-D Foundations
+  credit: '3'
+  coursenum: DESN11100
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '2'
+    max_spots: '15'
+    crn: '20015'
+    instructor: Bourgeois, Marie
+    time: M W F  - 8:30A - 10:25A
+    location: West Lake Hall (Telecomm) 224
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '0'
+    max_spots: '18'
+    crn: '20445'
+    instructor: Smith, Matthew
+    time: M W F  - 1:55P - 3:50P
+    location: West Lake Hall (Telecomm) 224
+  - !ruby/object:Section
+    section_num: '03'
+    open_spots: '1'
+    max_spots: '15'
+    crn: '29448'
+    instructor: Bourgeois, Marie
+    time: T R  - 3:30P - 6:15P
+    location: West Lake Hall (Telecomm) 230
+- !ruby/object:Course
+  name: Graphic Design 1
+  credit: '3'
+  coursenum: DESN21101
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '10'
+    max_spots: '15'
+    crn: '20944'
+    instructor: Duarte, Mayra
+    time: M W F  - 10:40A - 12:35P
+    location: West Lake Hall (Telecomm) 224
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '1'
+    max_spots: '16'
+    crn: '24635'
+    instructor: Sedlack, Robert
+    time: T R  - 3:30P - 6:15P
+    location: West Lake Hall (Telecomm) 223
+- !ruby/object:Course
+  name: Adobe Creative Suite Tutorial
+  credit: '1'
+  coursenum: DESN21102
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '10'
+    max_spots: '30'
+    crn: '26492'
+    instructor: Martin, Sarah
+    time: T  - 8:30P - 10:30P
+    location: West Lake Hall (Telecomm) 219
+- !ruby/object:Course
+  name: Web Design1
+  credit: '3'
+  coursenum: DESN21120
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '12'
+    crn: '26494'
+    instructor: Murnieks, Andre
+    time: M W  - 11:45A - 2:45P
+    location: West Lake Hall (Telecomm) 219
+- !ruby/object:Course
+  name: Visual Dialogue
+  credit: '3'
+  coursenum: DESN21200
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '1'
+    max_spots: '17'
+    crn: '20427'
+    instructor: Tisten, George
+    time: T R  - 9:30A - 12:15P
+    location: West Lake Hall (Telecomm) 224
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '3'
+    max_spots: '18'
+    crn: '21442'
+    instructor: Tisten, George
+    time: T R  - 3:30P - 6:15P
+    location: West Lake Hall (Telecomm) 224
+- !ruby/object:Course
+  name: Product Design I
+  credit: '3'
+  coursenum: DESN21201
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '4'
+    max_spots: '12'
+    crn: '20140'
+    instructor: Down, Paul
+    time: T R  - 12:30P - 3:15P
+    location: West Lake Hall (Telecomm) 226
+- !ruby/object:Course
+  name: Graphic Design 2
+  credit: '3'
+  coursenum: DESN31100
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '16'
+    crn: '26495'
+    instructor: Berry, Anne
+    time: M W  - 8:30A - 11:30A
+    location: West Lake Hall (Telecomm) 226
+- !ruby/object:Course
+  name: Motion Design
+  credit: '3'
+  coursenum: DESN31131
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '2'
+    max_spots: '12'
+    crn: '26853'
+    instructor: Murnieks, Andre
+    time: M W  - 3:00P - 6:00P
+    location: West Lake Hall (Telecomm) 204
+- !ruby/object:Course
+  name: Advanced Product Design
+  credit: '3'
+  coursenum: DESN31203
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '13'
+    max_spots: '24'
+    crn: '24195'
+    instructor: Kahwaji, Michael
+    time: T R  - 6:30P - 9:15P
+    location: West Lake Hall (Telecomm) 226
+- !ruby/object:Course
+  name: Digital 3-D
+  credit: '3'
+  coursenum: DESN31205
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '8'
+    max_spots: '9'
+    crn: '24618'
+    instructor: Melchiorri, Kevin
+    time: M W F  - 8:30A - 10:25A
+    location: West Lake Hall (Telecomm) 204
+- !ruby/object:Course
+  name: Digital Sketch to Solids
+  credit: '3'
+  coursenum: DESN31209
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '5'
+    max_spots: '9'
+    crn: '25184'
+    instructor: Elwell, Michael
+    time: T R  - 9:30A - 12:15P
+    location: West Lake Hall (Telecomm) 204
+- !ruby/object:Course
+  name: Tech Concepts of Visual FX
+  credit: '3'
+  coursenum: DESN40655
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '24738'
+    instructor: Bualuan, Ramzi
+    time: M W F  - 1:55P - 2:45P
+    location: Cushing Hall of Engineering 303
+- !ruby/object:Course
+  name: Graphic Design 3
+  credit: '3'
+  coursenum: DESN41100
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '2'
+    max_spots: '16'
+    crn: '26496'
+    instructor: Sedlack, Robert
+    time: T R  - 9:30A - 12:15P
+    location: West Lake Hall (Telecomm) 226
+- !ruby/object:Course
+  name: Graphic Design 4
+  credit: '3'
+  coursenum: DESN41101
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '10'
+    max_spots: '16'
+    crn: '26497'
+    instructor: Berry, Anne
+    time: M W  - 11:45A - 2:45P
+    location: West Lake Hall (Telecomm) 226
+- !ruby/object:Course
+  name: Collaborative Product Develop.
+  credit: '3'
+  coursenum: DESN41201
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '7'
+    max_spots: '10'
+    crn: '26926'
+    instructor: Down, Paul
+    time: F  - 9:35A - 12:35P
+    location: West Lake Hall (Telecomm) 226
+- !ruby/object:Course
+  name: Design Internship
+  credit: V
+  coursenum: DESN45310
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '20819'
+    instructor: Down, Paul
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '25573'
+    instructor: Sedlack, Robert Gray, Richard
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Special Studies-Graphic Design
+  credit: V
+  coursenum: DESN47171
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '7'
+    max_spots: '7'
+    crn: '22376'
+    instructor: Murnieks, Andre
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Special Studies-Graphic Design
+  credit: V
+  coursenum: DESN47173
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '6'
+    max_spots: '7'
+    crn: '23695'
+    instructor: Berry, Anne
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Special Studies-Graphic Design
+  credit: V
+  coursenum: DESN47174
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '7'
+    max_spots: '7'
+    crn: '25194'
+    instructor: Sedlack, Robert
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Special Studies-Product Design
+  credit: V
+  coursenum: DESN47271
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '12'
+    max_spots: '12'
+    crn: '22378'
+    instructor: Conrado, Ann-Marie
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Special Studies-Product Design
+  credit: V
+  coursenum: DESN47272
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '6'
+    max_spots: '7'
+    crn: '22379'
+    instructor: Down, Paul
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: BFA Thesis - Graphic Design
+  credit: '5'
+  coursenum: DESN48102
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '3'
+    max_spots: '4'
+    crn: '25712'
+    instructor: Murnieks, Andre
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: BFA Thesis - Graphic Design
+  credit: '5'
+  coursenum: DESN48103
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '4'
+    crn: '22384'
+    instructor: Sedlack, Robert
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: BFA Thesis - Graphic Design
+  credit: '5'
+  coursenum: DESN48105
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '15'
+    max_spots: '15'
+    crn: '23482'
+    instructor: Berry, Anne
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: BFA Thesis - Product Design
+  credit: '5'
+  coursenum: DESN48203
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '3'
+    max_spots: '4'
+    crn: '22386'
+    instructor: Conrado, Ann-Marie
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: BFA Thesis - Product Design
+  credit: '5'
+  coursenum: DESN48204
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '1'
+    max_spots: '4'
+    crn: '22387'
+    instructor: Down, Paul
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Collaborative Product Develop.
+  credit: '3'
+  coursenum: DESN61201
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '4'
+    max_spots: '7'
+    crn: '26927'
+    instructor: Down, Paul
+    time: F  - 9:35A - 12:35P
+    location: West Lake Hall (Telecomm) 226
+- !ruby/object:Course
+  name: Digital Sketch to Solids
+  credit: '3'
+  coursenum: DESN61209
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '2'
+    max_spots: '2'
+    crn: '29861'
+    instructor: Elwell, Michael
+    time: T R  - 9:30A - 12:15P
+    location: TBA
+- !ruby/object:Course
+  name: Design Seminar
+  credit: '1'
+  coursenum: DESN63350
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '6'
+    max_spots: '6'
+    crn: '21878'
+    instructor: Berry, Anne Down, PaulMurnieks, AndreSedlack, Robert
+    time: R  - 8:00A - 9:15A
+    location: West Lake Hall (Telecomm) 226
+- !ruby/object:Course
+  name: Special Studies-Graphic Design
+  credit: V
+  coursenum: DESN67171
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '22380'
+    instructor: Murnieks, Andre
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Special Studies-Graphic Design
+  credit: V
+  coursenum: DESN67173
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '23696'
+    instructor: Berry, Anne
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Special Studies-Graphic Design
+  credit: V
+  coursenum: DESN67174
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '25422'
+    instructor: Sedlack, Robert
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Special Studies-Product Design
+  credit: V
+  coursenum: DESN67271
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '22382'
+    instructor: Conrado, Ann-Marie
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Special Studies-Product Design
+  credit: V
+  coursenum: DESN67272
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '22383'
+    instructor: Down, Paul
+    time: TBA
+    location: TBA
+&nbsp'
+  :instructor: Murnieks, Andre
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: DESN67173
+  :section: '01'
+  :title: Special Studies-Graphic Design
+  :credits: V
+  :status: OP
+  :max_spots: '5'
+  :open_spots: '5'
+  :xlst: ! '&nbsp'
+  :crn: '23696'
+  :syl: ! '&nbsp'
+  :instructor: Berry, Anne
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: DESN67174
+  :section: '01'
+  :title: Special Studies-Graphic Design
+  :credits: V
+  :status: OP
+  :max_spots: '5'
+  :open_spots: '5'
+  :xlst: ! '&nbsp'
+  :crn: '25422'
+  :syl: ! '&nbsp'
+  :instructor: Sedlack, Robert
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: DESN67271
+  :section: '01'
+  :title: Special Studies-Product Design
+  :credits: V
+  :status: OP
+  :max_spots: '5'
+  :open_spots: '5'
+  :xlst: ! '&nbsp'
+  :crn: '22382'
+  :syl: ! '&nbsp'
+  :instructor: Conrado, Ann-Marie
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: DESN67272
+  :section: '01'
+  :title: Special Studies-Product Design
+  :credits: V
+  :status: OP
+  :max_spots: '5'
+  :open_spots: '5'
+  :xlst: ! '&nbsp'
+  :crn: '22383'
+  :syl: ! '&nbsp'
+  :instructor: Down, Paul
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA

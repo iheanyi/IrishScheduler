@@ -1,0 +1,1630 @@
+---
+- !ruby/object:Course
+  name: Introduction to Anthropology
+  credit: '3'
+  coursenum: ANTH10109
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '49'
+    crn: '20093'
+    instructor: Mahmood, Cynthia
+    time: T R  - 2:00P - 3:15P
+    location: Edward J. DeBartolo Hall 117
+- !ruby/object:Course
+  name: Music & Protest in Arab World
+  credit: '3'
+  coursenum: ANTH10142
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '1'
+    crn: '29829'
+    instructor: Jarjour, Tala
+    time: T R  - 11:00A - 12:15P
+    location: Crowley Hall of Music 124
+- !ruby/object:Course
+  name: Intro to Anthropology Honors
+  credit: '3'
+  coursenum: ANTH10195
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '12'
+    max_spots: '25'
+    crn: '28502'
+    instructor: Rotman, Deborah
+    time: M W F  - 9:35A - 10:25A
+    location: O'Shaughnessy Hall 201
+- !ruby/object:Course
+  name: Soc Science University Seminar
+  credit: '3'
+  coursenum: ANTH13181
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '16'
+    crn: '20203'
+    instructor: Curtis, Paulette
+    time: T R  - 12:30P - 1:45P
+    location: Coleman Morse Center 201
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '1'
+    max_spots: '16'
+    crn: '22390'
+    instructor: Glowacki, Donna
+    time: T R  - 3:30P - 4:45P
+    location: Geddes Hall B034
+  - !ruby/object:Section
+    section_num: '03'
+    open_spots: '0'
+    max_spots: '16'
+    crn: '28503'
+    instructor: Singh, Holly
+    time: T R  - 9:30A - 10:45A
+    location: Flanner Hall 925
+- !ruby/object:Course
+  name: Intro to Irish Folklore
+  credit: '3'
+  coursenum: ANTH20023
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '1'
+    max_spots: '6'
+    crn: '26460'
+    instructor: Gillan, Jeremiah
+    time: T R  - 3:30P - 4:45P
+    location: Flanner Hall 323
+- !ruby/object:Course
+  name: ! 'Anthropology: Humans 360'
+  credit: '3'
+  coursenum: ANTH20101
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '9'
+    max_spots: '19'
+    crn: '28504'
+    instructor: Ullah, Isaac
+    time: M W F  - 8:30A - 9:20A
+    location: Geddes Hall B036
+- !ruby/object:Course
+  name: Introduction to Human Ethology
+  credit: '3'
+  coursenum: ANTH20105
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '428'
+    crn: '24172'
+    instructor: McKenna, James
+    time: T R  - 11:00A - 12:15P
+    location: Edward J. DeBartolo Hall 101
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '8'
+    max_spots: '12'
+    crn: '25757'
+    instructor: McKenna, James
+    time: T R  - 11:00A - 12:15P
+    location: Edward J. DeBartolo Hall 101
+  - !ruby/object:Section
+    section_num: '03'
+    open_spots: '25'
+    max_spots: '25'
+    crn: '29841'
+    instructor: McKenna, James
+    time: T R  - 11:00A - 12:15P
+    location: Edward J. DeBartolo Hall 101
+- !ruby/object:Course
+  name: Fundamentals of Bio Anth
+  credit: '3'
+  coursenum: ANTH20201
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '21'
+    max_spots: '38'
+    crn: '28506'
+    instructor: Ullah, Isaac
+    time: M W F  - 9:35A - 10:25A
+    location: Geddes Hall B036
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '11'
+    max_spots: '38'
+    crn: '28505'
+    instructor: Sheridan, Susan
+    time: T R  - 12:30P - 1:45P
+    location: Geddes Hall B036
+- !ruby/object:Course
+  name: Fundamentals of Archaeology
+  credit: '3'
+  coursenum: ANTH20202
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '10'
+    max_spots: '38'
+    crn: '28507'
+    instructor: Kuijt, Ian
+    time: T R  - 11:00A - 12:15P
+    location: Geddes Hall B036
+- !ruby/object:Course
+  name: Fundamntls Social/Culturl Anth
+  credit: '3'
+  coursenum: ANTH20203
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '11'
+    max_spots: '25'
+    crn: '28508'
+    instructor: Smith, Vania
+    time: T R  - 9:30A - 10:45A
+    location: Hammes Mowbray Hall 306
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '0'
+    max_spots: '25'
+    crn: '28509'
+    instructor: Nordstrom, Carolyn
+    time: M W  - 11:45A - 1:00P
+    location: Coleman Morse Center 330
+- !ruby/object:Course
+  name: Fundamentls of Linguistic Anth
+  credit: '3'
+  coursenum: ANTH20204
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '39'
+    crn: '28510'
+    instructor: Blum, Susan
+    time: M W F  - 11:45A - 12:35P
+    location: Geddes Hall B034
+- !ruby/object:Course
+  name: ! 'Irish in Us: Comparative Persp'
+  credit: '3'
+  coursenum: ANTH20316
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '23'
+    max_spots: '33'
+    crn: '28511'
+    instructor: Griffin, Patrick Kuijt, IanO'Conchubhair, Brian
+    time: T R  - 2:00P - 2:50P
+    location: Hayes Healy Center 127
+- !ruby/object:Course
+  name: Irish-American Tap Dance
+  credit: '1'
+  coursenum: ANTH20900
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '133'
+    crn: '25759'
+    instructor: McKenna, James
+    time: M W  - 4:30P - 5:45P
+    location: TBA
+- !ruby/object:Course
+  name: Caribbean Migrations
+  credit: '3'
+  coursenum: ANTH30013
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '4'
+    crn: '28512'
+    instructor: Richman, Karen
+    time: T R  - 2:00P - 3:15P
+    location: Edward J. DeBartolo Hall 113
+- !ruby/object:Course
+  name: Creole Language and Culture II
+  credit: '3'
+  coursenum: ANTH30018
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '1'
+    crn: '29301'
+    instructor: Richman, Karen
+    time: T R  - 3:30P - 4:45P
+    location: Edward J. DeBartolo Hall 143
+- !ruby/object:Course
+  name: Native American Literature
+  credit: '3'
+  coursenum: ANTH30041
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '6'
+    crn: '26462'
+    instructor: Walls, Robert
+    time: M W  - 3:00P - 4:15P
+    location: Edward J. DeBartolo Hall 246
+- !ruby/object:Course
+  name: Intro to Classical Archeaology
+  credit: '3'
+  coursenum: ANTH30050
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '29302'
+    instructor: Hernandez, David
+    time: M W  - 11:45A - 1:00P
+    location: Edward J. DeBartolo Hall 245
+- !ruby/object:Course
+  name: ! 'Sustainability: Past & Present'
+  credit: '3'
+  coursenum: ANTH30180
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '16'
+    crn: '29303'
+    instructor: Ullah, Isaac
+    time: T R  - 2:00P - 3:15P
+    location: Edward J. DeBartolo Hall 201
+- !ruby/object:Course
+  name: Language Culture & Identity
+  credit: '3'
+  coursenum: ANTH30609
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '4'
+    crn: '29304'
+    instructor: Askildson, Lance
+    time: T R  - 3:30P - 4:45P
+    location: Edward J. DeBartolo Hall 301
+- !ruby/object:Course
+  name: Anth of Race and Racism
+  credit: '3'
+  coursenum: ANTH35160
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '18'
+    crn: '29305'
+    instructor: Torres, Gabriel
+    time: T R  - 9:30A - 10:45A
+    location: Grace Hall 346
+- !ruby/object:Course
+  name: Health, Healing, and Culture
+  credit: '3'
+  coursenum: ANTH35210
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '4'
+    max_spots: '25'
+    crn: '28514'
+    instructor: Singh, Holly
+    time: M W F  - 8:30A - 9:20A
+    location: Geddes Hall B034
+- !ruby/object:Course
+  name: Immigration Global Perspective
+  credit: '3'
+  coursenum: ANTH35360
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '15'
+    crn: '28515'
+    instructor: Albahari, Maurizio
+    time: M W  - 1:30P - 2:45P
+    location: Flanner Hall 824
+- !ruby/object:Course
+  name: Folklore, Lit&Irish Natnl Cltr
+  credit: '3'
+  coursenum: ANTH40016
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '3'
+    max_spots: '6'
+    crn: '28516'
+    instructor: Gillan, Jeremiah
+    time: T R  - 11:00A - 12:15P
+    location: Edward J. DeBartolo Hall 246
+- !ruby/object:Course
+  name: Evolution/Med Persp Fatherhood
+  credit: '3'
+  coursenum: ANTH40120
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '14'
+    crn: '29306'
+    instructor: Gettler, Lee
+    time: M W  - 1:30P - 2:45P
+    location: O'Shaughnessy Hall 116
+- !ruby/object:Course
+  name: Perspectivs in Anthro Analysis
+  credit: '3'
+  coursenum: ANTH40400
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '9'
+    max_spots: '19'
+    crn: '20720'
+    instructor: Albahari, Maurizio
+    time: M W F  - 9:35A - 10:25A
+    location: Flanner Hall 925
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '2'
+    max_spots: '19'
+    crn: '24192'
+    instructor: Oka, Rahul
+    time: T R  - 3:30P - 4:45P
+    location: Flanner Hall 824
+- !ruby/object:Course
+  name: Topography of Ancient Rome
+  credit: '3'
+  coursenum: ANTH40406
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '3'
+    max_spots: '5'
+    crn: '28517'
+    instructor: Hernandez, David
+    time: M W  - 3:00P - 4:15P
+    location: Edward J. DeBartolo Hall 136
+- !ruby/object:Course
+  name: Cannibalism-Symbolic Enchilada
+  credit: '3'
+  coursenum: ANTH40662
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '2'
+    crn: '29809'
+    instructor: Jauregui, Carlos
+    time: T R  - 12:30P - 1:45P
+    location: O'Shaughnessy Hall 209
+- !ruby/object:Course
+  name: Preparing for Fieldwork
+  credit: '1'
+  coursenum: ANTH40700
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '8'
+    max_spots: '12'
+    crn: '29806'
+    instructor: Torres, Gabriel
+    time: R  - 6:00P - 8:30P
+    location: Flanner Hall 323
+- !ruby/object:Course
+  name: Human Diversity
+  credit: '3'
+  coursenum: ANTH40810
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '11'
+    max_spots: '19'
+    crn: '28518'
+    instructor: Sheridan, Susan
+    time: T R  - 2:00P - 3:15P
+    location: Hammes Mowbray Hall 306
+- !ruby/object:Course
+  name: Gender and Health
+  credit: '3'
+  coursenum: ANTH40825
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '15'
+    crn: '28519'
+    instructor: Smith, Vania
+    time: T R  - 12:30P - 1:45P
+    location: Flanner Hall 925
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '0'
+    max_spots: '2'
+    crn: '29307'
+    instructor: Smith, Vania
+    time: T R  - 12:30P - 1:45P
+    location: Flanner Hall 925
+- !ruby/object:Course
+  name: Genocide, Witness, and Memory
+  credit: '3'
+  coursenum: ANTH40860
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '16'
+    crn: '28520'
+    instructor: Mahmood, Cynthia
+    time: T R  - 5:00P - 6:15P
+    location: Edward J. DeBartolo Hall 308
+- !ruby/object:Course
+  name: The World at 1200
+  credit: '3'
+  coursenum: ANTH40895
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '3'
+    max_spots: '9'
+    crn: '28521'
+    instructor: Glowacki, Donna Joyner, Danielle
+    time: T R  - 11:00A - 12:15P
+    location: O'Shaughnessy Hall 106
+- !ruby/object:Course
+  name: Music and Culture
+  credit: '3'
+  coursenum: ANTH43140
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '1'
+    crn: '29308'
+    instructor: Jarjour, Tala
+    time: T  - 2:15P - 4:45P
+    location: TBA
+- !ruby/object:Course
+  name: Trade/Globalization >100000 BC
+  credit: '3'
+  coursenum: ANTH45350
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '2'
+    max_spots: '15'
+    crn: '28522'
+    instructor: Oka, Rahul
+    time: T R  - 5:00P - 6:15P
+    location: Flanner Hall 824
+- !ruby/object:Course
+  name: Masculinities, Health, and Dis
+  credit: '3'
+  coursenum: ANTH45811
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '6'
+    max_spots: '18'
+    crn: '28523'
+    instructor: Singh, Holly
+    time: T R  - 11:00A - 12:15P
+    location: Flanner Hall 925
+- !ruby/object:Course
+  name: Global Crime and Corruption
+  credit: '3'
+  coursenum: ANTH45833
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '16'
+    crn: '25140'
+    instructor: Nordstrom, Carolyn
+    time: M W  - 3:00P - 4:15P
+    location: Geddes Hall B034
+- !ruby/object:Course
+  name: Dir Readings - Biological Anth
+  credit: V
+  coursenum: ANTH46100
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '2'
+    max_spots: '2'
+    crn: '20736'
+    instructor: Benn Torres, Jada
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '2'
+    max_spots: '2'
+    crn: '21024'
+    instructor: Fuentes, Agustin
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '03'
+    open_spots: '4'
+    max_spots: '4'
+    crn: '21714'
+    instructor: McKenna, James
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '04'
+    open_spots: '2'
+    max_spots: '2'
+    crn: '22052'
+    instructor: Sheridan, Susan
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Dir Readings - Medical Anth
+  credit: V
+  coursenum: ANTH46200
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '4'
+    max_spots: '4'
+    crn: '22394'
+    instructor: McKenna, James
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '1'
+    max_spots: '2'
+    crn: '22395'
+    instructor: Smith, Vania
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Dir Readings - Sociocultural
+  credit: V
+  coursenum: ANTH46300
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '2'
+    max_spots: '2'
+    crn: '21889'
+    instructor: Albahari, Maurizio
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '2'
+    max_spots: '2'
+    crn: '20405'
+    instructor: Blum, Susan
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '03'
+    open_spots: '2'
+    max_spots: '2'
+    crn: '21722'
+    instructor: Bolten, Catherine
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '04'
+    open_spots: '2'
+    max_spots: '2'
+    crn: '21542'
+    instructor: Gaffney, Patrick
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '05'
+    open_spots: '2'
+    max_spots: '2'
+    crn: '20813'
+    instructor: Mack, Joanne
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '06'
+    open_spots: '2'
+    max_spots: '2'
+    crn: '21865'
+    instructor: Mahmood, Cynthia
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '07'
+    open_spots: '2'
+    max_spots: '2'
+    crn: '20984'
+    instructor: Nordstrom, Carolyn
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: 08
+    open_spots: '2'
+    max_spots: '2'
+    crn: '20293'
+    instructor: Oka, Rahul
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: 09
+    open_spots: '4'
+    max_spots: '4'
+    crn: '24215'
+    instructor: Richman, Karen
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '10'
+    open_spots: '2'
+    max_spots: '2'
+    crn: '24597'
+    instructor: Rotman, Deborah
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '11'
+    open_spots: '2'
+    max_spots: '2'
+    crn: '24598'
+    instructor: Smith, Vania
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Dir Readings - Linguistic Anth
+  credit: V
+  coursenum: ANTH46400
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '2'
+    max_spots: '2'
+    crn: '22396'
+    instructor: Blum, Susan
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Dir Readings - Archaeology
+  credit: V
+  coursenum: ANTH46500
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '2'
+    max_spots: '2'
+    crn: '20483'
+    instructor: Chesson, Meredith
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '2'
+    max_spots: '2'
+    crn: '21137'
+    instructor: Glowacki, Donna
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '03'
+    open_spots: '2'
+    max_spots: '2'
+    crn: '21153'
+    instructor: Kuijt, Ian
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '05'
+    open_spots: '2'
+    max_spots: '2'
+    crn: '20601'
+    instructor: Oka, Rahul
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '06'
+    open_spots: '2'
+    max_spots: '2'
+    crn: '22618'
+    instructor: Rotman, Deborah
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '07'
+    open_spots: '2'
+    max_spots: '2'
+    crn: '24309'
+    instructor: Schurr, Mark
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Dir Research - Biological
+  credit: V
+  coursenum: ANTH48100
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '2'
+    max_spots: '2'
+    crn: '20348'
+    instructor: Benn Torres, Jada
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '2'
+    max_spots: '2'
+    crn: '21534'
+    instructor: Fuentes, Agustin
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '03'
+    open_spots: '2'
+    max_spots: '2'
+    crn: '21492'
+    instructor: McKenna, James
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '04'
+    open_spots: '2'
+    max_spots: '2'
+    crn: '22053'
+    instructor: Sheridan, Susan
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Dir Research - Bioarchaeology
+  credit: V
+  coursenum: ANTH48110
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '4'
+    max_spots: '4'
+    crn: '21597'
+    instructor: Sheridan, Susan
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Dir Research - Sleep Lab
+  credit: V
+  coursenum: ANTH48120
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '2'
+    max_spots: '2'
+    crn: '21056'
+    instructor: McKenna, James
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Dir Research - Medical Anth
+  credit: V
+  coursenum: ANTH48200
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '2'
+    max_spots: '2'
+    crn: '22397'
+    instructor: McKenna, James
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '2'
+    max_spots: '2'
+    crn: '22398'
+    instructor: Smith, Vania
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Dir Research - Sociocultural
+  credit: V
+  coursenum: ANTH48300
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '2'
+    max_spots: '2'
+    crn: '20418'
+    instructor: Albahari, Maurizio
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '2'
+    max_spots: '2'
+    crn: '20380'
+    instructor: Blum, Susan
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '03'
+    open_spots: '2'
+    max_spots: '2'
+    crn: '20340'
+    instructor: Bolten, Catherine
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '04'
+    open_spots: '2'
+    max_spots: '2'
+    crn: '21456'
+    instructor: Gaffney, Patrick
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '05'
+    open_spots: '2'
+    max_spots: '2'
+    crn: '21181'
+    instructor: Mack, Joanne
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '06'
+    open_spots: '2'
+    max_spots: '2'
+    crn: '20326'
+    instructor: Mahmood, Cynthia
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '07'
+    open_spots: '2'
+    max_spots: '2'
+    crn: '20761'
+    instructor: Nordstrom, Carolyn
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: 08
+    open_spots: '2'
+    max_spots: '2'
+    crn: '24599'
+    instructor: Richman, Karen
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: 09
+    open_spots: '2'
+    max_spots: '2'
+    crn: '24777'
+    instructor: Rotman, Deborah
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '10'
+    open_spots: '2'
+    max_spots: '2'
+    crn: '25143'
+    instructor: Smith, Vania
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '11'
+    open_spots: '3'
+    max_spots: '4'
+    crn: '25705'
+    instructor: Jindra, Michael Jindra, Ines
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Dir Research - Linguistic Anth
+  credit: V
+  coursenum: ANTH48400
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '2'
+    max_spots: '2'
+    crn: '22399'
+    instructor: Blum, Susan
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Dir Research - Archaeology
+  credit: V
+  coursenum: ANTH48500
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '2'
+    max_spots: '2'
+    crn: '20737'
+    instructor: Chesson, Meredith
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '2'
+    max_spots: '2'
+    crn: '20599'
+    instructor: Glowacki, Donna
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '03'
+    open_spots: '2'
+    max_spots: '2'
+    crn: '20481'
+    instructor: Kuijt, Ian
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '05'
+    open_spots: '2'
+    max_spots: '2'
+    crn: '21840'
+    instructor: Oka, Rahul
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '06'
+    open_spots: '3'
+    max_spots: '3'
+    crn: '22619'
+    instructor: Rotman, Deborah
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '07'
+    open_spots: '2'
+    max_spots: '2'
+    crn: '23701'
+    instructor: Schurr, Mark
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Anthropology Senior Thesis
+  credit: '3'
+  coursenum: ANTH48900
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '2'
+    max_spots: '2'
+    crn: '20461'
+    instructor: Albahari, Maurizio
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '2'
+    max_spots: '2'
+    crn: '21453'
+    instructor: Benn Torres, Jada
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '03'
+    open_spots: '2'
+    max_spots: '2'
+    crn: '21047'
+    instructor: Blum, Susan
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '04'
+    open_spots: '2'
+    max_spots: '2'
+    crn: '21525'
+    instructor: Bolten, Catherine
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '05'
+    open_spots: '2'
+    max_spots: '2'
+    crn: '20399'
+    instructor: Chesson, Meredith
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '06'
+    open_spots: '2'
+    max_spots: '2'
+    crn: '20919'
+    instructor: Fuentes, Agustin
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '07'
+    open_spots: '2'
+    max_spots: '2'
+    crn: '21237'
+    instructor: Gaffney, Patrick
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: 08
+    open_spots: '1'
+    max_spots: '2'
+    crn: '21738'
+    instructor: Glowacki, Donna
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: 09
+    open_spots: '2'
+    max_spots: '2'
+    crn: '21766'
+    instructor: Kuijt, Ian
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '10'
+    open_spots: '2'
+    max_spots: '2'
+    crn: '20324'
+    instructor: Mack, Joanne
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '11'
+    open_spots: '1'
+    max_spots: '2'
+    crn: '21647'
+    instructor: Mahmood, Cynthia
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '12'
+    open_spots: '2'
+    max_spots: '2'
+    crn: '20386'
+    instructor: McKenna, James
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '13'
+    open_spots: '1'
+    max_spots: '2'
+    crn: '21816'
+    instructor: Nordstrom, Carolyn
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '14'
+    open_spots: '0'
+    max_spots: '2'
+    crn: '23702'
+    instructor: Oka, Rahul
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '15'
+    open_spots: '3'
+    max_spots: '3'
+    crn: '23703'
+    instructor: Rotman, Deborah
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '16'
+    open_spots: '2'
+    max_spots: '2'
+    crn: '23704'
+    instructor: Schurr, Mark
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '17'
+    open_spots: '2'
+    max_spots: '2'
+    crn: '24204'
+    instructor: Sheridan, Susan
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '18'
+    open_spots: '1'
+    max_spots: '2'
+    crn: '24601'
+    instructor: Smith, Vania
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '19'
+    open_spots: '2'
+    max_spots: '2'
+    crn: '29831'
+    instructor: Hernandez, David
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Ritual Studies Seminar
+  credit: '3'
+  coursenum: ANTH53407
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '4'
+    max_spots: '4'
+    crn: '29894'
+    instructor: Jeffery, Peter
+    time: T  - 3:30P - 6:00P
+    location: Edward A. Malloy Hall 320
+- !ruby/object:Course
+  name: Dir Readings - Sociocultural
+  credit: V
+  coursenum: ANTH66300
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '1'
+    max_spots: '1'
+    crn: '23964'
+    instructor: Oka, Rahul
+    time: TBA
+    location: TBA
+
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: ANTH48300
+  :section: 09
+  :title: Dir Research - Sociocultural
+  :credits: V
+  :status: OP
+  :max_spots: '2'
+  :open_spots: '2'
+  :xlst: ! '&nbsp'
+  :crn: '24777'
+  :syl: ! '&nbsp'
+  :instructor: Rotman, Deborah
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: ANTH48300
+  :section: '10'
+  :title: Dir Research - Sociocultural
+  :credits: V
+  :status: OP
+  :max_spots: '2'
+  :open_spots: '2'
+  :xlst: ! '&nbsp'
+  :crn: '25143'
+  :syl: ! '&nbsp'
+  :instructor: Smith, Vania
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: ANTH48300
+  :section: '11'
+  :title: Dir Research - Sociocultural
+  :credits: V
+  :status: OP
+  :max_spots: '4'
+  :open_spots: '3'
+  :xlst: ! '&nbsp'
+  :crn: '25705'
+  :syl: ! '&nbsp'
+  :instructor: Jindra, Michael Jindra, Ines
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: ANTH48400
+  :section: '01'
+  :title: Dir Research - Linguistic Anth
+  :credits: V
+  :status: OP
+  :max_spots: '2'
+  :open_spots: '2'
+  :xlst: ! '&nbsp'
+  :crn: '22399'
+  :syl: ! '&nbsp'
+  :instructor: Blum, Susan
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: ANTH48500
+  :section: '01'
+  :title: Dir Research - Archaeology
+  :credits: V
+  :status: OP
+  :max_spots: '2'
+  :open_spots: '2'
+  :xlst: ! '&nbsp'
+  :crn: '20737'
+  :syl: ! '&nbsp'
+  :instructor: Chesson, Meredith
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: ANTH48500
+  :section: '02'
+  :title: Dir Research - Archaeology
+  :credits: V
+  :status: OP
+  :max_spots: '2'
+  :open_spots: '2'
+  :xlst: ! '&nbsp'
+  :crn: '20599'
+  :syl: ! '&nbsp'
+  :instructor: Glowacki, Donna
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: ANTH48500
+  :section: '03'
+  :title: Dir Research - Archaeology
+  :credits: V
+  :status: OP
+  :max_spots: '2'
+  :open_spots: '2'
+  :xlst: ! '&nbsp'
+  :crn: '20481'
+  :syl: ! '&nbsp'
+  :instructor: Kuijt, Ian
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: ANTH48500
+  :section: '05'
+  :title: Dir Research - Archaeology
+  :credits: V
+  :status: OP
+  :max_spots: '2'
+  :open_spots: '2'
+  :xlst: ! '&nbsp'
+  :crn: '21840'
+  :syl: ! '&nbsp'
+  :instructor: Oka, Rahul
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: ANTH48500
+  :section: '06'
+  :title: Dir Research - Archaeology
+  :credits: V
+  :status: OP
+  :max_spots: '3'
+  :open_spots: '3'
+  :xlst: ! '&nbsp'
+  :crn: '22619'
+  :syl: ! '&nbsp'
+  :instructor: Rotman, Deborah
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: ANTH48500
+  :section: '07'
+  :title: Dir Research - Archaeology
+  :credits: V
+  :status: OP
+  :max_spots: '2'
+  :open_spots: '2'
+  :xlst: ! '&nbsp'
+  :crn: '23701'
+  :syl: ! '&nbsp'
+  :instructor: Schurr, Mark
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: ANTH48900
+  :section: '01'
+  :title: Anthropology Senior Thesis
+  :credits: '3'
+  :status: OP
+  :max_spots: '2'
+  :open_spots: '2'
+  :xlst: ! '&nbsp'
+  :crn: '20461'
+  :syl: ! '&nbsp'
+  :instructor: Albahari, Maurizio
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: ANTH48900
+  :section: '02'
+  :title: Anthropology Senior Thesis
+  :credits: '3'
+  :status: OP
+  :max_spots: '2'
+  :open_spots: '2'
+  :xlst: ! '&nbsp'
+  :crn: '21453'
+  :syl: ! '&nbsp'
+  :instructor: Benn Torres, Jada
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: ANTH48900
+  :section: '03'
+  :title: Anthropology Senior Thesis
+  :credits: '3'
+  :status: OP
+  :max_spots: '2'
+  :open_spots: '2'
+  :xlst: ! '&nbsp'
+  :crn: '21047'
+  :syl: ! '&nbsp'
+  :instructor: Blum, Susan
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: ANTH48900
+  :section: '04'
+  :title: Anthropology Senior Thesis
+  :credits: '3'
+  :status: OP
+  :max_spots: '2'
+  :open_spots: '2'
+  :xlst: ! '&nbsp'
+  :crn: '21525'
+  :syl: ! '&nbsp'
+  :instructor: Bolten, Catherine
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: ANTH48900
+  :section: '05'
+  :title: Anthropology Senior Thesis
+  :credits: '3'
+  :status: OP
+  :max_spots: '2'
+  :open_spots: '2'
+  :xlst: ! '&nbsp'
+  :crn: '20399'
+  :syl: ! '&nbsp'
+  :instructor: Chesson, Meredith
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: ANTH48900
+  :section: '06'
+  :title: Anthropology Senior Thesis
+  :credits: '3'
+  :status: OP
+  :max_spots: '2'
+  :open_spots: '2'
+  :xlst: ! '&nbsp'
+  :crn: '20919'
+  :syl: ! '&nbsp'
+  :instructor: Fuentes, Agustin
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: ANTH48900
+  :section: '07'
+  :title: Anthropology Senior Thesis
+  :credits: '3'
+  :status: OP
+  :max_spots: '2'
+  :open_spots: '2'
+  :xlst: ! '&nbsp'
+  :crn: '21237'
+  :syl: ! '&nbsp'
+  :instructor: Gaffney, Patrick
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: ANTH48900
+  :section: 08
+  :title: Anthropology Senior Thesis
+  :credits: '3'
+  :status: OP
+  :max_spots: '2'
+  :open_spots: '1'
+  :xlst: ! '&nbsp'
+  :crn: '21738'
+  :syl: ! '&nbsp'
+  :instructor: Glowacki, Donna
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: ANTH48900
+  :section: 09
+  :title: Anthropology Senior Thesis
+  :credits: '3'
+  :status: OP
+  :max_spots: '2'
+  :open_spots: '2'
+  :xlst: ! '&nbsp'
+  :crn: '21766'
+  :syl: ! '&nbsp'
+  :instructor: Kuijt, Ian
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: ANTH48900
+  :section: '10'
+  :title: Anthropology Senior Thesis
+  :credits: '3'
+  :status: OP
+  :max_spots: '2'
+  :open_spots: '2'
+  :xlst: ! '&nbsp'
+  :crn: '20324'
+  :syl: ! '&nbsp'
+  :instructor: Mack, Joanne
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: ANTH48900
+  :section: '11'
+  :title: Anthropology Senior Thesis
+  :credits: '3'
+  :status: OP
+  :max_spots: '2'
+  :open_spots: '1'
+  :xlst: ! '&nbsp'
+  :crn: '21647'
+  :syl: ! '&nbsp'
+  :instructor: Mahmood, Cynthia
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: ANTH48900
+  :section: '12'
+  :title: Anthropology Senior Thesis
+  :credits: '3'
+  :status: OP
+  :max_spots: '2'
+  :open_spots: '2'
+  :xlst: ! '&nbsp'
+  :crn: '20386'
+  :syl: ! '&nbsp'
+  :instructor: McKenna, James
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: ANTH48900
+  :section: '13'
+  :title: Anthropology Senior Thesis
+  :credits: '3'
+  :status: OP
+  :max_spots: '2'
+  :open_spots: '2'
+  :xlst: ! '&nbsp'
+  :crn: '21816'
+  :syl: ! '&nbsp'
+  :instructor: Nordstrom, Carolyn
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: ANTH48900
+  :section: '14'
+  :title: Anthropology Senior Thesis
+  :credits: '3'
+  :status: CL
+  :max_spots: '2'
+  :open_spots: '0'
+  :xlst: ! '&nbsp'
+  :crn: '23702'
+  :syl: ! '&nbsp'
+  :instructor: Oka, Rahul
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: ANTH48900
+  :section: '15'
+  :title: Anthropology Senior Thesis
+  :credits: '3'
+  :status: OP
+  :max_spots: '3'
+  :open_spots: '3'
+  :xlst: ! '&nbsp'
+  :crn: '23703'
+  :syl: ! '&nbsp'
+  :instructor: Rotman, Deborah
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: ANTH48900
+  :section: '16'
+  :title: Anthropology Senior Thesis
+  :credits: '3'
+  :status: OP
+  :max_spots: '2'
+  :open_spots: '2'
+  :xlst: ! '&nbsp'
+  :crn: '23704'
+  :syl: ! '&nbsp'
+  :instructor: Schurr, Mark
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: ANTH48900
+  :section: '17'
+  :title: Anthropology Senior Thesis
+  :credits: '3'
+  :status: OP
+  :max_spots: '2'
+  :open_spots: '2'
+  :xlst: ! '&nbsp'
+  :crn: '24204'
+  :syl: ! '&nbsp'
+  :instructor: Sheridan, Susan
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: ANTH48900
+  :section: '18'
+  :title: Anthropology Senior Thesis
+  :credits: '3'
+  :status: OP
+  :max_spots: '2'
+  :open_spots: '1'
+  :xlst: ! '&nbsp'
+  :crn: '24601'
+  :syl: ! '&nbsp'
+  :instructor: Smith, Vania
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: ANTH48900
+  :section: '19'
+  :title: Anthropology Senior Thesis
+  :credits: '3'
+  :status: OP
+  :max_spots: '2'
+  :open_spots: '2'
+  :xlst: ! '&nbsp'
+  :crn: '29831'
+  :syl: ! '&nbsp'
+  :instructor: Hernandez, David
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: ANTH66300
+  :section: '01'
+  :title: Dir Readings - Sociocultural
+  :credits: V
+  :status: OP
+  :max_spots: '1'
+  :open_spots: '1'
+  :xlst: ! '&nbsp'
+  :crn: '23964'
+  :syl: ! '&nbsp'
+  :instructor: Oka, Rahul
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA

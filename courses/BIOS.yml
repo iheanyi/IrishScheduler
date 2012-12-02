@@ -1,0 +1,4233 @@
+---
+- !ruby/object:Course
+  name: Ecology & Environmental Issues
+  credit: '3'
+  coursenum: BIOS10107
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '56'
+    max_spots: '120'
+    crn: '29201'
+    instructor: Chaloner, Dominic
+    time: M W F  - 10:40A - 11:30A
+    location: Galvin Life Science Center 283
+- !ruby/object:Course
+  name: Revolutions in Biology
+  credit: '3'
+  coursenum: BIOS10108
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '57'
+    max_spots: '180'
+    crn: '26345'
+    instructor: Hager, Kristin
+    time: T R  - 11:00A - 12:15P
+    location: Jordan Hall of Science 101
+- !ruby/object:Course
+  name: Microbes and Man
+  credit: '3'
+  coursenum: BIOS10115
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '120'
+    crn: '24268'
+    instructor: Vaughan, Patricia
+    time: T R  - 12:30P - 1:45P
+    location: Galvin Life Science Center 283
+- !ruby/object:Course
+  name: Evolution and Society
+  credit: '3'
+  coursenum: BIOS10119
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '120'
+    crn: '24714'
+    instructor: Filchak, Kenneth
+    time: M W F  - 11:45A - 12:35P
+    location: Galvin Life Science Center 283
+- !ruby/object:Course
+  name: Biological Sciences II
+  credit: '3'
+  coursenum: BIOS10162
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '86'
+    max_spots: '280'
+    crn: '22195'
+    instructor: Duman, John Tank, Jennifer
+    time: M W F  - 12:50P - 1:40P
+    location: Edward J. DeBartolo Hall 101
+- !ruby/object:Course
+  name: Biological Sciences II - Lab
+  credit: '1'
+  coursenum: BIOS11162
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '40'
+    crn: '22196'
+    instructor: Olsen, T. Mark
+    time: M  - 1:55P - 4:55P
+    location: TBA
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '0'
+    max_spots: '40'
+    crn: '22200'
+    instructor: Olsen, T. Mark
+    time: T  - 9:30A - 12:15P
+    location: TBA
+  - !ruby/object:Section
+    section_num: '03'
+    open_spots: '18'
+    max_spots: '40'
+    crn: '22197'
+    instructor: Olsen, T. Mark
+    time: T  - 2:00P - 5:00P
+    location: TBA
+  - !ruby/object:Section
+    section_num: '04'
+    open_spots: '14'
+    max_spots: '40'
+    crn: '22198'
+    instructor: Olsen, T. Mark
+    time: W  - 1:55P - 4:55P
+    location: TBA
+  - !ruby/object:Section
+    section_num: '05'
+    open_spots: '36'
+    max_spots: '40'
+    crn: '24787'
+    instructor: Olsen, T. Mark
+    time: W  - 1:55P - 4:55P
+    location: TBA
+  - !ruby/object:Section
+    section_num: '06'
+    open_spots: '0'
+    max_spots: '40'
+    crn: '22201'
+    instructor: Olsen, T. Mark
+    time: R  - 9:30A - 12:15P
+    location: TBA
+  - !ruby/object:Section
+    section_num: '07'
+    open_spots: '19'
+    max_spots: '40'
+    crn: '22199'
+    instructor: Olsen, T. Mark
+    time: R  - 2:00P - 5:00P
+    location: TBA
+- !ruby/object:Course
+  name: General Biology B
+  credit: '3'
+  coursenum: BIOS20202
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '24'
+    max_spots: '280'
+    crn: '20700'
+    instructor: Filchak, Kenneth Duman, John
+    time: M W F  - 9:35A - 10:25A
+    location: Edward J. DeBartolo Hall 101
+- !ruby/object:Course
+  name: Molecular Cell Biology
+  credit: '3'
+  coursenum: BIOS20241
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '59'
+    max_spots: '150'
+    crn: '21626'
+    instructor: Vaughan, Kevin
+    time: M W F  - 10:40A - 11:30A
+    location: Edward J. DeBartolo Hall 101
+- !ruby/object:Course
+  name: Fundamentals of Genetics
+  credit: '3'
+  coursenum: BIOS20303
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '56'
+    max_spots: '170'
+    crn: '21186'
+    instructor: Besansky, Nora Severson, David
+    time: T R  - 11:00A - 12:15P
+    location: Edward J. DeBartolo Hall 141
+- !ruby/object:Course
+  name: General Biology B Laboratory
+  credit: '1'
+  coursenum: BIOS21202
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '28'
+    crn: '23054'
+    instructor: Lewis, Kristin
+    time: M  - 1:55P - 4:55P
+    location: TBA
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '1'
+    max_spots: '28'
+    crn: '23055'
+    instructor: Lewis, Kristin
+    time: M  - 1:55P - 4:55P
+    location: TBA
+  - !ruby/object:Section
+    section_num: '03'
+    open_spots: '1'
+    max_spots: '28'
+    crn: '23056'
+    instructor: Robichaud, Jennifer
+    time: T  - 9:30A - 12:20P
+    location: TBA
+  - !ruby/object:Section
+    section_num: '04'
+    open_spots: '7'
+    max_spots: '28'
+    crn: '23057'
+    instructor: Robichaud, Jennifer
+    time: T  - 9:30A - 12:20P
+    location: TBA
+  - !ruby/object:Section
+    section_num: '05'
+    open_spots: '0'
+    max_spots: '28'
+    crn: '23058'
+    instructor: Lewis, Kristin
+    time: T  - 2:00P - 5:00P
+    location: TBA
+  - !ruby/object:Section
+    section_num: '06'
+    open_spots: '0'
+    max_spots: '28'
+    crn: '23059'
+    instructor: Lewis, Kristin
+    time: T  - 2:00P - 5:00P
+    location: TBA
+  - !ruby/object:Section
+    section_num: '07'
+    open_spots: '1'
+    max_spots: '28'
+    crn: '23060'
+    instructor: Robichaud, Jennifer
+    time: R  - 9:30A - 12:20P
+    location: TBA
+  - !ruby/object:Section
+    section_num: 08
+    open_spots: '16'
+    max_spots: '28'
+    crn: '23061'
+    instructor: Robichaud, Jennifer
+    time: R  - 9:30A - 12:20P
+    location: TBA
+  - !ruby/object:Section
+    section_num: 09
+    open_spots: '0'
+    max_spots: '28'
+    crn: '23062'
+    instructor: Lewis, Kristin
+    time: R  - 2:00P - 5:00P
+    location: TBA
+  - !ruby/object:Section
+    section_num: '10'
+    open_spots: '0'
+    max_spots: '28'
+    crn: '23063'
+    instructor: Lewis, Kristin
+    time: R  - 2:00P - 5:00P
+    location: TBA
+- !ruby/object:Course
+  name: Fundamental GeneticsLaboratory
+  credit: '1'
+  coursenum: BIOS21303
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '4'
+    max_spots: '24'
+    crn: '20077'
+    instructor: Besansky, Nora Severson, David
+    time: T  - 2:00P - 5:00P
+    location: TBA
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '2'
+    max_spots: '24'
+    crn: '21012'
+    instructor: Besansky, Nora Severson, David
+    time: W  - 1:55P - 4:55P
+    location: TBA
+  - !ruby/object:Section
+    section_num: '03'
+    open_spots: '17'
+    max_spots: '24'
+    crn: '21864'
+    instructor: Besansky, Nora Severson, David
+    time: R  - 2:00P - 5:00P
+    location: TBA
+- !ruby/object:Course
+  name: MolCellBio Lab-Special Studies
+  credit: '2'
+  coursenum: BIOS27241
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '14'
+    crn: '21519'
+    instructor: Whaley, Michelle
+    time: M  - 1:55P - 5:55P
+    location: Jordan Hall of Science 322
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '6'
+    max_spots: '14'
+    crn: '20434'
+    instructor: Whaley, Michelle
+    time: T  - 2:00P - 6:00P
+    location: Jordan Hall of Science 322
+  - !ruby/object:Section
+    section_num: '03'
+    open_spots: '9'
+    max_spots: '14'
+    crn: '21587'
+    instructor: Whaley, Michelle
+    time: W  - 1:55P - 5:55P
+    location: Jordan Hall of Science 322
+  - !ruby/object:Section
+    section_num: '04'
+    open_spots: '8'
+    max_spots: '14'
+    crn: '21634'
+    instructor: Whaley, Michelle
+    time: R  - 2:00P - 6:00P
+    location: Jordan Hall of Science 322
+- !ruby/object:Course
+  name: Intro to Undergrad Research
+  credit: '1'
+  coursenum: BIOS28498
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '20'
+    max_spots: '20'
+    crn: '22506'
+    instructor: Whaley, Michelle Gursky, Susan
+    time: F  - 3:00P - 5:00P
+    location: Jordan Hall of Science 322
+- !ruby/object:Course
+  name: The History of Life
+  credit: '3'
+  coursenum: BIOS30310
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '31'
+    max_spots: '70'
+    crn: '26347'
+    instructor: Feder, Jeffrey
+    time: M W F  - 9:35A - 10:25A
+    location: Galvin Life Science Center 283
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '35'
+    max_spots: '50'
+    crn: '29202'
+    instructor: Feder, Jeffrey
+    time: M W F  - 9:35A - 10:25A
+    location: Galvin Life Science Center 283
+- !ruby/object:Course
+  name: General Ecology
+  credit: '3'
+  coursenum: BIOS30312
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '90'
+    crn: '20117'
+    instructor: McLachlan, Jason
+    time: T R  - 11:00A - 12:15P
+    location: Nieuwland Science Hall 127
+- !ruby/object:Course
+  name: Tropical Med & Public Health
+  credit: '2'
+  coursenum: BIOS30315
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '7'
+    max_spots: '19'
+    crn: '25441'
+    instructor: Milord, Marie Denise
+    time: M W  - 12:50P - 1:40P
+    location: Edward J. DeBartolo Hall 125
+- !ruby/object:Course
+  name: Neurobiology
+  credit: '3'
+  coursenum: BIOS30338
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '63'
+    max_spots: '150'
+    crn: '24113'
+    instructor: Li, Lei
+    time: T R  - 11:00A - 12:15P
+    location: Jordan Hall of Science 105
+- !ruby/object:Course
+  name: Cell Biology
+  credit: '3'
+  coursenum: BIOS30341
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '3'
+    max_spots: '210'
+    crn: '21515'
+    instructor: D'Souza-Schorey, Crislyn Veselik, David
+    time: T R  - 12:30P - 1:45P
+    location: Jordan Hall of Science 101
+- !ruby/object:Course
+  name: Vertebrate (Human) Physiology
+  credit: '3'
+  coursenum: BIOS30344
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '53'
+    max_spots: '150'
+    crn: '23064'
+    instructor: Duffield, Giles Hager, Kristin
+    time: T R  - 9:30A - 10:45A
+    location: Jordan Hall of Science 101
+- !ruby/object:Course
+  name: Principles of Microbiology
+  credit: '3'
+  coursenum: BIOS30401
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '24'
+    max_spots: '30'
+    crn: '29203'
+    instructor: Vaughan, Patricia
+    time: M W F  - 11:45A - 12:35P
+    location: Edward J. DeBartolo Hall 116
+- !ruby/object:Course
+  name: Animal Behavior
+  credit: '3'
+  coursenum: BIOS30407
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '1'
+    max_spots: '65'
+    crn: '26348'
+    instructor: Archie, Elizabeth
+    time: M W  - 11:45A - 1:00P
+    location: Jordan Hall of Science 101
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '0'
+    max_spots: '35'
+    crn: '29762'
+    instructor: Archie, Elizabeth
+    time: M W  - 11:45A - 1:00P
+    location: Jordan Hall of Science 101
+- !ruby/object:Course
+  name: Arthropods and Human Disease
+  credit: '3'
+  coursenum: BIOS30408
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '40'
+    crn: '24957'
+    instructor: Collins, Frank
+    time: T R  - 9:30A - 10:45A
+    location: Jordan Hall of Science 310
+- !ruby/object:Course
+  name: Marine Biology
+  credit: '3'
+  coursenum: BIOS30422
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '1'
+    max_spots: '40'
+    crn: '23744'
+    instructor: Miglietta, Maria
+    time: M W F  - 10:40A - 11:30A
+    location: Coleman Morse Center 330
+- !ruby/object:Course
+  name: Tumor Cell Biology
+  credit: '3'
+  coursenum: BIOS30424
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '9'
+    max_spots: '55'
+    crn: '24432'
+    instructor: Schafer, Zachary
+    time: M W F  - 10:40A - 11:30A
+    location: Pasquerilla Center 114
+- !ruby/object:Course
+  name: Laboratory Animal Science
+  credit: '2'
+  coursenum: BIOS30475
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '19'
+    max_spots: '19'
+    crn: '20079'
+    instructor: Stewart, Kay Suckow, Mark
+    time: M W  - 3:00P - 3:50P
+    location: TBA
+- !ruby/object:Course
+  name: Cell Biology Laboratory
+  credit: '1'
+  coursenum: BIOS31341
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '22'
+    crn: '23468'
+    instructor: Veselik, David
+    time: T  - 2:00P - 5:00P
+    location: TBA
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '4'
+    max_spots: '22'
+    crn: '23469'
+    instructor: Veselik, David
+    time: W  - 1:55P - 4:55P
+    location: TBA
+  - !ruby/object:Section
+    section_num: '03'
+    open_spots: '0'
+    max_spots: '22'
+    crn: '23494'
+    instructor: Veselik, David
+    time: R  - 2:00P - 5:00P
+    location: TBA
+  - !ruby/object:Section
+    section_num: '04'
+    open_spots: '1'
+    max_spots: '1'
+    crn: '24116'
+    instructor: Veselik, David
+    time: F  - 1:55P - 4:55P
+    location: TBA
+- !ruby/object:Course
+  name: Principles of Microbiology Lab
+  credit: '1'
+  coursenum: BIOS31401
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '15'
+    max_spots: '28'
+    crn: '29204'
+    instructor: Vaughan, Patricia
+    time: T R  - 2:00P - 3:55P
+    location: TBA
+- !ruby/object:Course
+  name: Medical/Veterinary Entomol Lab
+  credit: '1'
+  coursenum: BIOS31408
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '29205'
+    instructor: TBA
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Introduction to UNDERC (East)
+  credit: '1'
+  coursenum: BIOS35501
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '36'
+    max_spots: '36'
+    crn: '22505'
+    instructor: Belovsky, Gary Cramer, Michael
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '36'
+    max_spots: '36'
+    crn: '22793'
+    instructor: Belovsky, Gary Klug, Page
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: UNDERC Field Studies
+  credit: V
+  coursenum: BIOS35568
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '22507'
+    instructor: Belovsky, Gary
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Jr Biol Honors Resrch Seminar
+  credit: '1'
+  coursenum: BIOS36495
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '14'
+    max_spots: '15'
+    crn: '29815'
+    instructor: Whaley, Michelle
+    time: F  - 12:50P - 2:45P
+    location: Edward J. DeBartolo Hall 305
+- !ruby/object:Course
+  name: Teach Practicum Life Science
+  credit: '0'
+  coursenum: BIOS37491
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '25'
+    max_spots: '25'
+    crn: '22504'
+    instructor: Grimstad, Paul
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '25'
+    max_spots: '25'
+    crn: '23522'
+    instructor: Lewis, Kristin
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '03'
+    open_spots: '25'
+    max_spots: '25'
+    crn: '23523'
+    instructor: Olsen, T. Mark
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '04'
+    open_spots: '25'
+    max_spots: '25'
+    crn: '23524'
+    instructor: Whaley, Michelle
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '05'
+    open_spots: '25'
+    max_spots: '25'
+    crn: '28983'
+    instructor: Robichaud, Jennifer
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Teach Practicum Life Science
+  credit: V
+  coursenum: BIOS37492
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '25'
+    max_spots: '25'
+    crn: '22501'
+    instructor: Grimstad, Paul
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '25'
+    max_spots: '25'
+    crn: '24961'
+    instructor: Lewis, Kristin
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '03'
+    open_spots: '25'
+    max_spots: '25'
+    crn: '24962'
+    instructor: Olsen, T. Mark
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '04'
+    open_spots: '25'
+    max_spots: '25'
+    crn: '24963'
+    instructor: Whaley, Michelle
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '05'
+    open_spots: '25'
+    max_spots: '25'
+    crn: '28984'
+    instructor: Robichaud, Jennifer
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Teach Practicum Life Sciences
+  credit: V
+  coursenum: BIOS37493
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '25'
+    max_spots: '25'
+    crn: '22502'
+    instructor: Grimstad, Paul
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Teach Practicum/Life Sciences
+  credit: V
+  coursenum: BIOS37494
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '23'
+    max_spots: '25'
+    crn: '22503'
+    instructor: Grimstad, Paul
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Teach Practicum/Life Sciences
+  credit: '2'
+  coursenum: BIOS37495
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '25'
+    max_spots: '25'
+    crn: '22134'
+    instructor: Grimstad, Paul
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Special Studies
+  credit: V
+  coursenum: BIOS37671
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '29207'
+    instructor: Wirth, Michelle
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '03'
+    open_spots: '15'
+    max_spots: '25'
+    crn: '29206'
+    instructor: Miglietta, Maria
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Special Studies
+  credit: V
+  coursenum: BIOS37672
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '23875'
+    instructor: Grimstad, Paul
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Human Gross Anatomy
+  credit: '3'
+  coursenum: BIOS40339
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '55'
+    max_spots: '90'
+    crn: '24288'
+    instructor: Ravosa, Matthew
+    time: T R  - 11:00A - 12:15P
+    location: Galvin Life Science Center 283
+- !ruby/object:Course
+  name: Human Anatomy
+  credit: '4'
+  coursenum: BIOS40340
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '22'
+    max_spots: '30'
+    crn: '26350'
+    instructor: Ravosa, Matthew
+    time: T R  - 11:00A - 12:15P
+    location: Galvin Life Science Center 283
+- !ruby/object:Course
+  name: Biostatistics
+  credit: '4'
+  coursenum: BIOS40411
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '1'
+    max_spots: '95'
+    crn: '21938'
+    instructor: Lamberti, Gary
+    time: T R  - 9:30A - 10:45A
+    location: Jordan Hall of Science 105
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '15'
+    max_spots: '30'
+    crn: '25842'
+    instructor: Lamberti, Gary
+    time: T R  - 9:30A - 10:45A
+    location: Jordan Hall of Science 105
+- !ruby/object:Course
+  name: Stem Cell Biology
+  credit: '3'
+  coursenum: BIOS40414
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '1'
+    max_spots: '35'
+    crn: '25442'
+    instructor: Wingert, Rebecca
+    time: M W F  - 12:50P - 1:40P
+    location: Galvin Life Science Center 283
+- !ruby/object:Course
+  name: Medical & Veterin Parasitology
+  credit: '3'
+  coursenum: BIOS40415
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '19'
+    max_spots: '70'
+    crn: '20205'
+    instructor: Robichaud, Jennifer
+    time: T R  - 12:30P - 1:45P
+    location: Jordan Hall of Science 105
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '0'
+    max_spots: '40'
+    crn: '28985'
+    instructor: Robichaud, Jennifer
+    time: T R  - 12:30P - 1:45P
+    location: Jordan Hall of Science 105
+- !ruby/object:Course
+  name: Virology
+  credit: '3'
+  coursenum: BIOS40416
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '24'
+    max_spots: '35'
+    crn: '21573'
+    instructor: Fraser, Malcolm
+    time: T R  - 11:00A - 12:15P
+    location: Pasquerilla Center 109
+- !ruby/object:Course
+  name: Immunology
+  credit: '3'
+  coursenum: BIOS40419
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '24'
+    max_spots: '35'
+    crn: '29208'
+    instructor: McDowell, Mary
+    time: M W F  - 9:35A - 10:25A
+    location: Edward J. DeBartolo Hall 119
+- !ruby/object:Course
+  name: Mammalogy
+  credit: '4'
+  coursenum: BIOS40425
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '7'
+    max_spots: '32'
+    crn: '26352'
+    instructor: Cramer, Michael
+    time: T R  - 2:00P - 3:15P
+    location: Galvin Life Science Center 283
+- !ruby/object:Course
+  name: Infect Disease Epidemiol&Ecol
+  credit: '3'
+  coursenum: BIOS40427
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '35'
+    crn: '25443'
+    instructor: Ridenhour, Benjamin
+    time: M W F  - 10:40A - 11:30A
+    location: O'Shaughnessy Hall 114
+- !ruby/object:Course
+  name: Clinicl Resrch Rare Neglct Dis
+  credit: '3'
+  coursenum: BIOS40450
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '8'
+    max_spots: '30'
+    crn: '25444'
+    instructor: Haldar, Kasturi
+    time: F  - 1:00P - 4:00P
+    location: Edward J. DeBartolo Hall 131
+- !ruby/object:Course
+  name: Human Anatomy Laboratory
+  credit: '0'
+  coursenum: BIOS41340
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '22'
+    max_spots: '30'
+    crn: '23747'
+    instructor: Ravosa, Matthew Blakesley, MichaelHalperin, David
+    time: R  - 2:00P - 4:00P
+    location: TBA
+- !ruby/object:Course
+  name: Physiology Laboratory
+  credit: '1'
+  coursenum: BIOS41344
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '1'
+    max_spots: '1'
+    crn: '22607'
+    instructor: Boyd, Sunny
+    time: M  - 1:55P - 4:55P
+    location: TBA
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '1'
+    max_spots: '1'
+    crn: '22069'
+    instructor: Boyd, Sunny
+    time: M  - 1:55P - 4:55P
+    location: TBA
+  - !ruby/object:Section
+    section_num: '03'
+    open_spots: '1'
+    max_spots: '8'
+    crn: '23941'
+    instructor: Boyd, Sunny
+    time: T  - 2:00P - 4:55P
+    location: TBA
+  - !ruby/object:Section
+    section_num: '04'
+    open_spots: '2'
+    max_spots: '4'
+    crn: '25620'
+    instructor: Boyd, Sunny
+    time: T  - 2:00P - 4:55P
+    location: TBA
+  - !ruby/object:Section
+    section_num: '05'
+    open_spots: '0'
+    max_spots: '8'
+    crn: '25621'
+    instructor: Boyd, Sunny
+    time: W  - 1:55P - 4:55P
+    location: TBA
+  - !ruby/object:Section
+    section_num: '06'
+    open_spots: '3'
+    max_spots: '4'
+    crn: '28986'
+    instructor: Boyd, Sunny
+    time: W  - 1:55P - 4:55P
+    location: TBA
+  - !ruby/object:Section
+    section_num: '07'
+    open_spots: '0'
+    max_spots: '8'
+    crn: '28989'
+    instructor: Boyd, Sunny
+    time: R  - 2:00P - 5:00P
+    location: TBA
+  - !ruby/object:Section
+    section_num: 08
+    open_spots: '4'
+    max_spots: '4'
+    crn: '28988'
+    instructor: Boyd, Sunny
+    time: R  - 2:00P - 5:00P
+    location: TBA
+  - !ruby/object:Section
+    section_num: 09
+    open_spots: '1'
+    max_spots: '1'
+    crn: '28990'
+    instructor: Boyd, Sunny
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '10'
+    open_spots: '1'
+    max_spots: '1'
+    crn: '28987'
+    instructor: Boyd, Sunny
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: General Parasitology Lab
+  credit: '1'
+  coursenum: BIOS41415
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '14'
+    crn: '23750'
+    instructor: Robichaud, Jennifer
+    time: R  - 2:00P - 5:00P
+    location: TBA
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '8'
+    max_spots: '14'
+    crn: '24118'
+    instructor: Robichaud, Jennifer
+    time: W  - 1:55P - 4:55P
+    location: TBA
+- !ruby/object:Course
+  name: Mammalogy Laboratory
+  credit: '0'
+  coursenum: BIOS41425
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '2'
+    max_spots: '16'
+    crn: '26354'
+    instructor: Cramer, Michael
+    time: W  - 1:55P - 4:55P
+    location: Jordan Hall of Science 142
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '5'
+    max_spots: '16'
+    crn: '26353'
+    instructor: Cramer, Michael
+    time: F  - 1:55P - 4:55P
+    location: Jordan Hall of Science 142
+- !ruby/object:Course
+  name: Biostatistics Tutorial
+  credit: '0'
+  coursenum: BIOS42411
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '19'
+    crn: '22202'
+    instructor: Lamberti, Gary
+    time: W  - 12:50P - 1:40P
+    location: Edward J. DeBartolo Hall 228
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '1'
+    max_spots: '6'
+    crn: '22203'
+    instructor: Lamberti, Gary
+    time: W  - 12:50P - 1:40P
+    location: Edward J. DeBartolo Hall 228
+  - !ruby/object:Section
+    section_num: '03'
+    open_spots: '0'
+    max_spots: '19'
+    crn: '20260'
+    instructor: Lamberti, Gary
+    time: W  - 1:55P - 2:45P
+    location: Edward J. DeBartolo Hall 228
+  - !ruby/object:Section
+    section_num: '04'
+    open_spots: '2'
+    max_spots: '6'
+    crn: '21294'
+    instructor: Lamberti, Gary
+    time: W  - 1:55P - 2:45P
+    location: Edward J. DeBartolo Hall 228
+  - !ruby/object:Section
+    section_num: '05'
+    open_spots: '0'
+    max_spots: '19'
+    crn: '20855'
+    instructor: Lamberti, Gary
+    time: W  - 3:00P - 3:50P
+    location: Edward J. DeBartolo Hall 331
+  - !ruby/object:Section
+    section_num: '06'
+    open_spots: '2'
+    max_spots: '6'
+    crn: '23698'
+    instructor: Lamberti, Gary
+    time: W  - 3:00P - 3:50P
+    location: Edward J. DeBartolo Hall 331
+  - !ruby/object:Section
+    section_num: '07'
+    open_spots: '1'
+    max_spots: '19'
+    crn: '25843'
+    instructor: Lamberti, Gary
+    time: W  - 4:05P - 4:55P
+    location: Edward J. DeBartolo Hall 331
+  - !ruby/object:Section
+    section_num: 08
+    open_spots: '5'
+    max_spots: '6'
+    crn: '25845'
+    instructor: Lamberti, Gary
+    time: W  - 4:05P - 4:55P
+    location: Edward J. DeBartolo Hall 331
+  - !ruby/object:Section
+    section_num: 09
+    open_spots: '0'
+    max_spots: '19'
+    crn: '25844'
+    instructor: Lamberti, Gary
+    time: W  - 5:10P - 6:00P
+    location: Edward J. DeBartolo Hall 331
+  - !ruby/object:Section
+    section_num: '10'
+    open_spots: '5'
+    max_spots: '6'
+    crn: '25846'
+    instructor: Lamberti, Gary
+    time: W  - 5:10P - 6:00P
+    location: Edward J. DeBartolo Hall 331
+- !ruby/object:Course
+  name: Directed Readings
+  credit: V
+  coursenum: BIOS46497
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '18'
+    max_spots: '20'
+    crn: '20828'
+    instructor: Grimstad, Paul
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '23943'
+    instructor: Stewart, Kay Whaley, Michelle
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '03'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '25703'
+    instructor: Stewart, Kay Suckow, Mark
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '04'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '27106'
+    instructor: Stewart, Kay Suckow, Mark
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '05'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '27504'
+    instructor: Kolberg, Kathleen
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Princ Comparat Medcine&Surgery
+  credit: '3'
+  coursenum: BIOS47500
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '5'
+    max_spots: '10'
+    crn: '29209'
+    instructor: Suckow, Mark
+    time: R  - 1:00P - 4:00P
+    location: Galvin Life Science Center 282
+- !ruby/object:Course
+  name: Undergraduate Research
+  credit: V
+  coursenum: BIOS48498
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '24434'
+    instructor: Archie, Elizabeth
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '21801'
+    instructor: Belovsky, Gary
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '03'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '21318'
+    instructor: Besansky, Nora
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '04'
+    open_spots: '7'
+    max_spots: '10'
+    crn: '20182'
+    instructor: Bohlson, Suzanne
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '05'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '23065'
+    instructor: Boyd, Sunny
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '06'
+    open_spots: '9'
+    max_spots: '10'
+    crn: '20974'
+    instructor: Chaloner, Dominic
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '07'
+    open_spots: '6'
+    max_spots: '10'
+    crn: '22854'
+    instructor: Champion, Patricia
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: 08
+    open_spots: '10'
+    max_spots: '10'
+    crn: '24438'
+    instructor: Chiyo, Patrick
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: 09
+    open_spots: '9'
+    max_spots: '10'
+    crn: '21428'
+    instructor: Collins, Frank
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '10'
+    open_spots: '9'
+    max_spots: '10'
+    crn: '24966'
+    instructor: Cowden Dahl, Karen
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '11'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20673'
+    instructor: Cramer, Michael
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '12'
+    open_spots: '8'
+    max_spots: '10'
+    crn: '20759'
+    instructor: D'Souza-Schorey, Crislyn
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '13'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '21346'
+    instructor: Dahl, Richard
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '14'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20679'
+    instructor: Deak, Karen
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '15'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20034'
+    instructor: Duffield, Giles
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '16'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '24967'
+    instructor: Duman, John
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '17'
+    open_spots: '6'
+    max_spots: '10'
+    crn: '20468'
+    instructor: Feder, Jeffrey
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '18'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20731'
+    instructor: Ferdig, Michael
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '19'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20012'
+    instructor: Filchak, Kenneth
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '20'
+    open_spots: '20'
+    max_spots: '20'
+    crn: '20817'
+    instructor: Fraser, Malcolm
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '21'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20283'
+    instructor: Grimstad, Paul
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '22'
+    open_spots: '7'
+    max_spots: '10'
+    crn: '20309'
+    instructor: Hager, Kristin
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '23'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20924'
+    instructor: Haldar, Kasturi
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '24'
+    open_spots: '6'
+    max_spots: '10'
+    crn: '20308'
+    instructor: Hellenthal, Ronald
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '25'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '21035'
+    instructor: Hellmann, Jessica
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '26'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '24968'
+    instructor: Hill, Reginald
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '27'
+    open_spots: '7'
+    max_spots: '10'
+    crn: '20127'
+    instructor: Hollocher, Hope
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '28'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20578'
+    instructor: Hyde, David
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '29'
+    open_spots: '6'
+    max_spots: '10'
+    crn: '24307'
+    instructor: Jones, Stuart
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '30'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '21472'
+    instructor: Klug, Page
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '31'
+    open_spots: '7'
+    max_spots: '10'
+    crn: '21867'
+    instructor: Lamberti, Gary
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '32'
+    open_spots: '3'
+    max_spots: '10'
+    crn: '21631'
+    instructor: Lee, Shaun
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '33'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20787'
+    instructor: Leevy, W. Matthew
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '34'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '22135'
+    instructor: Lewis, Kristin
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '35'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '24969'
+    instructor: Li, Lei
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '36'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20690'
+    instructor: Lodge, David
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '37'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '21333'
+    instructor: McDowell, Mary
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '38'
+    open_spots: '3'
+    max_spots: '10'
+    crn: '21841'
+    instructor: McLachlan, Jason
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '39'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '24439'
+    instructor: Michael, Edwin
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '40'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '24971'
+    instructor: Miglietta, Maria
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '41'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '24970'
+    instructor: Milord, Marie Denise
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '42'
+    open_spots: '9'
+    max_spots: '10'
+    crn: '21331'
+    instructor: Morales, Miguel
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '43'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '24440'
+    instructor: Navari, Rudolph
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '44'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '21790'
+    instructor: Olsen, T. Mark
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '45'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20228'
+    instructor: Olson, Kenneth
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '46'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20739'
+    instructor: O'Tousa, Joseph
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '47'
+    open_spots: '7'
+    max_spots: '10'
+    crn: '20450'
+    instructor: Pfrender, Michael
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '48'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20226'
+    instructor: Pitts, Dilkushi
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '49'
+    open_spots: '2'
+    max_spots: '10'
+    crn: '22136'
+    instructor: Ravosa, Matthew
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '50'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '21388'
+    instructor: Ridenhour, Benjamin
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '51'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20148'
+    instructor: Robichaud, Jennifer
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '52'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '24972'
+    instructor: Rocha, Adrian
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '53'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '24117'
+    instructor: Romero-Severson, Jeanne
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '54'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '21847'
+    instructor: Schafer, Zachary
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '55'
+    open_spots: '8'
+    max_spots: '10'
+    crn: '24297'
+    instructor: Scheel, Molly
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '56'
+    open_spots: '9'
+    max_spots: '10'
+    crn: '21215'
+    instructor: Sheets, Patrick
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '57'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '24973'
+    instructor: Schorey, Jeffrey
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '58'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '24769'
+    instructor: Schulz, Robert
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '59'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '24799'
+    instructor: Severson, David
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '60'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '24327'
+    instructor: Shrout, Joshua
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '61'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '24974'
+    instructor: Stahelin, Robert
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '62'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '24779'
+    instructor: Stewart, Kay
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '63'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '24776'
+    instructor: Streit, Thomas
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '64'
+    open_spots: '9'
+    max_spots: '10'
+    crn: '24778'
+    instructor: Suckow, Mark
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '65'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '24326'
+    instructor: Syed, Zainulabeuddin
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '66'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '24775'
+    instructor: Tan, John
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '67'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '24328'
+    instructor: Tank, Jennifer
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '68'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '24770'
+    instructor: Timp, Gregory
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '69'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '25595'
+    instructor: Vargo-Gogola, Tracy
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '70'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '25607'
+    instructor: Vaughan, Kevin
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '71'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '25608'
+    instructor: Vaughan, Patricia
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '72'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '25626'
+    instructor: Velazquez, Peter
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '73'
+    open_spots: '9'
+    max_spots: '10'
+    crn: '25627'
+    instructor: Veselik, David
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '74'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '25706'
+    instructor: Whaley, Michelle
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '75'
+    open_spots: '5'
+    max_spots: '10'
+    crn: '25711'
+    instructor: Wingert, Rebecca
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '76'
+    open_spots: '4'
+    max_spots: '10'
+    crn: '25854'
+    instructor: Zhang, Siyuan
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '77'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '25848'
+    instructor: TBA
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '78'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '25850'
+    instructor: TBA
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '79'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '25853'
+    instructor: Fuentes, Agustin
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '80'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '25852'
+    instructor: Schurr, Mark
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '81'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '25856'
+    instructor: Sheridan, Susan
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '82'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '25858'
+    instructor: Emrich, Scott
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '83'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '25855'
+    instructor: Nerenberg, Robert
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '84'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '25851'
+    instructor: Schmid, Steven
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '85'
+    open_spots: '9'
+    max_spots: '10'
+    crn: '25847'
+    instructor: Wagner, Diane
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '86'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '25857'
+    instructor: Brockmole, James
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '87'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '25859'
+    instructor: Diehl, Joshua
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '88'
+    open_spots: '8'
+    max_spots: '10'
+    crn: '25849'
+    instructor: Eberhard, Kathleen
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '89'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '28995'
+    instructor: Payne, Jessica
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '90'
+    open_spots: '9'
+    max_spots: '10'
+    crn: '28992'
+    instructor: Radvansky, Gabriel
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '91'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '28993'
+    instructor: Wirth, Michelle
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '92'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '28994'
+    instructor: Kolberg, Kathleen
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '93'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '28991'
+    instructor: Monroe, Scott
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '94'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '28996'
+    instructor: TBA
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Immunology
+  credit: '3'
+  coursenum: BIOS60419
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '7'
+    max_spots: '10'
+    crn: '29210'
+    instructor: McDowell, Mary
+    time: M W F  - 9:35A - 10:25A
+    location: Edward J. DeBartolo Hall 119
+- !ruby/object:Course
+  name: GLOBES Module
+  credit: V
+  coursenum: BIOS60521
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '1'
+    max_spots: '1'
+    crn: '27123'
+    instructor: Lodge, David
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '25'
+    max_spots: '25'
+    crn: '27124'
+    instructor: Lodge, David
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '03'
+    open_spots: '25'
+    max_spots: '25'
+    crn: '27125'
+    instructor: Lodge, David
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Molecular Biology II
+  credit: '3'
+  coursenum: BIOS60532
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '30'
+    max_spots: '35'
+    crn: '29211'
+    instructor: Hyde, David O'Tousa, Joseph
+    time: T R  - 9:30A - 10:45A
+    location: Pasquerilla Center 107
+- !ruby/object:Course
+  name: Scientific Writing
+  credit: '2'
+  coursenum: BIOS60542
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '17'
+    max_spots: '19'
+    crn: '29764'
+    instructor: Rocha, Adrian
+    time: T R  - 12:30P - 1:30P
+    location: Edward J. DeBartolo Hall 225
+- !ruby/object:Course
+  name: Topics in Global Health
+  credit: '3'
+  coursenum: BIOS60549
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '22'
+    max_spots: '30'
+    crn: '29791'
+    instructor: Bock, Joseph
+    time: T R  - 12:30P - 1:45P
+    location: Edward J. DeBartolo Hall 202
+- !ruby/object:Course
+  name: Topics in Ecology
+  credit: V
+  coursenum: BIOS60552
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '18'
+    max_spots: '19'
+    crn: '29212'
+    instructor: Rocha, Adrian
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Topics in Conservation Biology
+  credit: V
+  coursenum: BIOS60568
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '8'
+    max_spots: '10'
+    crn: '25720'
+    instructor: Chiyo, Patrick
+    time: T R  - 3:45P - 5:00P
+    location: Pasquerilla Center 109
+- !ruby/object:Course
+  name: Topics in Infectious Diseases
+  credit: V
+  coursenum: BIOS60569
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '8'
+    max_spots: '10'
+    crn: '24976'
+    instructor: Fraser, Malcolm
+    time: T R  - 11:00A - 12:15P
+    location: Pasquerilla Center 109
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '25689'
+    instructor: Ridenhour, Benjamin
+    time: M W F  - 10:40A - 11:30A
+    location: O'Shaughnessy Hall 114
+  - !ruby/object:Section
+    section_num: '03'
+    open_spots: '18'
+    max_spots: '19'
+    crn: '25860'
+    instructor: Morales, Miguel
+    time: T R  - 9:30A - 10:45A
+    location: Galvin Life Science Center 282
+  - !ruby/object:Section
+    section_num: '05'
+    open_spots: '2'
+    max_spots: '19'
+    crn: '29527'
+    instructor: Champion, Patricia Lee, Shaun
+    time: T R  - 11:00A - 12:15P
+    location: Galvin Life Science Center 282
+- !ruby/object:Course
+  name: Topics in Cell Biology
+  credit: V
+  coursenum: BIOS60570
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '2'
+    max_spots: '5'
+    crn: '24210'
+    instructor: Schafer, Zachary
+    time: M W F  - 10:40A - 11:30A
+    location: Pasquerilla Center 114
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '7'
+    max_spots: '10'
+    crn: '23066'
+    instructor: Wingert, Rebecca
+    time: M W F  - 12:50P - 1:40P
+    location: Galvin Life Science Center 283
+- !ruby/object:Course
+  name: Topics in Neuroscience
+  credit: V
+  coursenum: BIOS60572
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '15'
+    max_spots: '19'
+    crn: '29213'
+    instructor: Sheets, Patrick Syed, Zainulabeuddin
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Topics in Ecology
+  credit: V
+  coursenum: BIOS60573
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '22072'
+    instructor: Archie, Elizabeth
+    time: M W  - 11:45A - 1:00P
+    location: Jordan Hall of Science 101
+- !ruby/object:Course
+  name: Tpcs in Evol & Systematic Biol
+  credit: V
+  coursenum: BIOS60574
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '30'
+    max_spots: '35'
+    crn: '21131'
+    instructor: Feder, Jeffrey Pfrender, Michael
+    time: R  - 12:00P - 2:30P
+    location: Jordan Hall of Science 310
+- !ruby/object:Course
+  name: Topics in Biocomputing
+  credit: '3'
+  coursenum: BIOS60576
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '13'
+    max_spots: '19'
+    crn: '29214'
+    instructor: Jones, Stuart
+    time: M W  - 1:30P - 2:45P
+    location: Edward J. DeBartolo Hall B011
+- !ruby/object:Course
+  name: Tpcs in Genetics/Molecular Bio
+  credit: V
+  coursenum: BIOS60577
+  sections:
+  - !ruby/object:Section
+    section_num: '03'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '26863'
+    instructor: Scheel, Molly
+    time: F  - 9:00A - 12:00P
+    location: IU School of Medicine 114A
+- !ruby/object:Course
+  name: Topics in Parasitology & VB
+  credit: '3'
+  coursenum: BIOS60579
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '3'
+    max_spots: '10'
+    crn: '20033'
+    instructor: Robichaud, Jennifer
+    time: T R  - 12:30P - 1:45P
+    location: Jordan Hall of Science 105
+- !ruby/object:Course
+  name: Graduate Seminar (CELL)
+  credit: '1'
+  coursenum: BIOS60581
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '71'
+    max_spots: '80'
+    crn: '20641'
+    instructor: Schulz, Robert
+    time: F  - 3:00P - 5:00P
+    location: TBA
+- !ruby/object:Course
+  name: Grad Seminar (EEE-BIOFRASS)
+  credit: '1'
+  coursenum: BIOS60583
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '15'
+    max_spots: '19'
+    crn: '20100'
+    instructor: Lamberti, Gary
+    time: F  - 3:00P - 4:00P
+    location: Edward J. DeBartolo Hall 125
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '15'
+    max_spots: '15'
+    crn: '23518'
+    instructor: Lamberti, Gary
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Graduate Seminar (Physiology)
+  credit: '1'
+  coursenum: BIOS60584
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '9'
+    max_spots: '12'
+    crn: '25645'
+    instructor: Syed, Zainulabeuddin
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Clin Trnslatnl Grad Sem Series
+  credit: V
+  coursenum: BIOS60587
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '90'
+    max_spots: '90'
+    crn: '29215'
+    instructor: Haldar, Kasturi
+    time: F  - 10:00A - 1:00P
+    location: Theodore M. Hesburgh Library 107
+- !ruby/object:Course
+  name: Global Health Colloquium
+  credit: '1'
+  coursenum: BIOS60601
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '83'
+    max_spots: '90'
+    crn: '24701'
+    instructor: Taylor, Katherine
+    time: W  - 4:00P - 5:00P
+    location: TBA
+- !ruby/object:Course
+  name: Water, Disease & Global Health
+  credit: '3'
+  coursenum: BIOS60610
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '8'
+    max_spots: '13'
+    crn: '24706'
+    instructor: Shrout, Joshua Severson, David
+    time: M W  - 1:30P - 2:45P
+    location: Edward J. DeBartolo Hall 131
+- !ruby/object:Course
+  name: MBP Seminar
+  credit: V
+  coursenum: BIOS63680
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20718'
+    instructor: O'Tousa, Joseph
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Biological Sciences Colloquium
+  credit: '0'
+  coursenum: BIOS67500
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '97'
+    max_spots: '100'
+    crn: '23072'
+    instructor: Grimstad, Paul
+    time: M T W R F  - 3:45P - 4:55P
+    location: Galvin Life Science Center 283
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '97'
+    max_spots: '100'
+    crn: '22070'
+    instructor: Grimstad, Paul
+    time: M T W R F  - 5:15P - 6:00P
+    location: Galvin Life Science Center 283
+- !ruby/object:Course
+  name: Responsible Research Conduct
+  credit: '0'
+  coursenum: BIOS67550
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '1'
+    max_spots: '1'
+    crn: '23529'
+    instructor: TBA
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Thesis Direction
+  credit: V
+  coursenum: BIOS68599
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '25'
+    max_spots: '25'
+    crn: '20654'
+    instructor: Boyd, Sunny
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Electron Microscopy
+  credit: '1'
+  coursenum: BIOS70558
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '22137'
+    instructor: Vaughan, Kevin
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Readings in Cancer Biology
+  credit: '3'
+  coursenum: BIOS72110
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '12'
+    max_spots: '19'
+    crn: '29216'
+    instructor: Hill, Reginald Zhang, Siyuan
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Special Problems
+  credit: V
+  coursenum: BIOS77672
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '23512'
+    instructor: Grimstad, Paul
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20899'
+    instructor: Boyd, Sunny
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '03'
+    open_spots: '1'
+    max_spots: '1'
+    crn: '27509'
+    instructor: TBA
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Grad Teaching Apprenticeship
+  credit: V
+  coursenum: BIOS77675
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '12'
+    max_spots: '12'
+    crn: '24291'
+    instructor: Whaley, Michelle Boyd, Sunny
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Non-Resident Thesis Direction
+  credit: V
+  coursenum: BIOS88600
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '21726'
+    instructor: Boyd, Sunny
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Chmstry & Biol Interface Semnr
+  credit: '1'
+  coursenum: BIOS93652
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '9'
+    max_spots: '10'
+    crn: '24112'
+    instructor: Chang, Mayland Miller, MarvinSchorey, Jeffrey
+    time: R  - 2:00P - 3:00P
+    location: Nieuwland Science Hall 184
+- !ruby/object:Course
+  name: Research and Dissertation
+  credit: V
+  coursenum: BIOS98699
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '24441'
+    instructor: Archie, Elizabeth
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '21072'
+    instructor: Belovsky, Gary
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '03'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '21278'
+    instructor: Besansky, Nora
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '04'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '23067'
+    instructor: Bohlson, Suzanne
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '05'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20325'
+    instructor: Boyd, Sunny
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '06'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '24442'
+    instructor: Champion, Patricia
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '07'
+    open_spots: '9'
+    max_spots: '10'
+    crn: '21250'
+    instructor: Collins, Frank
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: 08
+    open_spots: '9'
+    max_spots: '10'
+    crn: '21859'
+    instructor: D'Souza-Schorey, Crislyn
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: 09
+    open_spots: '10'
+    max_spots: '10'
+    crn: '23068'
+    instructor: Duffield, Giles
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '10'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20559'
+    instructor: Duman, John
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '11'
+    open_spots: '9'
+    max_spots: '10'
+    crn: '21713'
+    instructor: Feder, Jeffrey
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '12'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20743'
+    instructor: Ferdig, Michael
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '13'
+    open_spots: '9'
+    max_spots: '10'
+    crn: '21363'
+    instructor: Fraser, Malcolm
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '14'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20487'
+    instructor: Haldar, Kasturi
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '15'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '21014'
+    instructor: Hellmann, Jessica
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '16'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20311'
+    instructor: Hill, Reginald
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '17'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20613'
+    instructor: Hollocher, Hope
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '18'
+    open_spots: '9'
+    max_spots: '10'
+    crn: '20702'
+    instructor: Hyde, David
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '19'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '21593'
+    instructor: Jones, Stuart
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '20'
+    open_spots: '9'
+    max_spots: '10'
+    crn: '20297'
+    instructor: Lamberti, Gary
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '21'
+    open_spots: '8'
+    max_spots: '10'
+    crn: '20657'
+    instructor: Lee, Shaun
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '22'
+    open_spots: '9'
+    max_spots: '10'
+    crn: '20068'
+    instructor: Li, Lei
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '23'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20304'
+    instructor: Lodge, David
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '24'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '22153'
+    instructor: McDowell, Mary
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '25'
+    open_spots: '9'
+    max_spots: '10'
+    crn: '23069'
+    instructor: McLachlan, Jason
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '26'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20652'
+    instructor: Michael, Edwin
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '27'
+    open_spots: '9'
+    max_spots: '10'
+    crn: '20478'
+    instructor: Morales, Miguel
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '28'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20020'
+    instructor: Olson, Kenneth
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '29'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '24443'
+    instructor: O'Tousa, Joseph
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '30'
+    open_spots: '9'
+    max_spots: '10'
+    crn: '21560'
+    instructor: Pfrender, Michael
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '31'
+    open_spots: '9'
+    max_spots: '10'
+    crn: '20526'
+    instructor: Ravosa, Matthew
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '32'
+    open_spots: '9'
+    max_spots: '10'
+    crn: '24444'
+    instructor: Ridenhour, Benjamin
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '33'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '21681'
+    instructor: Rocha, Adrian
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '34'
+    open_spots: '9'
+    max_spots: '10'
+    crn: '20598'
+    instructor: Romero-Severson, Jeanne
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '35'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '21319'
+    instructor: Schafer, Zachary
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '36'
+    open_spots: '9'
+    max_spots: '10'
+    crn: '20204'
+    instructor: Scheel, Molly
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '37'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20341'
+    instructor: Schorey, Jeffrey
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '38'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '21791'
+    instructor: Schulz, Robert
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '39'
+    open_spots: '9'
+    max_spots: '10'
+    crn: '20604'
+    instructor: Severson, David
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '40'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20162'
+    instructor: Syed, Zainulabeuddin
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '41'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20167'
+    instructor: Tank, Jennifer
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '42'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '25862'
+    instructor: Timp, Gregory
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '43'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '25861'
+    instructor: Vargo-Gogola, Tracy
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '44'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '25863'
+    instructor: Vaughan, Kevin
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '45'
+    open_spots: '7'
+    max_spots: '10'
+    crn: '27462'
+    instructor: Wingert, Rebecca
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '46'
+    open_spots: '9'
+    max_spots: '10'
+    crn: '27463'
+    instructor: Zhang, Siyuan
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '47'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '27464'
+    instructor: TBA
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '48'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '28997'
+    instructor: TBA
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Nonresident Dissertation Rsrch
+  credit: V
+  coursenum: BIOS98700
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20139'
+    instructor: Boyd, Sunny
+    time: TBA
+    location: TBA
+ '28994'
+  :syl: ! '&nbsp'
+  :instructor: Kolberg, Kathleen
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: BIOS48498
+  :section: '93'
+  :title: Undergraduate Research
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '28991'
+  :syl: ! '&nbsp'
+  :instructor: Monroe, Scott
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: BIOS48498
+  :section: '94'
+  :title: Undergraduate Research
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '28996'
+  :syl: ! '&nbsp'
+  :instructor: TBA
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: BIOS60419
+  :section: '01'
+  :title: Immunology
+  :credits: '3'
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '8'
+  :xlst: Y
+  :crn: '29210'
+  :syl: ! '&nbsp'
+  :instructor: McDowell, Mary
+  :when: M W F  - 9:35A - 10:25A
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: Edward J. DeBartolo Hall 119
+- :course: BIOS60521
+  :section: '01'
+  :title: GLOBES Module
+  :credits: V
+  :status: OP
+  :max_spots: '1'
+  :open_spots: '1'
+  :xlst: ! '&nbsp'
+  :crn: '27123'
+  :syl: ! '&nbsp'
+  :instructor: Lodge, David
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: BIOS60521
+  :section: '02'
+  :title: GLOBES Module
+  :credits: V
+  :status: OP
+  :max_spots: '25'
+  :open_spots: '25'
+  :xlst: ! '&nbsp'
+  :crn: '27124'
+  :syl: ! '&nbsp'
+  :instructor: Lodge, David
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: BIOS60521
+  :section: '03'
+  :title: GLOBES Module
+  :credits: V
+  :status: OP
+  :max_spots: '25'
+  :open_spots: '25'
+  :xlst: ! '&nbsp'
+  :crn: '27125'
+  :syl: ! '&nbsp'
+  :instructor: Lodge, David
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: BIOS60532
+  :section: '01'
+  :title: Molecular Biology II
+  :credits: '3'
+  :status: OP
+  :max_spots: '35'
+  :open_spots: '33'
+  :xlst: Y
+  :crn: '29211'
+  :syl: ! '&nbsp'
+  :instructor: Hyde, David O'Tousa, Joseph
+  :when: T R  - 9:30A - 10:45A
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: Pasquerilla Center 107
+- :course: BIOS60542
+  :section: '01'
+  :title: Scientific Writing
+  :credits: '2'
+  :status: OP
+  :max_spots: '19'
+  :open_spots: '17'
+  :xlst: ! '&nbsp'
+  :crn: '29764'
+  :syl: ! '&nbsp'
+  :instructor: Rocha, Adrian
+  :when: T R  - 12:30P - 1:30P
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: Edward J. DeBartolo Hall 225
+- :course: BIOS60549
+  :section: '01'
+  :title: Topics in Global Health
+  :credits: V
+  :status: OP
+  :max_spots: '30'
+  :open_spots: '23'
+  :xlst: ! '&nbsp'
+  :crn: '29791'
+  :syl: ! '&nbsp'
+  :instructor: Bock, Joseph
+  :when: T R  - 12:30P - 1:45P
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: Edward J. DeBartolo Hall 202
+- :course: BIOS60552
+  :section: '01'
+  :title: Topics in Ecology
+  :credits: V
+  :status: OP
+  :max_spots: '19'
+  :open_spots: '18'
+  :xlst: ! '&nbsp'
+  :crn: '29212'
+  :syl: ! '&nbsp'
+  :instructor: Rocha, Adrian
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: BIOS60568
+  :section: '01'
+  :title: Topics in Conservation Biology
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '8'
+  :xlst: ! '&nbsp'
+  :crn: '25720'
+  :syl: ! '&nbsp'
+  :instructor: Chiyo, Patrick
+  :when: T R  - 3:45P - 5:00P
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: Pasquerilla Center 109
+- :course: BIOS60569
+  :section: '01'
+  :title: Topics in Infectious Diseases
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '8'
+  :xlst: Y
+  :crn: '24976'
+  :syl: ! '&nbsp'
+  :instructor: Fraser, Malcolm
+  :when: T R  - 11:00A - 12:15P
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: Pasquerilla Center 109
+- :course: BIOS60569
+  :section: '02'
+  :title: Topics in Infectious Diseases
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: Y
+  :crn: '25689'
+  :syl: ! '&nbsp'
+  :instructor: Ridenhour, Benjamin
+  :when: M W F  - 10:40A - 11:30A
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: O'Shaughnessy Hall 114
+- :course: BIOS60569
+  :section: '03'
+  :title: Topics in Infectious Diseases
+  :credits: V
+  :status: OP
+  :max_spots: '19'
+  :open_spots: '17'
+  :xlst: ! '&nbsp'
+  :crn: '25860'
+  :syl: ! '&nbsp'
+  :instructor: Morales, Miguel
+  :when: T R  - 9:30A - 10:45A
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: Galvin Life Science Center 282
+- :course: BIOS60569
+  :section: '05'
+  :title: Topics in Infectious Diseases
+  :credits: V
+  :status: OP
+  :max_spots: '19'
+  :open_spots: '7'
+  :xlst: ! '&nbsp'
+  :crn: '29527'
+  :syl: ! '&nbsp'
+  :instructor: Champion, Patricia Lee, Shaun
+  :when: T R  - 11:00A - 12:15P
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: Galvin Life Science Center 282
+- :course: BIOS60570
+  :section: '01'
+  :title: Topics in Cell Biology
+  :credits: V
+  :status: OP
+  :max_spots: '5'
+  :open_spots: '2'
+  :xlst: Y
+  :crn: '24210'
+  :syl: ! '&nbsp'
+  :instructor: Schafer, Zachary
+  :when: M W F  - 10:40A - 11:30A
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: Edward J. DeBartolo Hall 120
+- :course: BIOS60570
+  :section: '02'
+  :title: Topics in Cell Biology
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '7'
+  :xlst: Y
+  :crn: '23066'
+  :syl: ! '&nbsp'
+  :instructor: Wingert, Rebecca
+  :when: M W F  - 12:50P - 1:40P
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: Galvin Life Science Center 283
+- :course: BIOS60572
+  :section: '01'
+  :title: Topics in Neuroscience
+  :credits: V
+  :status: OP
+  :max_spots: '19'
+  :open_spots: '16'
+  :xlst: ! '&nbsp'
+  :crn: '29213'
+  :syl: ! '&nbsp'
+  :instructor: Sheets, Patrick Syed, Zainulabeuddin
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: BIOS60573
+  :section: '01'
+  :title: Topics in Ecology
+  :credits: V
+  :status: OP
+  :max_spots: '5'
+  :open_spots: '5'
+  :xlst: Y
+  :crn: '22072'
+  :syl: ! '&nbsp'
+  :instructor: Archie, Elizabeth
+  :when: M W  - 11:45A - 1:00P
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: Jordan Hall of Science 101
+- :course: BIOS60574
+  :section: '01'
+  :title: Tpcs in Evol & Systematic Biol
+  :credits: V
+  :status: OP
+  :max_spots: '35'
+  :open_spots: '32'
+  :xlst: ! '&nbsp'
+  :crn: '21131'
+  :syl: ! '&nbsp'
+  :instructor: Feder, Jeffrey Pfrender, Michael
+  :when: R  - 12:00P - 2:30P
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: Jordan Hall of Science 310
+- :course: BIOS60576
+  :section: '01'
+  :title: Topics in Biocomputing
+  :credits: '3'
+  :status: OP
+  :max_spots: '19'
+  :open_spots: '15'
+  :xlst: ! '&nbsp'
+  :crn: '29214'
+  :syl: ! '&nbsp'
+  :instructor: Jones, Stuart
+  :when: M W  - 1:30P - 2:45P
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: Edward J. DeBartolo Hall B011
+- :course: BIOS60577
+  :section: '03'
+  :title: Tpcs in Genetics/Molecular Bio
+  :credits: V
+  :status: OP
+  :max_spots: '5'
+  :open_spots: '5'
+  :xlst: ! '&nbsp'
+  :crn: '26863'
+  :syl: ! '&nbsp'
+  :instructor: Scheel, Molly
+  :when: F  - 9:00A - 12:00P
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: IU School of Medicine 114A
+- :course: BIOS60579
+  :section: '01'
+  :title: Topics in Parasitology & VB
+  :credits: '3'
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '3'
+  :xlst: Y
+  :crn: '20033'
+  :syl: ! '&nbsp'
+  :instructor: Robichaud, Jennifer
+  :when: T R  - 12:30P - 1:45P
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: Jordan Hall of Science 105
+- :course: BIOS60581
+  :section: '01'
+  :title: Graduate Seminar (CELL)
+  :credits: '1'
+  :status: OP
+  :max_spots: '80'
+  :open_spots: '72'
+  :xlst: ! '&nbsp'
+  :crn: '20641'
+  :syl: ! '&nbsp'
+  :instructor: Schulz, Robert
+  :when: F  - 3:00P - 5:00P
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: BIOS60583
+  :section: '01'
+  :title: Grad Seminar (EEE-BIOFRASS)
+  :credits: '1'
+  :status: OP
+  :max_spots: '19'
+  :open_spots: '16'
+  :xlst: ! '&nbsp'
+  :crn: '20100'
+  :syl: ! '&nbsp'
+  :instructor: Lamberti, Gary
+  :when: F  - 3:00P - 4:00P
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: Edward J. DeBartolo Hall 125
+- :course: BIOS60583
+  :section: '02'
+  :title: Graduate Seminar (EEE)
+  :credits: '1'
+  :status: OP
+  :max_spots: '15'
+  :open_spots: '15'
+  :xlst: ! '&nbsp'
+  :crn: '23518'
+  :syl: ! '&nbsp'
+  :instructor: Lamberti, Gary
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: BIOS60584
+  :section: '01'
+  :title: Graduate Seminar (Physiology)
+  :credits: '1'
+  :status: OP
+  :max_spots: '12'
+  :open_spots: '9'
+  :xlst: ! '&nbsp'
+  :crn: '25645'
+  :syl: ! '&nbsp'
+  :instructor: Syed, Zainulabeuddin
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: BIOS60587
+  :section: '01'
+  :title: Clin Trnslatnl Grad Sem Series
+  :credits: V
+  :status: OP
+  :max_spots: '90'
+  :open_spots: '90'
+  :xlst: ! '&nbsp'
+  :crn: '29215'
+  :syl: ! '&nbsp'
+  :instructor: Haldar, Kasturi
+  :when: F  - 10:00A - 1:00P
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: Theodore M. Hesburgh Library 107
+- :course: BIOS60601
+  :section: '01'
+  :title: Global Health Colloquium
+  :credits: '1'
+  :status: OP
+  :max_spots: '90'
+  :open_spots: '86'
+  :xlst: Y
+  :crn: '24701'
+  :syl: ! '&nbsp'
+  :instructor: Taylor, Katherine
+  :when: W  - 4:00P - 5:00P
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: BIOS60610
+  :section: '01'
+  :title: Water, Disease & Global Health
+  :credits: '3'
+  :status: OP
+  :max_spots: '13'
+  :open_spots: '9'
+  :xlst: Y
+  :crn: '24706'
+  :syl: ! '&nbsp'
+  :instructor: Shrout, Joshua Severson, David
+  :when: M W  - 1:30P - 2:45P
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: Edward J. DeBartolo Hall 131
+- :course: BIOS63680
+  :section: '01'
+  :title: MBP Seminar
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '20718'
+  :syl: ! '&nbsp'
+  :instructor: O'Tousa, Joseph
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: BIOS67500
+  :section: '01'
+  :title: Biological Sciences Colloquium
+  :credits: '0'
+  :status: OP
+  :max_spots: '100'
+  :open_spots: '97'
+  :xlst: ! '&nbsp'
+  :crn: '23072'
+  :syl: ! '&nbsp'
+  :instructor: Grimstad, Paul
+  :when: M T W R F  - 3:45P - 4:55P
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: Galvin Life Science Center 283
+- :course: BIOS67500
+  :section: '02'
+  :title: Biological Sciences Colloquium
+  :credits: '0'
+  :status: OP
+  :max_spots: '100'
+  :open_spots: '97'
+  :xlst: ! '&nbsp'
+  :crn: '22070'
+  :syl: ! '&nbsp'
+  :instructor: Grimstad, Paul
+  :when: M T W R F  - 5:15P - 6:00P
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: Galvin Life Science Center 283
+- :course: BIOS67550
+  :section: '01'
+  :title: Responsible Research Conduct
+  :credits: '0'
+  :status: OP
+  :max_spots: '1'
+  :open_spots: '1'
+  :xlst: ! '&nbsp'
+  :crn: '23529'
+  :syl: ! '&nbsp'
+  :instructor: TBA
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: BIOS68599
+  :section: '01'
+  :title: Thesis Direction
+  :credits: V
+  :status: OP
+  :max_spots: '25'
+  :open_spots: '25'
+  :xlst: ! '&nbsp'
+  :crn: '20654'
+  :syl: ! '&nbsp'
+  :instructor: Boyd, Sunny
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: BIOS70558
+  :section: '01'
+  :title: Electron Microscopy
+  :credits: '1'
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '22137'
+  :syl: ! '&nbsp'
+  :instructor: Vaughan, Kevin
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: BIOS72110
+  :section: '01'
+  :title: Readings in Cancer Biology
+  :credits: '3'
+  :status: OP
+  :max_spots: '19'
+  :open_spots: '13'
+  :xlst: ! '&nbsp'
+  :crn: '29216'
+  :syl: ! '&nbsp'
+  :instructor: Hill, Reginald Zhang, Siyuan
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: BIOS77672
+  :section: '01'
+  :title: Special Problems
+  :credits: V
+  :status: OP
+  :max_spots: '5'
+  :open_spots: '5'
+  :xlst: ! '&nbsp'
+  :crn: '23512'
+  :syl: ! '&nbsp'
+  :instructor: Grimstad, Paul
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: BIOS77672
+  :section: '02'
+  :title: Special Problems
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '20899'
+  :syl: ! '&nbsp'
+  :instructor: Boyd, Sunny
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: BIOS77672
+  :section: '03'
+  :title: Special Problems
+  :credits: V
+  :status: OP
+  :max_spots: '1'
+  :open_spots: '1'
+  :xlst: ! '&nbsp'
+  :crn: '27509'
+  :syl: ! '&nbsp'
+  :instructor: TBA
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: BIOS77675
+  :section: '01'
+  :title: Grad Teaching Apprenticeship
+  :credits: V
+  :status: OP
+  :max_spots: '12'
+  :open_spots: '12'
+  :xlst: ! '&nbsp'
+  :crn: '24291'
+  :syl: ! '&nbsp'
+  :instructor: Whaley, Michelle Boyd, Sunny
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: BIOS88600
+  :section: '01'
+  :title: Non-Resident Thesis Direction
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '21726'
+  :syl: ! '&nbsp'
+  :instructor: Boyd, Sunny
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: BIOS93652
+  :section: '01'
+  :title: Chmstry & Biol Interface Semnr
+  :credits: '1'
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '9'
+  :xlst: Y
+  :crn: '24112'
+  :syl: ! '&nbsp'
+  :instructor: Chang, Mayland Miller, MarvinSchorey, Jeffrey
+  :when: R  - 2:00P - 3:00P
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: Nieuwland Science Hall 184
+- :course: BIOS98699
+  :section: '01'
+  :title: Research and Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '24441'
+  :syl: ! '&nbsp'
+  :instructor: Archie, Elizabeth
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: BIOS98699
+  :section: '02'
+  :title: Research & Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '21072'
+  :syl: ! '&nbsp'
+  :instructor: Belovsky, Gary
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: BIOS98699
+  :section: '03'
+  :title: Research & Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '21278'
+  :syl: ! '&nbsp'
+  :instructor: Besansky, Nora
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: BIOS98699
+  :section: '04'
+  :title: Research and Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '23067'
+  :syl: ! '&nbsp'
+  :instructor: Bohlson, Suzanne
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: BIOS98699
+  :section: '05'
+  :title: Research & Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '20325'
+  :syl: ! '&nbsp'
+  :instructor: Boyd, Sunny
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: BIOS98699
+  :section: '06'
+  :title: Research and Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '24442'
+  :syl: ! '&nbsp'
+  :instructor: Champion, Patricia
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: BIOS98699
+  :section: '07'
+  :title: Research & Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '21250'
+  :syl: ! '&nbsp'
+  :instructor: Collins, Frank
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: BIOS98699
+  :section: 08
+  :title: Research & Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '9'
+  :xlst: ! '&nbsp'
+  :crn: '21859'
+  :syl: ! '&nbsp'
+  :instructor: D'Souza-Schorey, Crislyn
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: BIOS98699
+  :section: 09
+  :title: Research and Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '23068'
+  :syl: ! '&nbsp'
+  :instructor: Duffield, Giles
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: BIOS98699
+  :section: '10'
+  :title: Research & Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '20559'
+  :syl: ! '&nbsp'
+  :instructor: Duman, John
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: BIOS98699
+  :section: '11'
+  :title: Research & Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '9'
+  :xlst: ! '&nbsp'
+  :crn: '21713'
+  :syl: ! '&nbsp'
+  :instructor: Feder, Jeffrey
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: BIOS98699
+  :section: '12'
+  :title: Research & Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '20743'
+  :syl: ! '&nbsp'
+  :instructor: Ferdig, Michael
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: BIOS98699
+  :section: '13'
+  :title: Research & Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '21363'
+  :syl: ! '&nbsp'
+  :instructor: Fraser, Malcolm
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: BIOS98699
+  :section: '14'
+  :title: Research & Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '20487'
+  :syl: ! '&nbsp'
+  :instructor: Haldar, Kasturi
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: BIOS98699
+  :section: '15'
+  :title: Research & Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '21014'
+  :syl: ! '&nbsp'
+  :instructor: Hellmann, Jessica
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: BIOS98699
+  :section: '16'
+  :title: Research & Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '20311'
+  :syl: ! '&nbsp'
+  :instructor: Hill, Reginald
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: BIOS98699
+  :section: '17'
+  :title: Research & Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '20613'
+  :syl: ! '&nbsp'
+  :instructor: Hollocher, Hope
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: BIOS98699
+  :section: '18'
+  :title: Research & Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '20702'
+  :syl: ! '&nbsp'
+  :instructor: Hyde, David
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: BIOS98699
+  :section: '19'
+  :title: Research & Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '21593'
+  :syl: ! '&nbsp'
+  :instructor: Jones, Stuart
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: BIOS98699
+  :section: '20'
+  :title: Research & Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '9'
+  :xlst: ! '&nbsp'
+  :crn: '20297'
+  :syl: ! '&nbsp'
+  :instructor: Lamberti, Gary
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: BIOS98699
+  :section: '21'
+  :title: Research & Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '8'
+  :xlst: ! '&nbsp'
+  :crn: '20657'
+  :syl: ! '&nbsp'
+  :instructor: Lee, Shaun
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: BIOS98699
+  :section: '22'
+  :title: Research & Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '9'
+  :xlst: ! '&nbsp'
+  :crn: '20068'
+  :syl: ! '&nbsp'
+  :instructor: Li, Lei
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: BIOS98699
+  :section: '23'
+  :title: Research & Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '20304'
+  :syl: ! '&nbsp'
+  :instructor: Lodge, David
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: BIOS98699
+  :section: '24'
+  :title: Research & Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '22153'
+  :syl: ! '&nbsp'
+  :instructor: McDowell, Mary
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: BIOS98699
+  :section: '25'
+  :title: Research and Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '9'
+  :xlst: ! '&nbsp'
+  :crn: '23069'
+  :syl: ! '&nbsp'
+  :instructor: McLachlan, Jason
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: BIOS98699
+  :section: '26'
+  :title: Research & Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '20652'
+  :syl: ! '&nbsp'
+  :instructor: Michael, Edwin
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: BIOS98699
+  :section: '27'
+  :title: Research & Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '9'
+  :xlst: ! '&nbsp'
+  :crn: '20478'
+  :syl: ! '&nbsp'
+  :instructor: Morales, Miguel
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: BIOS98699
+  :section: '28'
+  :title: Research & Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '20020'
+  :syl: ! '&nbsp'
+  :instructor: Olson, Kenneth
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: BIOS98699
+  :section: '29'
+  :title: Research and Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '24443'
+  :syl: ! '&nbsp'
+  :instructor: O'Tousa, Joseph
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: BIOS98699
+  :section: '30'
+  :title: Research & Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '9'
+  :xlst: ! '&nbsp'
+  :crn: '21560'
+  :syl: ! '&nbsp'
+  :instructor: Pfrender, Michael
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: BIOS98699
+  :section: '31'
+  :title: Research & Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '9'
+  :xlst: ! '&nbsp'
+  :crn: '20526'
+  :syl: ! '&nbsp'
+  :instructor: Ravosa, Matthew
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: BIOS98699
+  :section: '32'
+  :title: Research and Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '9'
+  :xlst: ! '&nbsp'
+  :crn: '24444'
+  :syl: ! '&nbsp'
+  :instructor: Ridenhour, Benjamin
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: BIOS98699
+  :section: '33'
+  :title: Research & Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '21681'
+  :syl: ! '&nbsp'
+  :instructor: Rocha, Adrian
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: BIOS98699
+  :section: '34'
+  :title: Research & Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '20598'
+  :syl: ! '&nbsp'
+  :instructor: Romero-Severson, Jeanne
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: BIOS98699
+  :section: '35'
+  :title: Research & Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '21319'
+  :syl: ! '&nbsp'
+  :instructor: Schafer, Zachary
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: BIOS98699
+  :section: '36'
+  :title: Research & Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '9'
+  :xlst: ! '&nbsp'
+  :crn: '20204'
+  :syl: ! '&nbsp'
+  :instructor: Scheel, Molly
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: BIOS98699
+  :section: '37'
+  :title: Research & Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '20341'
+  :syl: ! '&nbsp'
+  :instructor: Schorey, Jeffrey
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: BIOS98699
+  :section: '38'
+  :title: Research & Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '21791'
+  :syl: ! '&nbsp'
+  :instructor: Schulz, Robert
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: BIOS98699
+  :section: '39'
+  :title: Research & Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '20604'
+  :syl: ! '&nbsp'
+  :instructor: Severson, David
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: BIOS98699
+  :section: '40'
+  :title: Research & Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '20162'
+  :syl: ! '&nbsp'
+  :instructor: Syed, Zainulabeuddin
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: BIOS98699
+  :section: '41'
+  :title: Research & Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '20167'
+  :syl: ! '&nbsp'
+  :instructor: Tank, Jennifer
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: BIOS98699
+  :section: '42'
+  :title: Research and Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '25862'
+  :syl: ! '&nbsp'
+  :instructor: Timp, Gregory
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: BIOS98699
+  :section: '43'
+  :title: Research and Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '25861'
+  :syl: ! '&nbsp'
+  :instructor: Vargo-Gogola, Tracy
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: BIOS98699
+  :section: '44'
+  :title: Research and Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '25863'
+  :syl: ! '&nbsp'
+  :instructor: Vaughan, Kevin
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: BIOS98699
+  :section: '45'
+  :title: Research and Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '7'
+  :xlst: ! '&nbsp'
+  :crn: '27462'
+  :syl: ! '&nbsp'
+  :instructor: Wingert, Rebecca
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: BIOS98699
+  :section: '46'
+  :title: Research and Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '9'
+  :xlst: ! '&nbsp'
+  :crn: '27463'
+  :syl: ! '&nbsp'
+  :instructor: Zhang, Siyuan
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: BIOS98699
+  :section: '47'
+  :title: Research and Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '27464'
+  :syl: ! '&nbsp'
+  :instructor: TBA
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: BIOS98699
+  :section: '48'
+  :title: Research and Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '28997'
+  :syl: ! '&nbsp'
+  :instructor: TBA
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: BIOS98700
+  :section: '01'
+  :title: Nonresident Dissertation Rsrch
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '20139'
+  :syl: ! '&nbsp'
+  :instructor: Boyd, Sunny
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA

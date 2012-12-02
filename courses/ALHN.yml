@@ -1,0 +1,193 @@
+---
+- !ruby/object:Course
+  name: The Making of Market Society
+  credit: '3'
+  coursenum: ALHN13595
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '8'
+    max_spots: '15'
+    crn: '26057'
+    instructor: Ruccio, David
+    time: T R  - 3:30P - 4:45P
+    location: Edward J. DeBartolo Hall 136
+- !ruby/object:Course
+  name: Jurisprudence
+  credit: '3'
+  coursenum: ALHN13795
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '17'
+    max_spots: '19'
+    crn: '29722'
+    instructor: Dailey, William Kelly, James
+    time: T R  - 11:00A - 12:15P
+    location: Law School 2173
+- !ruby/object:Course
+  name: 20th Century Art
+  credit: '3'
+  coursenum: ALHN13901
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '13'
+    max_spots: '15'
+    crn: '26058'
+    instructor: Speaks, Elyse
+    time: T R  - 11:00A - 12:15P
+    location: Coleman Morse Center 330
+- !ruby/object:Course
+  name: Honors Seminar
+  credit: '3'
+  coursenum: ALHN13951
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '19'
+    crn: '21216'
+    instructor: Delaney, Cornelius
+    time: T R  - 9:30A - 10:45A
+    location: Edward J. DeBartolo Hall 347
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '0'
+    max_spots: '12'
+    crn: '20940'
+    instructor: DellaNeva, JoAnn
+    time: T R  - 3:30P - 4:45P
+    location: O'Shaughnessy Hall 202
+  - !ruby/object:Section
+    section_num: '03'
+    open_spots: '11'
+    max_spots: '19'
+    crn: '20425'
+    instructor: Walls, Laura
+    time: T R  - 5:00P - 6:15P
+    location: O'Shaughnessy Hall 202
+  - !ruby/object:Section
+    section_num: '04'
+    open_spots: '5'
+    max_spots: '19'
+    crn: '20546'
+    instructor: Gutting, Gary
+    time: T R  - 2:00P - 3:15P
+    location: Edward J. DeBartolo Hall 335
+  - !ruby/object:Section
+    section_num: '05'
+    open_spots: '7'
+    max_spots: '19'
+    crn: '22000'
+    instructor: Monta, Susannah
+    time: T R  - 2:00P - 3:15P
+    location: Edward J. DeBartolo Hall 203
+  - !ruby/object:Section
+    section_num: '06'
+    open_spots: '0'
+    max_spots: '21'
+    crn: '22744'
+    instructor: Jensen, Lionel
+    time: T R  - 9:30A - 10:45A
+    location: Edward J. DeBartolo Hall 205
+  - !ruby/object:Section
+    section_num: '07'
+    open_spots: '13'
+    max_spots: '19'
+    crn: '23285'
+    instructor: Fredman, Stephen
+    time: T R  - 12:30P - 1:45P
+    location: Edward J. DeBartolo Hall 201
+  - !ruby/object:Section
+    section_num: 08
+    open_spots: '0'
+    max_spots: '19'
+    crn: '25631'
+    instructor: Botting, Eileen
+    time: T R  - 3:30P - 4:45P
+    location: Edward J. DeBartolo Hall 204
+- !ruby/object:Course
+  name: Senior Moral Prob. Colloquium
+  credit: '1'
+  coursenum: ALHN43951
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '45'
+    crn: '22189'
+    instructor: Delaney, Cornelius
+    time: W  - 5:00P - 6:00P
+    location: O'Shaughnessy Hall 242
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '24'
+    max_spots: '45'
+    crn: '22190'
+    instructor: Hahn, Alexander
+    time: W  - 5:00P - 6:00P
+    location: Hayes Healy Center 229
+- !ruby/object:Course
+  name: Senior Honors Thesis
+  credit: '3'
+  coursenum: ALHN48980
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '37'
+    max_spots: '70'
+    crn: '21211'
+    instructor: Delaney, Cornelius
+    time: TBA
+    location: TBA
+Botting, Eileen
+  :when: T R  - 3:30P - 4:45P
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: Edward J. DeBartolo Hall 204
+- :course: ALHN43951
+  :section: '01'
+  :title: Senior Moral Prob. Colloquium
+  :credits: '1'
+  :status: CL
+  :max_spots: '45'
+  :open_spots: '0'
+  :xlst: ! '&nbsp'
+  :crn: '22189'
+  :syl: ! '&nbsp'
+  :instructor: Delaney, Cornelius
+  :when: W  - 5:00P - 6:00P
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: O'Shaughnessy Hall 242
+- :course: ALHN43951
+  :section: '02'
+  :title: Senior Moral Prob. Colloquium
+  :credits: '1'
+  :status: OP
+  :max_spots: '45'
+  :open_spots: '23'
+  :xlst: ! '&nbsp'
+  :crn: '22190'
+  :syl: ! '&nbsp'
+  :instructor: Hahn, Alexander
+  :when: W  - 5:00P - 6:00P
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: Hayes Healy Center 229
+- :course: ALHN48980
+  :section: '01'
+  :title: Senior Honors Thesis
+  :credits: '3'
+  :status: OP
+  :max_spots: '70'
+  :open_spots: '39'
+  :xlst: ! '&nbsp'
+  :crn: '21211'
+  :syl: ! '&nbsp'
+  :instructor: Delaney, Cornelius
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA

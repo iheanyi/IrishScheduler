@@ -1,0 +1,159 @@
+---
+- !ruby/object:Course
+  name: Neuroscience
+  credit: '5'
+  coursenum: IUSM60503
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '21'
+    max_spots: '25'
+    crn: '22591'
+    instructor: Navari, Rudolph
+    time: W  - 8:30A - 12:00P
+    location: TBA
+- !ruby/object:Course
+  name: Human Physiology
+  credit: '7'
+  coursenum: IUSM60504
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '21'
+    max_spots: '25'
+    crn: '22592'
+    instructor: Navari, Rudolph
+    time: M R F  - 8:00A - 10:00A
+    location: TBA
+- !ruby/object:Course
+  name: Intro to Clin Med I
+  credit: '2'
+  coursenum: IUSM60512
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '21'
+    max_spots: '25'
+    crn: '22593'
+    instructor: Navari, Rudolph
+    time: T  - 8:00A - 9:30A
+    location: TBA
+- !ruby/object:Course
+  name: Medical Microbiology/Immuno
+  credit: '7'
+  coursenum: IUSM60556
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '21'
+    max_spots: '25'
+    crn: '22594'
+    instructor: Bohlson, Suzanne
+    time: M T R  - 10:30A - 12:00P
+    location: TBA
+- !ruby/object:Course
+  name: Medical Genetics
+  credit: '2'
+  coursenum: IUSM70605
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '21'
+    max_spots: '25'
+    crn: '22595'
+    instructor: Scheel, Molly
+    time: M T R  - 8:00A - 8:59A
+    location: TBA
+- !ruby/object:Course
+  name: Pharmacology II
+  credit: '4'
+  coursenum: IUSM70606
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '21'
+    max_spots: '25'
+    crn: '25071'
+    instructor: Stahelin, Robert
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Intro to Clin Medicine II
+  credit: '10'
+  coursenum: IUSM70651
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '21'
+    max_spots: '25'
+    crn: '22596'
+    instructor: Navari, Rudolph
+    time: ! "(1) M W F  - 9:00A - 12:00P\r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\r\n\t\t\t
+      \  \t\t\r\n\t\t\t   \t  \r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\t(2) W  - 1:00P
+      - 4:00P"
+    location: ! "TBA\r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\r\n\t\t\t\t
+      \  \t\t\t\r\n\t\t\t\t   \t\t\tTBA"
+- !ruby/object:Course
+  name: Biostatistics
+  credit: '1'
+  coursenum: IUSM70652
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '21'
+    max_spots: '25'
+    crn: '22597'
+    instructor: Navari, Rudolph
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Systemic Pathology
+  credit: '7'
+  coursenum: IUSM70654
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '21'
+    max_spots: '25'
+    crn: '22598'
+    instructor: Navari, Rudolph Prahlow, Joseph
+    time: T R  - 9:00A - 12:00P
+    location: TBA
+- !ruby/object:Course
+  name: Research & Dissertation
+  credit: V
+  coursenum: IUSM88010
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '18'
+    max_spots: '20'
+    crn: '24127'
+    instructor: Navari, Rudolph
+    time: TBA
+    location: TBA
+
+  :open_spots: '25'
+  :xlst: ! '&nbsp'
+  :crn: '22598'
+  :syl: ! '&nbsp'
+  :instructor: Navari, Rudolph Prahlow, Joseph
+  :when: T R  - 9:00A - 12:00P
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: IUSM88010
+  :section: '01'
+  :title: Research & Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '20'
+  :open_spots: '20'
+  :xlst: ! '&nbsp'
+  :crn: '24127'
+  :syl: ! '&nbsp'
+  :instructor: Navari, Rudolph
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA

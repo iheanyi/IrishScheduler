@@ -1,0 +1,721 @@
+---
+- !ruby/object:Course
+  name: Stats for Business and Econ I
+  credit: '3'
+  coursenum: ACMS10145
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '100'
+    crn: '28970'
+    instructor: Huynh, Huy
+    time: M W F  - 8:30A - 9:20A
+    location: Edward J. DeBartolo Hall 129
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '0'
+    max_spots: '100'
+    crn: '28969'
+    instructor: Huynh, Huy
+    time: M W F  - 9:35A - 10:25A
+    location: Edward J. DeBartolo Hall 138
+  - !ruby/object:Section
+    section_num: '03'
+    open_spots: '0'
+    max_spots: '115'
+    crn: '28972'
+    instructor: Huebner, Alan
+    time: M W F  - 11:45A - 12:35P
+    location: Nieuwland Science Hall 127
+  - !ruby/object:Section
+    section_num: '04'
+    open_spots: '0'
+    max_spots: '130'
+    crn: '28971'
+    instructor: Huebner, Alan
+    time: M W F  - 12:50P - 1:40P
+    location: Nieuwland Science Hall 127
+- !ruby/object:Course
+  name: Scientific Computing
+  credit: '3'
+  coursenum: ACMS20210
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '6'
+    max_spots: '65'
+    crn: '24935'
+    instructor: Maggio, Charles
+    time: M W F  - 9:35A - 10:25A
+    location: Edward J. DeBartolo Hall 141
+- !ruby/object:Course
+  name: Statistics for Life Sciences
+  credit: '3'
+  coursenum: ACMS20340
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '51'
+    max_spots: '90'
+    crn: '24933'
+    instructor: Jain, Ankita
+    time: M W F  - 3:00P - 3:50P
+    location: Edward J. DeBartolo Hall 126
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '0'
+    max_spots: '90'
+    crn: '24934'
+    instructor: Jain, Ankita
+    time: M W F  - 1:55P - 2:45P
+    location: Edward J. DeBartolo Hall 126
+- !ruby/object:Course
+  name: Intro Applied Math Methods I
+  credit: '3.5'
+  coursenum: ACMS20550
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '8'
+    max_spots: '40'
+    crn: '28973'
+    instructor: McCoy, Timothy
+    time: M W F  - 10:40A - 11:30A
+    location: Edward J. DeBartolo Hall 125
+- !ruby/object:Course
+  name: Intro to Applied Math Mthds II
+  credit: '3.5'
+  coursenum: ACMS20750
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '10'
+    max_spots: '80'
+    crn: '24936'
+    instructor: Zhang, Yongtao
+    time: M W F  - 10:40A - 11:30A
+    location: Haggar Hall 117
+- !ruby/object:Course
+  name: Intro Appl Math Mthds Tutorial
+  credit: '0'
+  coursenum: ACMS22550
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '9'
+    max_spots: '40'
+    crn: '28974'
+    instructor: TBA
+    time: T  - 11:00A - 11:50A
+    location: Pasquerilla Center 112
+- !ruby/object:Course
+  name: Intro Appl Math Mthds II Tutrl
+  credit: '0'
+  coursenum: ACMS22750
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '50'
+    crn: '24937'
+    instructor: TBA
+    time: T  - 11:00A - 11:50A
+    location: Pasquerilla Center 107
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '31'
+    max_spots: '50'
+    crn: '28975'
+    instructor: TBA
+    time: T  - 12:00P - 12:50P
+    location: Hayes Healy Center 127
+- !ruby/object:Course
+  name: Probability and Statistics
+  credit: '3'
+  coursenum: ACMS30440
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '80'
+    crn: '24938'
+    instructor: Huebner, Alan
+    time: M W F  - 1:55P - 2:45P
+    location: Edward J. DeBartolo Hall 140
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '1'
+    max_spots: '31'
+    crn: '24939'
+    instructor: Du, Huijing
+    time: M W F  - 3:00P - 3:50P
+    location: Jordan Hall of Science 310
+- !ruby/object:Course
+  name: Introduction to Probability
+  credit: '3'
+  coursenum: ACMS30530
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '14'
+    max_spots: '70'
+    crn: '26296'
+    instructor: Huynh, Huy
+    time: M W F  - 12:50P - 1:40P
+    location: Hayes Healy Center 117
+- !ruby/object:Course
+  name: Mathematical Statistics
+  credit: '3'
+  coursenum: ACMS30540
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '10'
+    max_spots: '25'
+    crn: '24940'
+    instructor: Jain, Ankita
+    time: M W F  - 4:05P - 4:55P
+    location: Edward J. DeBartolo Hall 126
+- !ruby/object:Course
+  name: Stat Mthds & Data Analysis I
+  credit: '3'
+  coursenum: ACMS30600
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '29'
+    max_spots: '49'
+    crn: '28976'
+    instructor: Delaney, James
+    time: M W F  - 12:50P - 1:40P
+    location: Hayes Healy Center 129
+- !ruby/object:Course
+  name: Intro to Financial Mathematics
+  credit: '3'
+  coursenum: ACMS30610
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '10'
+    crn: '26177'
+    instructor: Faybusovich, Leonid
+    time: M W F  - 10:40A - 11:30A
+    location: Edward J. DeBartolo Hall 207
+- !ruby/object:Course
+  name: Advanced Scientific Computing
+  credit: '3'
+  coursenum: ACMS40212
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '4'
+    max_spots: '15'
+    crn: '26297'
+    instructor: Xu, Zhiliang
+    time: M W F  - 9:35A - 10:25A
+    location: Jordan Hall of Science 310
+- !ruby/object:Course
+  name: Applied Complex Analysis
+  credit: '3'
+  coursenum: ACMS40485
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '33'
+    max_spots: '40'
+    crn: '29890'
+    instructor: Sommese, Andrew
+    time: T R  - 9:30A - 10:45A
+    location: Hayes Healy Center 231
+- !ruby/object:Course
+  name: Time Series Analysis
+  credit: '3'
+  coursenum: ACMS40842
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '26'
+    max_spots: '40'
+    crn: '26298'
+    instructor: Li, Jiahan
+    time: M W F  - 11:45A - 12:35P
+    location: Edward J. DeBartolo Hall 129
+- !ruby/object:Course
+  name: Statistical Methods Bio Health
+  credit: '3'
+  coursenum: ACMS40852
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '20'
+    max_spots: '30'
+    crn: '26299'
+    instructor: Liu, Fang
+    time: M W F  - 9:35A - 10:25A
+    location: Jordan Hall of Science 322
+- !ruby/object:Course
+  name: Stat Methods in Data Mining
+  credit: '3'
+  coursenum: ACMS40875
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '15'
+    crn: '29678'
+    instructor: Li, Jun
+    time: T R  - 11:00A - 12:15P
+    location: TBA
+- !ruby/object:Course
+  name: Undergraduate Research
+  credit: V
+  coursenum: ACMS48498
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '9'
+    max_spots: '10'
+    crn: '24943'
+    instructor: Alber, Mark
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '9'
+    max_spots: '10'
+    crn: '24944'
+    instructor: Sommese, Andrew
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '03'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '24945'
+    instructor: Hu, Bei
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '04'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '24946'
+    instructor: Buechler, Steven
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '05'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '24947'
+    instructor: Xu, Zhiliang
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '06'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '24948'
+    instructor: Zhang, Yongtao
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '07'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '26871'
+    instructor: Delaney, James
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: 08
+    open_spots: '10'
+    max_spots: '10'
+    crn: '26872'
+    instructor: Liu, Fang
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: 09
+    open_spots: '10'
+    max_spots: '10'
+    crn: '26873'
+    instructor: Li, Jiahan
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '10'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '26874'
+    instructor: Huebner, Alan
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Advanced Scientific Computing
+  credit: '3'
+  coursenum: ACMS60212
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '13'
+    max_spots: '15'
+    crn: '26300'
+    instructor: Xu, Zhiliang
+    time: M W F  - 9:35A - 10:25A
+    location: Jordan Hall of Science 310
+- !ruby/object:Course
+  name: Finite Elements in Engineering
+  credit: '3'
+  coursenum: ACMS60590
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '1'
+    max_spots: '5'
+    crn: '24914'
+    instructor: Westerink, Joannes
+    time: T R  - 5:00P - 6:15P
+    location: Hayes Healy Center 229
+- !ruby/object:Course
+  name: Numerical Analysis II
+  credit: '3'
+  coursenum: ACMS60790
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '20'
+    max_spots: '25'
+    crn: '24941'
+    instructor: Xu, Zhiliang
+    time: M W F  - 1:55P - 2:45P
+    location: Jordan Hall of Science 105
+- !ruby/object:Course
+  name: Statistical Inference
+  credit: '3'
+  coursenum: ACMS60801
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '22'
+    max_spots: '30'
+    crn: '28978'
+    instructor: Li, Jiahan
+    time: M W F  - 12:50P - 1:40P
+    location: Hayes Healy Center 127
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '4'
+    max_spots: '5'
+    crn: '29892'
+    instructor: Delaney, James
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Time Series Analysis
+  credit: '3'
+  coursenum: ACMS60842
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '23'
+    max_spots: '30'
+    crn: '26875'
+    instructor: Li, Jiahan
+    time: M W F  - 11:45A - 12:35P
+    location: Edward J. DeBartolo Hall 129
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '4'
+    max_spots: '5'
+    crn: '29893'
+    instructor: Delaney, James
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Stat Mthds Bio and Health Sci
+  credit: '3'
+  coursenum: ACMS60852
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '6'
+    max_spots: '10'
+    crn: '26876'
+    instructor: Liu, Fang
+    time: M W F  - 9:35A - 10:25A
+    location: Jordan Hall of Science 322
+- !ruby/object:Course
+  name: Stat Methods in Data Mining
+  credit: '3'
+  coursenum: ACMS60875
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '3'
+    max_spots: '15'
+    crn: '29741'
+    instructor: Li, Jun
+    time: T R  - 11:00A - 12:15P
+    location: TBA
+- !ruby/object:Course
+  name: Bayesian Statistics
+  credit: '3'
+  coursenum: ACMS60885
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '15'
+    max_spots: '20'
+    crn: '29200'
+    instructor: Liu, Fang
+    time: M W F  - 10:40A - 11:30A
+    location: Edward J. DeBartolo Hall 118
+- !ruby/object:Course
+  name: Effective Sci Communication
+  credit: '1'
+  coursenum: ACMS63100
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '6'
+    max_spots: '10'
+    crn: '24942'
+    instructor: Buechler, Steven
+    time: T  - 4:00P - 4:50P
+    location: Grace Hall 345
+- !ruby/object:Course
+  name: Stochastic Analysis
+  credit: '3'
+  coursenum: ACMS70860
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '18'
+    max_spots: '25'
+    crn: '26922'
+    instructor: Delaney, James
+    time: M W F  - 3:00P - 3:50P
+    location: Hayes Healy Center 229
+- !ruby/object:Course
+  name: Topics in Applied Mathematics
+  credit: '3'
+  coursenum: ACMS80770
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '23'
+    max_spots: '25'
+    crn: '26301'
+    instructor: Alber, Mark
+    time: M W F  - 10:40A - 11:30A
+    location: Hayes Healy Center 229
+- !ruby/object:Course
+  name: Directed Readings
+  credit: V
+  coursenum: ACMS96697
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '20'
+    max_spots: '20'
+    crn: '24949'
+    instructor: Buechler, Steven
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Research & Dissertation
+  credit: V
+  coursenum: ACMS98698
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '24950'
+    instructor: Alber, Mark
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '24951'
+    instructor: Sommese, Andrew
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '03'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '24952'
+    instructor: Hu, Bei
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '04'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '24953'
+    instructor: Xu, Zhiliang
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '05'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '24954'
+    instructor: Zhang, Yongtao
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '06'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '24955'
+    instructor: Buechler, Steven
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '07'
+    open_spots: '9'
+    max_spots: '10'
+    crn: '29898'
+    instructor: Li, Jiahan
+    time: TBA
+    location: TBA
+alysis
+  :credits: '3'
+  :status: OP
+  :max_spots: '25'
+  :open_spots: '19'
+  :xlst: ! '&nbsp'
+  :crn: '26922'
+  :syl: ! '&nbsp'
+  :instructor: Delaney, James
+  :when: M W F  - 3:00P - 3:50P
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: Hayes Healy Center 229
+- :course: ACMS80770
+  :section: '01'
+  :title: Topics in Applied Mathematics
+  :credits: '3'
+  :status: OP
+  :max_spots: '25'
+  :open_spots: '23'
+  :xlst: ! '&nbsp'
+  :crn: '26301'
+  :syl: ! '&nbsp'
+  :instructor: Alber, Mark
+  :when: M W F  - 10:40A - 11:30A
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: Hayes Healy Center 229
+- :course: ACMS96697
+  :section: '01'
+  :title: Directed Readings
+  :credits: V
+  :status: OP
+  :max_spots: '20'
+  :open_spots: '20'
+  :xlst: ! '&nbsp'
+  :crn: '24949'
+  :syl: ! '&nbsp'
+  :instructor: Buechler, Steven
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: ACMS98698
+  :section: '01'
+  :title: Research & Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '24950'
+  :syl: ! '&nbsp'
+  :instructor: Alber, Mark
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: ACMS98698
+  :section: '02'
+  :title: Research & Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '24951'
+  :syl: ! '&nbsp'
+  :instructor: Sommese, Andrew
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: ACMS98698
+  :section: '03'
+  :title: Research & Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '24952'
+  :syl: ! '&nbsp'
+  :instructor: Hu, Bei
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: ACMS98698
+  :section: '04'
+  :title: Research & Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '24953'
+  :syl: ! '&nbsp'
+  :instructor: Xu, Zhiliang
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: ACMS98698
+  :section: '05'
+  :title: Research & Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '24954'
+  :syl: ! '&nbsp'
+  :instructor: Zhang, Yongtao
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: ACMS98698
+  :section: '06'
+  :title: Research & Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '24955'
+  :syl: ! '&nbsp'
+  :instructor: Buechler, Steven
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA

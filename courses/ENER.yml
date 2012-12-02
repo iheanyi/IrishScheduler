@@ -1,0 +1,15 @@
+---
+- !ruby/object:Course
+  name: The Business of Energy
+  credit: '3'
+  coursenum: ENER20202
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '18'
+    max_spots: '30'
+    crn: '26897'
+    instructor: Frecka, Thomas
+    time: M W  - 5:00P - 6:15P
+    location: Mendoza College of Business 158
+f Business 158

@@ -1,0 +1,261 @@
+---
+- !ruby/object:Course
+  name: Rich, Poor, War
+  credit: '3'
+  coursenum: IDS20653
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '1'
+    crn: '29519'
+    instructor: Whitmore, Todd
+    time: T R  - 12:30P - 1:45P
+    location: Pasquerilla Center 112
+- !ruby/object:Course
+  name: ! 'Sustainability: Princp & Prac'
+  credit: '3'
+  coursenum: IDS20997
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '2'
+    max_spots: '2'
+    crn: '29520'
+    instructor: Serianni, Anthony Sitter, John
+    time: T R  - 2:00P - 3:15P
+    location: Edward J. DeBartolo Hall 125
+- !ruby/object:Course
+  name: CST in Action
+  credit: '3'
+  coursenum: IDS23170
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '3'
+    max_spots: '3'
+    crn: '29871'
+    instructor: Whitmore, Todd
+    time: T  - 7:00P - 8:30P
+    location: Edward A. Malloy Hall 320
+- !ruby/object:Course
+  name: History of Modern Africa
+  credit: '3'
+  coursenum: IDS30400
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '1'
+    crn: '29521'
+    instructor: Ocobock, Paul
+    time: M W  - 9:35A - 10:25A
+    location: Geddes Hall B001
+- !ruby/object:Course
+  name: Modern South Asia
+  credit: '3'
+  coursenum: IDS30403
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '2'
+    max_spots: '2'
+    crn: '29612'
+    instructor: Sengupta, Jayanta
+    time: T R  - 9:30A - 10:45A
+    location: Edward J. DeBartolo Hall 231
+- !ruby/object:Course
+  name: Colonial Latin America
+  credit: '3'
+  coursenum: IDS30404
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '2'
+    max_spots: '2'
+    crn: '29613'
+    instructor: Graubart, Karen
+    time: M W  - 3:00P - 3:50P
+    location: O'Shaughnessy Hall 242
+- !ruby/object:Course
+  name: The Global Environment
+  credit: '3'
+  coursenum: IDS30407
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '2'
+    max_spots: '2'
+    crn: '29614'
+    instructor: Thomas, Julia
+    time: T R  - 5:00P - 6:15P
+    location: Edward J. DeBartolo Hall 246
+- !ruby/object:Course
+  name: Internat'l Political Economy
+  credit: '3'
+  coursenum: IDS30504
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '1'
+    max_spots: '2'
+    crn: '29615'
+    instructor: Guisinger, Alexandra
+    time: T R  - 9:30A - 10:45A
+    location: Edward J. DeBartolo Hall 207
+- !ruby/object:Course
+  name: Pol Econ of Int?l Development
+  credit: '3'
+  coursenum: IDS30506
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '4'
+    max_spots: '4'
+    crn: '25379'
+    instructor: Dutt, Amitava
+    time: T R  - 3:30P - 4:45P
+    location: O'Shaughnessy Hall 118
+- !ruby/object:Course
+  name: Intn'l Development in Practice
+  credit: '3'
+  coursenum: IDS30513
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '4'
+    crn: '25388'
+    instructor: Reifenberg, Stephen
+    time: T R  - 9:30A - 10:45A
+    location: Pasquerilla Center 102
+- !ruby/object:Course
+  name: African Politics Since Ind.
+  credit: '3'
+  coursenum: IDS30535
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '3'
+    max_spots: '4'
+    crn: '29616'
+    instructor: Dowd, Robert
+    time: M W  - 1:30P - 2:45P
+    location: Edward J. DeBartolo Hall 119
+- !ruby/object:Course
+  name: Rsrch M. for Fldwk in Devl Wld
+  credit: '3'
+  coursenum: IDS30536
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '10'
+    crn: '29617'
+    instructor: Bleck, Jaimie Michelitch, Kristin
+    time: T R  - 2:00P - 3:15P
+    location: Geddes Hall B034
+- !ruby/object:Course
+  name: Social Entrepreneurship
+  credit: '3'
+  coursenum: IDS30921
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '2'
+    crn: '29618'
+    instructor: Paulsen, Melissa Belatti, Frank
+    time: T R  - 3:30P - 4:45P
+    location: Edward J. DeBartolo Hall 316
+- !ruby/object:Course
+  name: Educ. & Dev. in Global Era
+  credit: '3'
+  coursenum: IDS33940
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '2'
+    max_spots: '3'
+    crn: '25481'
+    instructor: Chattopadhay, Tamo
+    time: T R  - 11:00A - 12:15P
+    location: Edward J. DeBartolo Hall 149
+- !ruby/object:Course
+  name: Gender and Health
+  credit: '3'
+  coursenum: IDS40106
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '1'
+    crn: '29619'
+    instructor: Smith, Vania
+    time: T R  - 12:30P - 1:45P
+    location: Flanner Hall 925
+- !ruby/object:Course
+  name: Water, Disease&GlobalHealth
+  credit: '3'
+  coursenum: IDS40800
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '2'
+    max_spots: '3'
+    crn: '25484'
+    instructor: Shrout, Joshua Severson, David
+    time: M W  - 1:30P - 2:45P
+    location: Edward J. DeBartolo Hall 131
+- !ruby/object:Course
+  name: Sociology of Development
+  credit: '3'
+  coursenum: IDS43607
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '3'
+    crn: '29620'
+    instructor: Valenzuela, J. Samuel
+    time: T R  - 11:00A - 12:15P
+    location: Edward J. DeBartolo Hall 108
+- !ruby/object:Course
+  name: Trade/Globalization >100000 BC
+  credit: '3'
+  coursenum: IDS45100
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '2'
+    max_spots: '2'
+    crn: '29621'
+    instructor: Oka, Rahul
+    time: T R  - 5:00P - 6:15P
+    location: Flanner Hall 824
+- !ruby/object:Course
+  name: Global Crime and Corruption
+  credit: '3'
+  coursenum: IDS45101
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '1'
+    crn: '29765'
+    instructor: Nordstrom, Carolyn
+    time: M W  - 3:00P - 4:15P
+    location: Geddes Hall B034
+lobal Crime and Corruption
+  :credits: '3'
+  :status: CL
+  :max_spots: '1'
+  :open_spots: '0'
+  :xlst: Y
+  :crn: '29765'
+  :syl: ! '&nbsp'
+  :instructor: Nordstrom, Carolyn
+  :when: M W  - 3:00P - 4:15P
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: Geddes Hall B034

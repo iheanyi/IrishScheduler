@@ -1,0 +1,235 @@
+---
+- !ruby/object:Course
+  name: Beginning Irish I
+  credit: '4'
+  coursenum: IRST10101
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '7'
+    max_spots: '7'
+    crn: '21905'
+    instructor: O'Callaghan, Mary
+    time: M W F  - 9:35A - 10:25A
+    location: Coleman Morse Center 230
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '0'
+    max_spots: '7'
+    crn: '21967'
+    instructor: MacLeod, Tara
+    time: M W F  - 10:40A - 11:30A
+    location: Coleman Morse Center 231
+  - !ruby/object:Section
+    section_num: '03'
+    open_spots: '0'
+    max_spots: '7'
+    crn: '24563'
+    instructor: O'Callaghan, Mary
+    time: M W F  - 12:50P - 1:40P
+    location: Coleman Morse Center 230
+- !ruby/object:Course
+  name: Beginning Irish II
+  credit: '4'
+  coursenum: IRST10102
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '4'
+    max_spots: '7'
+    crn: '21962'
+    instructor: Ni Laighin, Noirin
+    time: M W F  - 9:35A - 10:25A
+    location: Coleman Morse Center 231
+- !ruby/object:Course
+  name: Intermediate Irish
+  credit: '3'
+  coursenum: IRST20103
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '7'
+    max_spots: '7'
+    crn: '21970'
+    instructor: O'Callaghan, Mary
+    time: M W F  - 10:40A - 11:30A
+    location: Coleman Morse Center 230
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '4'
+    max_spots: '7'
+    crn: '29516'
+    instructor: MacLeod, Tara
+    time: M W F  - 12:50P - 1:40P
+    location: Coleman Morse Center 231
+- !ruby/object:Course
+  name: Adv Readings in Irish Culture
+  credit: '3'
+  coursenum: IRST20203
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '2'
+    crn: '22641'
+    instructor: O'Conchubhair, Brian
+    time: T R  - 9:30A - 10:45A
+    location: Flanner Hall 323
+- !ruby/object:Course
+  name: Introduction to Irish Folklore
+  credit: '3'
+  coursenum: IRST20223
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '6'
+    crn: '26436'
+    instructor: Gillan, Jeremiah
+    time: T R  - 3:30P - 4:45P
+    location: Flanner Hall 323
+- !ruby/object:Course
+  name: ! 'Irish in Us:  Comparative Pers'
+  credit: '3'
+  coursenum: IRST20316
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '18'
+    max_spots: '23'
+    crn: '29324'
+    instructor: Griffin, Patrick Kuijt, IanO'Conchubhair, Brian
+    time: T R  - 2:00P - 2:50P
+    location: Hayes Healy Center 127
+- !ruby/object:Course
+  name: Irish Ghost Stories
+  credit: '3'
+  coursenum: IRST20519
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '4'
+    crn: '29325'
+    instructor: Dillon, John
+    time: T R  - 5:00P - 6:15P
+    location: Edward J. DeBartolo Hall 330
+- !ruby/object:Course
+  name: Banks, Bailouts & Irish Lit
+  credit: '3'
+  coursenum: IRST30116
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '1'
+    max_spots: '10'
+    crn: '29757'
+    instructor: Hamrick, James
+    time: M W  - 1:30P - 2:45P
+    location: Edward J. DeBartolo Hall 149
+- !ruby/object:Course
+  name: Screening the Irish Troubles
+  credit: '3'
+  coursenum: IRST30320
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '7'
+    crn: '28717'
+    instructor: Nic Dhiarmada, Briona
+    time: T R  - 2:00P - 3:15P
+    location: O'Shaughnessy Hall 204
+- !ruby/object:Course
+  name: Introduction to Irish Writers
+  credit: '3'
+  coursenum: IRST30371
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '10'
+    crn: '24538'
+    instructor: Fox, Christopher
+    time: M W  - 10:40A - 11:30A
+    location: O'Shaughnessy Hall 118
+- !ruby/object:Course
+  name: Transatlantic Odysseys
+  credit: '3'
+  coursenum: IRST30535
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '3'
+    max_spots: '5'
+    crn: '26439'
+    instructor: Palko, Abigail
+    time: T R  - 9:30A - 10:45A
+    location: O'Shaughnessy Hall 107
+- !ruby/object:Course
+  name: Folklore, Lit&Irish Natnl Cltr
+  credit: '3'
+  coursenum: IRST40316
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '2'
+    max_spots: '6'
+    crn: '28718'
+    instructor: Gillan, Jeremiah
+    time: T R  - 11:00A - 12:15P
+    location: Edward J. DeBartolo Hall 246
+- !ruby/object:Course
+  name: Culture & Politics N. Ireland
+  credit: '3'
+  coursenum: IRST40513
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '2'
+    crn: '29326'
+    instructor: Smyth, Mary
+    time: T R  - 12:30P - 1:45P
+    location: Edward J. DeBartolo Hall 303
+- !ruby/object:Course
+  name: Irish Studies Graduate ProSem
+  credit: '1'
+  coursenum: IRST63000
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '30'
+    max_spots: '30'
+    crn: '29518'
+    instructor: Fox, Christopher
+    time: TBA
+    location: TBA
+
+  :credits: '3'
+  :status: CL
+  :max_spots: '2'
+  :open_spots: '0'
+  :xlst: Y
+  :crn: '29326'
+  :syl: ! '&nbsp'
+  :instructor: Smyth, Mary
+  :when: T R  - 12:30P - 1:45P
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: Edward J. DeBartolo Hall 303
+- :course: IRST63000
+  :section: '01'
+  :title: Irish Studies Graduate ProSem
+  :credits: '1'
+  :status: OP
+  :max_spots: '30'
+  :open_spots: '30'
+  :xlst: ! '&nbsp'
+  :crn: '29518'
+  :syl: ! '&nbsp'
+  :instructor: Fox, Christopher
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA

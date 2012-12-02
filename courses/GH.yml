@@ -1,0 +1,70 @@
+---
+- !ruby/object:Course
+  name: Bioethics
+  credit: '2'
+  coursenum: GH60545
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '12'
+    max_spots: '30'
+    crn: '26885'
+    instructor: Bock, Joseph Fromm, Gary
+    time: R  - 2:00P - 3:40P
+    location: Pasquerilla Center 109
+- !ruby/object:Course
+  name: Intn'l Development in Practice
+  credit: '3'
+  coursenum: GH60595
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '6'
+    crn: '27058'
+    instructor: Reifenberg, Stephen
+    time: T R  - 9:30A - 10:45A
+    location: Pasquerilla Center 102
+- !ruby/object:Course
+  name: Global Health Colloquium
+  credit: '1'
+  coursenum: GH60601
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '2'
+    max_spots: '20'
+    crn: '26368'
+    instructor: Taylor, Katherine
+    time: W  - 4:00P - 5:00P
+    location: TBA
+- !ruby/object:Course
+  name: Directed Readings
+  credit: V
+  coursenum: GH66497
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '26887'
+    instructor: Bock, Joseph
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Master's Project Research 2
+  credit: '2'
+  coursenum: GH68551
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '7'
+    max_spots: '25'
+    crn: '26884'
+    instructor: Haussamen, Lacey
+    time: T  - 2:00P - 3:40P
+    location: Pasquerilla Center 109
+ 2:00P - 3:40P
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: Pasquerilla Center 109

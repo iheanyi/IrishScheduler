@@ -1,0 +1,44 @@
+---
+- !ruby/object:Course
+  name: Spring Research Rot. Course
+  credit: '1'
+  coursenum: IBMS93603
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '11'
+    max_spots: '13'
+    crn: '29770'
+    instructor: Baker, Brian
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: IBMS Seminar
+  credit: '1'
+  coursenum: IBMS93604
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '11'
+    max_spots: '13'
+    crn: '29771'
+    instructor: Baker, Brian
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Research and Dissertation
+  credit: V
+  coursenum: IBMS98698
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '11'
+    max_spots: '13'
+    crn: '29769'
+    instructor: Baker, Brian
+    time: TBA
+    location: TBA
+ :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA

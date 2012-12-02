@@ -1,0 +1,3344 @@
+---
+- !ruby/object:Course
+  name: Constitutional Law
+  credit: '4'
+  coursenum: LAW60307
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '15'
+    max_spots: '64'
+    crn: '21503'
+    instructor: Bellia, Anthony
+    time: M W F  - 11:05A - 12:20P
+    location: TBA
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '58'
+    max_spots: '64'
+    crn: '20368'
+    instructor: Garnett, Richard
+    time: M W F  - 11:05A - 12:20P
+    location: TBA
+  - !ruby/object:Section
+    section_num: '03'
+    open_spots: '37'
+    max_spots: '64'
+    crn: '29679'
+    instructor: Kelley, William
+    time: M W F  - 11:05A - 12:20P
+    location: TBA
+- !ruby/object:Course
+  name: Civil Procedure
+  credit: '4'
+  coursenum: LAW60308
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '63'
+    max_spots: '64'
+    crn: '25498'
+    instructor: Barrett, Amy
+    time: T W R  - 9:40A - 10:55A
+    location: TBA
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '61'
+    max_spots: '64'
+    crn: '25499'
+    instructor: Robinson, John
+    time: T W R  - 9:40A - 10:55A
+    location: TBA
+  - !ruby/object:Section
+    section_num: '03'
+    open_spots: '44'
+    max_spots: '64'
+    crn: '25500'
+    instructor: Tidmarsh, Jay
+    time: T W R  - 9:40A - 10:55A
+    location: TBA
+- !ruby/object:Course
+  name: Legal Resrch & Writing II-MC
+  credit: '1'
+  coursenum: LAW60707
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '24'
+    max_spots: '24'
+    crn: '20008'
+    instructor: Callahan, Leslie
+    time: T R  - 1:00P - 1:50P
+    location: TBA
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '23'
+    max_spots: '24'
+    crn: '21588'
+    instructor: Callahan, Leslie
+    time: T R  - 11:05A - 11:55A
+    location: TBA
+  - !ruby/object:Section
+    section_num: '03'
+    open_spots: '26'
+    max_spots: '26'
+    crn: '20976'
+    instructor: Douglas, Julie
+    time: T R  - 1:00P - 1:50P
+    location: TBA
+  - !ruby/object:Section
+    section_num: '04'
+    open_spots: '26'
+    max_spots: '26'
+    crn: '21256'
+    instructor: Ratigan, Maura
+    time: T R  - 11:05A - 11:55A
+    location: TBA
+  - !ruby/object:Section
+    section_num: '05'
+    open_spots: '26'
+    max_spots: '26'
+    crn: '20255'
+    instructor: Pojanowski, Sarah
+    time: T R  - 1:00P - 1:50P
+    location: TBA
+  - !ruby/object:Section
+    section_num: '06'
+    open_spots: '32'
+    max_spots: '32'
+    crn: '20884'
+    instructor: Simon, Jane
+    time: T R  - 1:00P - 1:50P
+    location: TBA
+  - !ruby/object:Section
+    section_num: '07'
+    open_spots: '32'
+    max_spots: '32'
+    crn: '20849'
+    instructor: Venter, Christine
+    time: T R  - 1:00P - 1:50P
+    location: TBA
+- !ruby/object:Course
+  name: Property
+  credit: '4'
+  coursenum: LAW60906
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '61'
+    max_spots: '64'
+    crn: '20767'
+    instructor: Huber, Bruce
+    time: M T R  - 2:00P - 3:15P
+    location: TBA
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '62'
+    max_spots: '64'
+    crn: '20882'
+    instructor: Kelly, Daniel
+    time: M T R  - 2:00P - 3:15P
+    location: TBA
+  - !ruby/object:Section
+    section_num: '03'
+    open_spots: '44'
+    max_spots: '64'
+    crn: '27012'
+    instructor: Nagle, John
+    time: M T R  - 2:00P - 3:15P
+    location: TBA
+- !ruby/object:Course
+  name: Business Associations
+  credit: '4'
+  coursenum: LAW70101
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '18'
+    max_spots: '50'
+    crn: '20821'
+    instructor: Velasco, Julian
+    time: T R F  - 9:40A - 10:55A
+    location: TBA
+- !ruby/object:Course
+  name: Payment Systems
+  credit: '2'
+  coursenum: LAW70104
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '19'
+    max_spots: '24'
+    crn: '27013'
+    instructor: Haigh, James
+    time: F  - 9:40A - 11:20A
+    location: TBA
+- !ruby/object:Course
+  name: Commercial Law - Sales
+  credit: '2'
+  coursenum: LAW70105
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '4'
+    max_spots: '26'
+    crn: '29680'
+    instructor: TBA
+    time: F  - 9:40A - 11:20A
+    location: TBA
+- !ruby/object:Course
+  name: Securities Regulation
+  credit: '3'
+  coursenum: LAW70107
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '50'
+    crn: '27014'
+    instructor: O'Hara, Patricia Berg, Leslie
+    time: M W  - 11:05A - 12:20P
+    location: TBA
+- !ruby/object:Course
+  name: Real Estate Transactions
+  credit: '3'
+  coursenum: LAW70111
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '33'
+    max_spots: '64'
+    crn: '25508'
+    instructor: Pruitt, Kristin
+    time: M W  - 6:00P - 7:15P
+    location: TBA
+- !ruby/object:Course
+  name: Bankruptcy
+  credit: '3'
+  coursenum: LAW70119
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '28'
+    max_spots: '50'
+    crn: '20908'
+    instructor: Edgar, Alexander Ward, Rebecca
+    time: M F  - 8:15A - 9:30A
+    location: TBA
+- !ruby/object:Course
+  name: Analytical Methods
+  credit: '3'
+  coursenum: LAW70124
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '50'
+    max_spots: '64'
+    crn: '27015'
+    instructor: Barrett, Matthew
+    time: M W F  - 8:40A - 9:30A
+    location: TBA
+- !ruby/object:Course
+  name: Mergers and Acquisitions
+  credit: '3'
+  coursenum: LAW70127
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '50'
+    crn: '29681'
+    instructor: Velasco, Julian
+    time: T R  - 3:25P - 4:40P
+    location: TBA
+- !ruby/object:Course
+  name: Copyright Law
+  credit: '3'
+  coursenum: LAW70128
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '27'
+    max_spots: '50'
+    crn: '27016'
+    instructor: TBA
+    time: T R  - 9:40A - 10:55A
+    location: TBA
+- !ruby/object:Course
+  name: Information Technology Law
+  credit: '2'
+  coursenum: LAW70132
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '9'
+    max_spots: '24'
+    crn: '23820'
+    instructor: Flanagan, Timothy Ward, Rebecca
+    time: M  - 5:35P - 7:15P
+    location: TBA
+- !ruby/object:Course
+  name: Trade Dress and Design Law
+  credit: '3'
+  coursenum: LAW70136
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '38'
+    max_spots: '50'
+    crn: '29682'
+    instructor: McKenna, Mark
+    time: M W  - 11:05A - 12:20P
+    location: TBA
+- !ruby/object:Course
+  name: Evidence
+  credit: '3'
+  coursenum: LAW70201
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '61'
+    max_spots: '96'
+    crn: '20426'
+    instructor: Smithburn, John
+    time: T R  - 8:15A - 9:30A
+    location: TBA
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '33'
+    max_spots: '64'
+    crn: '29683'
+    instructor: Dailey, William
+    time: M W  - 3:25P - 4:40P
+    location: TBA
+- !ruby/object:Course
+  name: Advanced Legal Research
+  credit: '2'
+  coursenum: LAW70207
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '22'
+    crn: '22240'
+    instructor: Rees, Warren
+    time: M W  - 11:05A - 11:55A
+    location: TBA
+- !ruby/object:Course
+  name: Federal Indian Law
+  credit: '2'
+  coursenum: LAW70280
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '22'
+    crn: '29706'
+    instructor: TBA
+    time: M T W R  - 6:00P - 8:00P
+    location: TBA
+- !ruby/object:Course
+  name: Constitutional Law II
+  credit: '3'
+  coursenum: LAW70305
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '14'
+    max_spots: '96'
+    crn: '29684'
+    instructor: McAward, Jennifer
+    time: M W  - 11:05A - 12:20P
+    location: TBA
+- !ruby/object:Course
+  name: The Freedom of Speech
+  credit: '3'
+  coursenum: LAW70307
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '3'
+    max_spots: '50'
+    crn: '27018'
+    instructor: Kozel, Randy McGuigan Jones, Deborah
+    time: M W  - 2:00P - 3:15P
+    location: TBA
+- !ruby/object:Course
+  name: Law of Education
+  credit: '2'
+  coursenum: LAW70313
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '22'
+    crn: '27019'
+    instructor: Garnett, Nicole
+    time: T  - 9:00A - 10:40A
+    location: TBA
+- !ruby/object:Course
+  name: Administrative Law
+  credit: '3'
+  coursenum: LAW70315
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '34'
+    max_spots: '96'
+    crn: '27020'
+    instructor: Bellia, Patricia
+    time: T R  - 11:05A - 12:20P
+    location: TBA
+- !ruby/object:Course
+  name: Complex Civil Litigation
+  credit: '3'
+  coursenum: LAW70316
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '50'
+    crn: '29685'
+    instructor: Tidmarsh, Jay
+    time: M W  - 2:00P - 3:15P
+    location: TBA
+- !ruby/object:Course
+  name: Local Government Law
+  credit: '3'
+  coursenum: LAW70317
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '4'
+    max_spots: '64'
+    crn: '29686'
+    instructor: Garnett, Nicole
+    time: T R  - 3:25P - 4:40P
+    location: TBA
+- !ruby/object:Course
+  name: Legislation & Regulation
+  credit: '3'
+  coursenum: LAW70318
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '35'
+    max_spots: '50'
+    crn: '25524'
+    instructor: Kelley, William Berg, Leslie
+    time: M W  - 8:15A - 9:30A
+    location: TBA
+- !ruby/object:Course
+  name: Land Use Planning
+  credit: '3'
+  coursenum: LAW70345
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '20'
+    max_spots: '50'
+    crn: '29687'
+    instructor: Kelly, James
+    time: T R  - 8:15A - 9:30A
+    location: TBA
+- !ruby/object:Course
+  name: Biodiversity and the Law
+  credit: '2'
+  coursenum: LAW70348
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '34'
+    max_spots: '50'
+    crn: '29688'
+    instructor: Nagle, John
+    time: T R  - 11:05A - 12:20P
+    location: TBA
+- !ruby/object:Course
+  name: Natural Resources Law
+  credit: '2'
+  coursenum: LAW70350
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '-2'
+    max_spots: '22'
+    crn: '29707'
+    instructor: Huber, Bruce
+    time: W  - 9:00A - 10:40A
+    location: TBA
+- !ruby/object:Course
+  name: Employment Discrimination Law
+  credit: '3'
+  coursenum: LAW70355
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '27'
+    max_spots: '64'
+    crn: '25504'
+    instructor: Fick, Barbara
+    time: T R  - 11:05A - 12:20P
+    location: TBA
+- !ruby/object:Course
+  name: Employee Benefits Law
+  credit: '2'
+  coursenum: LAW70357
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '12'
+    max_spots: '24'
+    crn: '24698'
+    instructor: Nader, Michael Ward, Rebecca
+    time: T  - 5:30P - 7:10P
+    location: TBA
+- !ruby/object:Course
+  name: Federal Criminal Law
+  credit: '3'
+  coursenum: LAW70362
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '25'
+    max_spots: '50'
+    crn: '29689'
+    instructor: Smith, Stephen
+    time: W F  - 2:00P - 3:15P
+    location: TBA
+- !ruby/object:Course
+  name: International Law
+  credit: '3'
+  coursenum: LAW70401
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '60'
+    max_spots: '96'
+    crn: '27021'
+    instructor: Cassel, Douglass
+    time: T R  - 3:25P - 4:40P
+    location: TBA
+- !ruby/object:Course
+  name: International Criminal Law
+  credit: '3'
+  coursenum: LAW70403
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '49'
+    max_spots: '64'
+    crn: '27022'
+    instructor: Gurule, Jimmy Berg, Leslie
+    time: T R  - 8:15A - 9:30A
+    location: TBA
+- !ruby/object:Course
+  name: Int'l & Comp Labor Law
+  credit: '2'
+  coursenum: LAW70405
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '19'
+    max_spots: '22'
+    crn: '29690'
+    instructor: Fick, Barbara
+    time: M  - 2:00P - 3:40P
+    location: TBA
+- !ruby/object:Course
+  name: Human Rights Practice
+  credit: '3'
+  coursenum: LAW70415
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '11'
+    max_spots: '24'
+    crn: '21088'
+    instructor: O'Brien, Sean
+    time: M W  - 9:40A - 10:55A
+    location: TBA
+- !ruby/object:Course
+  name: Restorative Justice
+  credit: '3'
+  coursenum: LAW70430
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '10'
+    crn: '29834'
+    instructor: Pfeil, Margaret Sharpe, Susan
+    time: M W  - 11:45A - 1:00P
+    location: O'Shaughnessy Hall 118
+- !ruby/object:Course
+  name: Law of Terrorism
+  credit: '3'
+  coursenum: LAW70436
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '15'
+    max_spots: '50'
+    crn: '29691'
+    instructor: Gurule, Jimmy
+    time: T R  - 2:00P - 3:15P
+    location: TBA
+- !ruby/object:Course
+  name: Intl Bus Trans
+  credit: '3'
+  coursenum: LAW70437
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '24'
+    max_spots: '64'
+    crn: '24699'
+    instructor: Kalanges, Kristine
+    time: W F  - 2:00P - 3:15P
+    location: TBA
+- !ruby/object:Course
+  name: Transnational Corp HR
+  credit: '3'
+  coursenum: LAW70443
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '51'
+    max_spots: '64'
+    crn: '23819'
+    instructor: Cassel, Douglass
+    time: T R  - 11:05A - 12:20P
+    location: TBA
+- !ruby/object:Course
+  name: Criminal Adjudication
+  credit: '3'
+  coursenum: LAW70451
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '68'
+    max_spots: '96'
+    crn: '27024'
+    instructor: Smith, Stephen
+    time: M F  - 9:40A - 10:55A
+    location: TBA
+- !ruby/object:Course
+  name: ! 'Con Crim Proc:  Investigations'
+  credit: '3'
+  coursenum: LAW70452
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '56'
+    max_spots: '96'
+    crn: '25502'
+    instructor: Bradley, Gerard
+    time: T R  - 3:25P - 4:40P
+    location: TBA
+- !ruby/object:Course
+  name: Post-Conviction Remedies
+  credit: '2'
+  coursenum: LAW70468
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '20'
+    crn: '25507'
+    instructor: McAward, Jennifer
+    time: W  - 2:00P - 3:40P
+    location: TBA
+- !ruby/object:Course
+  name: Trusts & Estates
+  credit: '3'
+  coursenum: LAW70507
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '33'
+    max_spots: '64'
+    crn: '20897'
+    instructor: Shakour, Michelle
+    time: M W  - 8:00A - 9:15A
+    location: TBA
+- !ruby/object:Course
+  name: Federal Tax
+  credit: '4'
+  coursenum: LAW70605
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '66'
+    max_spots: '96'
+    crn: '20797'
+    instructor: Barrett, Matthew
+    time: M T R F  - 2:00P - 2:50P
+    location: TBA
+- !ruby/object:Course
+  name: Taxation of Bus. Enterprises
+  credit: '3'
+  coursenum: LAW70609
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '19'
+    max_spots: '50'
+    crn: '20885'
+    instructor: Mayer, Lloyd
+    time: M W  - 9:40A - 10:55A
+    location: TBA
+- !ruby/object:Course
+  name: Intl Dispute Resolution
+  credit: '2'
+  coursenum: LAW70718
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '-6'
+    max_spots: '15'
+    crn: '29692'
+    instructor: O'Connell, Mary
+    time: T  - 2:00P - 3:40P
+    location: TBA
+- !ruby/object:Course
+  name: Applied Mediation
+  credit: '5'
+  coursenum: LAW70726
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '6'
+    crn: '27026'
+    instructor: Jenuwine, Michael
+    time: T R  - 2:00P - 3:40P
+    location: TBA
+- !ruby/object:Course
+  name: Negotiations
+  credit: '3'
+  coursenum: LAW70727
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '24'
+    crn: '24239'
+    instructor: Fox, Judith
+    time: T R  - 11:05A - 12:20P
+    location: TBA
+- !ruby/object:Course
+  name: Applied Mediation II
+  credit: V
+  coursenum: LAW70728
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '1'
+    max_spots: '8'
+    crn: '25618'
+    instructor: Jenuwine, Michael
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Advanced Criminal Justice Ext
+  credit: '1'
+  coursenum: LAW70729
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '4'
+    crn: '29788'
+    instructor: Wruble, Stanley
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Immigration Externship Instruc
+  credit: '1'
+  coursenum: LAW70730
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '4'
+    crn: '29708'
+    instructor: TBA
+    time: T  - 12:30P - 1:30P
+    location: TBA
+- !ruby/object:Course
+  name: Public Defender Ext Instructio
+  credit: '1'
+  coursenum: LAW70733
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '15'
+    max_spots: '22'
+    crn: '29798'
+    instructor: Bradley, Gerard
+    time: T  - 12:21P - 1:00P
+    location: TBA
+- !ruby/object:Course
+  name: Externship w/Public Defender
+  credit: '1'
+  coursenum: LAW70803
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '13'
+    max_spots: '22'
+    crn: '20814'
+    instructor: Bradley, Gerard
+    time: R  - 12:21P - 1:00P
+    location: TBA
+- !ruby/object:Course
+  name: Professional Responsibility
+  credit: '3'
+  coursenum: LAW70808
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '-4'
+    max_spots: '60'
+    crn: '29693'
+    instructor: Root, Veronica
+    time: T R  - 9:40A - 10:55A
+    location: TBA
+- !ruby/object:Course
+  name: Jurisprudence
+  credit: '3'
+  coursenum: LAW70812
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '51'
+    max_spots: '96'
+    crn: '25495'
+    instructor: Rodes, Robert
+    time: M W  - 6:00P - 7:15P
+    location: TBA
+- !ruby/object:Course
+  name: Jurisprudence
+  credit: '3'
+  coursenum: LAW70813
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '71'
+    max_spots: '96'
+    crn: '29694'
+    instructor: Robinson, John
+    time: M F  - 9:40A - 10:55A
+    location: TBA
+- !ruby/object:Course
+  name: Law & Modern Society
+  credit: '2'
+  coursenum: LAW70828
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '20'
+    max_spots: '22'
+    crn: '29709'
+    instructor: Nolan, James
+    time: M T R F  - 6:00P - 8:10P
+    location: TBA
+- !ruby/object:Course
+  name: Behavioral Analysis of Law
+  credit: '2'
+  coursenum: LAW70902
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '12'
+    max_spots: '22'
+    crn: '29695'
+    instructor: Tor, Avishalom
+    time: R  - 9:00A - 10:40A
+    location: TBA
+- !ruby/object:Course
+  name: Military Law
+  credit: '2'
+  coursenum: LAW70903
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '12'
+    max_spots: '24'
+    crn: '29833'
+    instructor: TBA
+    time: M  - 3:25P - 5:00P
+    location: TBA
+- !ruby/object:Course
+  name: Law & the Entrepreneur
+  credit: '2'
+  coursenum: LAW70905
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '22'
+    crn: '25556'
+    instructor: Hollis, Laura
+    time: T  - 9:15A - 10:55A
+    location: TBA
+- !ruby/object:Course
+  name: Intellectual Property Licensin
+  credit: '3'
+  coursenum: LAW70907
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '7'
+    max_spots: '15'
+    crn: '29773'
+    instructor: Clifford, Joanne
+    time: T R  - 11:05A - 12:20P
+    location: TBA
+- !ruby/object:Course
+  name: Intercollegiate Athl Ext Inst
+  credit: '1'
+  coursenum: LAW70908
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '4'
+    crn: '29797'
+    instructor: Edmonds, Edmund
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Insurance Law
+  credit: '3'
+  coursenum: LAW70910
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '39'
+    max_spots: '50'
+    crn: '29696'
+    instructor: Brinig, Margaret
+    time: M W  - 8:15A - 9:30A
+    location: TBA
+- !ruby/object:Course
+  name: Law of Medical Malpractice
+  credit: '2'
+  coursenum: LAW70911
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '5'
+    max_spots: '30'
+    crn: '25506'
+    instructor: Spalding, D. Andrew Ward, Rebecca
+    time: W  - 5:45P - 7:25P
+    location: TBA
+- !ruby/object:Course
+  name: Animal Law
+  credit: '3'
+  coursenum: LAW70915
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '54'
+    max_spots: '64'
+    crn: '29710'
+    instructor: Jenuwine, Michael
+    time: T R  - 8:15A - 9:30A
+    location: TBA
+- !ruby/object:Course
+  name: Drug & Medical Device Law
+  credit: '2'
+  coursenum: LAW70918
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '15'
+    max_spots: '22'
+    crn: '29790'
+    instructor: TBA
+    time: F  - 9:40A - 11:20A
+    location: TBA
+- !ruby/object:Course
+  name: Antitrust, Tech IP Sem
+  credit: '2'
+  coursenum: LAW73117
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '12'
+    max_spots: '22'
+    crn: '27031'
+    instructor: Tor, Avishalom McGuigan Jones, Deborah
+    time: M  - 2:00P - 3:40P
+    location: TBA
+- !ruby/object:Course
+  name: IP & Global Justice
+  credit: '2'
+  coursenum: LAW73118
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '14'
+    max_spots: '24'
+    crn: '29836'
+    instructor: Opderbeck, David
+    time: R  - 2:00P - 3:40P
+    location: TBA
+- !ruby/object:Course
+  name: Adv Topics Trademark
+  credit: '2'
+  coursenum: LAW73137
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '20'
+    max_spots: '24'
+    crn: '29697'
+    instructor: McKenna, Mark
+    time: W  - 2:00P - 3:40P
+    location: TBA
+- !ruby/object:Course
+  name: Law and Economics Seminar
+  credit: '2'
+  coursenum: LAW73145
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '1'
+    max_spots: '22'
+    crn: '27032'
+    instructor: Kelly, Daniel Brinig, MargaretMcGuigan Jones, Deborah
+    time: M  - 3:25P - 5:05P
+    location: TBA
+- !ruby/object:Course
+  name: Modern Constitutional Theory
+  credit: '2'
+  coursenum: LAW73303
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '15'
+    crn: '29711'
+    instructor: Barrett, Amy
+    time: W  - 2:00P - 3:40P
+    location: TBA
+- !ruby/object:Course
+  name: The Lochner Era Seminar
+  credit: '2'
+  coursenum: LAW73309
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '12'
+    crn: '29698'
+    instructor: Cushman, Barry
+    time: M  - 3:25P - 5:25P
+    location: TBA
+- !ruby/object:Course
+  name: Legal Change Seminar
+  credit: '2'
+  coursenum: LAW73310
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '15'
+    crn: '29712'
+    instructor: Kozel, Randy
+    time: M  - 9:00A - 10:40A
+    location: TBA
+- !ruby/object:Course
+  name: Appellate Advocacy Sem
+  credit: '2'
+  coursenum: LAW73314
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '1'
+    max_spots: '24'
+    crn: '27033'
+    instructor: Smith, Stephen
+    time: M  - 2:00P - 3:40P
+    location: TBA
+- !ruby/object:Course
+  name: Gender Issues & Intl Law
+  credit: '3'
+  coursenum: LAW73320
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '24'
+    crn: '23348'
+    instructor: Venter, Christine
+    time: T R  - 3:25P - 4:40P
+    location: TBA
+- !ruby/object:Course
+  name: Advanced Topics Workplace Law
+  credit: '2'
+  coursenum: LAW73353
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '17'
+    max_spots: '24'
+    crn: '25501'
+    instructor: Fick, Barbara
+    time: M  - 9:40A - 10:55A
+    location: TBA
+- !ruby/object:Course
+  name: Regional HR Protection Sem
+  credit: '3'
+  coursenum: LAW73421
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '9'
+    max_spots: '24'
+    crn: '22739'
+    instructor: Carozza, Paolo
+    time: W F  - 11:05A - 12:20P
+    location: TBA
+- !ruby/object:Course
+  name: Legal/Ethical - Use of Force
+  credit: '2'
+  coursenum: LAW73429
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '12'
+    max_spots: '22'
+    crn: '29713'
+    instructor: TBA
+    time: M T W R F  - 5:15P - 7:35P
+    location: TBA
+- !ruby/object:Course
+  name: Law & Human Dev in Practice
+  credit: '1'
+  coursenum: LAW73430
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '9'
+    max_spots: '9'
+    crn: '26993'
+    instructor: Cervenak, Christine
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Family Law:Selected Topics Sem
+  credit: '2'
+  coursenum: LAW73505
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '1'
+    max_spots: '24'
+    crn: '29714'
+    instructor: Smithburn, John
+    time: T  - 1:40P - 3:20P
+    location: TBA
+- !ruby/object:Course
+  name: ! 'The Chicago Program:  Seminar'
+  credit: '2'
+  coursenum: LAW73760
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '3'
+    max_spots: '6'
+    crn: '29796'
+    instructor: Jones, Robert
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Soc,Pol,Leg Thought-Shakespear
+  credit: '1'
+  coursenum: LAW73807
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '20'
+    crn: '25523'
+    instructor: Finnis, John
+    time: M W F  - 8:00A - 9:30A
+    location: TBA
+- !ruby/object:Course
+  name: Bioethics and The Law Seminar
+  credit: '2'
+  coursenum: LAW73828
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '10'
+    max_spots: '24'
+    crn: '29700'
+    instructor: Snead, Orlando
+    time: T  - 9:00A - 10:40A
+    location: TBA
+- !ruby/object:Course
+  name: Law & Morality-Cont Jurisprudn
+  credit: '2'
+  coursenum: LAW73834
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '19'
+    max_spots: '24'
+    crn: '29705'
+    instructor: Legarre, Santiago Ward, Rebecca
+    time: T W  - 5:15P - 7:25P
+    location: TBA
+- !ruby/object:Course
+  name: Sports Law Seminar
+  credit: '3'
+  coursenum: LAW73907
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '-2'
+    max_spots: '20'
+    crn: '23349'
+    instructor: Edmonds, Edmund
+    time: M W  - 2:00P - 3:15P
+    location: TBA
+- !ruby/object:Course
+  name: Galilee
+  credit: '1'
+  coursenum: LAW75700
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '125'
+    max_spots: '125'
+    crn: '21696'
+    instructor: Jones, Robert
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Trial Advocacy Comprehensive
+  credit: '4'
+  coursenum: LAW75709
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '8'
+    crn: '22241'
+    instructor: Marnocha, John Brook, BarbaraKrull, Gloria
+    time: ! "(1) M  - 6:00P - 9:00P\r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\r\n\t\t\t
+      \  \t\t\r\n\t\t\t   \t  \r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\t(2) R  - 5:15P
+      - 6:45P"
+    location: ! "TBA\r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\r\n\t\t\t\t
+      \  \t\t\t\r\n\t\t\t\t   \t\t\tTBA"
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '0'
+    max_spots: '8'
+    crn: '22242'
+    instructor: Marnocha, John Grimmer, WilliamKrull, Gloria
+    time: ! "(1) M  - 6:00P - 9:00P\r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\r\n\t\t\t
+      \  \t\t\r\n\t\t\t   \t  \r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\t(2) R  - 5:15P
+      - 6:45P"
+    location: ! "TBA\r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\r\n\t\t\t\t
+      \  \t\t\t\r\n\t\t\t\t   \t\t\tTBA"
+  - !ruby/object:Section
+    section_num: '03'
+    open_spots: '0'
+    max_spots: '8'
+    crn: '22243'
+    instructor: Marnocha, John Krull, Gloria
+    time: ! "(1) T  - 6:00P - 9:00P\r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\r\n\t\t\t
+      \  \t\t\r\n\t\t\t   \t  \r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\t(2) R  - 5:15P
+      - 6:45P"
+    location: ! "TBA\r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\r\n\t\t\t\t
+      \  \t\t\t\r\n\t\t\t\t   \t\t\tTBA"
+- !ruby/object:Course
+  name: Intensive Trial Ad
+  credit: '4'
+  coursenum: LAW75710
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '7'
+    max_spots: '48'
+    crn: '27035'
+    instructor: Seckinger, James Conway, John
+    time: T  - 5:30P - 7:00P
+    location: TBA
+- !ruby/object:Course
+  name: Personal Injury Litigation
+  credit: '2'
+  coursenum: LAW75712
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '38'
+    max_spots: '50'
+    crn: '23914'
+    instructor: TBA
+    time: W  - 6:00P - 7:40P
+    location: TBA
+- !ruby/object:Course
+  name: Deposition Skills
+  credit: '3'
+  coursenum: LAW75715
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '10'
+    crn: '21070'
+    instructor: Seckinger, James
+    time: ! "(1) M  - 4:00P - 5:30P\r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\r\n\t\t\t
+      \  \t\t\r\n\t\t\t   \t  \r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\t(2) W  - 3:30P
+      - 5:30P"
+    location: ! "TBA\r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\r\n\t\t\t\t
+      \  \t\t\t\r\n\t\t\t\t   \t\t\tTBA"
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '0'
+    max_spots: '10'
+    crn: '21248'
+    instructor: Seckinger, James
+    time: ! "(1) M  - 4:00P - 5:30P\r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\r\n\t\t\t
+      \  \t\t\r\n\t\t\t   \t  \r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\t(2) W  - 4:00P
+      - 6:00P"
+    location: ! "TBA\r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\r\n\t\t\t\t
+      \  \t\t\t\r\n\t\t\t\t   \t\t\tTBA"
+  - !ruby/object:Section
+    section_num: '03'
+    open_spots: '0'
+    max_spots: '10'
+    crn: '23923'
+    instructor: Seckinger, James
+    time: ! "(1) M  - 4:00P - 5:30P\r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\r\n\t\t\t
+      \  \t\t\r\n\t\t\t   \t  \r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\t(2) W  - 4:00P
+      - 6:00P"
+    location: ! "TBA\r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\r\n\t\t\t\t
+      \  \t\t\t\r\n\t\t\t\t   \t\t\tTBA"
+  - !ruby/object:Section
+    section_num: '04'
+    open_spots: '0'
+    max_spots: '10'
+    crn: '25669'
+    instructor: Seckinger, James
+    time: ! "(1) M  - 4:00P - 5:30P\r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\r\n\t\t\t
+      \  \t\t\r\n\t\t\t   \t  \r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\t(2) W  - 4:00P
+      - 6:00P"
+    location: ! "TBA\r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\r\n\t\t\t\t
+      \  \t\t\t\r\n\t\t\t\t   \t\t\tTBA"
+- !ruby/object:Course
+  name: Economic Justice Clinic I
+  credit: '5'
+  coursenum: LAW75721
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '6'
+    crn: '20881'
+    instructor: Fox, Judith
+    time: T R  - 2:00P - 4:00P
+    location: TBA
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '0'
+    max_spots: '6'
+    crn: '22114'
+    instructor: Kelly, James
+    time: T R  - 2:00P - 4:00P
+    location: TBA
+- !ruby/object:Course
+  name: Mortgage Facilitation
+  credit: V
+  coursenum: LAW75723
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '2'
+    crn: '21180'
+    instructor: Fox, Judith
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '0'
+    max_spots: '2'
+    crn: '22716'
+    instructor: Kelly, James
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '03'
+    open_spots: '0'
+    max_spots: '6'
+    crn: '22717'
+    instructor: Fox, Judith
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: IP  & Enterpreneur Law Cln
+  credit: '5'
+  coursenum: LAW75724
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '6'
+    crn: '26992'
+    instructor: Clifford, Joanne
+    time: T R  - 2:00P - 4:00P
+    location: TBA
+- !ruby/object:Course
+  name: Intellectual Prop Law Clin II
+  credit: V
+  coursenum: LAW75728
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '2'
+    crn: '29701'
+    instructor: Clifford, Joanne
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Advanced Crim Justice Ext - FW
+  credit: '3'
+  coursenum: LAW75729
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '4'
+    crn: '29789'
+    instructor: Wruble, Stanley
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Street Law (co-curricular)
+  credit: '2'
+  coursenum: LAW75732
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '12'
+    crn: '25558'
+    instructor: Robinson, John
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Public Defender Externship
+  credit: '1'
+  coursenum: LAW75733
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '1'
+    max_spots: '23'
+    crn: '20580'
+    instructor: Bradley, Gerard Krull, Gloria
+    time: T  - 12:21P - 1:00P
+    location: TBA
+- !ruby/object:Course
+  name: Immigration Externship
+  credit: '2'
+  coursenum: LAW75734
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '4'
+    crn: '29715'
+    instructor: TBA
+    time: T  - 12:30P - 1:30P
+    location: TBA
+- !ruby/object:Course
+  name: Leg.Extrnshp-Pub.Def-Co-Curric
+  credit: V
+  coursenum: LAW75735
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20104'
+    instructor: Bradley, Gerard Krull, Gloria
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Journal/College/University Law
+  credit: V
+  coursenum: LAW75739
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '29'
+    max_spots: '55'
+    crn: '21299'
+    instructor: Robinson, John
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Jrnl Intl & Comp Law
+  credit: '1'
+  coursenum: LAW75740
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '8'
+    max_spots: '34'
+    crn: '27008'
+    instructor: O'Connell, Mary
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Moot Court Appellate
+  credit: '1'
+  coursenum: LAW75743
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '15'
+    max_spots: '15'
+    crn: '20126'
+    instructor: Venter, Christine Palmer, Robert
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: International Moot Court
+  credit: '1'
+  coursenum: LAW75745
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '14'
+    max_spots: '15'
+    crn: '20822'
+    instructor: Venter, Christine
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Moot Court Trial
+  credit: '2'
+  coursenum: LAW75747
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '15'
+    max_spots: '15'
+    crn: '21412'
+    instructor: Singer, Katherine Williams, Joel
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Law Review
+  credit: V
+  coursenum: LAW75749
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '30'
+    max_spots: '55'
+    crn: '21054'
+    instructor: Bellia, Anthony
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Journal Law/Ethics/Public Pol
+  credit: V
+  coursenum: LAW75751
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '41'
+    max_spots: '55'
+    crn: '21315'
+    instructor: Snead, Orlando
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Journal of Legislation
+  credit: V
+  coursenum: LAW75753
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '22'
+    max_spots: '55'
+    crn: '21384'
+    instructor: Mayer, Lloyd
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: The Chicago Program - Field Pl
+  credit: '8'
+  coursenum: LAW75760
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '3'
+    max_spots: '6'
+    crn: '29799'
+    instructor: Jones, Robert
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Appalachia Externship
+  credit: '1'
+  coursenum: LAW75800
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '6'
+    crn: '24718'
+    instructor: Jones, Robert Toms Smedley, CynthiaHamilton, Anne
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Intercollegiate Athletics Ext
+  credit: '2'
+  coursenum: LAW75908
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '4'
+    crn: '25496'
+    instructor: Edmonds, Edmund
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Directed Readings
+  credit: V
+  coursenum: LAW76101
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '21826'
+    instructor: Cassel, Douglass
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '03'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20198'
+    instructor: Barrett, Amy
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '04'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20989'
+    instructor: Bauer, Joseph
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '05'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '20664'
+    instructor: Fox, Judith
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '06'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20562'
+    instructor: Bradley, Gerard
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '07'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '21685'
+    instructor: Carozza, Paolo
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: 08
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20313'
+    instructor: Kalanges, Kristine
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: 09
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20132'
+    instructor: Jones, Robert
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '10'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '21364'
+    instructor: Garnett, Nicole
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '11'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20053'
+    instructor: Fick, Barbara
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '12'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20379'
+    instructor: Garnett, Richard
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '13'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20474'
+    instructor: Brinig, Margaret
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '14'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20498'
+    instructor: Pojanowski, Jeffrey
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '15'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20390'
+    instructor: Velasco, Julian
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '16'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '21430'
+    instructor: Edmonds, Edmund
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '17'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20979'
+    instructor: Nagle, John
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '18'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '21170'
+    instructor: Barrett, Matthew
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '19'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '21474'
+    instructor: Huber, Bruce
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '20'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '21506'
+    instructor: Mayer, Lloyd
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '21'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20576'
+    instructor: Kirsch, Michael
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '22'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20415'
+    instructor: O'Connell, Mary
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '23'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20449'
+    instructor: Cushman, Barry
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '24'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20484'
+    instructor: Snead, Orlando
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '25'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '21496'
+    instructor: Gurule, Jimmy
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '26'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20923'
+    instructor: Kaveny, M. Cathleen
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '27'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20660'
+    instructor: McAward, Jennifer
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '28'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '21491'
+    instructor: Jenuwine, Michael
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '29'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20225'
+    instructor: Hull, Lowell
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '30'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '21523'
+    instructor: Kelly, Daniel
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '31'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '21792'
+    instructor: Rodes, Robert
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '32'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20050'
+    instructor: Robinson, John
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '33'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20531'
+    instructor: Bellia, Anthony
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '34'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20625'
+    instructor: Bellia, Patricia
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '35'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20706'
+    instructor: Seckinger, James
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '36'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20684'
+    instructor: Tor, Avishalom
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '37'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20066'
+    instructor: Smith, Stephen
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '38'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '21765'
+    instructor: Smithburn, John
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '39'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '21082'
+    instructor: Tidmarsh, Jay
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '40'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20006'
+    instructor: Venter, Christine
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '41'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20595'
+    instructor: Baker, Colleen
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '42'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '21449'
+    instructor: Kelley, William
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '43'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '21171'
+    instructor: McKenna, Mark
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '44'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20524'
+    instructor: Kozel, Randy
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '45'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '21661'
+    instructor: O'Hara, Patricia
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '46'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '27037'
+    instructor: Alford, Roger
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '47'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '27105'
+    instructor: Clifford, Joanne
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Directed Readings
+  credit: V
+  coursenum: LAW76103
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20692'
+    instructor: Pojanowski, Jeffrey
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '21125'
+    instructor: Bauer, Joseph
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '03'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '21229'
+    instructor: Barrett, Amy
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '04'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '21386'
+    instructor: Blakey, G. Robert
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '05'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '21677'
+    instructor: Jones, Robert
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '06'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '21193'
+    instructor: Bradley, Gerard
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '07'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20995'
+    instructor: O'Hara, Patricia
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: 08
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20076'
+    instructor: Kalanges, Kristine
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: 09
+    open_spots: '10'
+    max_spots: '10'
+    crn: '21169'
+    instructor: Brinig, Margaret
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '10'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20796'
+    instructor: Garnett, Nicole
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '11'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20252'
+    instructor: Fick, Barbara
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '12'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '21351'
+    instructor: Garnett, Richard
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '13'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '21483'
+    instructor: McAward, Jennifer
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '14'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20292'
+    instructor: Carozza, Paolo
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '15'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '21222'
+    instructor: Velasco, Julian
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '16'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '21001'
+    instructor: Nagle, John
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '17'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '21459'
+    instructor: Barrett, Matthew
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '18'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20462'
+    instructor: Cushman, Barry
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '19'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20106'
+    instructor: Cassel, Douglass
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '20'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '21578'
+    instructor: Kelly, Daniel
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '21'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20212'
+    instructor: Kirsch, Michael
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '22'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20413'
+    instructor: Mayer, Lloyd
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '23'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20220'
+    instructor: Gurule, Jimmy
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '24'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '21203'
+    instructor: O'Connell, Mary
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '25'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '21607'
+    instructor: Fox, Judith
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '26'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '21876'
+    instructor: Kaveny, M. Cathleen
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '27'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '21420'
+    instructor: Snead, Orlando
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '28'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '21591'
+    instructor: Edmonds, Edmund
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '29'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20729'
+    instructor: Kelley, William
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '30'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20469'
+    instructor: Alford, Roger
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '31'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20693'
+    instructor: Rodes, Robert
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '32'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20816'
+    instructor: Robinson, John
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '33'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20456'
+    instructor: Bellia, Anthony
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '34'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20424'
+    instructor: Bellia, Patricia
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '35'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20442'
+    instructor: Seckinger, James
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '36'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20116'
+    instructor: McKenna, Mark
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '37'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '21753'
+    instructor: Smith, Stephen
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '38'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '21172'
+    instructor: Smithburn, John
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '39'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '21274'
+    instructor: Tidmarsh, Jay
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '40'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '21807'
+    instructor: Rees, Warren
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '41'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20614'
+    instructor: Venter, Christine
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '42'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '21787'
+    instructor: Baker, Colleen
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '43'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20197'
+    instructor: Pojanowski, Jeffrey
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '44'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '21825'
+    instructor: Kozel, Randy
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '45'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20891'
+    instructor: Huber, Bruce
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: JSD Seminar
+  credit: '1'
+  coursenum: LAW83429
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '27038'
+    instructor: Carozza, Paolo
+    time: F  - 2:00P - 3:00P
+    location: TBA
+- !ruby/object:Course
+  name: LL.M.Thesis
+  credit: V
+  coursenum: LAW88700
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '15'
+    max_spots: '19'
+    crn: '20185'
+    instructor: Cassel, Douglass
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Human Rights Honors Paper
+  credit: '1'
+  coursenum: LAW88701
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '19'
+    max_spots: '19'
+    crn: '21856'
+    instructor: Cassel, Douglass
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: JSD Dissertation
+  credit: V
+  coursenum: LAW88703
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '21427'
+    instructor: Carozza, Paolo
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Nonresident Dissertation Rsrch
+  credit: V
+  coursenum: LAW88705
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '21007'
+    instructor: Carozza, Paolo
+    time: TBA
+    location: TBA
+p'
+  :instructor: Tor, Avishalom
+  :when: TBA
+  :begin: 01/14/2013
+  :end: 04/30/2013
+  :location: TBA
+- :course: LAW76101
+  :section: '37'
+  :title: Directed Readings
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '20066'
+  :syl: ! '&nbsp'
+  :instructor: Smith, Stephen
+  :when: TBA
+  :begin: 01/14/2013
+  :end: 04/30/2013
+  :location: TBA
+- :course: LAW76101
+  :section: '38'
+  :title: Directed Readings
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '21765'
+  :syl: ! '&nbsp'
+  :instructor: Smithburn, John
+  :when: TBA
+  :begin: 01/14/2013
+  :end: 04/30/2013
+  :location: TBA
+- :course: LAW76101
+  :section: '39'
+  :title: Directed Readings
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '21082'
+  :syl: ! '&nbsp'
+  :instructor: Tidmarsh, Jay
+  :when: TBA
+  :begin: 01/14/2013
+  :end: 04/30/2013
+  :location: TBA
+- :course: LAW76101
+  :section: '40'
+  :title: Directed Readings
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '20006'
+  :syl: ! '&nbsp'
+  :instructor: Venter, Christine
+  :when: TBA
+  :begin: 01/14/2013
+  :end: 04/30/2013
+  :location: TBA
+- :course: LAW76101
+  :section: '41'
+  :title: Directed Readings
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '20595'
+  :syl: ! '&nbsp'
+  :instructor: Baker, Colleen
+  :when: TBA
+  :begin: 01/14/2013
+  :end: 04/30/2013
+  :location: TBA
+- :course: LAW76101
+  :section: '42'
+  :title: Directed Readings
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '21449'
+  :syl: ! '&nbsp'
+  :instructor: Kelley, William
+  :when: TBA
+  :begin: 01/14/2013
+  :end: 04/30/2013
+  :location: TBA
+- :course: LAW76101
+  :section: '43'
+  :title: Directed Readings
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '21171'
+  :syl: ! '&nbsp'
+  :instructor: McKenna, Mark
+  :when: TBA
+  :begin: 01/14/2013
+  :end: 04/30/2013
+  :location: TBA
+- :course: LAW76101
+  :section: '44'
+  :title: Directed Readings
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '20524'
+  :syl: ! '&nbsp'
+  :instructor: Kozel, Randy
+  :when: TBA
+  :begin: 01/14/2013
+  :end: 04/30/2013
+  :location: TBA
+- :course: LAW76101
+  :section: '45'
+  :title: Directed Readings
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '21661'
+  :syl: ! '&nbsp'
+  :instructor: O'Hara, Patricia
+  :when: TBA
+  :begin: 01/14/2013
+  :end: 04/30/2013
+  :location: TBA
+- :course: LAW76101
+  :section: '46'
+  :title: Directed Readings
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '27037'
+  :syl: ! '&nbsp'
+  :instructor: Alford, Roger
+  :when: TBA
+  :begin: 01/14/2013
+  :end: 04/30/2013
+  :location: TBA
+- :course: LAW76101
+  :section: '47'
+  :title: Directed Readings
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '27105'
+  :syl: ! '&nbsp'
+  :instructor: Clifford, Joanne
+  :when: TBA
+  :begin: 01/14/2013
+  :end: 04/30/2013
+  :location: TBA
+- :course: LAW76103
+  :section: '01'
+  :title: Directed Readings
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '20692'
+  :syl: ! '&nbsp'
+  :instructor: Pojanowski, Jeffrey
+  :when: TBA
+  :begin: 01/14/2013
+  :end: 04/30/2013
+  :location: TBA
+- :course: LAW76103
+  :section: '02'
+  :title: Directed Readings
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '21125'
+  :syl: ! '&nbsp'
+  :instructor: Bauer, Joseph
+  :when: TBA
+  :begin: 01/14/2013
+  :end: 04/30/2013
+  :location: TBA
+- :course: LAW76103
+  :section: '03'
+  :title: Directed Readings
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '21229'
+  :syl: ! '&nbsp'
+  :instructor: Barrett, Amy
+  :when: TBA
+  :begin: 01/14/2013
+  :end: 04/30/2013
+  :location: TBA
+- :course: LAW76103
+  :section: '04'
+  :title: Directed Readings
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '21386'
+  :syl: ! '&nbsp'
+  :instructor: Blakey, G. Robert
+  :when: TBA
+  :begin: 01/14/2013
+  :end: 04/30/2013
+  :location: TBA
+- :course: LAW76103
+  :section: '05'
+  :title: Directed Readings
+  :credits: V
+  :status: OP
+  :max_spots: '5'
+  :open_spots: '5'
+  :xlst: ! '&nbsp'
+  :crn: '21677'
+  :syl: ! '&nbsp'
+  :instructor: Jones, Robert
+  :when: TBA
+  :begin: 01/14/2013
+  :end: 04/30/2013
+  :location: TBA
+- :course: LAW76103
+  :section: '06'
+  :title: Directed Readings
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '21193'
+  :syl: ! '&nbsp'
+  :instructor: Bradley, Gerard
+  :when: TBA
+  :begin: 01/14/2013
+  :end: 04/30/2013
+  :location: TBA
+- :course: LAW76103
+  :section: '07'
+  :title: Directed Readings
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '20995'
+  :syl: ! '&nbsp'
+  :instructor: O'Hara, Patricia
+  :when: TBA
+  :begin: 01/14/2013
+  :end: 04/30/2013
+  :location: TBA
+- :course: LAW76103
+  :section: 08
+  :title: Directed Readings
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '20076'
+  :syl: ! '&nbsp'
+  :instructor: Kalanges, Kristine
+  :when: TBA
+  :begin: 01/14/2013
+  :end: 04/30/2013
+  :location: TBA
+- :course: LAW76103
+  :section: 09
+  :title: Directed Readings
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '21169'
+  :syl: ! '&nbsp'
+  :instructor: Brinig, Margaret
+  :when: TBA
+  :begin: 01/14/2013
+  :end: 04/30/2013
+  :location: TBA
+- :course: LAW76103
+  :section: '10'
+  :title: Directed Readings
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '20796'
+  :syl: ! '&nbsp'
+  :instructor: Garnett, Nicole
+  :when: TBA
+  :begin: 01/14/2013
+  :end: 04/30/2013
+  :location: TBA
+- :course: LAW76103
+  :section: '11'
+  :title: Directed Readings
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '20252'
+  :syl: ! '&nbsp'
+  :instructor: Fick, Barbara
+  :when: TBA
+  :begin: 01/14/2013
+  :end: 04/30/2013
+  :location: TBA
+- :course: LAW76103
+  :section: '12'
+  :title: Directed Readings
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '21351'
+  :syl: ! '&nbsp'
+  :instructor: Garnett, Richard
+  :when: TBA
+  :begin: 01/14/2013
+  :end: 04/30/2013
+  :location: TBA
+- :course: LAW76103
+  :section: '13'
+  :title: Directed Readings
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '21483'
+  :syl: ! '&nbsp'
+  :instructor: McAward, Jennifer
+  :when: TBA
+  :begin: 01/14/2013
+  :end: 04/30/2013
+  :location: TBA
+- :course: LAW76103
+  :section: '14'
+  :title: Directed Readings
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '20292'
+  :syl: ! '&nbsp'
+  :instructor: Carozza, Paolo
+  :when: TBA
+  :begin: 01/14/2013
+  :end: 04/30/2013
+  :location: TBA
+- :course: LAW76103
+  :section: '15'
+  :title: Directed Readings
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '21222'
+  :syl: ! '&nbsp'
+  :instructor: Velasco, Julian
+  :when: TBA
+  :begin: 01/14/2013
+  :end: 04/30/2013
+  :location: TBA
+- :course: LAW76103
+  :section: '16'
+  :title: Directed Readings
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '21001'
+  :syl: ! '&nbsp'
+  :instructor: Nagle, John
+  :when: TBA
+  :begin: 01/14/2013
+  :end: 04/30/2013
+  :location: TBA
+- :course: LAW76103
+  :section: '17'
+  :title: Directed Readings
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '21459'
+  :syl: ! '&nbsp'
+  :instructor: Barrett, Matthew
+  :when: TBA
+  :begin: 01/14/2013
+  :end: 04/30/2013
+  :location: TBA
+- :course: LAW76103
+  :section: '18'
+  :title: Directed Readings
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '20462'
+  :syl: ! '&nbsp'
+  :instructor: Cushman, Barry
+  :when: TBA
+  :begin: 01/14/2013
+  :end: 04/30/2013
+  :location: TBA
+- :course: LAW76103
+  :section: '19'
+  :title: Directed Readings
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '20106'
+  :syl: ! '&nbsp'
+  :instructor: Cassel, Douglass
+  :when: TBA
+  :begin: 01/14/2013
+  :end: 04/30/2013
+  :location: TBA
+- :course: LAW76103
+  :section: '20'
+  :title: Directed Readings
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '21578'
+  :syl: ! '&nbsp'
+  :instructor: Kelly, Daniel
+  :when: TBA
+  :begin: 01/14/2013
+  :end: 04/30/2013
+  :location: TBA
+- :course: LAW76103
+  :section: '21'
+  :title: Directed Readings
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '20212'
+  :syl: ! '&nbsp'
+  :instructor: Kirsch, Michael
+  :when: TBA
+  :begin: 01/14/2013
+  :end: 04/30/2013
+  :location: TBA
+- :course: LAW76103
+  :section: '22'
+  :title: Directed Readings
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '20413'
+  :syl: ! '&nbsp'
+  :instructor: Mayer, Lloyd
+  :when: TBA
+  :begin: 01/14/2013
+  :end: 04/30/2013
+  :location: TBA
+- :course: LAW76103
+  :section: '23'
+  :title: Directed Readings
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '20220'
+  :syl: ! '&nbsp'
+  :instructor: Gurule, Jimmy
+  :when: TBA
+  :begin: 01/14/2013
+  :end: 04/30/2013
+  :location: TBA
+- :course: LAW76103
+  :section: '24'
+  :title: Directed Readings
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '21203'
+  :syl: ! '&nbsp'
+  :instructor: O'Connell, Mary
+  :when: TBA
+  :begin: 01/14/2013
+  :end: 04/30/2013
+  :location: TBA
+- :course: LAW76103
+  :section: '25'
+  :title: Directed Readings
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '21607'
+  :syl: ! '&nbsp'
+  :instructor: Fox, Judith
+  :when: TBA
+  :begin: 01/14/2013
+  :end: 04/30/2013
+  :location: TBA
+- :course: LAW76103
+  :section: '26'
+  :title: Directed Readings
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '21876'
+  :syl: ! '&nbsp'
+  :instructor: Kaveny, M. Cathleen
+  :when: TBA
+  :begin: 01/14/2013
+  :end: 04/30/2013
+  :location: TBA
+- :course: LAW76103
+  :section: '27'
+  :title: Directed Readings
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '21420'
+  :syl: ! '&nbsp'
+  :instructor: Snead, Orlando
+  :when: TBA
+  :begin: 01/14/2013
+  :end: 04/30/2013
+  :location: TBA
+- :course: LAW76103
+  :section: '28'
+  :title: Directed Readings
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '21591'
+  :syl: ! '&nbsp'
+  :instructor: Edmonds, Edmund
+  :when: TBA
+  :begin: 01/14/2013
+  :end: 04/30/2013
+  :location: TBA
+- :course: LAW76103
+  :section: '29'
+  :title: Directed Readings
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '20729'
+  :syl: ! '&nbsp'
+  :instructor: Kelley, William
+  :when: TBA
+  :begin: 01/14/2013
+  :end: 04/30/2013
+  :location: TBA
+- :course: LAW76103
+  :section: '30'
+  :title: Directed Readings
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '20469'
+  :syl: ! '&nbsp'
+  :instructor: Alford, Roger
+  :when: TBA
+  :begin: 01/14/2013
+  :end: 04/30/2013
+  :location: TBA
+- :course: LAW76103
+  :section: '31'
+  :title: Directed Readings
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '20693'
+  :syl: ! '&nbsp'
+  :instructor: Rodes, Robert
+  :when: TBA
+  :begin: 01/14/2013
+  :end: 04/30/2013
+  :location: TBA
+- :course: LAW76103
+  :section: '32'
+  :title: Directed Readings
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '20816'
+  :syl: ! '&nbsp'
+  :instructor: Robinson, John
+  :when: TBA
+  :begin: 01/14/2013
+  :end: 04/30/2013
+  :location: TBA
+- :course: LAW76103
+  :section: '33'
+  :title: Directed Readings
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '20456'
+  :syl: ! '&nbsp'
+  :instructor: Bellia, Anthony
+  :when: TBA
+  :begin: 01/14/2013
+  :end: 04/30/2013
+  :location: TBA
+- :course: LAW76103
+  :section: '34'
+  :title: Directed Readings
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '20424'
+  :syl: ! '&nbsp'
+  :instructor: Bellia, Patricia
+  :when: TBA
+  :begin: 01/14/2013
+  :end: 04/30/2013
+  :location: TBA
+- :course: LAW76103
+  :section: '35'
+  :title: Directed Readings
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '20442'
+  :syl: ! '&nbsp'
+  :instructor: Seckinger, James
+  :when: TBA
+  :begin: 01/14/2013
+  :end: 04/30/2013
+  :location: TBA
+- :course: LAW76103
+  :section: '36'
+  :title: Directed Readings
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '20116'
+  :syl: ! '&nbsp'
+  :instructor: McKenna, Mark
+  :when: TBA
+  :begin: 01/14/2013
+  :end: 04/30/2013
+  :location: TBA
+- :course: LAW76103
+  :section: '37'
+  :title: Directed Readings
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '21753'
+  :syl: ! '&nbsp'
+  :instructor: Smith, Stephen
+  :when: TBA
+  :begin: 01/14/2013
+  :end: 04/30/2013
+  :location: TBA
+- :course: LAW76103
+  :section: '38'
+  :title: Directed Readings
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '21172'
+  :syl: ! '&nbsp'
+  :instructor: Smithburn, John
+  :when: TBA
+  :begin: 01/14/2013
+  :end: 04/30/2013
+  :location: TBA
+- :course: LAW76103
+  :section: '39'
+  :title: Directed Readings
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '21274'
+  :syl: ! '&nbsp'
+  :instructor: Tidmarsh, Jay
+  :when: TBA
+  :begin: 01/14/2013
+  :end: 04/30/2013
+  :location: TBA
+- :course: LAW76103
+  :section: '40'
+  :title: Directed Readings
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '21807'
+  :syl: ! '&nbsp'
+  :instructor: Rees, Warren
+  :when: TBA
+  :begin: 01/14/2013
+  :end: 04/30/2013
+  :location: TBA
+- :course: LAW76103
+  :section: '41'
+  :title: Directed Readings
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '20614'
+  :syl: ! '&nbsp'
+  :instructor: Venter, Christine
+  :when: TBA
+  :begin: 01/14/2013
+  :end: 04/30/2013
+  :location: TBA
+- :course: LAW76103
+  :section: '42'
+  :title: Directed Readings
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '21787'
+  :syl: ! '&nbsp'
+  :instructor: Baker, Colleen
+  :when: TBA
+  :begin: 01/14/2013
+  :end: 04/30/2013
+  :location: TBA
+- :course: LAW76103
+  :section: '43'
+  :title: Directed Readings
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '20197'
+  :syl: ! '&nbsp'
+  :instructor: Pojanowski, Jeffrey
+  :when: TBA
+  :begin: 01/14/2013
+  :end: 04/30/2013
+  :location: TBA
+- :course: LAW76103
+  :section: '44'
+  :title: Directed Readings
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '21825'
+  :syl: ! '&nbsp'
+  :instructor: Kozel, Randy
+  :when: TBA
+  :begin: 01/14/2013
+  :end: 04/30/2013
+  :location: TBA
+- :course: LAW76103
+  :section: '45'
+  :title: Directed Readings
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '20891'
+  :syl: ! '&nbsp'
+  :instructor: Huber, Bruce
+  :when: TBA
+  :begin: 01/14/2013
+  :end: 04/30/2013
+  :location: TBA
+- :course: LAW83429
+  :section: '01'
+  :title: JSD Seminar
+  :credits: '1'
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '27038'
+  :syl: ! '&nbsp'
+  :instructor: Carozza, Paolo
+  :when: F  - 2:00P - 3:00P
+  :begin: 01/14/2013
+  :end: 04/30/2013
+  :location: TBA
+- :course: LAW88700
+  :section: '01'
+  :title: LL.M.Thesis
+  :credits: V
+  :status: OP
+  :max_spots: '19'
+  :open_spots: '16'
+  :xlst: ! '&nbsp'
+  :crn: '20185'
+  :syl: ! '&nbsp'
+  :instructor: Cassel, Douglass
+  :when: TBA
+  :begin: 01/14/2013
+  :end: 04/30/2013
+  :location: TBA
+- :course: LAW88701
+  :section: '01'
+  :title: Human Rights Honors Paper
+  :credits: '1'
+  :status: OP
+  :max_spots: '19'
+  :open_spots: '19'
+  :xlst: ! '&nbsp'
+  :crn: '21856'
+  :syl: ! '&nbsp'
+  :instructor: Cassel, Douglass
+  :when: TBA
+  :begin: 01/14/2013
+  :end: 04/30/2013
+  :location: TBA
+- :course: LAW88703
+  :section: '01'
+  :title: JSD Dissertation
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '21427'
+  :syl: ! '&nbsp'
+  :instructor: Carozza, Paolo
+  :when: TBA
+  :begin: 01/14/2013
+  :end: 04/30/2013
+  :location: TBA
+- :course: LAW88705
+  :section: '01'
+  :title: Nonresident Dissertation Rsrch
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '21007'
+  :syl: ! '&nbsp'
+  :instructor: Carozza, Paolo
+  :when: TBA
+  :begin: 01/14/2013
+  :end: 04/30/2013
+  :location: TBA

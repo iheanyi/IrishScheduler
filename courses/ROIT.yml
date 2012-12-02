@@ -1,0 +1,655 @@
+---
+- !ruby/object:Course
+  name: Beginning Italian I
+  credit: '4'
+  coursenum: ROIT10101
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '6'
+    max_spots: '19'
+    crn: '25016'
+    instructor: Rabaioli, Martino
+    time: ! "(1) M W F  - 9:35A - 10:25A\r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\r\n\t\t\t
+      \  \t\t\r\n\t\t\t   \t  \r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\t(2) T  - 11:00A
+      - 12:15P"
+    location: ! "O'Shaughnessy Hall 109 \r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\t\r\n\t\t\t\t
+      \  \t\r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\tO'Shaughnessy Hall 207"
+- !ruby/object:Course
+  name: Beginning Italian II
+  credit: '4'
+  coursenum: ROIT10102
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '5'
+    max_spots: '19'
+    crn: '21224'
+    instructor: Cotton, James
+    time: ! "(1) M W F  - 9:35A - 10:25A\r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\r\n\t\t\t
+      \  \t\t\r\n\t\t\t   \t  \r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\t(2) T  - 9:30A
+      - 10:45A"
+    location: ! "O'Shaughnessy Hall 106 \r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\t\r\n\t\t\t\t
+      \  \t\r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\tO'Shaughnessy Hall 204A"
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '4'
+    max_spots: '19'
+    crn: '20671'
+    instructor: Stamile, Susanna
+    time: ! "(1) M W F  - 10:40A - 11:30A\r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\r\n\t\t\t
+      \  \t\t\r\n\t\t\t   \t  \r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\t(2) T  - 11:00A
+      - 12:15P"
+    location: ! "O'Shaughnessy Hall 109 \r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\t\r\n\t\t\t\t
+      \  \t\r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\tEdward J. DeBartolo Hall 304"
+  - !ruby/object:Section
+    section_num: '03'
+    open_spots: '5'
+    max_spots: '19'
+    crn: '20374'
+    instructor: Lenzi-Sandusky, Giovanna
+    time: ! "(1) M W F  - 12:50P - 1:40P\r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\r\n\t\t\t
+      \  \t\t\r\n\t\t\t   \t  \r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\t(2) R  - 9:30A
+      - 10:45A"
+    location: ! "Edward J. DeBartolo Hall 306 \r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\t\r\n\t\t\t\t
+      \  \t\r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\tEdward J. DeBartolo Hall 241"
+  - !ruby/object:Section
+    section_num: '04'
+    open_spots: '8'
+    max_spots: '19'
+    crn: '22047'
+    instructor: Giunta, Patricia
+    time: ! "(1) M W F  - 11:45A - 12:35P\r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\r\n\t\t\t
+      \  \t\t\r\n\t\t\t   \t  \r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\t(2) R  - 11:00A
+      - 12:15P"
+    location: ! "Edward J. DeBartolo Hall 306 \r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\t\r\n\t\t\t\t
+      \  \t\r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\tEdward J. DeBartolo Hall 241"
+- !ruby/object:Course
+  name: Beg Italian for Architects II
+  credit: '3'
+  coursenum: ROIT10106
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '9'
+    max_spots: '19'
+    crn: '20466'
+    instructor: Lenzi-Sandusky, Giovanna
+    time: M W F  - 9:35A - 10:25A
+    location: Edward J. DeBartolo Hall 306
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '0'
+    max_spots: '19'
+    crn: '20616'
+    instructor: Lenzi-Sandusky, Giovanna
+    time: M W F  - 10:40A - 11:30A
+    location: Edward J. DeBartolo Hall 306
+- !ruby/object:Course
+  name: Intensive Beginning Italian
+  credit: '6'
+  coursenum: ROIT10115
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '9'
+    max_spots: '15'
+    crn: '22611'
+    instructor: Vivirito, Patrick Keyes, Patricia
+    time: ! "(1) M W F  - 9:35A - 10:25A\r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\r\n\t\t\t
+      \  \t\t\r\n\t\t\t   \t  \r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\t(2) T R  -
+      9:30A - 10:45A"
+    location: ! "O'Shaughnessy Hall 208 \r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\t\r\n\t\t\t\t
+      \  \t\r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\tEdward J. DeBartolo Hall 302"
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '0'
+    max_spots: '15'
+    crn: '26251'
+    instructor: Vivirito, Patrick Keyes, Patricia
+    time: ! "(1) M W F  - 10:40A - 11:30A\r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\r\n\t\t\t
+      \  \t\t\r\n\t\t\t   \t  \r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\t(2) T R  -
+      11:00A - 12:15P"
+    location: ! "O'Shaughnessy Hall 208 \r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\t\r\n\t\t\t\t
+      \  \t\r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\tEdward J. DeBartolo Hall 302"
+- !ruby/object:Course
+  name: Intermediate Italian I
+  credit: '3'
+  coursenum: ROIT20201
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '6'
+    max_spots: '19'
+    crn: '24591'
+    instructor: Keyes, Patricia
+    time: M W F  - 9:35A - 10:25A
+    location: Edward J. DeBartolo Hall 246
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '3'
+    max_spots: '19'
+    crn: '24593'
+    instructor: Keyes, Patricia
+    time: M W F  - 12:50P - 1:40P
+    location: Edward J. DeBartolo Hall 204
+- !ruby/object:Course
+  name: Intensive Intermediate Italian
+  credit: '6'
+  coursenum: ROIT20215
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '10'
+    max_spots: '15'
+    crn: '23288'
+    instructor: Blad, Alessia Vivirito, Patrick
+    time: ! "(1) M W F  - 10:40A - 11:30A\r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\r\n\t\t\t
+      \  \t\t\r\n\t\t\t   \t  \r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\t(2) T R  -
+      11:00A - 12:15P"
+    location: ! "Edward J. DeBartolo Hall 241 \r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\t\r\n\t\t\t\t
+      \  \t\r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\tEdward J. DeBartolo Hall 202"
+- !ruby/object:Course
+  name: Let's Talk Italian
+  credit: '1'
+  coursenum: ROIT20300
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '11'
+    max_spots: '19'
+    crn: '26562'
+    instructor: Lenzi-Sandusky, Giovanna
+    time: R  - 3:00P - 4:00P
+    location: Edward J. DeBartolo Hall 303
+- !ruby/object:Course
+  name: Pre-Study Abroad
+  credit: '1'
+  coursenum: ROIT21205
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '21'
+    max_spots: '30'
+    crn: '23289'
+    instructor: Blad, Alessia
+    time: W  - 4:30P - 5:45P
+    location: O'Shaughnessy Hall 201
+- !ruby/object:Course
+  name: LAC Italian Discussion Group
+  credit: '1'
+  coursenum: ROIT22300
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '23595'
+    instructor: TBA
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Intermediate Italian II
+  credit: '3'
+  coursenum: ROIT27500
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '4'
+    max_spots: '19'
+    crn: '22305'
+    instructor: Blad, Alessia
+    time: M W F  - 9:35A - 10:25A
+    location: Edward J. DeBartolo Hall 241
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '0'
+    max_spots: '19'
+    crn: '22306'
+    instructor: Vivirito, Patrick
+    time: M W F  - 11:45A - 12:35P
+    location: O'Shaughnessy Hall 345
+- !ruby/object:Course
+  name: Italian Renaissance
+  credit: '3'
+  coursenum: ROIT30205
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '3'
+    crn: '29366'
+    instructor: Meserve, Margaret
+    time: M W  - 10:40A - 11:30A
+    location: Geddes Hall B036
+- !ruby/object:Course
+  name: Let's Talk Italian Advanced
+  credit: '1'
+  coursenum: ROIT30300
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '17'
+    max_spots: '25'
+    crn: '29367'
+    instructor: Moevs, Christian
+    time: R  - 3:30P - 4:45P
+    location: Edward J. DeBartolo Hall 245
+- !ruby/object:Course
+  name: Passage to Italy
+  credit: '3'
+  coursenum: ROIT30310
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '13'
+    max_spots: '25'
+    crn: '22307'
+    instructor: Cachey, Theodore
+    time: M W  - 1:30P - 2:45P
+    location: Edward J. DeBartolo Hall 232
+- !ruby/object:Course
+  name: Modern Italian Lit and Culture
+  credit: '3'
+  coursenum: ROIT30721
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '7'
+    max_spots: '19'
+    crn: '23092'
+    instructor: Welle, John
+    time: M W  - 11:45A - 1:00P
+    location: Edward J. DeBartolo Hall 349
+- !ruby/object:Course
+  name: LAC Italian Discussion Group
+  credit: '1'
+  coursenum: ROIT32300
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '23596'
+    instructor: TBA
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Dante II
+  credit: '3'
+  coursenum: ROIT40116
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '20'
+    crn: '21990'
+    instructor: Moevs, Christian
+    time: T R  - 2:00P - 3:15P
+    location: O'Shaughnessy Hall 201
+- !ruby/object:Course
+  name: ! 'Italian Cin: Realities of Hist'
+  credit: '3'
+  coursenum: ROIT40548
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '6'
+    crn: '26253'
+    instructor: Baranski, Zygmunt
+    time: T R  - 12:30P - 1:45P
+    location: O'Shaughnessy Hall 208
+- !ruby/object:Course
+  name: Dante II LAC  Discussion Group
+  credit: '1'
+  coursenum: ROIT42116
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '12'
+    max_spots: '12'
+    crn: '23093'
+    instructor: TBA
+    time: M  - 5:00P - 6:00P
+    location: Haggar Hall B015
+- !ruby/object:Course
+  name: Special Studies
+  credit: '3'
+  coursenum: ROIT47000
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '22175'
+    instructor: TBA
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Italian Seminar
+  credit: '3'
+  coursenum: ROIT53000
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '9'
+    max_spots: '18'
+    crn: '23597'
+    instructor: Moevs, Christian
+    time: T R  - 11:00A - 12:15P
+    location: Edward J. DeBartolo Hall 349
+- !ruby/object:Course
+  name: Honors Thesis
+  credit: V
+  coursenum: ROIT58000
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '23977'
+    instructor: TBA
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Intro to Advcd Stds Italian
+  credit: '1.5'
+  coursenum: ROIT63011
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '9'
+    max_spots: '12'
+    crn: '29869'
+    instructor: Cachey, Theodore Baranski, ZygmuntMoevs, ChristianWelle, John
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Dante's World of Books
+  credit: '3'
+  coursenum: ROIT63113
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '2'
+    max_spots: '6'
+    crn: '29368'
+    instructor: Baranski, Zygmunt
+    time: T  - 2:00P - 5:00P
+    location: Hayes Healy Center 129
+- !ruby/object:Course
+  name: Dante II
+  credit: '3'
+  coursenum: ROIT63116
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '1'
+    max_spots: '1'
+    crn: '22194'
+    instructor: Moevs, Christian
+    time: T R  - 2:00P - 3:15P
+    location: O'Shaughnessy Hall 201
+- !ruby/object:Course
+  name: Books,authors,readers in Italy
+  credit: '3'
+  coursenum: ROIT63212
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '29369'
+    instructor: Marcozzi, Luca
+    time: M  - 3:30P - 6:15P
+    location: O'Shaughnessy Hall 116
+- !ruby/object:Course
+  name: ! 'Italian Cin: Realities of Hist'
+  credit: '3'
+  coursenum: ROIT63548
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '1'
+    max_spots: '2'
+    crn: '26962'
+    instructor: Baranski, Zygmunt
+    time: T R  - 12:30P - 1:45P
+    location: O'Shaughnessy Hall 208
+- !ruby/object:Course
+  name: Directed Readings
+  credit: '3'
+  coursenum: ROIT66000
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '1'
+    max_spots: '1'
+    crn: '23490'
+    instructor: TBA
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Special Studies
+  credit: '3'
+  coursenum: ROIT67000
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '6'
+    max_spots: '6'
+    crn: '21898'
+    instructor: TBA
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '3'
+    max_spots: '3'
+    crn: '20122'
+    instructor: TBA
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Thesis Direction
+  credit: V
+  coursenum: ROIT78599
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '2'
+    max_spots: '2'
+    crn: '20785'
+    instructor: Montemaggi, Vittorio
+    time: TBA
+    location: TBA
+: '12'
+  :xlst: ! '&nbsp'
+  :crn: '23093'
+  :syl: ! '&nbsp'
+  :instructor: TBA
+  :when: M  - 5:00P - 6:00P
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: Haggar Hall B015
+- :course: ROIT47000
+  :section: '01'
+  :title: Special Studies
+  :credits: '3'
+  :status: OP
+  :max_spots: '5'
+  :open_spots: '5'
+  :xlst: ! '&nbsp'
+  :crn: '22175'
+  :syl: ! '&nbsp'
+  :instructor: TBA
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: ROIT53000
+  :section: '01'
+  :title: Italian Seminar
+  :credits: '3'
+  :status: OP
+  :max_spots: '18'
+  :open_spots: '9'
+  :xlst: Y
+  :crn: '23597'
+  :syl: ! '&nbsp'
+  :instructor: Moevs, Christian
+  :when: T R  - 11:00A - 12:15P
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: Edward J. DeBartolo Hall 349
+- :course: ROIT58000
+  :section: '01'
+  :title: Honors Thesis
+  :credits: V
+  :status: OP
+  :max_spots: '5'
+  :open_spots: '5'
+  :xlst: ! '&nbsp'
+  :crn: '23977'
+  :syl: ! '&nbsp'
+  :instructor: TBA
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: ROIT63011
+  :section: '01'
+  :title: Intro to Advcd Stds Italian
+  :credits: '1.5'
+  :status: OP
+  :max_spots: '12'
+  :open_spots: '11'
+  :xlst: ! '&nbsp'
+  :crn: '29869'
+  :syl: ! '&nbsp'
+  :instructor: Cachey, Theodore Baranski, ZygmuntMoevs, ChristianWelle, John
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: ROIT63113
+  :section: '01'
+  :title: Dante's World of Books
+  :credits: '3'
+  :status: OP
+  :max_spots: '6'
+  :open_spots: '3'
+  :xlst: Y
+  :crn: '29368'
+  :syl: ! '&nbsp'
+  :instructor: Baranski, Zygmunt
+  :when: T  - 2:00P - 5:00P
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: Hayes Healy Center 129
+- :course: ROIT63116
+  :section: '01'
+  :title: Dante II
+  :credits: '3'
+  :status: OP
+  :max_spots: '1'
+  :open_spots: '1'
+  :xlst: Y
+  :crn: '22194'
+  :syl: ! '&nbsp'
+  :instructor: Moevs, Christian
+  :when: T R  - 2:00P - 3:15P
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: O'Shaughnessy Hall 201
+- :course: ROIT63212
+  :section: '01'
+  :title: Books,authors,readers in Italy
+  :credits: '3'
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: Y
+  :crn: '29369'
+  :syl: ! '&nbsp'
+  :instructor: TBA
+  :when: M  - 3:30P - 6:15P
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: O'Shaughnessy Hall 116
+- :course: ROIT63548
+  :section: '01'
+  :title: ! 'Italian Cin: Realities of Hist'
+  :credits: '3'
+  :status: OP
+  :max_spots: '2'
+  :open_spots: '2'
+  :xlst: Y
+  :crn: '26962'
+  :syl: ! '&nbsp'
+  :instructor: Baranski, Zygmunt
+  :when: T R  - 12:30P - 1:45P
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: O'Shaughnessy Hall 208
+- :course: ROIT66000
+  :section: '01'
+  :title: Directed Readings
+  :credits: '3'
+  :status: OP
+  :max_spots: '1'
+  :open_spots: '1'
+  :xlst: ! '&nbsp'
+  :crn: '23490'
+  :syl: ! '&nbsp'
+  :instructor: TBA
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: ROIT67000
+  :section: '01'
+  :title: Special Studies
+  :credits: '3'
+  :status: OP
+  :max_spots: '6'
+  :open_spots: '6'
+  :xlst: ! '&nbsp'
+  :crn: '21898'
+  :syl: ! '&nbsp'
+  :instructor: TBA
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: ROIT67000
+  :section: '02'
+  :title: Special Studies
+  :credits: V
+  :status: OP
+  :max_spots: '3'
+  :open_spots: '3'
+  :xlst: ! '&nbsp'
+  :crn: '20122'
+  :syl: ! '&nbsp'
+  :instructor: TBA
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: ROIT78599
+  :section: '01'
+  :title: Thesis Direction
+  :credits: V
+  :status: OP
+  :max_spots: '2'
+  :open_spots: '2'
+  :xlst: ! '&nbsp'
+  :crn: '20785'
+  :syl: ! '&nbsp'
+  :instructor: Montemaggi, Vittorio
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA

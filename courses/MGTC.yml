@@ -1,0 +1,29 @@
+---
+- !ruby/object:Course
+  name: Strategic Human Resource Mgmt
+  credit: '3'
+  coursenum: MGTC30450
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '12'
+    max_spots: '45'
+    crn: '23681'
+    instructor: Block, Emily
+    time: T R  - 12:30P - 1:45P
+    location: Edward J. DeBartolo Hall 310
+- !ruby/object:Course
+  name: International Management
+  credit: '3'
+  coursenum: MGTC30460
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '-1'
+    max_spots: '45'
+    crn: '25906'
+    instructor: Glavas, Ante
+    time: M W  - 11:45A - 1:00P
+    location: Edward J. DeBartolo Hall 317
+13
+  :location: Edward J. DeBartolo Hall 317

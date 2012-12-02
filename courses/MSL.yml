@@ -1,0 +1,149 @@
+---
+- !ruby/object:Course
+  name: Intro to Military Leadrship II
+  credit: '1'
+  coursenum: MSL10102
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '21'
+    max_spots: '30'
+    crn: '22127'
+    instructor: Polhamus, John
+    time: ! "(1) W  - 7:00P - 8:00P\r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\r\n\t\t\t
+      \  \t\t\r\n\t\t\t   \t  \r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\t(2) W  - 4:30P
+      - 6:30P"
+    location: ! "Pasquerilla Center 102 \r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\t\r\n\t\t\t\t
+      \  \t\r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\tPasquerilla Center 114"
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '0'
+    max_spots: '0'
+    crn: '29113'
+    instructor: Polhamus, John Wood, Kurt
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Foundtns of Military Ldrshp II
+  credit: '2'
+  coursenum: MSL20202
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '24'
+    max_spots: '30'
+    crn: '21337'
+    instructor: Polhamus, John
+    time: ! "(1) W  - 4:30P - 6:30P\r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\r\n\t\t\t
+      \  \t\t\r\n\t\t\t   \t  \r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\t(2) W  - 7:00P
+      - 9:00P"
+    location: ! "Pasquerilla Center 102 \r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\t\r\n\t\t\t\t
+      \  \t\r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\tPasquerilla Center 109"
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '0'
+    max_spots: '0'
+    crn: '29114'
+    instructor: Polhamus, John
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Applied Military Leadership
+  credit: '3'
+  coursenum: MSL30302
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '19'
+    max_spots: '25'
+    crn: '21419'
+    instructor: Polhamus, John
+    time: ! "(1) W  - 7:00P - 9:30P\r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\r\n\t\t\t
+      \  \t\t\r\n\t\t\t   \t  \r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\t(2) W  - 4:30P
+      - 6:30P"
+    location: ! "Pasquerilla Center 105 \r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\t\r\n\t\t\t\t
+      \  \t\r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\tPasquerilla Center 116"
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '0'
+    max_spots: '0'
+    crn: '29115'
+    instructor: Polhamus, John
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Adptve Mil Ldrshp & Mil Ethics
+  credit: '3'
+  coursenum: MSL40402
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '14'
+    max_spots: '25'
+    crn: '21821'
+    instructor: Polhamus, John
+    time: ! "(1) W  - 4:30P - 6:30P\r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\r\n\t\t\t
+      \  \t\t\r\n\t\t\t   \t  \r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\t(2) W  - 7:00P
+      - 9:30P"
+    location: ! "Pasquerilla Center 109 \r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\t\r\n\t\t\t\t
+      \  \t\r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\tPasquerilla Center 116"
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '0'
+    max_spots: '0'
+    crn: '29116'
+    instructor: Polhamus, John
+    time: TBA
+    location: TBA
+\t\t\t\r\n\t\t\t\t   \t\t\t(2) 05/01/2013"
+  :location: ! "Pasquerilla Center 105 \r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\t\r\n\t\t\t\t
+    \  \t\r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\tPasquerilla Center 116"
+- :course: MSL30302
+  :section: '02'
+  :title: Applied Military Leadership
+  :credits: '3'
+  :status: CL
+  :max_spots: '0'
+  :open_spots: '0'
+  :xlst: ! '&nbsp'
+  :crn: '29115'
+  :syl: ! '&nbsp'
+  :instructor: Polhamus, John
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: MSL40402
+  :section: '01'
+  :title: Adptve Mil Ldrshp & Mil Ethics
+  :credits: '3'
+  :status: OP
+  :max_spots: '25'
+  :open_spots: '15'
+  :xlst: ! '&nbsp'
+  :crn: '21821'
+  :syl: ! '&nbsp'
+  :instructor: Polhamus, John
+  :when: ! "(1) W  - 4:30P - 6:30P\r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\r\n\t\t\t   \t\t\r\n\t\t\t
+    \  \t  \r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\t(2) W  - 7:00P - 9:30P"
+  :begin: ! "(1) 01/15/2013\r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\r\n\t\t\t   \t\t\r\n\t\t\t
+    \  \t  \r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\t(2) 01/15/2013"
+  :end: ! "(1) 05/01/2013\r\n\t\t\t\t   \t\t\r\n\t\t\t   \t\t\r\n\t\t\t   \t\t\r\n\t\t\t
+    \  \t  \r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\t(2) 05/01/2013"
+  :location: ! "Pasquerilla Center 109 \r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\t\r\n\t\t\t\t
+    \  \t\r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\tPasquerilla Center 116"
+- :course: MSL40402
+  :section: '02'
+  :title: Adptve Mil Ldrshp & Mil Ethics
+  :credits: '3'
+  :status: CL
+  :max_spots: '0'
+  :open_spots: '0'
+  :xlst: ! '&nbsp'
+  :crn: '29116'
+  :syl: ! '&nbsp'
+  :instructor: Polhamus, John
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA

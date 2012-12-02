@@ -1,0 +1,229 @@
+---
+- !ruby/object:Course
+  name: Global Macroeconomic Environ
+  credit: '2'
+  coursenum: MBAE60604
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '75'
+    max_spots: '75'
+    crn: '27074'
+    instructor: Bergstrand, Jeffrey
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Management Accounting
+  credit: '2'
+  coursenum: MBAE60608
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '60'
+    max_spots: '60'
+    crn: '21870'
+    instructor: Milani, Kenneth
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Operations / Supply Chain Mgmt
+  credit: '2.5'
+  coursenum: MBAE60609
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '60'
+    max_spots: '60'
+    crn: '21858'
+    instructor: Wei, Jerry
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Corporate Finance
+  credit: '3'
+  coursenum: MBAE60610
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '60'
+    max_spots: '60'
+    crn: '21198'
+    instructor: Halloran, John
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Negotiations
+  credit: '2'
+  coursenum: MBAE60611
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '60'
+    max_spots: '60'
+    crn: '22246'
+    instructor: Collins, Sandra
+    time: F  - 8:00A - 12:00P
+    location: TBA
+- !ruby/object:Course
+  name: Foundations Ethical Bus Conduc
+  credit: '2'
+  coursenum: MBAE60614
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '60'
+    max_spots: '60'
+    crn: '21835'
+    instructor: Holt, Joseph
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Intercultural Management
+  credit: '1'
+  coursenum: MBAE60615
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '60'
+    max_spots: '60'
+    crn: '20082'
+    instructor: Tuleja, Elizabeth
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Strategic Marketing
+  credit: '2'
+  coursenum: MBAE70625
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '30'
+    max_spots: '30'
+    crn: '24734'
+    instructor: TBA
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Change Management
+  credit: '1.5'
+  coursenum: MBAE70626
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '78'
+    max_spots: '78'
+    crn: '29803'
+    instructor: Nelson, Alan
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Emerging Trends in Bus & Socty
+  credit: '2'
+  coursenum: MBAE70630
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '75'
+    max_spots: '75'
+    crn: '24710'
+    instructor: Burke, Leo
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Strategic Planning for Growth
+  credit: '2.5'
+  coursenum: MBAE70634
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '60'
+    max_spots: '60'
+    crn: '23891'
+    instructor: Davis, James
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Business Problem Solving
+  credit: '2'
+  coursenum: MBAE70636
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '50'
+    max_spots: '50'
+    crn: '23893'
+    instructor: Bartkus, Viva
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Strategic Growth Management
+  credit: '2'
+  coursenum: MBAE70641
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '60'
+    max_spots: '60'
+    crn: '24104'
+    instructor: Burgman, Roland
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Leadership Communication
+  credit: '2'
+  coursenum: MBAE70642
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '55'
+    max_spots: '55'
+    crn: '24103'
+    instructor: Nelson, Alan
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Strategic Foresight
+  credit: '2'
+  coursenum: MBAE70644
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '50'
+    max_spots: '50'
+    crn: '24735'
+    instructor: Miller, Samuel
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Design Thinking
+  credit: '1.5'
+  coursenum: MBAE70698
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '78'
+    max_spots: '78'
+    crn: '29802'
+    instructor: TBA
+    time: TBA
+    location: TBA
+ctor: Miller, Samuel
+  :when: TBA
+  :begin: 01/06/2013
+  :end: 01/12/2013
+  :location: TBA
+- :course: MBAE70698
+  :section: '01'
+  :title: Design Thinking
+  :credits: '1.5'
+  :status: OP
+  :max_spots: '78'
+  :open_spots: '78'
+  :xlst: ! '&nbsp'
+  :crn: '29802'
+  :syl: ! '&nbsp'
+  :instructor: TBA
+  :when: TBA
+  :begin: 01/07/2013
+  :end: 05/01/2013
+  :location: TBA

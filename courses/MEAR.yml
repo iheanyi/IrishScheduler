@@ -1,0 +1,313 @@
+---
+- !ruby/object:Course
+  name: First-Year Arabic I
+  credit: '5'
+  coursenum: MEAR10001
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '15'
+    crn: '28572'
+    instructor: Bualuan, Ghada
+    time: ! "(1) M W F  - 9:35A - 10:25A\r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\r\n\t\t\t
+      \  \t\t\r\n\t\t\t   \t  \r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\t(2) T R  -
+      9:30A - 10:20A"
+    location: ! "Edward J. DeBartolo Hall 201 \r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\t\r\n\t\t\t\t
+      \  \t\r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\tEdward J. DeBartolo Hall 202"
+- !ruby/object:Course
+  name: First Year Arabic II
+  credit: '5'
+  coursenum: MEAR10002
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '8'
+    max_spots: '15'
+    crn: '23144'
+    instructor: Shehata, Asmaa
+    time: ! "(1) M W F  - 8:30A - 9:20A\r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\r\n\t\t\t
+      \  \t\t\r\n\t\t\t   \t  \r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\t(2) T R  -
+      9:30A - 10:20A"
+    location: ! "Edward J. DeBartolo Hall 203 \r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\t\r\n\t\t\t\t
+      \  \t\r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\tEdward J. DeBartolo Hall 201"
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '1'
+    max_spots: '15'
+    crn: '23145'
+    instructor: Shehata, Asmaa
+    time: ! "(1) M W F  - 9:35A - 10:25A\r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\r\n\t\t\t
+      \  \t\t\r\n\t\t\t   \t  \r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\t(2) T R  -
+      11:00A - 11:50A"
+    location: ! "Edward J. DeBartolo Hall 203 \r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\t\r\n\t\t\t\t
+      \  \t\r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\tEdward J. DeBartolo Hall 201"
+- !ruby/object:Course
+  name: Second Year Arabic II
+  credit: '4'
+  coursenum: MEAR20004
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '9'
+    max_spots: '15'
+    crn: '23803'
+    instructor: Martin, Amaya
+    time: ! "(1) M W F  - 8:30A - 9:20A\r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\r\n\t\t\t
+      \  \t\t\r\n\t\t\t   \t  \r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\t(2) R  - 9:30A
+      - 10:20A"
+    location: ! "Edward J. DeBartolo Hall 202 \r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\t\r\n\t\t\t\t
+      \  \t\r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\tEdward J. DeBartolo Hall 306"
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '5'
+    max_spots: '15'
+    crn: '24161'
+    instructor: Martin, Amaya
+    time: ! "(1) M W F  - 9:35A - 10:25A\r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\r\n\t\t\t
+      \  \t\t\r\n\t\t\t   \t  \r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\t(2) R  - 11:00A
+      - 11:50A"
+    location: ! "Edward J. DeBartolo Hall 202 \r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\t\r\n\t\t\t\t
+      \  \t\r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\tEdward J. DeBartolo Hall 306"
+- !ruby/object:Course
+  name: Third Year Arabic II
+  credit: '3'
+  coursenum: MEAR30006
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '3'
+    max_spots: '15'
+    crn: '24164'
+    instructor: Shehata, Asmaa
+    time: M W F  - 10:40A - 11:30A
+    location: Edward J. DeBartolo Hall 203
+- !ruby/object:Course
+  name: Media Arabic II
+  credit: '3'
+  coursenum: MEAR40021
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '5'
+    max_spots: '15'
+    crn: '29454'
+    instructor: Martin, Amaya
+    time: M W  - 11:45A - 1:00P
+    location: Edward J. DeBartolo Hall 203
+- !ruby/object:Course
+  name: Directed Readings
+  credit: V
+  coursenum: MEAR46801
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '26646'
+    instructor: TBA
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: First-Year Arabic I
+  credit: '5'
+  coursenum: MEAR60001
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '1'
+    max_spots: '2'
+    crn: '28573'
+    instructor: Bualuan, Ghada
+    time: ! "(1) M W F  - 9:35A - 10:25A\r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\r\n\t\t\t
+      \  \t\t\r\n\t\t\t   \t  \r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\t(2) T R  -
+      9:30A - 10:20A"
+    location: ! "Edward J. DeBartolo Hall 201 \r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\t\r\n\t\t\t\t
+      \  \t\r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\tEdward J. DeBartolo Hall 202"
+- !ruby/object:Course
+  name: First Year Arabic II
+  credit: '4'
+  coursenum: MEAR60002
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '2'
+    max_spots: '2'
+    crn: '23307'
+    instructor: Shehata, Asmaa
+    time: ! "(1) M W F  - 8:30A - 9:20A\r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\r\n\t\t\t
+      \  \t\t\r\n\t\t\t   \t  \r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\t(2) T R  -
+      9:30A - 10:20A"
+    location: ! "Edward J. DeBartolo Hall 203 \r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\t\r\n\t\t\t\t
+      \  \t\r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\tEdward J. DeBartolo Hall 201"
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '2'
+    max_spots: '2'
+    crn: '23308'
+    instructor: Shehata, Asmaa
+    time: ! "(1) M W F  - 9:35A - 10:25A\r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\r\n\t\t\t
+      \  \t\t\r\n\t\t\t   \t  \r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\t(2) T R  -
+      11:00A - 11:50A"
+    location: ! "Edward J. DeBartolo Hall 203 \r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\t\r\n\t\t\t\t
+      \  \t\r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\tEdward J. DeBartolo Hall 201"
+- !ruby/object:Course
+  name: Second Year Arabic II
+  credit: '3'
+  coursenum: MEAR60004
+  sections:
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '0'
+    max_spots: '2'
+    crn: '23804'
+    instructor: Martin, Amaya
+    time: ! "(1) M W F  - 8:30A - 9:20A\r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\r\n\t\t\t
+      \  \t\t\r\n\t\t\t   \t  \r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\t(2) R  - 9:30A
+      - 10:20A"
+    location: ! "Edward J. DeBartolo Hall 202 \r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\t\r\n\t\t\t\t
+      \  \t\r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\tEdward J. DeBartolo Hall 306"
+  - !ruby/object:Section
+    section_num: '03'
+    open_spots: '0'
+    max_spots: '2'
+    crn: '24623'
+    instructor: Martin, Amaya
+    time: ! "(1) M W F  - 9:35A - 10:25A\r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\r\n\t\t\t
+      \  \t\t\r\n\t\t\t   \t  \r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\t(2) R  - 11:00A
+      - 11:50A"
+    location: ! "Edward J. DeBartolo Hall 202 \r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\t\r\n\t\t\t\t
+      \  \t\r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\tEdward J. DeBartolo Hall 306"
+- !ruby/object:Course
+  name: Third Year Arabic II
+  credit: '3'
+  coursenum: MEAR60006
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '2'
+    max_spots: '2'
+    crn: '24692'
+    instructor: Shehata, Asmaa
+    time: M W F  - 10:40A - 11:30A
+    location: Edward J. DeBartolo Hall 203
+- !ruby/object:Course
+  name: Media Arabic II
+  credit: '3'
+  coursenum: MEAR60021
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '1'
+    max_spots: '2'
+    crn: '29635'
+    instructor: Martin, Amaya
+    time: M W  - 11:45A - 1:00P
+    location: Edward J. DeBartolo Hall 203
+- !ruby/object:Course
+  name: Directed Readings
+  credit: V
+  coursenum: MEAR66801
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '4'
+    max_spots: '5'
+    crn: '26647'
+    instructor: TBA
+    time: TBA
+    location: TBA
+when: ! "(1) M W F  - 9:35A - 10:25A\r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\r\n\t\t\t
+    \  \t\t\r\n\t\t\t   \t  \r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\t(2) T R  - 11:00A
+    - 11:50A"
+  :begin: ! "(1) 01/15/2013\r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\r\n\t\t\t   \t\t\r\n\t\t\t
+    \  \t  \r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\t(2) 01/15/2013"
+  :end: ! "(1) 05/01/2013\r\n\t\t\t\t   \t\t\r\n\t\t\t   \t\t\r\n\t\t\t   \t\t\r\n\t\t\t
+    \  \t  \r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\t(2) 05/01/2013"
+  :location: ! "Edward J. DeBartolo Hall 203 \r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\t\r\n\t\t\t\t
+    \  \t\r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\tEdward J. DeBartolo Hall 201"
+- :course: MEAR60004
+  :section: '02'
+  :title: Second Year Arabic II
+  :credits: '3'
+  :status: CL
+  :max_spots: '2'
+  :open_spots: '0'
+  :xlst: Y
+  :crn: '23804'
+  :syl: ! '&nbsp'
+  :instructor: Martin, Amaya
+  :when: ! "(1) M W F  - 8:30A - 9:20A\r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\r\n\t\t\t
+    \  \t\t\r\n\t\t\t   \t  \r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\t(2) R  - 9:30A
+    - 10:20A"
+  :begin: ! "(1) 01/15/2013\r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\r\n\t\t\t   \t\t\r\n\t\t\t
+    \  \t  \r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\t(2) 01/15/2013"
+  :end: ! "(1) 05/01/2013\r\n\t\t\t\t   \t\t\r\n\t\t\t   \t\t\r\n\t\t\t   \t\t\r\n\t\t\t
+    \  \t  \r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\t(2) 05/01/2013"
+  :location: ! "Edward J. DeBartolo Hall 202 \r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\t\r\n\t\t\t\t
+    \  \t\r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\tEdward J. DeBartolo Hall 306"
+- :course: MEAR60004
+  :section: '03'
+  :title: Second Year Arabic II
+  :credits: '3'
+  :status: OP
+  :max_spots: '2'
+  :open_spots: '1'
+  :xlst: Y
+  :crn: '24623'
+  :syl: ! '&nbsp'
+  :instructor: Martin, Amaya
+  :when: ! "(1) M W F  - 9:35A - 10:25A\r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\r\n\t\t\t
+    \  \t\t\r\n\t\t\t   \t  \r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\t(2) R  - 11:00A
+    - 11:50A"
+  :begin: ! "(1) 01/15/2013\r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\r\n\t\t\t   \t\t\r\n\t\t\t
+    \  \t  \r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\t(2) 01/15/2013"
+  :end: ! "(1) 05/01/2013\r\n\t\t\t\t   \t\t\r\n\t\t\t   \t\t\r\n\t\t\t   \t\t\r\n\t\t\t
+    \  \t  \r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\t(2) 05/01/2013"
+  :location: ! "Edward J. DeBartolo Hall 202 \r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\t\r\n\t\t\t\t
+    \  \t\r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\tEdward J. DeBartolo Hall 306"
+- :course: MEAR60006
+  :section: '01'
+  :title: Third Year Arabic II
+  :credits: '3'
+  :status: OP
+  :max_spots: '2'
+  :open_spots: '2'
+  :xlst: Y
+  :crn: '24692'
+  :syl: ! '&nbsp'
+  :instructor: Shehata, Asmaa
+  :when: M W F  - 10:40A - 11:30A
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: Edward J. DeBartolo Hall 203
+- :course: MEAR60021
+  :section: '01'
+  :title: Media Arabic II
+  :credits: '3'
+  :status: OP
+  :max_spots: '2'
+  :open_spots: '1'
+  :xlst: Y
+  :crn: '29635'
+  :syl: ! '&nbsp'
+  :instructor: Martin, Amaya
+  :when: M W  - 11:45A - 1:00P
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: Edward J. DeBartolo Hall 203
+- :course: MEAR66801
+  :section: '01'
+  :title: Directed Readings
+  :credits: V
+  :status: OP
+  :max_spots: '5'
+  :open_spots: '5'
+  :xlst: ! '&nbsp'
+  :crn: '26647'
+  :syl: ! '&nbsp'
+  :instructor: TBA
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA

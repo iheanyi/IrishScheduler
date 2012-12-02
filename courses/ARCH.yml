@@ -1,0 +1,1037 @@
+---
+- !ruby/object:Course
+  name: Analysis of Arch Writings
+  credit: '3'
+  coursenum: ARCH10311
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '15'
+    max_spots: '60'
+    crn: '20265'
+    instructor: Economakis, Richard
+    time: M W F  - 9:35A - 10:25A
+    location: TBA
+- !ruby/object:Course
+  name: ! 'Graphics II: Drafting'
+  credit: '4'
+  coursenum: ARCH11021
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '15'
+    max_spots: '60'
+    crn: '21532'
+    instructor: Hoyt, Neil
+    time: M W F  - 10:40A - 11:30A
+    location: TBA
+- !ruby/object:Course
+  name: Architectural History II
+  credit: '3'
+  coursenum: ARCH20221
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '40'
+    max_spots: '80'
+    crn: '21930'
+    instructor: Doordan, Dennis
+    time: T R  - 11:00A - 12:15P
+    location: TBA
+- !ruby/object:Course
+  name: Structural Mechanics
+  credit: '3'
+  coursenum: ARCH20511
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '28'
+    max_spots: '60'
+    crn: '20638'
+    instructor: DeFrees, Alan
+    time: M W F  - 11:45A - 12:35P
+    location: TBA
+- !ruby/object:Course
+  name: Design II
+  credit: '6'
+  coursenum: ARCH21121
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '17'
+    crn: '20824'
+    instructor: Salden, Samantha
+    time: M W F  - 1:15P - 5:00P
+    location: TBA
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '3'
+    max_spots: '17'
+    crn: '21558'
+    instructor: Hoyt, Neil
+    time: M W F  - 1:15P - 5:00P
+    location: TBA
+- !ruby/object:Course
+  name: Research Assistance - Graphics
+  credit: V
+  coursenum: ARCH37211
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '2'
+    max_spots: '2'
+    crn: '22856'
+    instructor: Smith, Thomas
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '0'
+    max_spots: '4'
+    crn: '29298'
+    instructor: Steil, Lucien
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Greek Architecture
+  credit: '3'
+  coursenum: ARCH40211
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '3'
+    crn: '26320'
+    instructor: Rhodes, Robin
+    time: T R  - 3:30P - 4:45P
+    location: O'Shaughnessy Hall 107
+- !ruby/object:Course
+  name: Building Technology II
+  credit: '3'
+  coursenum: ARCH40421
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '4'
+    max_spots: '50'
+    crn: '22745'
+    instructor: DeFrees, Alan
+    time: T R  - 2:00P - 3:15P
+    location: TBA
+- !ruby/object:Course
+  name: Applied Structural Systems
+  credit: '3'
+  coursenum: ARCH40521
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '13'
+    max_spots: '58'
+    crn: '21096'
+    instructor: Lowing, Thomas
+    time: T R  - 3:30P - 4:45P
+    location: TBA
+- !ruby/object:Course
+  name: Design VI
+  credit: '6'
+  coursenum: ARCH41121
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20124'
+    instructor: Alimanestianu, Joanna
+    time: M W F  - 1:15P - 5:00P
+    location: TBA
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '21371'
+    instructor: Duany, Alejandro
+    time: M W F  - 1:15P - 5:00P
+    location: TBA
+  - !ruby/object:Section
+    section_num: '03'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20321'
+    instructor: Buccellato, Aimee
+    time: M W F  - 1:15P - 5:00P
+    location: TBA
+  - !ruby/object:Section
+    section_num: '04'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20130'
+    instructor: Krusche, Krupali
+    time: M W F  - 1:15P - 5:00P
+    location: TBA
+  - !ruby/object:Section
+    section_num: '05'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '27011'
+    instructor: Steil, Lucien
+    time: M W F  - 1:15P - 5:00P
+    location: TBA
+- !ruby/object:Course
+  name: Advanced Furniture
+  credit: '3'
+  coursenum: ARCH41821
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '8'
+    max_spots: '13'
+    crn: '21020'
+    instructor: Brandt, Robert
+    time: T R  - 9:00A - 12:00P
+    location: TBA
+- !ruby/object:Course
+  name: Intro Carving Classical Elemen
+  credit: '3'
+  coursenum: ARCH41831
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '23292'
+    instructor: Brandt, Robert
+    time: M W  - 9:00A - 12:00P
+    location: TBA
+- !ruby/object:Course
+  name: Teaching Concepts/Arch Hist II
+  credit: '3'
+  coursenum: ARCH50228
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '3'
+    max_spots: '3'
+    crn: '20831'
+    instructor: Doordan, Dennis
+    time: T R  - 11:00A - 12:15P
+    location: TBA
+- !ruby/object:Course
+  name: Teaching Concepts/Arch. Wrt.
+  credit: '3'
+  coursenum: ARCH50318
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '9'
+    max_spots: '9'
+    crn: '20520'
+    instructor: Economakis, Richard
+    time: M W F  - 9:35A - 10:25A
+    location: TBA
+- !ruby/object:Course
+  name: Teaching Concepts/Bldg Tech II
+  credit: '3'
+  coursenum: ARCH50428
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '4'
+    max_spots: '4'
+    crn: '23949'
+    instructor: DeFrees, Alan
+    time: T R  - 2:00P - 3:15P
+    location: TBA
+- !ruby/object:Course
+  name: Teaching Concepts/Struc Mechs
+  credit: '3'
+  coursenum: ARCH50528
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '8'
+    max_spots: '8'
+    crn: '21740'
+    instructor: DeFrees, Alan
+    time: M W F  - 11:45A - 12:35P
+    location: TBA
+- !ruby/object:Course
+  name: Professional Practice
+  credit: '3'
+  coursenum: ARCH50711
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '28'
+    max_spots: '60'
+    crn: '20721'
+    instructor: Eide, Jerome
+    time: T R  - 5:00P - 6:15P
+    location: TBA
+- !ruby/object:Course
+  name: Pens-Pixels; Adv Pres Tech
+  credit: '3'
+  coursenum: ARCH51021
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '15'
+    crn: '29839'
+    instructor: Gorski, Gilbert
+    time: M F  - 9:10A - 10:25A
+    location: TBA
+- !ruby/object:Course
+  name: Teaching Concepts/Graphics II
+  credit: '3'
+  coursenum: ARCH51028
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '7'
+    max_spots: '8'
+    crn: '21049'
+    instructor: Hoyt, Neil
+    time: M W F  - 10:40A - 11:30A
+    location: TBA
+- !ruby/object:Course
+  name: ! 'Teaching Concepts: BIM'
+  credit: '3'
+  coursenum: ARCH51038
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '2'
+    max_spots: '2'
+    crn: '25691'
+    instructor: Huderwitz, Francis
+    time: T R  - 2:00P - 3:15P
+    location: TBA
+- !ruby/object:Course
+  name: Design VIII Thesis
+  credit: '6'
+  coursenum: ARCH51121
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '2'
+    max_spots: '8'
+    crn: '20433'
+    instructor: Bullene, Richard
+    time: M W F  - 1:15P - 5:00P
+    location: TBA
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '3'
+    max_spots: '4'
+    crn: '21604'
+    instructor: Lykoudis, Michael
+    time: M W F  - 1:15P - 5:00P
+    location: TBA
+  - !ruby/object:Section
+    section_num: '03'
+    open_spots: '7'
+    max_spots: '8'
+    crn: '21030'
+    instructor: Mayernik, David
+    time: M W F  - 1:15P - 5:00P
+    location: TBA
+  - !ruby/object:Section
+    section_num: '04'
+    open_spots: '5'
+    max_spots: '8'
+    crn: '23945'
+    instructor: Gorski, Gilbert
+    time: M W F  - 1:15P - 5:00P
+    location: TBA
+  - !ruby/object:Section
+    section_num: '05'
+    open_spots: '6'
+    max_spots: '9'
+    crn: '24602'
+    instructor: Hood, Sallie Sakal, Ronald
+    time: M W F  - 1:15P - 5:00P
+    location: TBA
+  - !ruby/object:Section
+    section_num: '06'
+    open_spots: '1'
+    max_spots: '8'
+    crn: '29299'
+    instructor: Stamper, John
+    time: M W F  - 1:15P - 5:00P
+    location: TBA
+- !ruby/object:Course
+  name: ! 'Teaching Concepts: CAD'
+  credit: '3'
+  coursenum: ARCH51368
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '2'
+    max_spots: '2'
+    crn: '22794'
+    instructor: Huderwitz, Francis
+    time: T R  - 3:30P - 4:45P
+    location: TBA
+- !ruby/object:Course
+  name: Teaching Concepts/Advance Furn
+  credit: '3'
+  coursenum: ARCH51818
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '4'
+    max_spots: '4'
+    crn: '22163'
+    instructor: Brandt, Robert
+    time: T R  - 9:00A - 12:00P
+    location: TBA
+- !ruby/object:Course
+  name: Dsgn & Const of Arch Elmnt II
+  credit: '3'
+  coursenum: ARCH51821
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '24794'
+    instructor: Buccellato, Kevin
+    time: W F  - 9:00A - 12:00P
+    location: TBA
+- !ruby/object:Course
+  name: Advanced Architectural Models
+  credit: '3'
+  coursenum: ARCH51841
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '24795'
+    instructor: Buccellato, Kevin
+    time: M W  - 6:30P - 9:30P
+    location: TBA
+- !ruby/object:Course
+  name: The Classical Interior
+  credit: '3'
+  coursenum: ARCH53111
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '11'
+    max_spots: '13'
+    crn: '27117'
+    instructor: Semes, Steven
+    time: R  - 7:00P - 9:45P
+    location: TBA
+- !ruby/object:Course
+  name: Issues in Sacred Architecture
+  credit: '3'
+  coursenum: ARCH53311
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '12'
+    max_spots: '22'
+    crn: '23879'
+    instructor: Stroik, Duncan
+    time: M  - 6:30P - 9:00P
+    location: TBA
+- !ruby/object:Course
+  name: Architectural Theory
+  credit: '3'
+  coursenum: ARCH53341
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '9'
+    max_spots: '12'
+    crn: '23916'
+    instructor: Westfall, Carroll
+    time: W  - 10:45A - 1:00P
+    location: TBA
+- !ruby/object:Course
+  name: American Towns and Cities
+  credit: '3'
+  coursenum: ARCH53351
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '3'
+    max_spots: '8'
+    crn: '25611'
+    instructor: Steil, Lucien
+    time: T R  - 9:30A - 10:45A
+    location: TBA
+- !ruby/object:Course
+  name: 9 Themes in Modern Arch Theory
+  credit: '3'
+  coursenum: ARCH53361
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '18'
+    max_spots: '20'
+    crn: '29655'
+    instructor: Younes, Samir
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Hist. Construction and Pres.
+  credit: '3'
+  coursenum: ARCH53421
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '4'
+    max_spots: '15'
+    crn: '29832'
+    instructor: DeFrees, Alan
+    time: T R  - 11:00A - 12:15P
+    location: TBA
+- !ruby/object:Course
+  name: ! 'Special Computer Apps: BIM'
+  credit: '3'
+  coursenum: ARCH57041
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '18'
+    max_spots: '24'
+    crn: '25667'
+    instructor: Huderwitz, Francis
+    time: T R  - 2:00P - 3:15P
+    location: TBA
+- !ruby/object:Course
+  name: ! 'Independent Studies: BIM'
+  credit: '3'
+  coursenum: ARCH57051
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '7'
+    max_spots: '7'
+    crn: '25695'
+    instructor: Huderwitz, Francis
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Spec. Stu. in Furn. Design II
+  credit: '3'
+  coursenum: ARCH57821
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '8'
+    max_spots: '11'
+    crn: '20072'
+    instructor: Brandt, Robert
+    time: T R  - 1:15P - 4:15P
+    location: TBA
+- !ruby/object:Course
+  name: Spec Proj/Carving Clsc Elmt I
+  credit: '3'
+  coursenum: ARCH57831
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '2'
+    max_spots: '2'
+    crn: '23515'
+    instructor: Brandt, Robert
+    time: M W  - 9:00A - 12:00P
+    location: TBA
+- !ruby/object:Course
+  name: Spec Proj/Carving Clsc Elmt II
+  credit: '3'
+  coursenum: ARCH57841
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '1'
+    max_spots: '2'
+    crn: '23968'
+    instructor: Brandt, Robert
+    time: M W  - 9:00A - 12:00P
+    location: TBA
+- !ruby/object:Course
+  name: Spec Proj/Carving Clc Elmt III
+  credit: '3'
+  coursenum: ARCH57851
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '2'
+    max_spots: '2'
+    crn: '24311'
+    instructor: Brandt, Robert
+    time: M W  - 9:00A - 12:00P
+    location: TBA
+- !ruby/object:Course
+  name: Spec Proj/Carving Clsc Elmt IV
+  credit: '3'
+  coursenum: ARCH57861
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '2'
+    max_spots: '2'
+    crn: '24312'
+    instructor: Brandt, Robert
+    time: M W  - 9:00A - 12:00P
+    location: TBA
+- !ruby/object:Course
+  name: Architectural History II
+  credit: '3'
+  coursenum: ARCH60221
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '1'
+    max_spots: '11'
+    crn: '22630'
+    instructor: Doordan, Dennis
+    time: T R  - 11:00A - 12:15P
+    location: TBA
+- !ruby/object:Course
+  name: Building Tech II/Conc, Steel
+  credit: '3'
+  coursenum: ARCH60421
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '1'
+    max_spots: '13'
+    crn: '22631'
+    instructor: DeFrees, Alan
+    time: T R  - 2:00P - 3:15P
+    location: TBA
+- !ruby/object:Course
+  name: Structures II / Concrete
+  credit: '3'
+  coursenum: ARCH60521
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '4'
+    max_spots: '14'
+    crn: '22632'
+    instructor: Lowing, Thomas
+    time: T R  - 3:30P - 4:45P
+    location: TBA
+- !ruby/object:Course
+  name: Introduction to CAD
+  credit: '3'
+  coursenum: ARCH61021
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '2'
+    max_spots: '11'
+    crn: '22738'
+    instructor: Huderwitz, Francis
+    time: M W  - 9:10A - 10:25A
+    location: TBA
+- !ruby/object:Course
+  name: Architectural Design II
+  credit: '6'
+  coursenum: ARCH61121
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '1'
+    max_spots: '11'
+    crn: '22633'
+    instructor: Economakis, Richard
+    time: M W F  - 1:15P - 5:00P
+    location: TBA
+- !ruby/object:Course
+  name: ! 'Sp Rsch: Sustainable Dsgn/Tech'
+  credit: '3'
+  coursenum: ARCH67611
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '6'
+    max_spots: '6'
+    crn: '24796'
+    instructor: Buccellato, Aimee
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Classical Architecture I
+  credit: '6'
+  coursenum: ARCH71141
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '6'
+    max_spots: '15'
+    crn: '22634'
+    instructor: Smith, Thomas
+    time: T R  - 8:00A - 12:00P
+    location: TBA
+- !ruby/object:Course
+  name: Architectural Treatises
+  credit: '3'
+  coursenum: ARCH73321
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '10'
+    max_spots: '18'
+    crn: '22635'
+    instructor: Westfall, Carroll
+    time: W  - 7:00P - 9:30P
+    location: TBA
+- !ruby/object:Course
+  name: ! 'Directed Readings: Park List'
+  credit: V
+  coursenum: ARCH76311
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '2'
+    max_spots: '2'
+    crn: '25670'
+    instructor: Smith, Thomas
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: ! 'Dir Readings: Hitchcock List'
+  credit: '3'
+  coursenum: ARCH76321
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '2'
+    max_spots: '2'
+    crn: '25701'
+    instructor: Smith, Thomas
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Professional Practice
+  credit: '3'
+  coursenum: ARCH80711
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '7'
+    max_spots: '16'
+    crn: '22638'
+    instructor: Eide, Jerome
+    time: T R  - 5:00P - 6:15P
+    location: TBA
+- !ruby/object:Course
+  name: Terminal Design Project
+  credit: '6'
+  coursenum: ARCH81161
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '2'
+    max_spots: '2'
+    crn: '23354'
+    instructor: Semes, Steven
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '2'
+    max_spots: '2'
+    crn: '23880'
+    instructor: Lykoudis, Michael
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '03'
+    open_spots: '2'
+    max_spots: '2'
+    crn: '24181'
+    instructor: Smith, Thomas
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '04'
+    open_spots: '1'
+    max_spots: '2'
+    crn: '24182'
+    instructor: Bess, Philip
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '05'
+    open_spots: '1'
+    max_spots: '2'
+    crn: '24184'
+    instructor: Mayernik, David
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '06'
+    open_spots: '2'
+    max_spots: '2'
+    crn: '24185'
+    instructor: Steil, Lucien
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '07'
+    open_spots: '1'
+    max_spots: '2'
+    crn: '24186'
+    instructor: Gorski, Gilbert
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: 08
+    open_spots: '0'
+    max_spots: '2'
+    crn: '24187'
+    instructor: Stamper, John
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: 09
+    open_spots: '0'
+    max_spots: '2'
+    crn: '24214'
+    instructor: Younes, Samir
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '10'
+    open_spots: '1'
+    max_spots: '2'
+    crn: '25448'
+    instructor: Duany, Alejandro
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '11'
+    open_spots: '1'
+    max_spots: '2'
+    crn: '25449'
+    instructor: Buccellato, Aimee
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '12'
+    open_spots: '0'
+    max_spots: '2'
+    crn: '29300'
+    instructor: Stroik, Duncan
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: After Urbanism
+  credit: '3'
+  coursenum: ARCH83311
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '8'
+    max_spots: '12'
+    crn: '23355'
+    instructor: Bess, Philip
+    time: T R  - 3:30P - 4:55P
+    location: TBA
+013
+  :location: TBA
+- :course: ARCH81161
+  :section: '01'
+  :title: Terminal Design Project
+  :credits: '6'
+  :status: OP
+  :max_spots: '2'
+  :open_spots: '2'
+  :xlst: ! '&nbsp'
+  :crn: '23354'
+  :syl: ! '&nbsp'
+  :instructor: Semes, Steven
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: ARCH81161
+  :section: '02'
+  :title: Terminal Design Project
+  :credits: '6'
+  :status: OP
+  :max_spots: '2'
+  :open_spots: '2'
+  :xlst: ! '&nbsp'
+  :crn: '23880'
+  :syl: ! '&nbsp'
+  :instructor: Lykoudis, Michael
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: ARCH81161
+  :section: '03'
+  :title: Terminal Design Project
+  :credits: '6'
+  :status: OP
+  :max_spots: '2'
+  :open_spots: '2'
+  :xlst: ! '&nbsp'
+  :crn: '24181'
+  :syl: ! '&nbsp'
+  :instructor: Smith, Thomas
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: ARCH81161
+  :section: '04'
+  :title: Terminal Design Project
+  :credits: '6'
+  :status: OP
+  :max_spots: '2'
+  :open_spots: '2'
+  :xlst: ! '&nbsp'
+  :crn: '24182'
+  :syl: ! '&nbsp'
+  :instructor: Bess, Philip
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: ARCH81161
+  :section: '05'
+  :title: Terminal Design Project
+  :credits: '6'
+  :status: OP
+  :max_spots: '2'
+  :open_spots: '1'
+  :xlst: ! '&nbsp'
+  :crn: '24184'
+  :syl: ! '&nbsp'
+  :instructor: Mayernik, David
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: ARCH81161
+  :section: '06'
+  :title: Terminal Design Project
+  :credits: '6'
+  :status: OP
+  :max_spots: '2'
+  :open_spots: '2'
+  :xlst: ! '&nbsp'
+  :crn: '24185'
+  :syl: ! '&nbsp'
+  :instructor: Steil, Lucien
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: ARCH81161
+  :section: '07'
+  :title: Terminal Design Project
+  :credits: '6'
+  :status: OP
+  :max_spots: '2'
+  :open_spots: '1'
+  :xlst: ! '&nbsp'
+  :crn: '24186'
+  :syl: ! '&nbsp'
+  :instructor: Gorski, Gilbert
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: ARCH81161
+  :section: 08
+  :title: Terminal Design Project
+  :credits: '6'
+  :status: OP
+  :max_spots: '2'
+  :open_spots: '2'
+  :xlst: ! '&nbsp'
+  :crn: '24187'
+  :syl: ! '&nbsp'
+  :instructor: Stamper, John
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: ARCH81161
+  :section: 09
+  :title: Terminal Design Project
+  :credits: '6'
+  :status: OP
+  :max_spots: '2'
+  :open_spots: '2'
+  :xlst: ! '&nbsp'
+  :crn: '24214'
+  :syl: ! '&nbsp'
+  :instructor: Younes, Samir
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: ARCH81161
+  :section: '10'
+  :title: Terminal Design Project
+  :credits: '6'
+  :status: OP
+  :max_spots: '2'
+  :open_spots: '2'
+  :xlst: ! '&nbsp'
+  :crn: '25448'
+  :syl: ! '&nbsp'
+  :instructor: Duany, Alejandro
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: ARCH81161
+  :section: '11'
+  :title: Terminal Design Project
+  :credits: '6'
+  :status: OP
+  :max_spots: '2'
+  :open_spots: '2'
+  :xlst: ! '&nbsp'
+  :crn: '25449'
+  :syl: ! '&nbsp'
+  :instructor: Buccellato, Aimee
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: ARCH81161
+  :section: '12'
+  :title: Terminal Design Project
+  :credits: '6'
+  :status: CL
+  :max_spots: '2'
+  :open_spots: '0'
+  :xlst: ! '&nbsp'
+  :crn: '29300'
+  :syl: ! '&nbsp'
+  :instructor: Stroik, Duncan
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: ARCH83311
+  :section: '01'
+  :title: After Urbanism
+  :credits: '3'
+  :status: OP
+  :max_spots: '12'
+  :open_spots: '11'
+  :xlst: ! '&nbsp'
+  :crn: '23355'
+  :syl: ! '&nbsp'
+  :instructor: Bess, Philip
+  :when: T R  - 3:30P - 4:55P
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA

@@ -1,0 +1,274 @@
+---
+- !ruby/object:Course
+  name: Beginning Quechua I
+  credit: '4'
+  coursenum: LLRO10101
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '12'
+    max_spots: '13'
+    crn: '22302'
+    instructor: Maldonado Gomez, Georgina
+    time: ! "(1) M W F  - 12:50P - 1:40P\r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\r\n\t\t\t
+      \  \t\t\r\n\t\t\t   \t  \r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\t(2) T  - 12:30P
+      - 1:45P"
+    location: ! "O'Shaughnessy Hall 345 \r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\t\r\n\t\t\t\t
+      \  \t\r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\tHammes Mowbray Hall 313"
+- !ruby/object:Course
+  name: Literature University Seminar
+  credit: '3'
+  coursenum: LLRO13186
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '16'
+    crn: '23866'
+    instructor: Moreno, Marisel
+    time: T R  - 12:30P - 1:45P
+    location: Edward J. DeBartolo Hall 335
+  - !ruby/object:Section
+    section_num: '03'
+    open_spots: '0'
+    max_spots: '16'
+    crn: '24659'
+    instructor: MacKenzie, Louis
+    time: T R  - 9:30A - 10:45A
+    location: Main Building 404
+- !ruby/object:Course
+  name: Intermediate Quechua I
+  credit: '3'
+  coursenum: LLRO27201
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '14'
+    max_spots: '14'
+    crn: '22303'
+    instructor: Maldonado Gomez, Georgina
+    time: M W  - 3:00P - 4:15P
+    location: Edward J. DeBartolo Hall 202
+- !ruby/object:Course
+  name: Exploring Int'l Economics
+  credit: '1'
+  coursenum: LLRO33000
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '14'
+    max_spots: '30'
+    crn: '29360'
+    instructor: Williams, Shauna Flannery, Mary
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Dante II
+  credit: '3'
+  coursenum: LLRO40116
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '2'
+    crn: '22188'
+    instructor: Moevs, Christian
+    time: T R  - 2:00P - 3:15P
+    location: O'Shaughnessy Hall 201
+- !ruby/object:Course
+  name: Brazilian Cinema
+  credit: '3'
+  coursenum: LLRO40510
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '2'
+    max_spots: '8'
+    crn: '29361'
+    instructor: Wells, Sarah
+    time: T R  - 11:00A - 12:15P
+    location: Edward J. DeBartolo Hall 303
+- !ruby/object:Course
+  name: ! 'Italian Cin: Realities of Hist'
+  credit: '3'
+  coursenum: LLRO40548
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '4'
+    crn: '26249'
+    instructor: Baranski, Zygmunt
+    time: T R  - 12:30P - 1:45P
+    location: O'Shaughnessy Hall 208
+- !ruby/object:Course
+  name: Practicum in Teaching Spanish
+  credit: '0'
+  coursenum: LLRO61075
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '9'
+    max_spots: '12'
+    crn: '29362'
+    instructor: Topash-Rios, Andrea
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Practicum in Teaching French
+  credit: '0'
+  coursenum: LLRO61076
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '11'
+    max_spots: '12'
+    crn: '29363'
+    instructor: Escoda-Risto, Marie-Christine
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Practicum in Teaching Italian
+  credit: '0'
+  coursenum: LLRO61077
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '9'
+    max_spots: '10'
+    crn: '27460'
+    instructor: Blad, Alessia
+    time: M  - 1:15P - 4:15P
+    location: O'Shaughnessy Hall 114
+- !ruby/object:Course
+  name: Exam Preparation
+  credit: V
+  coursenum: LLRO62010
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '19'
+    max_spots: '20'
+    crn: '27599'
+    instructor: Toumayan, Alain
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Intro to Literary Criticism
+  credit: '3'
+  coursenum: LLRO63050
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '7'
+    max_spots: '12'
+    crn: '22304'
+    instructor: Morel, Olivier
+    time: R  - 3:30P - 6:15P
+    location: Flanner Hall 625
+- !ruby/object:Course
+  name: Directed Readings
+  credit: '3'
+  coursenum: LLRO66000
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '2'
+    max_spots: '2'
+    crn: '21150'
+    instructor: TBA
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Special Studies Quechua
+  credit: V
+  coursenum: LLRO67000
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '1'
+    max_spots: '1'
+    crn: '23971'
+    instructor: TBA
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '2'
+    max_spots: '2'
+    crn: '24285'
+    instructor: TBA
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Thesis Direction
+  credit: '6'
+  coursenum: LLRO68599
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '3'
+    max_spots: '3'
+    crn: '21233'
+    instructor: TBA
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Non-Resident Thesis Research
+  credit: '1'
+  coursenum: LLRO68600
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20575'
+    instructor: TBA
+    time: TBA
+    location: TBA
+ation: TBA
+- :course: LLRO67000
+  :section: '02'
+  :title: Special Studies
+  :credits: '1'
+  :status: OP
+  :max_spots: '2'
+  :open_spots: '2'
+  :xlst: ! '&nbsp'
+  :crn: '24285'
+  :syl: ! '&nbsp'
+  :instructor: TBA
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: LLRO68599
+  :section: '01'
+  :title: Thesis Direction
+  :credits: '6'
+  :status: OP
+  :max_spots: '3'
+  :open_spots: '3'
+  :xlst: ! '&nbsp'
+  :crn: '21233'
+  :syl: ! '&nbsp'
+  :instructor: TBA
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: LLRO68600
+  :section: '01'
+  :title: Non-Resident Thesis Research
+  :credits: '1'
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '20575'
+  :syl: ! '&nbsp'
+  :instructor: TBA
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA

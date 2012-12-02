@@ -1,0 +1,1102 @@
+---
+- !ruby/object:Course
+  name: Beginning Spanish I
+  credit: '4'
+  coursenum: ROSP10101
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '2'
+    max_spots: '16'
+    crn: '28838'
+    instructor: Segura Chavez, Gustavo Andres
+    time: ! "(1) M W F  - 10:40A - 11:30A\r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\r\n\t\t\t
+      \  \t\t\r\n\t\t\t   \t  \r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\t(2) R  - 9:30A
+      - 10:45A"
+    location: ! "O'Shaughnessy Hall 107 \r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\t\r\n\t\t\t\t
+      \  \t\r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\tEdward J. DeBartolo Hall 304"
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '5'
+    max_spots: '19'
+    crn: '20163'
+    instructor: Forteza, Deborah
+    time: ! "(1) M W F  - 9:35A - 10:25A\r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\r\n\t\t\t
+      \  \t\t\r\n\t\t\t   \t  \r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\t(2) T  - 9:30A
+      - 10:45A"
+    location: ! "Edward J. DeBartolo Hall 305 \r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\t\r\n\t\t\t\t
+      \  \t\r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\tEdward J. DeBartolo Hall 303"
+- !ruby/object:Course
+  name: Beginning Spanish II
+  credit: '4'
+  coursenum: ROSP10102
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '2'
+    max_spots: '19'
+    crn: '20572'
+    instructor: Cruz-Fernandez, Mariana
+    time: ! "(1) M W F  - 8:30A - 9:20A\r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\r\n\t\t\t
+      \  \t\t\r\n\t\t\t   \t  \r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\t(2) T  - 9:30A
+      - 10:45A"
+    location: ! "Edward J. DeBartolo Hall 204 \r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\t\r\n\t\t\t\t
+      \  \t\r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\tEdward J. DeBartolo Hall 306"
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '9'
+    max_spots: '19'
+    crn: '20137'
+    instructor: Langsfeld, Hannah
+    time: ! "(1) M W F  - 9:35A - 10:25A\r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\r\n\t\t\t
+      \  \t\t\r\n\t\t\t   \t  \r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\t(2) R  - 9:30A
+      - 10:45A"
+    location: ! "Edward J. DeBartolo Hall 245 \r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\t\r\n\t\t\t\t
+      \  \t\r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\tO'Shaughnessy Hall 207"
+  - !ruby/object:Section
+    section_num: '03'
+    open_spots: '5'
+    max_spots: '19'
+    crn: '20338'
+    instructor: Topash-Rios, Andrea
+    time: ! "(1) M W F  - 9:35A - 10:25A\r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\r\n\t\t\t
+      \  \t\t\r\n\t\t\t   \t  \r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\t(2) R  - 9:30A
+      - 10:45A"
+    location: ! "Edward J. DeBartolo Hall 205 \r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\t\r\n\t\t\t\t
+      \  \t\r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\tEdward J. DeBartolo Hall 305"
+  - !ruby/object:Section
+    section_num: '04'
+    open_spots: '3'
+    max_spots: '19'
+    crn: '20738'
+    instructor: Avila, Jasmin
+    time: ! "(1) M W F  - 10:40A - 11:30A\r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\r\n\t\t\t
+      \  \t\t\r\n\t\t\t   \t  \r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\t(2) R  - 11:00A
+      - 12:15P"
+    location: ! "Edward J. DeBartolo Hall 302 \r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\t\r\n\t\t\t\t
+      \  \t\r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\tEdward J. DeBartolo Hall 304"
+  - !ruby/object:Section
+    section_num: '05'
+    open_spots: '8'
+    max_spots: '19'
+    crn: '20875'
+    instructor: Cossio Olavide, Mario Antonio
+    time: ! "(1) M W F  - 10:40A - 11:30A\r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\r\n\t\t\t
+      \  \t\t\r\n\t\t\t   \t  \r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\t(2) T  - 9:30A
+      - 10:45A"
+    location: ! "Edward J. DeBartolo Hall 308 \r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\t\r\n\t\t\t\t
+      \  \t\r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\tEdward J. DeBartolo Hall 308"
+  - !ruby/object:Section
+    section_num: '06'
+    open_spots: '0'
+    max_spots: '19'
+    crn: '21505'
+    instructor: Shimrock, Andrew
+    time: ! "(1) M W F  - 11:45A - 12:35P\r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\r\n\t\t\t
+      \  \t\t\r\n\t\t\t   \t  \r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\t(2) T  - 11:00A
+      - 12:15P"
+    location: ! "Coleman Morse Center 234 \r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\t\r\n\t\t\t\t
+      \  \t\r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\tEdward J. DeBartolo Hall 306"
+- !ruby/object:Course
+  name: Intermediate Spanish I
+  credit: '3'
+  coursenum: ROSP20201
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '14'
+    max_spots: '19'
+    crn: '20169'
+    instructor: Marchese, John
+    time: M W F  - 8:30A - 9:20A
+    location: Edward J. DeBartolo Hall 206
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '17'
+    max_spots: '19'
+    crn: '21490'
+    instructor: Gregory Negron, David
+    time: M W F  - 9:35A - 10:25A
+    location: Edward J. DeBartolo Hall 308
+  - !ruby/object:Section
+    section_num: '03'
+    open_spots: '0'
+    max_spots: '19'
+    crn: '20170'
+    instructor: Botero, Tatiana
+    time: M W F  - 9:35A - 10:25A
+    location: Edward J. DeBartolo Hall 204
+  - !ruby/object:Section
+    section_num: '04'
+    open_spots: '0'
+    max_spots: '19'
+    crn: '21478'
+    instructor: Jancha, Monica
+    time: M W F  - 10:40A - 11:30A
+    location: Edward J. DeBartolo Hall 205
+  - !ruby/object:Section
+    section_num: '05'
+    open_spots: '0'
+    max_spots: '19'
+    crn: '20244'
+    instructor: Botero, Tatiana
+    time: M W F  - 10:40A - 11:30A
+    location: Edward J. DeBartolo Hall 204
+  - !ruby/object:Section
+    section_num: '06'
+    open_spots: '0'
+    max_spots: '19'
+    crn: '21640'
+    instructor: Coloma, Maria
+    time: M W F  - 11:45A - 12:35P
+    location: Coleman Morse Center 231
+  - !ruby/object:Section
+    section_num: '07'
+    open_spots: '0'
+    max_spots: '19'
+    crn: '20443'
+    instructor: Jancha, Monica
+    time: M W F  - 11:45A - 12:35P
+    location: Edward J. DeBartolo Hall 205
+  - !ruby/object:Section
+    section_num: 08
+    open_spots: '0'
+    max_spots: '19'
+    crn: '20138'
+    instructor: Jancha, Monica
+    time: M W F  - 12:50P - 1:40P
+    location: Edward J. DeBartolo Hall 205
+  - !ruby/object:Section
+    section_num: 09
+    open_spots: '7'
+    max_spots: '19'
+    crn: '21298'
+    instructor: Botero, Tatiana
+    time: M W F  - 1:55P - 2:45P
+    location: Edward J. DeBartolo Hall 204
+  - !ruby/object:Section
+    section_num: '10'
+    open_spots: '13'
+    max_spots: '19'
+    crn: '28839'
+    instructor: Parroquin, Rachel
+    time: M W F  - 3:00P - 3:50P
+    location: Edward J. DeBartolo Hall 206
+- !ruby/object:Course
+  name: Intermediate Spanish II
+  credit: '3'
+  coursenum: ROSP20202
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '3'
+    max_spots: '19'
+    crn: '21044'
+    instructor: Mangione-Lora, Elena
+    time: M W F  - 9:35A - 10:25A
+    location: Coleman Morse Center 234
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '0'
+    max_spots: '19'
+    crn: '21236'
+    instructor: Mangione-Lora, Elena
+    time: M W F  - 10:40A - 11:30A
+    location: Coleman Morse Center 234
+  - !ruby/object:Section
+    section_num: '03'
+    open_spots: '5'
+    max_spots: '19'
+    crn: '21582'
+    instructor: Rodriguez, Bretton
+    time: M W F  - 11:45A - 12:35P
+    location: O'Shaughnessy Hall 114
+  - !ruby/object:Section
+    section_num: '04'
+    open_spots: '0'
+    max_spots: '19'
+    crn: '20523'
+    instructor: Botero, Tatiana
+    time: M W F  - 11:45A - 12:35P
+    location: Edward J. DeBartolo Hall 204
+  - !ruby/object:Section
+    section_num: '05'
+    open_spots: '5'
+    max_spots: '19'
+    crn: '20295'
+    instructor: Menes, Ivis
+    time: M W F  - 12:50P - 1:40P
+    location: Edward J. DeBartolo Hall 206
+  - !ruby/object:Section
+    section_num: '06'
+    open_spots: '9'
+    max_spots: '19'
+    crn: '21644'
+    instructor: Menes, Ivis
+    time: M W F  - 1:55P - 2:45P
+    location: Edward J. DeBartolo Hall 206
+  - !ruby/object:Section
+    section_num: '07'
+    open_spots: '10'
+    max_spots: '19'
+    crn: '22048'
+    instructor: Jancha, Monica
+    time: M W F  - 3:00P - 3:50P
+    location: Edward J. DeBartolo Hall 303
+- !ruby/object:Course
+  name: Conversation and Writing
+  credit: '3'
+  coursenum: ROSP20237
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '9'
+    max_spots: '19'
+    crn: '22308'
+    instructor: Ameriks, Geraldine
+    time: M W F  - 9:35A - 10:25A
+    location: O'Shaughnessy Hall 206
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '0'
+    max_spots: '19'
+    crn: '22309'
+    instructor: Ameriks, Geraldine
+    time: M W F  - 10:40A - 11:30A
+    location: O'Shaughnessy Hall 206
+  - !ruby/object:Section
+    section_num: '03'
+    open_spots: '0'
+    max_spots: '19'
+    crn: '22310'
+    instructor: Topash-Rios, Andrea
+    time: M W F  - 11:45A - 12:35P
+    location: Edward J. DeBartolo Hall 303
+  - !ruby/object:Section
+    section_num: '04'
+    open_spots: '0'
+    max_spots: '19'
+    crn: '23873'
+    instructor: Mangione-Lora, Elena
+    time: M W F  - 12:50P - 1:40P
+    location: Coleman Morse Center 234
+  - !ruby/object:Section
+    section_num: '05'
+    open_spots: '1'
+    max_spots: '19'
+    crn: '28840'
+    instructor: Mangione-Lora, Elena
+    time: M W F  - 1:55P - 2:45P
+    location: Coleman Morse Center 234
+- !ruby/object:Course
+  name: Spanish for Medical Profession
+  credit: '3'
+  coursenum: ROSP20460
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '19'
+    crn: '22230'
+    instructor: Coloma, Maria
+    time: M W F  - 1:55P - 2:45P
+    location: Edward J. DeBartolo Hall 306
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '5'
+    max_spots: '19'
+    crn: '25007'
+    instructor: Coloma, Maria
+    time: M W F  - 3:00P - 3:50P
+    location: Edward J. DeBartolo Hall 306
+- !ruby/object:Course
+  name: ! 'CBL: Lang, Cult and Community'
+  credit: '3'
+  coursenum: ROSP20810
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '1'
+    max_spots: '17'
+    crn: '28841'
+    instructor: Parroquin, Rachel
+    time: M W  - 1:30P - 2:45P
+    location: O'Shaughnessy Hall 115
+- !ruby/object:Course
+  name: LAC Spanish Discussion Group
+  credit: '1'
+  coursenum: ROSP22300
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '23600'
+    instructor: TBA
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Aprch Hspnic Culture by Writng
+  credit: '3'
+  coursenum: ROSP27500
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '7'
+    max_spots: '19'
+    crn: '22311'
+    instructor: Menes, Ivis
+    time: M W F  - 9:35A - 10:25A
+    location: Edward J. DeBartolo Hall 206
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '3'
+    max_spots: '19'
+    crn: '22312'
+    instructor: Menes, Ivis
+    time: M W F  - 10:40A - 11:30A
+    location: Edward J. DeBartolo Hall 206
+  - !ruby/object:Section
+    section_num: '03'
+    open_spots: '0'
+    max_spots: '19'
+    crn: '22313'
+    instructor: TBA
+    time: M W F  - 11:45A - 12:35P
+    location: Edward J. DeBartolo Hall 206
+- !ruby/object:Course
+  name: Textual Analysis
+  credit: '3'
+  coursenum: ROSP30310
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '19'
+    crn: '20587'
+    instructor: Martinez Diente, Pablo
+    time: M W  - 3:00P - 4:15P
+    location: Edward J. DeBartolo Hall 143
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '0'
+    max_spots: '19'
+    crn: '20121'
+    instructor: Martinez Diente, Pablo
+    time: M W  - 1:30P - 2:45P
+    location: Edward J. DeBartolo Hall 143
+  - !ruby/object:Section
+    section_num: '03'
+    open_spots: '0'
+    max_spots: '19'
+    crn: '25006'
+    instructor: Ramirez, Emmanuel
+    time: T R  - 9:30A - 10:45A
+    location: Edward J. DeBartolo Hall 349
+  - !ruby/object:Section
+    section_num: '04'
+    open_spots: '0'
+    max_spots: '19'
+    crn: '20926'
+    instructor: Jorza, Diana
+    time: T R  - 2:00P - 3:15P
+    location: Edward J. DeBartolo Hall 349
+  - !ruby/object:Section
+    section_num: '05'
+    open_spots: '0'
+    max_spots: '19'
+    crn: '23950'
+    instructor: Olivera-Williams, Maria
+    time: M W  - 1:30P - 2:45P
+    location: Edward J. DeBartolo Hall 113
+- !ruby/object:Course
+  name: Advanced Grammar & Writing
+  credit: '3'
+  coursenum: ROSP30320
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '6'
+    max_spots: '19'
+    crn: '20366'
+    instructor: Ameriks, Geraldine
+    time: M W F  - 1:55P - 2:45P
+    location: O'Shaughnessy Hall 209
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '16'
+    max_spots: '19'
+    crn: '21520'
+    instructor: Ameriks, Geraldine
+    time: M W F  - 3:00P - 3:50P
+    location: O'Shaughnessy Hall 209
+- !ruby/object:Course
+  name: Survey of Spanish Literature I
+  credit: '3'
+  coursenum: ROSP30710
+  sections:
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '0'
+    max_spots: '18'
+    crn: '23094'
+    instructor: Vitulli, Juan
+    time: T R  - 12:30P - 1:45P
+    location: Edward J. DeBartolo Hall 301
+- !ruby/object:Course
+  name: Survey of Spanish Lit. II
+  credit: '3'
+  coursenum: ROSP30720
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '22'
+    crn: '21265'
+    instructor: Jerez-Farran, Carlos
+    time: M W  - 1:30P - 2:45P
+    location: O'Shaughnessy Hall 208
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '0'
+    max_spots: '19'
+    crn: '23095'
+    instructor: Jorza, Diana
+    time: T R  - 11:00A - 12:15P
+    location: Riley Hall of Art 200
+- !ruby/object:Course
+  name: Survey of Spanish Amer Lit I
+  credit: '3'
+  coursenum: ROSP30810
+  sections:
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '0'
+    max_spots: '19'
+    crn: '26570'
+    instructor: Jauregui, Carlos
+    time: T R  - 11:00A - 12:15P
+    location: O'Shaughnessy Hall 118
+- !ruby/object:Course
+  name: Survey of Spanish-Amer Lit II
+  credit: '3'
+  coursenum: ROSP30820
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '18'
+    crn: '21994'
+    instructor: Miseres, Vanesa
+    time: M W  - 1:30P - 2:45P
+    location: Haggar Hall B016
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '0'
+    max_spots: '20'
+    crn: '28842'
+    instructor: Wells, Sarah
+    time: T R  - 2:00P - 3:15P
+    location: Edward J. DeBartolo Hall B011
+- !ruby/object:Course
+  name: LAC Spanish Discussion Group
+  credit: '1'
+  coursenum: ROSP32300
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '23601'
+    instructor: TBA
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Spanish Civil War
+  credit: '3'
+  coursenum: ROSP40450
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '19'
+    crn: '29866'
+    instructor: Martinez Diente, Pablo
+    time: M W  - 11:45A - 1:00P
+    location: Edward J. DeBartolo Hall 143
+- !ruby/object:Course
+  name: Gender/Nat'l Iden Sp Cinema
+  credit: '3'
+  coursenum: ROSP40530
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '14'
+    crn: '29371'
+    instructor: Jerez-Farran, Carlos
+    time: M W  - 3:00P - 4:15P
+    location: O'Shaughnessy Hall 208
+- !ruby/object:Course
+  name: Cannibalism-Symbolic Enchilada
+  credit: '3'
+  coursenum: ROSP40662
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '18'
+    crn: '29547'
+    instructor: Jauregui, Carlos
+    time: T R  - 12:30P - 1:45P
+    location: O'Shaughnessy Hall 209
+- !ruby/object:Course
+  name: Race & Ethnicity in U.S.
+  credit: '4'
+  coursenum: ROSP40876
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '13'
+    crn: '25438'
+    instructor: Moreno, Marisel
+    time: T R  - 11:00A - 12:15P
+    location: Edward J. DeBartolo Hall 335
+- !ruby/object:Course
+  name: Imagining Home from Abroad
+  credit: '3'
+  coursenum: ROSP40994
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '16'
+    crn: '28843'
+    instructor: Miseres, Vanesa
+    time: M W  - 11:45A - 1:00P
+    location: Grace Hall 346
+- !ruby/object:Course
+  name: Special Studies
+  credit: '3'
+  coursenum: ROSP47000
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '1'
+    max_spots: '1'
+    crn: '22173'
+    instructor: TBA
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '1'
+    max_spots: '1'
+    crn: '22178'
+    instructor: TBA
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Senior Seminar
+  credit: '3'
+  coursenum: ROSP53000
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '13'
+    max_spots: '19'
+    crn: '23290'
+    instructor: Olivera-Williams, Maria
+    time: M W  - 3:00P - 4:15P
+    location: Edward J. DeBartolo Hall 113
+- !ruby/object:Course
+  name: Honors Thesis
+  credit: '1.5'
+  coursenum: ROSP58000
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '24768'
+    instructor: TBA
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '25605'
+    instructor: TBA
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Cuban Lit, History, & Culture
+  credit: '3'
+  coursenum: ROSP63875
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '7'
+    max_spots: '10'
+    crn: '29373'
+    instructor: Anderson, Thomas
+    time: W  - 3:30P - 6:15P
+    location: Edward J. DeBartolo Hall 149
+- !ruby/object:Course
+  name: The Baroque in Spain
+  credit: '3'
+  coursenum: ROSP63912
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '6'
+    max_spots: '10'
+    crn: '29374'
+    instructor: Vitulli, Juan
+    time: T  - 3:30P - 6:15P
+    location: Edward J. DeBartolo Hall B011
+- !ruby/object:Course
+  name: Directed Readings
+  credit: '2'
+  coursenum: ROSP66000
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '20707'
+    instructor: TBA
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '1'
+    max_spots: '1'
+    crn: '22171'
+    instructor: TBA
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Special Studies
+  credit: '3'
+  coursenum: ROSP67000
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '3'
+    max_spots: '3'
+    crn: '21034'
+    instructor: TBA
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Directed Readings
+  credit: '3'
+  coursenum: ROSP76000
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '20545'
+    instructor: Heller, Ben
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Thesis Direction
+  credit: V
+  coursenum: ROSP78599
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '2'
+    max_spots: '2'
+    crn: '21425'
+    instructor: Heller, Ben
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '1'
+    max_spots: '2'
+    crn: '29872'
+    instructor: Vitulli, Juan
+    time: TBA
+    location: TBA
+urse: ROSP30710
+  :section: '02'
+  :title: Survey of Spanish Literature I
+  :credits: '3'
+  :status: CL
+  :max_spots: '18'
+  :open_spots: '0'
+  :xlst: Y
+  :crn: '23094'
+  :syl: ! '&nbsp'
+  :instructor: Vitulli, Juan
+  :when: T R  - 12:30P - 1:45P
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: Edward J. DeBartolo Hall 301
+- :course: ROSP30720
+  :section: '01'
+  :title: Survey of Spanish Lit. II
+  :credits: '3'
+  :status: OP
+  :max_spots: '22'
+  :open_spots: '1'
+  :xlst: ! '&nbsp'
+  :crn: '21265'
+  :syl: ! '&nbsp'
+  :instructor: Jerez-Farran, Carlos
+  :when: M W  - 1:30P - 2:45P
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: O'Shaughnessy Hall 208
+- :course: ROSP30720
+  :section: '02'
+  :title: Survey of Spanish Lit II
+  :credits: '3'
+  :status: CL
+  :max_spots: '19'
+  :open_spots: '0'
+  :xlst: ! '&nbsp'
+  :crn: '23095'
+  :syl: ! '&nbsp'
+  :instructor: Jorza, Diana
+  :when: T R  - 11:00A - 12:15P
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: Riley Hall of Art 200
+- :course: ROSP30810
+  :section: '02'
+  :title: Survey of Spanish Amer Lit I
+  :credits: '3'
+  :status: CL
+  :max_spots: '19'
+  :open_spots: '0'
+  :xlst: ! '&nbsp'
+  :crn: '26570'
+  :syl: ! '&nbsp'
+  :instructor: Jauregui, Carlos
+  :when: T R  - 11:00A - 12:15P
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: O'Shaughnessy Hall 118
+- :course: ROSP30820
+  :section: '01'
+  :title: Survey of Spanish-Amer Lit II
+  :credits: '3'
+  :status: CL
+  :max_spots: '18'
+  :open_spots: '0'
+  :xlst: Y
+  :crn: '21994'
+  :syl: ! '&nbsp'
+  :instructor: Miseres, Vanesa
+  :when: M W  - 1:30P - 2:45P
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: Haggar Hall B016
+- :course: ROSP30820
+  :section: '02'
+  :title: Survey of Spanish-Amer Lit II
+  :credits: '3'
+  :status: CL
+  :max_spots: '19'
+  :open_spots: '0'
+  :xlst: ! '&nbsp'
+  :crn: '28842'
+  :syl: ! '&nbsp'
+  :instructor: Wells, Sarah
+  :when: T R  - 2:00P - 3:15P
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: Edward J. DeBartolo Hall B011
+- :course: ROSP32300
+  :section: '01'
+  :title: LAC Spanish Discussion Group
+  :credits: '1'
+  :status: OP
+  :max_spots: '5'
+  :open_spots: '5'
+  :xlst: ! '&nbsp'
+  :crn: '23601'
+  :syl: ! '&nbsp'
+  :instructor: TBA
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: ROSP40450
+  :section: '01'
+  :title: Spanish Civil War
+  :credits: '3'
+  :status: OP
+  :max_spots: '19'
+  :open_spots: '2'
+  :xlst: ! '&nbsp'
+  :crn: '29866'
+  :syl: ! '&nbsp'
+  :instructor: Martinez Diente, Pablo
+  :when: M W  - 11:45A - 1:00P
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: Edward J. DeBartolo Hall 143
+- :course: ROSP40530
+  :section: '01'
+  :title: Gender/Nat'l Iden Sp Cinema
+  :credits: '3'
+  :status: CL
+  :max_spots: '14'
+  :open_spots: '0'
+  :xlst: Y
+  :crn: '29371'
+  :syl: ! '&nbsp'
+  :instructor: Jerez-Farran, Carlos
+  :when: M W  - 3:00P - 4:15P
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: O'Shaughnessy Hall 208
+- :course: ROSP40662
+  :section: '01'
+  :title: Cannibalism-Symbolic Enchilada
+  :credits: '3'
+  :status: CL
+  :max_spots: '18'
+  :open_spots: '0'
+  :xlst: Y
+  :crn: '29547'
+  :syl: ! '&nbsp'
+  :instructor: Jauregui, Carlos
+  :when: T R  - 12:30P - 1:45P
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: O'Shaughnessy Hall 209
+- :course: ROSP40876
+  :section: '01'
+  :title: Race & Ethnicity in U.S.
+  :credits: '4'
+  :status: CL
+  :max_spots: '13'
+  :open_spots: '0'
+  :xlst: Y
+  :crn: '25438'
+  :syl: ! '&nbsp'
+  :instructor: Moreno, Marisel
+  :when: T R  - 11:00A - 12:15P
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: Edward J. DeBartolo Hall 335
+- :course: ROSP40994
+  :section: '01'
+  :title: Imagining Home from Abroad
+  :credits: '3'
+  :status: CL
+  :max_spots: '16'
+  :open_spots: '0'
+  :xlst: Y
+  :crn: '28843'
+  :syl: ! '&nbsp'
+  :instructor: Miseres, Vanesa
+  :when: M W  - 11:45A - 1:00P
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: Grace Hall 346
+- :course: ROSP47000
+  :section: '01'
+  :title: Special Studies
+  :credits: '3'
+  :status: OP
+  :max_spots: '1'
+  :open_spots: '1'
+  :xlst: ! '&nbsp'
+  :crn: '22173'
+  :syl: ! '&nbsp'
+  :instructor: TBA
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: ROSP47000
+  :section: '02'
+  :title: Special Studies
+  :credits: '3'
+  :status: OP
+  :max_spots: '1'
+  :open_spots: '1'
+  :xlst: ! '&nbsp'
+  :crn: '22178'
+  :syl: ! '&nbsp'
+  :instructor: TBA
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: ROSP53000
+  :section: '01'
+  :title: Senior Seminar
+  :credits: '3'
+  :status: OP
+  :max_spots: '19'
+  :open_spots: '13'
+  :xlst: ! '&nbsp'
+  :crn: '23290'
+  :syl: ! '&nbsp'
+  :instructor: Olivera-Williams, Maria
+  :when: M W  - 3:00P - 4:15P
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: Edward J. DeBartolo Hall 113
+- :course: ROSP58000
+  :section: '01'
+  :title: Honors Thesis
+  :credits: '1.5'
+  :status: OP
+  :max_spots: '5'
+  :open_spots: '5'
+  :xlst: ! '&nbsp'
+  :crn: '24768'
+  :syl: ! '&nbsp'
+  :instructor: TBA
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: ROSP58000
+  :section: '02'
+  :title: Honors Thesis
+  :credits: '1.5'
+  :status: OP
+  :max_spots: '5'
+  :open_spots: '5'
+  :xlst: ! '&nbsp'
+  :crn: '25605'
+  :syl: ! '&nbsp'
+  :instructor: TBA
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: ROSP63875
+  :section: '01'
+  :title: Cuban Lit, History, & Culture
+  :credits: '3'
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '9'
+  :xlst: Y
+  :crn: '29373'
+  :syl: ! '&nbsp'
+  :instructor: Anderson, Thomas
+  :when: W  - 3:30P - 6:15P
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: Edward J. DeBartolo Hall 149
+- :course: ROSP63912
+  :section: '01'
+  :title: The Baroque in Spain
+  :credits: '3'
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '8'
+  :xlst: Y
+  :crn: '29374'
+  :syl: ! '&nbsp'
+  :instructor: Vitulli, Juan
+  :when: T  - 3:30P - 6:15P
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: Edward J. DeBartolo Hall B011
+- :course: ROSP66000
+  :section: '01'
+  :title: Directed Readings
+  :credits: '2'
+  :status: OP
+  :max_spots: '5'
+  :open_spots: '5'
+  :xlst: ! '&nbsp'
+  :crn: '20707'
+  :syl: ! '&nbsp'
+  :instructor: TBA
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: ROSP66000
+  :section: '02'
+  :title: Directed Readings
+  :credits: V
+  :status: OP
+  :max_spots: '1'
+  :open_spots: '1'
+  :xlst: ! '&nbsp'
+  :crn: '22171'
+  :syl: ! '&nbsp'
+  :instructor: TBA
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: ROSP67000
+  :section: '01'
+  :title: Special Studies
+  :credits: '3'
+  :status: OP
+  :max_spots: '3'
+  :open_spots: '3'
+  :xlst: ! '&nbsp'
+  :crn: '21034'
+  :syl: ! '&nbsp'
+  :instructor: TBA
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: ROSP76000
+  :section: '01'
+  :title: Directed Readings
+  :credits: '3'
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '20545'
+  :syl: ! '&nbsp'
+  :instructor: Heller, Ben
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: ROSP78599
+  :section: '01'
+  :title: Thesis Direction
+  :credits: V
+  :status: OP
+  :max_spots: '2'
+  :open_spots: '2'
+  :xlst: ! '&nbsp'
+  :crn: '21425'
+  :syl: ! '&nbsp'
+  :instructor: Heller, Ben
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: ROSP78599
+  :section: '02'
+  :title: Thesis Direction
+  :credits: V
+  :status: OP
+  :max_spots: '2'
+  :open_spots: '2'
+  :xlst: ! '&nbsp'
+  :crn: '29872'
+  :syl: ! '&nbsp'
+  :instructor: Vitulli, Juan
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA

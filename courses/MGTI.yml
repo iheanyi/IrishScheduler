@@ -1,0 +1,97 @@
+---
+- !ruby/object:Course
+  name: Business Intelligence
+  credit: '3'
+  coursenum: MGTI30620
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '12'
+    max_spots: '22'
+    crn: '29079'
+    instructor: Hao, Lin
+    time: T R  - 9:30A - 10:45A
+    location: Mendoza College of Business L014A
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '4'
+    max_spots: '22'
+    crn: '29078'
+    instructor: Hao, Lin
+    time: T R  - 12:30P - 1:45P
+    location: Mendoza College of Business L014A
+  - !ruby/object:Section
+    section_num: '03'
+    open_spots: '3'
+    max_spots: '22'
+    crn: '29080'
+    instructor: Hao, Lin
+    time: T R  - 2:00P - 3:15P
+    location: Mendoza College of Business L014A
+- !ruby/object:Course
+  name: Systems Analysis and Design
+  credit: '3'
+  coursenum: MGTI30630
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '7'
+    max_spots: '40'
+    crn: '23683'
+    instructor: Sun, Daewon
+    time: T R  - 9:30A - 10:45A
+    location: Mendoza College of Business L051
+- !ruby/object:Course
+  name: Networking and Security
+  credit: '3'
+  coursenum: MGTI30640
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '24'
+    crn: '20105'
+    instructor: Seidl, David
+    time: M W  - 11:45A - 1:00P
+    location: Mendoza College of Business L014A
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '1'
+    max_spots: '24'
+    crn: '23684'
+    instructor: Chapple, Michael
+    time: T R  - 11:00A - 12:15P
+    location: Mendoza College of Business L014A
+- !ruby/object:Course
+  name: Building Web Applications
+  credit: '3'
+  coursenum: MGTI40660
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '24'
+    crn: '24991'
+    instructor: Arp, Jonathan
+    time: M W  - 3:00P - 4:15P
+    location: Mendoza College of Business L014A
+chael
+  :when: T R  - 11:00A - 12:15P
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: Mendoza College of Business L014A
+- :course: MGTI40660
+  :section: '01'
+  :title: Building Web Applications
+  :credits: '3'
+  :status: OP
+  :max_spots: '24'
+  :open_spots: '1'
+  :xlst: ! '&nbsp'
+  :crn: '24991'
+  :syl: ! '&nbsp'
+  :instructor: Arp, Jonathan
+  :when: M W  - 3:00P - 4:15P
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: Mendoza College of Business L014A

@@ -1,0 +1,295 @@
+---
+- !ruby/object:Course
+  name: Intro to Computer Systems
+  credit: '3'
+  coursenum: CAPP20505
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '3'
+    max_spots: '25'
+    crn: '21914'
+    instructor: Berzai, Louis
+    time: M W F  - 8:30A - 9:20A
+    location: Edward J. DeBartolo Hall 116
+- !ruby/object:Course
+  name: Intro to Computer Systems
+  credit: '3'
+  coursenum: CAPP20506
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '18'
+    max_spots: '24'
+    crn: '21913'
+    instructor: Berzai, Louis
+    time: M W F  - 8:30A - 9:20A
+    location: Edward J. DeBartolo Hall 116
+- !ruby/object:Course
+  name: La Telenovela
+  credit: '3'
+  coursenum: CAPP23507
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '3'
+    crn: '29461'
+    instructor: Barry, Kevin
+    time: T R  - 9:30A - 10:45A
+    location: Edward J. DeBartolo Hall B011
+- !ruby/object:Course
+  name: Visual Basic
+  credit: '3'
+  coursenum: CAPP30350
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '2'
+    max_spots: '25'
+    crn: '21345'
+    instructor: Irmiger, Donald
+    time: M W  - 5:10P - 6:25P
+    location: Edward J. DeBartolo Hall 228
+- !ruby/object:Course
+  name: Systems Analysis and Design
+  credit: '3'
+  coursenum: CAPP30515
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '12'
+    max_spots: '45'
+    crn: '21309'
+    instructor: Berzai, Louis
+    time: M W F  - 9:35A - 10:25A
+    location: Edward J. DeBartolo Hall 116
+- !ruby/object:Course
+  name: E-Business Strategies
+  credit: '3'
+  coursenum: CAPP30521
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '30'
+    crn: '22288'
+    instructor: Coughlin, Amy
+    time: M W  - 10:15A - 11:30A
+    location: Edward J. DeBartolo Hall 224
+- !ruby/object:Course
+  name: Applied Multimedia Technology
+  credit: '3'
+  coursenum: CAPP30523
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '17'
+    max_spots: '20'
+    crn: '24605'
+    instructor: Clark, G. Christopher Turner, Paul
+    time: M W  - 1:30P - 2:45P
+    location: Edward J. DeBartolo Hall 331
+- !ruby/object:Course
+  name: Current Trends in Computer App
+  credit: '3'
+  coursenum: CAPP40150
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '5'
+    max_spots: '30'
+    crn: '21262'
+    instructor: Berzai, Louis
+    time: M W F  - 10:40A - 11:30A
+    location: Edward J. DeBartolo Hall 116
+- !ruby/object:Course
+  name: The Internet and Society
+  credit: '3'
+  coursenum: CAPP40210
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '1'
+    max_spots: '30'
+    crn: '23574'
+    instructor: Rose, Kathryn
+    time: T R  - 11:00A - 12:15P
+    location: Edward J. DeBartolo Hall 119
+- !ruby/object:Course
+  name: Computers in Psychology
+  credit: '3'
+  coursenum: CAPP40545
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '3'
+    max_spots: '5'
+    crn: '22293'
+    instructor: Crowell, Charles
+    time: T R  - 3:30P - 4:45P
+    location: TBA
+- !ruby/object:Course
+  name: Practicum in Robotics
+  credit: '3'
+  coursenum: CAPP40546
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '4'
+    max_spots: '6'
+    crn: '25144'
+    instructor: Crowell, Charles Villano, Michael
+    time: T R  - 2:00P - 3:15P
+    location: Flanner Hall B09A
+- !ruby/object:Course
+  name: Practicum in Org Improvement
+  credit: '3'
+  coursenum: CAPP40548
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '14'
+    max_spots: '15'
+    crn: '28578'
+    instructor: Crowell, Charles
+    time: T R  - 3:30P - 4:45P
+    location: Flanner Hall B09A
+- !ruby/object:Course
+  name: Digital 3-D
+  credit: '3'
+  coursenum: CAPP40550
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '2'
+    max_spots: '2'
+    crn: '23326'
+    instructor: Melchiorri, Kevin
+    time: M W F  - 8:30A - 10:25A
+    location: West Lake Hall (Telecomm) 204
+- !ruby/object:Course
+  name: Motion Design 1
+  credit: '3'
+  coursenum: CAPP40551
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '3'
+    max_spots: '3'
+    crn: '29462'
+    instructor: Murnieks, Andre
+    time: M W  - 3:00P - 6:00P
+    location: West Lake Hall (Telecomm) 204
+- !ruby/object:Course
+  name: Music Through Technology
+  credit: '3'
+  coursenum: CAPP40553
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '11'
+    max_spots: '20'
+    crn: '21996'
+    instructor: Dye, Kenneth Merten, MatthewSanchez, Samuel
+    time: T R  - 2:00P - 3:15P
+    location: Band Rehearsal Hall 103
+- !ruby/object:Course
+  name: Advanced Enterprise Apps
+  credit: '3'
+  coursenum: CAPP40557
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '14'
+    max_spots: '26'
+    crn: '29724'
+    instructor: Miller, Patrick
+    time: M W  - 11:45A - 1:00P
+    location: Edward J. DeBartolo Hall 202
+- !ruby/object:Course
+  name: Web Design 1
+  credit: '3'
+  coursenum: CAPP40561
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '3'
+    crn: '29463'
+    instructor: Murnieks, Andre
+    time: M W  - 11:45A - 2:45P
+    location: West Lake Hall (Telecomm) 219
+- !ruby/object:Course
+  name: Internship
+  credit: V
+  coursenum: CAPP45565
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '20540'
+    instructor: Berzai, Louis
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '5'
+    max_spots: '5'
+    crn: '24141'
+    instructor: Crowell, Charles
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Special Studies
+  credit: '3'
+  coursenum: CAPP47567
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '3'
+    max_spots: '5'
+    crn: '21228'
+    instructor: Berzai, Louis
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '04'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '23575'
+    instructor: Villano, Michael
+    time: TBA
+    location: TBA
+  :location: TBA
+- :course: CAPP47567
+  :section: '01'
+  :title: Special Studies
+  :credits: '3'
+  :status: OP
+  :max_spots: '5'
+  :open_spots: '3'
+  :xlst: ! '&nbsp'
+  :crn: '21228'
+  :syl: ! '&nbsp'
+  :instructor: Berzai, Louis
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: CAPP47567
+  :section: '04'
+  :title: Special Studies
+  :credits: V
+  :status: OP
+  :max_spots: '10'
+  :open_spots: '10'
+  :xlst: ! '&nbsp'
+  :crn: '23575'
+  :syl: ! '&nbsp'
+  :instructor: Villano, Michael
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA

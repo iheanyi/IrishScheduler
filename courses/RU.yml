@@ -1,0 +1,306 @@
+---
+- !ruby/object:Course
+  name: Beginning Russian II
+  credit: '4'
+  coursenum: RU10102
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '10'
+    max_spots: '18'
+    crn: '20719'
+    instructor: Peeney, Molly
+    time: ! "(1) M W F  - 12:50P - 1:40P\r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\r\n\t\t\t
+      \  \t\t\r\n\t\t\t   \t  \r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\t(2) T  - 12:55P
+      - 1:45P"
+    location: ! "O'Shaughnessy Hall 209 \r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\t\r\n\t\t\t\t
+      \  \t\r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\tEdward J. DeBartolo Hall 330"
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '13'
+    max_spots: '18'
+    crn: '20799'
+    instructor: Gillespie, Alyssa
+    time: ! "(1) M W F  - 9:35A - 10:25A\r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\r\n\t\t\t
+      \  \t\t\r\n\t\t\t   \t  \r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\t(2) T  - 9:30A
+      - 10:20A"
+    location: ! "O'Shaughnessy Hall 209 \r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\t\r\n\t\t\t\t
+      \  \t\r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\tO'Shaughnessy Hall 338"
+- !ruby/object:Course
+  name: Literature University Seminar
+  credit: '3'
+  coursenum: RU13186
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '14'
+    crn: '25081'
+    instructor: Marullo, Thomas
+    time: T R  - 3:30P - 4:45P
+    location: Edward J. DeBartolo Hall 331
+- !ruby/object:Course
+  name: Intermediate Russian II
+  credit: '3'
+  coursenum: RU20102
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '13'
+    max_spots: '17'
+    crn: '20836'
+    instructor: Gasperetti, David
+    time: M W F  - 12:50P - 1:40P
+    location: Edward J. DeBartolo Hall 304
+- !ruby/object:Course
+  name: Women in Russian Lit.
+  credit: '3'
+  coursenum: RU33405
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '7'
+    max_spots: '12'
+    crn: '29330'
+    instructor: Gillespie, Alyssa
+    time: M W F  - 10:40A - 11:30A
+    location: O'Shaughnessy Hall 209
+- !ruby/object:Course
+  name: Advanced Russian II
+  credit: '3'
+  coursenum: RU40102
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '13'
+    max_spots: '14'
+    crn: '22287'
+    instructor: Peeney, Molly
+    time: M W F  - 11:45A - 12:35P
+    location: O'Shaughnessy Hall 209
+- !ruby/object:Course
+  name: Models of Exile
+  credit: '3'
+  coursenum: RU43450
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '12'
+    max_spots: '14'
+    crn: '28667'
+    instructor: Peeney, Molly
+    time: M W  - 3:00P - 4:15P
+    location: Theodore M. Hesburgh Library 1000
+- !ruby/object:Course
+  name: Area Studies Enrichment
+  credit: '1'
+  coursenum: RU47100
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '4'
+    max_spots: '12'
+    crn: '24222'
+    instructor: Gillespie, Alyssa
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Area Studies Thesis II
+  credit: '3'
+  coursenum: RU47102
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '2'
+    max_spots: '2'
+    crn: '24223'
+    instructor: Gillespie, Alyssa
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '2'
+    max_spots: '2'
+    crn: '25538'
+    instructor: Gasperetti, David
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '03'
+    open_spots: '2'
+    max_spots: '2'
+    crn: '25539'
+    instructor: Peeney, Molly
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '04'
+    open_spots: '2'
+    max_spots: '2'
+    crn: '25540'
+    instructor: Martin, Alexander
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '05'
+    open_spots: '2'
+    max_spots: '2'
+    crn: '25541'
+    instructor: Lyandres, Semion
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Independent Studies-Adv. Ru II
+  credit: '3'
+  coursenum: RU47400
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '1'
+    crn: '29855'
+    instructor: Peeney, Molly
+    time: TBA
+    location: TBA
+- !ruby/object:Course
+  name: Honors Thesis Research
+  credit: '3'
+  coursenum: RU48420
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '1'
+    max_spots: '1'
+    crn: '24170'
+    instructor: Gillespie, Alyssa
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '0'
+    max_spots: '1'
+    crn: '25542'
+    instructor: Gasperetti, David
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '03'
+    open_spots: '1'
+    max_spots: '1'
+    crn: '25543'
+    instructor: Peeney, Molly
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '04'
+    open_spots: '1'
+    max_spots: '1'
+    crn: '25544'
+    instructor: Martin, Alexander
+    time: TBA
+    location: TBA
+  - !ruby/object:Section
+    section_num: '05'
+    open_spots: '1'
+    max_spots: '1'
+    crn: '25545'
+    instructor: Lyandres, Semion
+    time: TBA
+    location: TBA
+
+  :syl: ! '&nbsp'
+  :instructor: Lyandres, Semion
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: RU47400
+  :section: '01'
+  :title: Independent Studies-Adv. Ru II
+  :credits: '3'
+  :status: CL
+  :max_spots: '1'
+  :open_spots: '0'
+  :xlst: ! '&nbsp'
+  :crn: '29855'
+  :syl: ! '&nbsp'
+  :instructor: Peeney, Molly
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: RU48420
+  :section: '01'
+  :title: Honors Thesis Research
+  :credits: '3'
+  :status: OP
+  :max_spots: '1'
+  :open_spots: '1'
+  :xlst: ! '&nbsp'
+  :crn: '24170'
+  :syl: ! '&nbsp'
+  :instructor: Gillespie, Alyssa
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: RU48420
+  :section: '02'
+  :title: Honors Thesis Research
+  :credits: '3'
+  :status: CL
+  :max_spots: '1'
+  :open_spots: '0'
+  :xlst: ! '&nbsp'
+  :crn: '25542'
+  :syl: ! '&nbsp'
+  :instructor: Gasperetti, David
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: RU48420
+  :section: '03'
+  :title: Honors Thesis Research
+  :credits: '3'
+  :status: OP
+  :max_spots: '1'
+  :open_spots: '1'
+  :xlst: ! '&nbsp'
+  :crn: '25543'
+  :syl: ! '&nbsp'
+  :instructor: Peeney, Molly
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: RU48420
+  :section: '04'
+  :title: Honors Thesis Research
+  :credits: '3'
+  :status: OP
+  :max_spots: '1'
+  :open_spots: '1'
+  :xlst: ! '&nbsp'
+  :crn: '25544'
+  :syl: ! '&nbsp'
+  :instructor: Martin, Alexander
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA
+- :course: RU48420
+  :section: '05'
+  :title: Honors Thesis Research
+  :credits: '3'
+  :status: OP
+  :max_spots: '1'
+  :open_spots: '1'
+  :xlst: ! '&nbsp'
+  :crn: '25545'
+  :syl: ! '&nbsp'
+  :instructor: Lyandres, Semion
+  :when: TBA
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: TBA

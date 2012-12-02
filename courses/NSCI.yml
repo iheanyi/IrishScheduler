@@ -1,0 +1,125 @@
+---
+- !ruby/object:Course
+  name: Maritime Affairs
+  credit: '2'
+  coursenum: NSCI10102
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '15'
+    max_spots: '25'
+    crn: '22543'
+    instructor: Hood, Michael
+    time: M W  - 9:35A - 10:25A
+    location: Pasquerilla Center 220
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '9'
+    max_spots: '25'
+    crn: '24790'
+    instructor: Hood, Michael
+    time: M W  - 10:40A - 11:30A
+    location: Pasquerilla Center 220
+- !ruby/object:Course
+  name: Navigation
+  credit: '3'
+  coursenum: NSCI20202
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '11'
+    max_spots: '20'
+    crn: '22541'
+    instructor: Bennett, Gerald
+    time: M W  - 11:45A - 1:00P
+    location: Pasquerilla Center 220
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '5'
+    max_spots: '20'
+    crn: '22542'
+    instructor: Bennett, Gerald
+    time: M W  - 3:00P - 4:15P
+    location: Pasquerilla Center 220
+- !ruby/object:Course
+  name: Naval Ships Systems II
+  credit: '3'
+  coursenum: NSCI30302
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '21'
+    max_spots: '25'
+    crn: '22540'
+    instructor: Williams, Christopher
+    time: T R  - 9:30A - 10:45A
+    location: Pasquerilla Center 220
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '12'
+    max_spots: '25'
+    crn: '24652'
+    instructor: Williams, Christopher
+    time: T R  - 12:30P - 1:45P
+    location: Pasquerilla Center 220
+- !ruby/object:Course
+  name: Leadership and Ethics
+  credit: '3'
+  coursenum: NSCI40402
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '12'
+    max_spots: '20'
+    crn: '24912'
+    instructor: Carter, Clarence Smith, Sarah
+    time: T R  - 11:00A - 12:15P
+    location: Pasquerilla Center 220
+  - !ruby/object:Section
+    section_num: '02'
+    open_spots: '10'
+    max_spots: '25'
+    crn: '22539'
+    instructor: Carter, Clarence Smith, Sarah
+    time: T R  - 2:00P - 3:15P
+    location: Pasquerilla Center 220
+- !ruby/object:Course
+  name: Drill/Leadership Laboratory
+  credit: '0'
+  coursenum: NSCI41000
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '44'
+    max_spots: '135'
+    crn: '22538'
+    instructor: Schiller, Jackie
+    time: W  - 5:15P - 6:30P
+    location: Jordan Hall of Science 105
+
+  :status: OP
+  :max_spots: '25'
+  :open_spots: '11'
+  :xlst: ! '&nbsp'
+  :crn: '22539'
+  :syl: ! '&nbsp'
+  :instructor: Carter, Clarence Smith, Sarah
+  :when: T R  - 2:00P - 3:15P
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: Pasquerilla Center 220
+- :course: NSCI41000
+  :section: '01'
+  :title: Drill/Leadership Laboratory
+  :credits: '0'
+  :status: OP
+  :max_spots: '135'
+  :open_spots: '63'
+  :xlst: ! '&nbsp'
+  :crn: '22538'
+  :syl: ! '&nbsp'
+  :instructor: Schiller, Jackie
+  :when: W  - 5:15P - 6:30P
+  :begin: 01/15/2013
+  :end: 05/01/2013
+  :location: Jordan Hall of Science 105
