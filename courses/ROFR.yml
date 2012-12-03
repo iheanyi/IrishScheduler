@@ -60,7 +60,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '10'
+    open_spots: '9'
     max_spots: '15'
     crn: '28832'
     instructor: Werner, Kathleen
@@ -448,6 +448,7 @@
     instructor: TBA
     time: TBA
     location: TBA
+
 d Readings
   :credits: '3'
   :status: OP

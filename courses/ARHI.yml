@@ -117,14 +117,14 @@
   - !ruby/object:Section
     section_num: '01'
     open_spots: '0'
-    max_spots: '10'
+    max_spots: '11'
     crn: '28530'
     instructor: Pyne, Kathleen
     time: M W  - 11:45A - 1:00P
     location: O'Shaughnessy Hall 106
   - !ruby/object:Section
     section_num: '02'
-    open_spots: '0'
+    open_spots: '1'
     max_spots: '10'
     crn: '29432'
     instructor: Pyne, Kathleen
@@ -304,7 +304,7 @@
     location: TBA
   - !ruby/object:Section
     section_num: '02'
-    open_spots: '5'
+    open_spots: '4'
     max_spots: '5'
     crn: '23689'
     instructor: Joyner, Danielle

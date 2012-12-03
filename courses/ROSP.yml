@@ -221,7 +221,7 @@
     location: Edward J. DeBartolo Hall 204
   - !ruby/object:Section
     section_num: '05'
-    open_spots: '5'
+    open_spots: '6'
     max_spots: '19'
     crn: '20295'
     instructor: Menes, Ivis
@@ -229,7 +229,7 @@
     location: Edward J. DeBartolo Hall 206
   - !ruby/object:Section
     section_num: '06'
-    open_spots: '9'
+    open_spots: '10'
     max_spots: '19'
     crn: '21644'
     instructor: Menes, Ivis
@@ -250,7 +250,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '9'
+    open_spots: '11'
     max_spots: '19'
     crn: '22308'
     instructor: Ameriks, Geraldine
@@ -282,7 +282,7 @@
     location: Coleman Morse Center 234
   - !ruby/object:Section
     section_num: '05'
-    open_spots: '1'
+    open_spots: '0'
     max_spots: '19'
     crn: '28840'
     instructor: Mangione-Lora, Elena
@@ -316,7 +316,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '1'
+    open_spots: '0'
     max_spots: '17'
     crn: '28841'
     instructor: Parroquin, Rachel
@@ -361,7 +361,7 @@
     open_spots: '0'
     max_spots: '19'
     crn: '22313'
-    instructor: TBA
+    instructor: Coloma, Maria
     time: M W F  - 11:45A - 12:35P
     location: Edward J. DeBartolo Hall 206
 - !ruby/object:Course
@@ -725,7 +725,7 @@
     instructor: Vitulli, Juan
     time: TBA
     location: TBA
-urse: ROSP30710
+710
   :section: '02'
   :title: Survey of Spanish Literature I
   :credits: '3'

@@ -390,6 +390,19 @@
     time: TBA
     location: TBA
 - !ruby/object:Course
+  name: Cultural Cannibalism
+  credit: '3'
+  coursenum: LIT87005
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '1'
+    crn: '29900'
+    instructor: Jauregui, Carlos
+    time: TBA
+    location: TBA
+- !ruby/object:Course
   name: Research & Dissertation
   credit: V
   coursenum: LIT98600
@@ -695,29 +708,15 @@
     instructor: Douthwaite, Julia
     time: TBA
     location: TBA
-rn: '26192'
-  :syl: ! '&nbsp'
-  :instructor: Baranski, Zygmunt
-  :when: TBA
-  :begin: 01/15/2013
-  :end: 05/01/2013
-  :location: TBA
-- :course: LIT98600
-  :section: '37'
-  :title: Research & Dissertation
-  :credits: V
-  :status: OP
-  :max_spots: '2'
-  :open_spots: '2'
-  :xlst: ! '&nbsp'
-  :crn: '25582'
-  :syl: ! '&nbsp'
-  :instructor: Marshall, Kate
-  :when: TBA
-  :begin: 01/15/2013
-  :end: 05/01/2013
-  :location: TBA
-- :course: LIT98600
+  - !ruby/object:Section
+    section_num: '26'
+    open_spots: '10'
+    max_spots: '10'
+    crn: '29903'
+    instructor: Cachey, Theodore
+    time: TBA
+    location: TBA
+8600
   :section: '38'
   :title: Research & Dissertation
   :credits: V

@@ -6,7 +6,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '15'
+    open_spots: '16'
     max_spots: '60'
     crn: '20265'
     instructor: Economakis, Richard
@@ -510,7 +510,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '7'
+    open_spots: '6'
     max_spots: '7'
     crn: '25695'
     instructor: Huderwitz, Francis
@@ -718,7 +718,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '7'
+    open_spots: '6'
     max_spots: '16'
     crn: '22638'
     instructor: Eide, Jerome
@@ -747,7 +747,7 @@
     location: TBA
   - !ruby/object:Section
     section_num: '03'
-    open_spots: '2'
+    open_spots: '1'
     max_spots: '2'
     crn: '24181'
     instructor: Smith, Thomas
@@ -825,6 +825,14 @@
     instructor: Stroik, Duncan
     time: TBA
     location: TBA
+  - !ruby/object:Section
+    section_num: '13'
+    open_spots: '2'
+    max_spots: '2'
+    crn: '29902'
+    instructor: Economakis, Richard
+    time: TBA
+    location: TBA
 - !ruby/object:Course
   name: After Urbanism
   credit: '3'
@@ -838,16 +846,7 @@
     instructor: Bess, Philip
     time: T R  - 3:30P - 4:55P
     location: TBA
-013
-  :location: TBA
-- :course: ARCH81161
-  :section: '01'
-  :title: Terminal Design Project
-  :credits: '6'
-  :status: OP
-  :max_spots: '2'
-  :open_spots: '2'
-  :xlst: ! '&nbsp'
+'&nbsp'
   :crn: '23354'
   :syl: ! '&nbsp'
   :instructor: Semes, Steven

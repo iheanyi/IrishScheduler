@@ -30,7 +30,7 @@
     location: Edward J. DeBartolo Hall 310
   - !ruby/object:Section
     section_num: '04'
-    open_spots: '0'
+    open_spots: '-1'
     max_spots: '45'
     crn: '23129'
     instructor: Slaggert, Karen
@@ -75,7 +75,7 @@
     location: Mendoza College of Business L004
   - !ruby/object:Section
     section_num: '03'
-    open_spots: '3'
+    open_spots: '2'
     max_spots: '32'
     crn: '22026'
     instructor: Proffitt, Brian
@@ -107,7 +107,7 @@
     location: Mendoza College of Business L004
   - !ruby/object:Section
     section_num: '07'
-    open_spots: '9'
+    open_spots: '10'
     max_spots: '32'
     crn: '23123'
     instructor: Ghiaseddin, Nasir
@@ -231,7 +231,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '1'
+    open_spots: '0'
     max_spots: '32'
     crn: '29074'
     instructor: Stevens, Christopher
@@ -675,7 +675,7 @@
     instructor: Block, Emily
     time: T R  - 10:00A - 11:50A
     location: Mendoza College of Business 134
-  :syl: ! '&nbsp'
+:syl: ! '&nbsp'
   :instructor: Bernel, Jeffrey
   :when: T R  - 1:00P - 2:50P
   :begin: 01/14/2013

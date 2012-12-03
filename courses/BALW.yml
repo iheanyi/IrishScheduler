@@ -14,7 +14,7 @@
     location: Edward J. DeBartolo Hall 318
   - !ruby/object:Section
     section_num: '04'
-    open_spots: '1'
+    open_spots: '0'
     max_spots: '33'
     crn: '22260'
     instructor: Murphy, Tonia
@@ -38,7 +38,7 @@
     location: Edward J. DeBartolo Hall 313
   - !ruby/object:Section
     section_num: 08
-    open_spots: '3'
+    open_spots: '4'
     max_spots: '33'
     crn: '25831'
     instructor: Hollis, Laura

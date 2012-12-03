@@ -27,7 +27,7 @@
     location: Edward J. DeBartolo Hall 141
   - !ruby/object:Section
     section_num: '02'
-    open_spots: '9'
+    open_spots: '8'
     max_spots: '18'
     crn: '29567'
     instructor: Noble, Thomas
@@ -74,7 +74,7 @@
     location: O'Shaughnessy Hall 200
   - !ruby/object:Section
     section_num: '02'
-    open_spots: '11'
+    open_spots: '10'
     max_spots: '18'
     crn: '23171'
     instructor: Noble, Thomas
@@ -103,8 +103,8 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '4'
-    max_spots: '5'
+    open_spots: '2'
+    max_spots: '3'
     crn: '29568'
     instructor: Meserve, Margaret
     time: M W  - 10:40A - 11:30A

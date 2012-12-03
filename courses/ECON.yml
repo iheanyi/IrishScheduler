@@ -62,7 +62,7 @@
     location: Edward J. DeBartolo Hall 129
   - !ruby/object:Section
     section_num: 08
-    open_spots: '11'
+    open_spots: '10'
     max_spots: '58'
     crn: '24607'
     instructor: Mogavero, Michael
@@ -91,8 +91,8 @@
     location: O'Shaughnessy Hall 242
   - !ruby/object:Section
     section_num: '03'
-    open_spots: '0'
-    max_spots: '40'
+    open_spots: '2'
+    max_spots: '50'
     crn: '26096'
     instructor: Fuerst, Timothy
     time: T R  - 9:30A - 10:45A
@@ -104,8 +104,8 @@
   sections:
   - !ruby/object:Section
     section_num: '02'
-    open_spots: '-1'
-    max_spots: '14'
+    open_spots: '0'
+    max_spots: '15'
     crn: '20565'
     instructor: Leahy, William
     time: T R  - 12:30P - 1:45P
@@ -125,7 +125,7 @@
     location: Edward J. DeBartolo Hall 120
   - !ruby/object:Section
     section_num: '02'
-    open_spots: '1'
+    open_spots: '0'
     max_spots: '30'
     crn: '23154'
     instructor: Hungerman, Daniel
@@ -133,7 +133,7 @@
     location: Edward J. DeBartolo Hall 131
   - !ruby/object:Section
     section_num: '03'
-    open_spots: '16'
+    open_spots: '17'
     max_spots: '43'
     crn: '23159'
     instructor: Flannery, Mary
@@ -141,7 +141,7 @@
     location: Edward J. DeBartolo Hall 102
   - !ruby/object:Section
     section_num: '04'
-    open_spots: '26'
+    open_spots: '27'
     max_spots: '43'
     crn: '23156'
     instructor: Flannery, Mary
@@ -157,7 +157,7 @@
     location: Edward J. DeBartolo Hall 209
   - !ruby/object:Section
     section_num: '06'
-    open_spots: '1'
+    open_spots: '0'
     max_spots: '30'
     crn: '24143'
     instructor: Hungerman, Daniel
@@ -173,7 +173,7 @@
     location: Edward J. DeBartolo Hall 129
   - !ruby/object:Section
     section_num: 08
-    open_spots: '2'
+    open_spots: '0'
     max_spots: '27'
     crn: '24613'
     instructor: Mogavero, Michael
@@ -223,7 +223,7 @@
     location: Edward J. DeBartolo Hall 209
   - !ruby/object:Section
     section_num: '02'
-    open_spots: '15'
+    open_spots: '16'
     max_spots: '45'
     crn: '28591'
     instructor: Gresik, Thomas
@@ -294,7 +294,7 @@
     location: Edward J. DeBartolo Hall 117
   - !ruby/object:Section
     section_num: '02'
-    open_spots: '15'
+    open_spots: '14'
     max_spots: '49'
     crn: '24144'
     instructor: Lee, Byung-Joo
@@ -547,7 +547,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '2'
+    open_spots: '1'
     max_spots: '18'
     crn: '29245'
     instructor: Evans, William
@@ -976,7 +976,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '14'
+    open_spots: '12'
     max_spots: '15'
     crn: '29117'
     instructor: Buckles, Kasey
@@ -989,7 +989,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '15'
+    open_spots: '12'
     max_spots: '15'
     crn: '29248'
     instructor: Kaboski, Joseph
@@ -1006,7 +1006,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '13'
+    open_spots: '11'
     max_spots: '15'
     crn: '26659'
     instructor: Doran, Kirk
@@ -1023,8 +1023,8 @@
     max_spots: '15'
     crn: '25171'
     instructor: Mark, Nelson
-    time: R  - 5:00P - 7:30P
-    location: Flanner Hall 725
+    time: T R  - 12:30P - 1:45P
+    location: Flanner Hall 625
 - !ruby/object:Course
   name: Research Seminar - Theory
   credit: '3'
@@ -1032,7 +1032,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '15'
+    open_spots: '14'
     max_spots: '15'
     crn: '26652'
     instructor: Jensen, Richard
@@ -1066,7 +1066,7 @@
     location: Flanner Hall 524
   - !ruby/object:Section
     section_num: '02'
-    open_spots: '5'
+    open_spots: '4'
     max_spots: '5'
     crn: '25174'
     instructor: Hungerman, Daniel
@@ -1116,7 +1116,7 @@
     location: TBA
   - !ruby/object:Section
     section_num: '02'
-    open_spots: '5'
+    open_spots: '4'
     max_spots: '5'
     crn: '25179'
     instructor: Gresik, Thomas
@@ -1135,7 +1135,7 @@
     instructor: Evans, William
     time: TBA
     location: TBA
-: ! '&nbsp'
+! '&nbsp'
   :instructor: Brooks, Wyatt
   :when: TBA
   :begin: 01/15/2013

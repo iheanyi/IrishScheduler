@@ -6,7 +6,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '1'
+    open_spots: '0'
     max_spots: '100'
     crn: '21811'
     instructor: Mazurek, Tadeusz
@@ -51,7 +51,7 @@
     location: Edward J. DeBartolo Hall 308
   - !ruby/object:Section
     section_num: '05'
-    open_spots: '1'
+    open_spots: '0'
     max_spots: '20'
     crn: '28550'
     instructor: Ferry, Sara
@@ -103,7 +103,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '4'
+    open_spots: '5'
     max_spots: '45'
     crn: '28554'
     instructor: Baron, Christopher
@@ -116,7 +116,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '10'
+    open_spots: '9'
     max_spots: '37'
     crn: '28555'
     instructor: Bradley, Keith
@@ -265,6 +265,7 @@
     instructor: Baron, Christopher
     time: TBA
     location: TBA
+
 te Antique/Early Christn Art
   :credits: '3'
   :status: CL

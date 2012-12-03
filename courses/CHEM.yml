@@ -6,7 +6,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '23'
+    open_spots: '20'
     max_spots: '240'
     crn: '20658'
     instructor: Goodson, Holly Lappin, Alexander
@@ -14,8 +14,8 @@
     location: Jordan Hall of Science 105
   - !ruby/object:Section
     section_num: '02'
-    open_spots: '3'
-    max_spots: '240'
+    open_spots: '0'
+    max_spots: '244'
     crn: '22054'
     instructor: Goodson, Holly Lappin, Alexander
     time: M W F  - 9:35A - 10:25A
@@ -28,7 +28,7 @@
   - !ruby/object:Section
     section_num: '01'
     open_spots: '0'
-    max_spots: '170'
+    max_spots: '172'
     crn: '23617'
     instructor: Creary, Xavier West, Sarah
     time: M W F  - 8:30A - 9:20A
@@ -36,15 +36,15 @@
   - !ruby/object:Section
     section_num: '02'
     open_spots: '0'
-    max_spots: '170'
+    max_spots: '172'
     crn: '23618'
     instructor: Parise, James West, Sarah
     time: M W F  - 9:35A - 10:25A
     location: Jordan Hall of Science 101
   - !ruby/object:Section
     section_num: '03'
-    open_spots: '36'
-    max_spots: '170'
+    open_spots: '39'
+    max_spots: '172'
     crn: '23619'
     instructor: Parise, James West, Sarah
     time: M W F  - 10:40A - 11:30A
@@ -77,7 +77,7 @@
     location: TBA
   - !ruby/object:Section
     section_num: '02'
-    open_spots: '20'
+    open_spots: '21'
     max_spots: '65'
     crn: '23621'
     instructor: Peterson, Kathleen
@@ -93,7 +93,7 @@
     location: TBA
   - !ruby/object:Section
     section_num: '04'
-    open_spots: '5'
+    open_spots: '4'
     max_spots: '64'
     crn: '23623'
     instructor: Peterson, Kathleen West, Sarah
@@ -101,7 +101,7 @@
     location: TBA
   - !ruby/object:Section
     section_num: '05'
-    open_spots: '1'
+    open_spots: '0'
     max_spots: '65'
     crn: '23624'
     instructor: Peterson, Kathleen
@@ -117,7 +117,7 @@
     location: TBA
   - !ruby/object:Section
     section_num: '07'
-    open_spots: '2'
+    open_spots: '1'
     max_spots: '65'
     crn: '23626'
     instructor: Peterson, Kathleen
@@ -125,7 +125,7 @@
     location: TBA
   - !ruby/object:Section
     section_num: 08
-    open_spots: '5'
+    open_spots: '4'
     max_spots: '65'
     crn: '23627'
     instructor: Peterson, Kathleen West, Sarah
@@ -146,7 +146,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '12'
+    open_spots: '13'
     max_spots: '36'
     crn: '22480'
     instructor: Wietstock, Steven
@@ -183,7 +183,7 @@
     location: Edward J. DeBartolo Hall 245
   - !ruby/object:Section
     section_num: '02'
-    open_spots: '12'
+    open_spots: '10'
     max_spots: '24'
     crn: '23629'
     instructor: Parise, James West, Sarah
@@ -191,7 +191,7 @@
     location: Edward J. DeBartolo Hall 244
   - !ruby/object:Section
     section_num: '03'
-    open_spots: '7'
+    open_spots: '8'
     max_spots: '24'
     crn: '23630'
     instructor: Parise, James West, Sarah
@@ -199,7 +199,7 @@
     location: Edward J. DeBartolo Hall 242
   - !ruby/object:Section
     section_num: '04'
-    open_spots: '5'
+    open_spots: '4'
     max_spots: '24'
     crn: '23631'
     instructor: Creary, Xavier West, Sarah
@@ -215,7 +215,7 @@
     location: Edward J. DeBartolo Hall 240
   - !ruby/object:Section
     section_num: '06'
-    open_spots: '0'
+    open_spots: '1'
     max_spots: '24'
     crn: '23633'
     instructor: Parise, James West, Sarah
@@ -255,7 +255,7 @@
     location: Edward J. DeBartolo Hall 241
   - !ruby/object:Section
     section_num: '11'
-    open_spots: '0'
+    open_spots: '1'
     max_spots: '24'
     crn: '23638'
     instructor: Parise, James West, Sarah
@@ -271,7 +271,7 @@
     location: Edward J. DeBartolo Hall 245
   - !ruby/object:Section
     section_num: '13'
-    open_spots: '4'
+    open_spots: '3'
     max_spots: '24'
     crn: '23640'
     instructor: Parise, James West, Sarah
@@ -287,7 +287,7 @@
     location: Edward J. DeBartolo Hall 242
   - !ruby/object:Section
     section_num: '15'
-    open_spots: '13'
+    open_spots: '12'
     max_spots: '24'
     crn: '23642'
     instructor: Creary, Xavier Parise, JamesWest, Sarah
@@ -327,7 +327,7 @@
     location: Edward J. DeBartolo Hall 242
   - !ruby/object:Section
     section_num: '20'
-    open_spots: '0'
+    open_spots: '1'
     max_spots: '24'
     crn: '23648'
     instructor: Creary, Xavier Parise, JamesWest, Sarah
@@ -369,7 +369,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '26'
+    open_spots: '27'
     max_spots: '80'
     crn: '21948'
     instructor: Kamat, Prashant
@@ -382,7 +382,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '5'
+    open_spots: '6'
     max_spots: '50'
     crn: '23657'
     instructor: Gezelter, J. Daniel
@@ -408,7 +408,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '50'
+    open_spots: '51'
     max_spots: '200'
     crn: '24090'
     instructor: Sevov, Slavi
@@ -416,7 +416,7 @@
     location: Edward J. DeBartolo Hall 155
   - !ruby/object:Section
     section_num: '02'
-    open_spots: '12'
+    open_spots: '11'
     max_spots: '212'
     crn: '24392'
     instructor: Lappin, Alexander
@@ -647,7 +647,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '12'
+    open_spots: '13'
     max_spots: '100'
     crn: '21218'
     instructor: Huber, Paul
@@ -1195,7 +1195,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '28'
+    open_spots: '27'
     max_spots: '30'
     crn: '29218'
     instructor: Stack, Sharon
@@ -1312,7 +1312,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '34'
+    open_spots: '33'
     max_spots: '40'
     crn: '24096'
     instructor: Ashfeld, Brandon
@@ -1325,7 +1325,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '17'
+    open_spots: '16'
     max_spots: '30'
     crn: '25872'
     instructor: Smith, Bradley
@@ -1715,7 +1715,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '84'
+    open_spots: '82'
     max_spots: '123'
     crn: '21323'
     instructor: Henderson, Kenneth
@@ -1841,7 +1841,7 @@
     location: TBA
   - !ruby/object:Section
     section_num: '07'
-    open_spots: '19'
+    open_spots: '18'
     max_spots: '20'
     crn: '22493'
     instructor: Corcelli, Steven
@@ -1977,7 +1977,7 @@
     location: TBA
   - !ruby/object:Section
     section_num: '26'
-    open_spots: '20'
+    open_spots: '19'
     max_spots: '20'
     crn: '21660'
     instructor: Mobashery, Shahriar

@@ -30,23 +30,23 @@
     location: Edward J. DeBartolo Hall 143
   - !ruby/object:Section
     section_num: '04'
-    open_spots: '-1'
-    max_spots: '14'
+    open_spots: '0'
+    max_spots: '16'
     crn: '22022'
     instructor: Frese, Dolores
     time: T R  - 12:30P - 1:45P
     location: O'Shaughnessy Hall 202
   - !ruby/object:Section
     section_num: '05'
-    open_spots: '-2'
-    max_spots: '14'
+    open_spots: '0'
+    max_spots: '16'
     crn: '22020'
     instructor: Smyth, Mary
     time: T R  - 3:30P - 4:45P
     location: Hayes Healy Center 231
   - !ruby/object:Section
     section_num: '06'
-    open_spots: '1'
+    open_spots: '0'
     max_spots: '16'
     crn: '22024'
     instructor: Huk, Romana
@@ -93,7 +93,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '0'
+    open_spots: '1'
     max_spots: '15'
     crn: '24423'
     instructor: Tomasula, Steve
@@ -182,7 +182,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '20'
+    open_spots: '21'
     max_spots: '104'
     crn: '26108'
     instructor: Visconsi, Elliott
@@ -221,7 +221,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '0'
+    open_spots: '1'
     max_spots: '19'
     crn: '28603'
     instructor: Evans, Elizabeth
@@ -273,7 +273,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '4'
+    open_spots: '1'
     max_spots: '35'
     crn: '26443'
     instructor: Fox, Christopher
@@ -312,7 +312,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '0'
+    open_spots: '1'
     max_spots: '19'
     crn: '24428'
     instructor: Werge, Thomas
@@ -320,7 +320,7 @@
     location: Edward J. DeBartolo Hall 223
   - !ruby/object:Section
     section_num: '02'
-    open_spots: '0'
+    open_spots: '1'
     max_spots: '19'
     crn: '24670'
     instructor: Werge, Thomas
@@ -346,7 +346,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '2'
+    open_spots: '1'
     max_spots: '8'
     crn: '29249'
     instructor: Limon, Jose
@@ -359,7 +359,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '3'
+    open_spots: '4'
     max_spots: '19'
     crn: '28607'
     instructor: Imma, Z'etoile
@@ -380,7 +380,7 @@
     location: Riley Hall of Art 200
   - !ruby/object:Section
     section_num: '02'
-    open_spots: '3'
+    open_spots: '1'
     max_spots: '20'
     crn: '26446'
     instructor: Fox, Christopher
@@ -430,7 +430,7 @@
     location: Edward J. DeBartolo Hall 333
   - !ruby/object:Section
     section_num: '03'
-    open_spots: '6'
+    open_spots: '5'
     max_spots: '14'
     crn: '28608'
     instructor: Marshall, Kate
@@ -560,7 +560,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '4'
+    open_spots: '5'
     max_spots: '16'
     crn: '28611'
     instructor: Green, Barbara
@@ -716,7 +716,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '1'
+    open_spots: '0'
     max_spots: '11'
     crn: '26907'
     instructor: Walls, Robert
@@ -833,7 +833,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '27'
+    open_spots: '26'
     max_spots: '50'
     crn: '22208'
     instructor: Vanden Bossche, Chris
@@ -898,7 +898,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '5'
+    open_spots: '6'
     max_spots: '13'
     crn: '28626'
     instructor: Thomas, David
@@ -950,7 +950,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '6'
+    open_spots: '5'
     max_spots: '13'
     crn: '28629'
     instructor: Maurer, Sara
@@ -1414,7 +1414,7 @@
     location: TBA
   - !ruby/object:Section
     section_num: '52'
-    open_spots: '9'
+    open_spots: '8'
     max_spots: '10'
     crn: '22847'
     instructor: Doody, Margaret
@@ -2573,6 +2573,7 @@
     instructor: Monta, Susannah
     time: TBA
     location: TBA
+A
 '03'
   :title: Thesis Direction
   :credits: '3'

@@ -6,7 +6,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '12'
+    open_spots: '11'
     max_spots: '36'
     crn: '22217'
     instructor: Enderle, Georges

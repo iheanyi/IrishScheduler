@@ -46,7 +46,7 @@
     location: O'Shaughnessy Hall 114
   - !ruby/object:Section
     section_num: '06'
-    open_spots: '0'
+    open_spots: '1'
     max_spots: '40'
     crn: '20963'
     instructor: Sehorn, John
@@ -70,7 +70,7 @@
     location: O'Shaughnessy Hall 116
   - !ruby/object:Section
     section_num: 09
-    open_spots: '3'
+    open_spots: '0'
     max_spots: '100'
     crn: '21676'
     instructor: Anderson, Gary
@@ -115,7 +115,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '13'
+    open_spots: '14'
     max_spots: '49'
     crn: '28858'
     instructor: DeFrancis, James
@@ -144,7 +144,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '1'
+    open_spots: '0'
     max_spots: '25'
     crn: '28864'
     instructor: Anderson, Gary
@@ -168,7 +168,7 @@
     location: Edward J. DeBartolo Hall 244
   - !ruby/object:Section
     section_num: '04'
-    open_spots: '2'
+    open_spots: '0'
     max_spots: '25'
     crn: '28861'
     instructor: Anderson, Gary
@@ -202,48 +202,48 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '-2'
-    max_spots: '14'
+    open_spots: '0'
+    max_spots: '16'
     crn: '22012'
     instructor: Zachman, Randall
     time: T R  - 12:30P - 1:45P
     location: Coleman Morse Center 234
   - !ruby/object:Section
     section_num: '02'
-    open_spots: '-2'
-    max_spots: '14'
+    open_spots: '0'
+    max_spots: '16'
     crn: '22013'
     instructor: Arner, Neil
     time: T R  - 12:30P - 1:45P
     location: Edward A. Malloy Hall 320
   - !ruby/object:Section
     section_num: '03'
-    open_spots: '-2'
-    max_spots: '14'
+    open_spots: '0'
+    max_spots: '16'
     crn: '22014'
     instructor: Moss, Candida
     time: T R  - 11:00A - 12:15P
     location: Coleman Morse Center 230
   - !ruby/object:Section
     section_num: '04'
-    open_spots: '-2'
-    max_spots: '14'
+    open_spots: '0'
+    max_spots: '16'
     crn: '22015'
     instructor: Arner, Neil
     time: T R  - 3:30P - 4:45P
     location: Edward J. DeBartolo Hall 207
   - !ruby/object:Section
     section_num: '05'
-    open_spots: '-2'
-    max_spots: '14'
+    open_spots: '0'
+    max_spots: '16'
     crn: '22016'
     instructor: Walatka, Todd
     time: T R  - 2:00P - 3:15P
     location: Edward J. DeBartolo Hall 336
   - !ruby/object:Section
     section_num: '06'
-    open_spots: '-2'
-    max_spots: '14'
+    open_spots: '0'
+    max_spots: '16'
     crn: '22017'
     instructor: Driscoll, Michael
     time: T R  - 2:00P - 3:15P
@@ -332,7 +332,7 @@
   - !ruby/object:Section
     section_num: '01'
     open_spots: '0'
-    max_spots: '95'
+    max_spots: '97'
     crn: '25426'
     instructor: Cavadini, John
     time: T R  - 9:30A - 10:45A
@@ -344,7 +344,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '1'
+    open_spots: '2'
     max_spots: '47'
     crn: '28870'
     instructor: Young, Robin
@@ -365,7 +365,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '0'
+    open_spots: '2'
     max_spots: '49'
     crn: '28871'
     instructor: Johnson, Maxwell
@@ -399,7 +399,7 @@
     location: Pasquerilla Center 109
   - !ruby/object:Section
     section_num: '02'
-    open_spots: '1'
+    open_spots: '4'
     max_spots: '49'
     crn: '29154'
     instructor: McGowan, Anne
@@ -420,7 +420,7 @@
     location: O'Shaughnessy Hall 117
   - !ruby/object:Section
     section_num: '02'
-    open_spots: '0'
+    open_spots: '1'
     max_spots: '40'
     crn: '28873'
     instructor: Elliot, David
@@ -434,7 +434,7 @@
   - !ruby/object:Section
     section_num: '01'
     open_spots: '0'
-    max_spots: '36'
+    max_spots: '37'
     crn: '26009'
     instructor: Whitmore, Todd
     time: T R  - 12:30P - 1:45P
@@ -510,7 +510,7 @@
   - !ruby/object:Section
     section_num: '01'
     open_spots: '0'
-    max_spots: '32'
+    max_spots: '33'
     crn: '22316'
     instructor: Gorski, Eugene
     time: T R  - 11:00A - 12:15P
@@ -548,7 +548,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '5'
+    open_spots: '4'
     max_spots: '42'
     crn: '28878'
     instructor: O'Malley, Timothy
@@ -603,7 +603,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '1'
+    open_spots: '2'
     max_spots: '45'
     crn: '29157'
     instructor: Fagerberg, David
@@ -681,7 +681,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '10'
+    open_spots: '9'
     max_spots: '35'
     crn: '29541'
     instructor: TBA
@@ -694,7 +694,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '33'
+    open_spots: '32'
     max_spots: '40'
     crn: '28884'
     instructor: O'Malley, Timothy Delorenzo, LeonardShepherd, Megan
@@ -772,7 +772,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '123'
+    open_spots: '124'
     max_spots: '125'
     crn: '22239'
     instructor: Toms Smedley, Cynthia
@@ -824,7 +824,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '82'
+    open_spots: '52'
     max_spots: '150'
     crn: '21670'
     instructor: Purcell, William
@@ -902,7 +902,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '4'
+    open_spots: '3'
     max_spots: '5'
     crn: '28885'
     instructor: Wadler, Shlomo
@@ -928,7 +928,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '1'
+    open_spots: '0'
     max_spots: '37'
     crn: '22317'
     instructor: Fitzgerald, John
@@ -950,7 +950,7 @@
   - !ruby/object:Section
     section_num: '02'
     open_spots: '0'
-    max_spots: '40'
+    max_spots: '41'
     crn: '25134'
     instructor: O'Regan, Cyril
     time: M W  - 1:30P - 2:45P
@@ -975,7 +975,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '12'
+    open_spots: '10'
     max_spots: '47'
     crn: '28887'
     instructor: Daley, Brian
@@ -1001,7 +1001,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '0'
+    open_spots: '1'
     max_spots: '7'
     crn: '28889'
     instructor: Wawrykow, Joseph
@@ -1079,7 +1079,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '0'
+    open_spots: '1'
     max_spots: '5'
     crn: '29159'
     instructor: Powers, Gerard
@@ -1118,7 +1118,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '16'
+    open_spots: '15'
     max_spots: '75'
     crn: '28894'
     instructor: Fagerberg, David
@@ -1244,7 +1244,7 @@
     location: TBA
   - !ruby/object:Section
     section_num: '07'
-    open_spots: '10'
+    open_spots: '9'
     max_spots: '10'
     crn: '27486'
     instructor: Dolcich-Ashley, Anselma
@@ -1465,7 +1465,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '13'
+    open_spots: '12'
     max_spots: '22'
     crn: '23888'
     instructor: Pfeil, Margaret
@@ -1492,7 +1492,7 @@
   - !ruby/object:Section
     section_num: '01'
     open_spots: '0'
-    max_spots: '5'
+    max_spots: '6'
     crn: '28905'
     instructor: Pfeil, Margaret Sharpe, Susan
     time: M W  - 11:45A - 1:00P
@@ -1807,7 +1807,7 @@
     location: TBA
   - !ruby/object:Section
     section_num: 08
-    open_spots: '5'
+    open_spots: '4'
     max_spots: '5'
     crn: '20961'
     instructor: Poorman, Janice
@@ -2347,7 +2347,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '16'
+    open_spots: '13'
     max_spots: '20'
     crn: '29860'
     instructor: Krieg, Robert
@@ -2402,7 +2402,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '10'
+    open_spots: '11'
     max_spots: '20'
     crn: '29163'
     instructor: Clairmont, David
@@ -2845,7 +2845,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '100'
+    open_spots: '98'
     max_spots: '100'
     crn: '21710'
     instructor: Daley, Brian
@@ -3312,6 +3312,7 @@
     instructor: Young, Robin
     time: TBA
     location: TBA
+ion: TBA
 : TBA
   :begin: 01/15/2013
   :end: 05/01/2013

@@ -69,7 +69,7 @@
     location: TBA
   - !ruby/object:Section
     section_num: '04'
-    open_spots: '1'
+    open_spots: '0'
     max_spots: '14'
     crn: '23162'
     instructor: Schafer, R. Michael
@@ -570,7 +570,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '29'
+    open_spots: '28'
     max_spots: '30'
     crn: '24401'
     instructor: Seabaugh, Alan
@@ -583,7 +583,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '24'
+    open_spots: '23'
     max_spots: '25'
     crn: '24915'
     instructor: Timp, Gregory
@@ -596,7 +596,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '16'
+    open_spots: '15'
     max_spots: '19'
     crn: '28942'
     instructor: Antsaklis, Panos
@@ -622,7 +622,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '29'
+    open_spots: '28'
     max_spots: '30'
     crn: '20532'
     instructor: Snider, Gregory
@@ -635,7 +635,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '22'
+    open_spots: '21'
     max_spots: '25'
     crn: '22062'
     instructor: Laneman, J. Nicholas
@@ -648,7 +648,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '17'
+    open_spots: '16'
     max_spots: '19'
     crn: '24916'
     instructor: Lemmon, Michael
@@ -661,7 +661,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '44'
+    open_spots: '43'
     max_spots: '45'
     crn: '22057'
     instructor: Howard, Scott
@@ -687,7 +687,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '13'
+    open_spots: '12'
     max_spots: '15'
     crn: '29197'
     instructor: Fuja, Thomas
@@ -700,7 +700,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '8'
+    open_spots: '5'
     max_spots: '10'
     crn: '29198'
     instructor: Huang, Yih-Fang
@@ -910,7 +910,7 @@
     location: TBA
   - !ruby/object:Section
     section_num: '24'
-    open_spots: '10'
+    open_spots: '9'
     max_spots: '10'
     crn: '28943'
     instructor: Lin, Hai
@@ -1216,7 +1216,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '17'
+    open_spots: '16'
     max_spots: '19'
     crn: '26273'
     instructor: Gupta, Vijay
@@ -1229,7 +1229,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '14'
+    open_spots: '13'
     max_spots: '15'
     crn: '26274'
     instructor: Lin, Hai
@@ -1276,7 +1276,7 @@
     location: TBA
   - !ruby/object:Section
     section_num: '02'
-    open_spots: '7'
+    open_spots: '8'
     max_spots: '10'
     crn: '24696'
     instructor: Pratt, Thomas
@@ -1324,7 +1324,7 @@
     location: TBA
   - !ruby/object:Section
     section_num: 08
-    open_spots: '8'
+    open_spots: '7'
     max_spots: '10'
     crn: '21398'
     instructor: Jena, Debdeep
@@ -1388,7 +1388,7 @@
     location: TBA
   - !ruby/object:Section
     section_num: '17'
-    open_spots: '10'
+    open_spots: '9'
     max_spots: '10'
     crn: '20952'
     instructor: Sauer, Ken
@@ -1436,7 +1436,7 @@
     location: TBA
   - !ruby/object:Section
     section_num: '23'
-    open_spots: '10'
+    open_spots: '9'
     max_spots: '10'
     crn: '21511'
     instructor: Fuja, Thomas
@@ -1452,7 +1452,7 @@
     location: TBA
   - !ruby/object:Section
     section_num: '25'
-    open_spots: '10'
+    open_spots: '9'
     max_spots: '10'
     crn: '21616'
     instructor: Haenggi, Martin
@@ -1527,6 +1527,7 @@
     instructor: Fuja, Thomas
     time: TBA
     location: TBA
+TBA
 esis Direction
   :credits: V
   :status: OP

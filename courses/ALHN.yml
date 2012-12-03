@@ -19,7 +19,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '17'
+    open_spots: '15'
     max_spots: '19'
     crn: '29722'
     instructor: Dailey, William Kelly, James
@@ -85,7 +85,7 @@
     location: Edward J. DeBartolo Hall 203
   - !ruby/object:Section
     section_num: '06'
-    open_spots: '0'
+    open_spots: '1'
     max_spots: '21'
     crn: '22744'
     instructor: Jensen, Lionel
@@ -102,7 +102,7 @@
   - !ruby/object:Section
     section_num: 08
     open_spots: '0'
-    max_spots: '19'
+    max_spots: '20'
     crn: '25631'
     instructor: Botting, Eileen
     time: T R  - 3:30P - 4:45P
@@ -122,7 +122,7 @@
     location: O'Shaughnessy Hall 242
   - !ruby/object:Section
     section_num: '02'
-    open_spots: '24'
+    open_spots: '23'
     max_spots: '45'
     crn: '22190'
     instructor: Hahn, Alexander

@@ -140,7 +140,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '10'
+    open_spots: '9'
     max_spots: '15'
     crn: '23288'
     instructor: Blad, Alessia Vivirito, Patrick
@@ -310,7 +310,7 @@
     open_spots: '12'
     max_spots: '12'
     crn: '23093'
-    instructor: TBA
+    instructor: Benvegnu, Damiano
     time: M  - 5:00P - 6:00P
     location: Haggar Hall B015
 - !ruby/object:Course
@@ -398,7 +398,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '10'
+    open_spots: '9'
     max_spots: '10'
     crn: '29369'
     instructor: Marcozzi, Luca
@@ -464,8 +464,7 @@
     instructor: Montemaggi, Vittorio
     time: TBA
     location: TBA
-: '12'
-  :xlst: ! '&nbsp'
+st: ! '&nbsp'
   :crn: '23093'
   :syl: ! '&nbsp'
   :instructor: TBA

@@ -6,7 +6,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '2'
+    open_spots: '3'
     max_spots: '15'
     crn: '20015'
     instructor: Bourgeois, Marie
@@ -22,7 +22,7 @@
     location: West Lake Hall (Telecomm) 224
   - !ruby/object:Section
     section_num: '03'
-    open_spots: '1'
+    open_spots: '0'
     max_spots: '15'
     crn: '29448'
     instructor: Bourgeois, Marie
@@ -82,7 +82,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '1'
+    open_spots: '0'
     max_spots: '17'
     crn: '20427'
     instructor: Tisten, George

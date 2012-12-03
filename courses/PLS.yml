@@ -35,7 +35,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '3'
+    open_spots: '1'
     max_spots: '27'
     crn: '20118'
     instructor: Martin, Jennifer
@@ -48,7 +48,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '16'
+    open_spots: '17'
     max_spots: '27'
     crn: '23645'
     instructor: Stapleford, Thomas
@@ -56,7 +56,7 @@
     location: O'Shaughnessy Hall 214
   - !ruby/object:Section
     section_num: '02'
-    open_spots: '14'
+    open_spots: '11'
     max_spots: '27'
     crn: '23649'
     instructor: Stapleford, Thomas
@@ -103,7 +103,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '10'
+    open_spots: '9'
     max_spots: '27'
     crn: '21139'
     instructor: Fallon, Stephen
@@ -111,7 +111,7 @@
     location: O'Shaughnessy Hall 221
   - !ruby/object:Section
     section_num: '02'
-    open_spots: '13'
+    open_spots: '12'
     max_spots: '27'
     crn: '23654'
     instructor: Fallon, Stephen
@@ -166,7 +166,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '7'
+    open_spots: '6'
     max_spots: '17'
     crn: '23653'
     instructor: Bugyis, Eric
@@ -394,6 +394,7 @@
     instructor: TBA
     time: TBA
     location: TBA
+
 location: TBA
 - :course: PLS48702
   :section: '05'

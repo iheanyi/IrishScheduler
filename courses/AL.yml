@@ -19,7 +19,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '19'
+    open_spots: '18'
     max_spots: '20'
     crn: '21178'
     instructor: Preacher, Ava
@@ -199,7 +199,7 @@
     open_spots: '13'
     max_spots: '17'
     crn: '21806'
-    instructor: McAdams, A. James
+    instructor: McAdams, A. James Crafton, Donald
     time: TBA
     location: TBA
 - !ruby/object:Course
@@ -222,7 +222,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '15'
+    open_spots: '13'
     max_spots: '18'
     crn: '25630'
     instructor: Markel, Stewart
@@ -235,14 +235,13 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '16'
+    open_spots: '15'
     max_spots: '18'
     crn: '27039'
     instructor: Markel, Stewart
     time: M W  - 5:00P - 6:15P
     location: Edward J. DeBartolo Hall 308
 
-  :crn: '25630'
   :syl: ! '&nbsp'
   :instructor: Markel, Stewart
   :when: T R  - 5:00P - 6:15P

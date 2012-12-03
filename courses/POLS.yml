@@ -6,7 +6,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '0'
+    open_spots: '3'
     max_spots: '35'
     crn: '23786'
     instructor: Wolbrecht, Christina
@@ -66,7 +66,7 @@
     location: Edward J. DeBartolo Hall 224
   - !ruby/object:Section
     section_num: '02'
-    open_spots: '0'
+    open_spots: '1'
     max_spots: '16'
     crn: '23333'
     instructor: Bleck, Jaimie
@@ -90,7 +90,7 @@
     location: Coleman Morse Center 234
   - !ruby/object:Section
     section_num: '05'
-    open_spots: '2'
+    open_spots: '0'
     max_spots: '16'
     crn: '25961'
     instructor: Walshe, A.
@@ -103,7 +103,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '21'
+    open_spots: '23'
     max_spots: '59'
     crn: '21958'
     instructor: Wolbrecht, Christina
@@ -142,7 +142,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '10'
+    open_spots: '11'
     max_spots: '58'
     crn: '21912'
     instructor: Deneen, Patrick
@@ -155,7 +155,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '0'
+    open_spots: '1'
     max_spots: '16'
     crn: '28789'
     instructor: Wolbrecht, Christina
@@ -163,7 +163,7 @@
     location: O'Shaughnessy Hall 200
   - !ruby/object:Section
     section_num: '02'
-    open_spots: '0'
+    open_spots: '1'
     max_spots: '16'
     crn: '28793'
     instructor: Wolbrecht, Christina
@@ -171,7 +171,7 @@
     location: Edward J. DeBartolo Hall 334
   - !ruby/object:Section
     section_num: '03'
-    open_spots: '5'
+    open_spots: '8'
     max_spots: '16'
     crn: '28791'
     instructor: Wolbrecht, Christina
@@ -327,7 +327,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '31'
+    open_spots: '32'
     max_spots: '43'
     crn: '25033'
     instructor: Davis, Darren
@@ -418,7 +418,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '1'
+    open_spots: '0'
     max_spots: '10'
     crn: '25478'
     instructor: Schoenig, John
@@ -431,7 +431,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '1'
+    open_spots: '0'
     max_spots: '5'
     crn: '29276'
     instructor: Betson, David
@@ -444,7 +444,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '1'
+    open_spots: '0'
     max_spots: '7'
     crn: '29856'
     instructor: Hartney, Michael
@@ -470,7 +470,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '1'
+    open_spots: '0'
     max_spots: '31'
     crn: '25970'
     instructor: Maass, Richard
@@ -484,7 +484,7 @@
   - !ruby/object:Section
     section_num: '01'
     open_spots: '0'
-    max_spots: '37'
+    max_spots: '38'
     crn: '28798'
     instructor: Powell, Emilia Justyna
     time: T R  - 12:30P - 1:45P
@@ -613,7 +613,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '17'
+    open_spots: '18'
     max_spots: '26'
     crn: '29662'
     instructor: Aguilar Rivera, Jose
@@ -704,7 +704,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '1'
+    open_spots: '2'
     max_spots: '27'
     crn: '28807'
     instructor: Deneen, Patrick
@@ -743,7 +743,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '0'
+    open_spots: '1'
     max_spots: '9'
     crn: '29280'
     instructor: Bleck, Jaimie Michelitch, Kristin
@@ -976,7 +976,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '5'
+    open_spots: '4'
     max_spots: '16'
     crn: '22576'
     instructor: Barber, Sotirios
@@ -1029,7 +1029,7 @@
     location: TBA
   - !ruby/object:Section
     section_num: '02'
-    open_spots: '3'
+    open_spots: '2'
     max_spots: '3'
     crn: '21406'
     instructor: Hui, Victoria
@@ -1252,7 +1252,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '10'
+    open_spots: '7'
     max_spots: '14'
     crn: '28811'
     instructor: Powell, Emilia Justyna
@@ -1330,7 +1330,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '9'
+    open_spots: '8'
     max_spots: '18'
     crn: '20305'
     instructor: Layman, Geoffrey
@@ -1356,7 +1356,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '9'
+    open_spots: '8'
     max_spots: '30'
     crn: '28815'
     instructor: Nalepa, Monika
@@ -2242,6 +2242,7 @@
     instructor: Botting, Eileen
     time: R  - 5:00P - 7:30P
     location: Edward J. DeBartolo Hall 204
+
 Sebastian
   :when: TBA
   :begin: 01/15/2013

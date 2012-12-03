@@ -6,7 +6,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '27'
+    open_spots: '26'
     max_spots: '30'
     crn: '20840'
     instructor: Thompson, Ryan
@@ -103,7 +103,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '4'
+    open_spots: '2'
     max_spots: '70'
     crn: '21779'
     instructor: Lim, Chong Keat
@@ -111,7 +111,7 @@
     location: Hayes Healy Center 117
   - !ruby/object:Section
     section_num: '02'
-    open_spots: '32'
+    open_spots: '33'
     max_spots: '70'
     crn: '22512'
     instructor: Lin, Jan-Li Lim, Chong Keat
@@ -127,7 +127,7 @@
     location: Hayes Healy Center 117
   - !ruby/object:Section
     section_num: '04'
-    open_spots: '47'
+    open_spots: '46'
     max_spots: '70'
     crn: '22514'
     instructor: Wang, Botong Lim, Chong Keat
@@ -190,7 +190,7 @@
     location: Hayes Healy Center 231
   - !ruby/object:Section
     section_num: '03'
-    open_spots: '10'
+    open_spots: '8'
     max_spots: '65'
     crn: '22590'
     instructor: Hall, Brian Pilkington, Anne
@@ -198,7 +198,7 @@
     location: Hayes Healy Center 231
   - !ruby/object:Section
     section_num: '04'
-    open_spots: '8'
+    open_spots: '9'
     max_spots: '65'
     crn: '24402'
     instructor: Dreyer, Guillaume Pilkington, Anne
@@ -206,7 +206,7 @@
     location: Hayes Healy Center 231
   - !ruby/object:Section
     section_num: '05'
-    open_spots: '40'
+    open_spots: '39'
     max_spots: '65'
     crn: '24403'
     instructor: Mantzavinos, Dionyssios Pilkington, Anne
@@ -240,7 +240,7 @@
   sections:
   - !ruby/object:Section
     section_num: '11'
-    open_spots: '13'
+    open_spots: '11'
     max_spots: '40'
     crn: '21167'
     instructor: Lim, Chong Keat
@@ -264,7 +264,7 @@
     location: Pasquerilla Center 105
   - !ruby/object:Section
     section_num: '22'
-    open_spots: '24'
+    open_spots: '25'
     max_spots: '40'
     crn: '22520'
     instructor: Wang, Botong Lim, Chong Keat
@@ -296,7 +296,7 @@
     location: Pasquerilla Center 109
   - !ruby/object:Section
     section_num: '42'
-    open_spots: '24'
+    open_spots: '23'
     max_spots: '40'
     crn: '29011'
     instructor: Fang, Fuquan Lim, Chong Keat
@@ -391,7 +391,7 @@
     location: West Lake Hall (Telecomm) 226
   - !ruby/object:Section
     section_num: '31'
-    open_spots: '16'
+    open_spots: '14'
     max_spots: '35'
     crn: '22530'
     instructor: Hall, Brian Pilkington, Anne
@@ -415,7 +415,7 @@
     location: Jordan Hall of Science 322
   - !ruby/object:Section
     section_num: '42'
-    open_spots: '5'
+    open_spots: '6'
     max_spots: '35'
     crn: '24415'
     instructor: Dreyer, Guillaume Pilkington, Anne
@@ -431,7 +431,7 @@
     location: Pasquerilla Center 105
   - !ruby/object:Section
     section_num: '52'
-    open_spots: '27'
+    open_spots: '26'
     max_spots: '35'
     crn: '24414'
     instructor: Mantzavinos, Dionyssios Pilkington, Anne
@@ -512,7 +512,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '0'
+    open_spots: '-1'
     max_spots: '60'
     crn: '21223'
     instructor: Smyth, Brian Taylor, Laurence
@@ -539,7 +539,7 @@
     open_spots: '43'
     max_spots: '60'
     crn: '29732'
-    instructor: Taylor, Laurence Shourd, Brian
+    instructor: Shourd, Brian Taylor, Laurence
     time: M W F  - 9:35A - 10:25A
     location: Pasquerilla Center 107
 - !ruby/object:Course
@@ -581,7 +581,7 @@
     location: Hayes Healy Center 129
   - !ruby/object:Section
     section_num: '05'
-    open_spots: '3'
+    open_spots: '2'
     max_spots: '70'
     crn: '25106'
     instructor: Liu, Xiaobo
@@ -594,7 +594,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '25'
+    open_spots: '26'
     max_spots: '45'
     crn: '22059'
     instructor: Szekelyhidi, Gabor
@@ -672,7 +672,7 @@
   sections:
   - !ruby/object:Section
     section_num: '11'
-    open_spots: '9'
+    open_spots: '8'
     max_spots: '35'
     crn: '21708'
     instructor: Smyth, Brian Taylor, Laurence
@@ -741,7 +741,7 @@
   sections:
   - !ruby/object:Section
     section_num: '11'
-    open_spots: '18'
+    open_spots: '17'
     max_spots: '35'
     crn: '24419'
     instructor: Taylor, Laurence Liu, Xiaobo
@@ -749,7 +749,7 @@
     location: Jordan Hall of Science 322
   - !ruby/object:Section
     section_num: '12'
-    open_spots: '26'
+    open_spots: '27'
     max_spots: '35'
     crn: '29014'
     instructor: Taylor, Laurence Liu, Xiaobo
@@ -805,7 +805,7 @@
     location: West Lake Hall (Telecomm) 224
   - !ruby/object:Section
     section_num: '51'
-    open_spots: '2'
+    open_spots: '1'
     max_spots: '35'
     crn: '25113'
     instructor: Liu, Xiaobo
@@ -1063,7 +1063,7 @@
     location: TBA
   - !ruby/object:Section
     section_num: '02'
-    open_spots: '30'
+    open_spots: '27'
     max_spots: '30'
     crn: '20883'
     instructor: Dyer, Matthew
@@ -1141,7 +1141,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '18'
+    open_spots: '16'
     max_spots: '20'
     crn: '21335'
     instructor: Ledrappier, Francois
@@ -1193,7 +1193,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '26'
+    open_spots: '25'
     max_spots: '30'
     crn: '29222'
     instructor: Fang, Fuquan

@@ -130,7 +130,7 @@
   - !ruby/object:Section
     section_num: '01'
     open_spots: '0'
-    max_spots: '15'
+    max_spots: '16'
     crn: '28713'
     instructor: Nic Dhiarmada, Briona
     time: T R  - 2:00P - 3:15P

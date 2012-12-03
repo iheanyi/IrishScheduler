@@ -6,7 +6,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '9'
+    open_spots: '8'
     max_spots: '75'
     crn: '29525'
     instructor: Freeland, Joseph
@@ -352,7 +352,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '3'
+    open_spots: '4'
     max_spots: '28'
     crn: '23460'
     instructor: Bualuan, Ramzi
@@ -664,7 +664,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '4'
+    open_spots: '5'
     max_spots: '5'
     crn: '27003'
     instructor: Westerink, Joannes
@@ -729,7 +729,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '2'
+    open_spots: '3'
     max_spots: '9'
     crn: '29526'
     instructor: Santelices, Raul
@@ -742,7 +742,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '10'
+    open_spots: '9'
     max_spots: '17'
     crn: '24421'
     instructor: Chawla, Nitesh
@@ -781,7 +781,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '17'
+    open_spots: '16'
     max_spots: '19'
     crn: '25466'
     instructor: Milenkovic, Tijana
@@ -833,7 +833,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '6'
+    open_spots: '5'
     max_spots: '9'
     crn: '29795'
     instructor: Bowyer, Kevin Flynn, Patrick
@@ -1427,6 +1427,7 @@
     instructor: Blanton, Marina
     time: TBA
     location: TBA
+
 spots: '75'
   :open_spots: '75'
   :xlst: ! '&nbsp'

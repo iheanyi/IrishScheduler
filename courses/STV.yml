@@ -210,8 +210,8 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '17'
-    max_spots: '35'
+    open_spots: '0'
+    max_spots: '18'
     crn: '25446'
     instructor: Ladouceur, David
     time: T R  - 12:30P - 1:45P
@@ -301,8 +301,8 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '1'
-    max_spots: '3'
+    open_spots: '0'
+    max_spots: '2'
     crn: '29544'
     instructor: Ullah, Isaac
     time: T R  - 2:00P - 3:15P
@@ -541,6 +541,7 @@
     instructor: Steil, Lucien
     time: T R  - 9:30A - 10:45A
     location: TBA
+
  01/15/2013
   :end: 05/01/2013
   :location: Grace Hall 346

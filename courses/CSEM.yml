@@ -30,7 +30,7 @@
     location: Edward J. DeBartolo Hall 333
   - !ruby/object:Section
     section_num: '04'
-    open_spots: '0'
+    open_spots: '1'
     max_spots: '15'
     crn: '22280'
     instructor: Amar, Joseph
@@ -54,7 +54,7 @@
     location: Flanner Hall 925
   - !ruby/object:Section
     section_num: '07'
-    open_spots: '0'
+    open_spots: '1'
     max_spots: '15'
     crn: '22284'
     instructor: Green, Barbara
@@ -86,7 +86,7 @@
     location: Edward J. DeBartolo Hall 335
   - !ruby/object:Section
     section_num: '11'
-    open_spots: '5'
+    open_spots: '4'
     max_spots: '15'
     crn: '22282'
     instructor: Jensen, Lionel
@@ -142,7 +142,7 @@
     location: Crowley Hall of Music 124
   - !ruby/object:Section
     section_num: '18'
-    open_spots: '4'
+    open_spots: '3'
     max_spots: '15'
     crn: '26060'
     instructor: Beudert, Mark

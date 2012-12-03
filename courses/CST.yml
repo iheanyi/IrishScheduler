@@ -188,7 +188,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '91'
+    open_spots: '88'
     max_spots: '100'
     crn: '23318'
     instructor: Purcell, William

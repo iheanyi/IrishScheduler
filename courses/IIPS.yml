@@ -114,7 +114,7 @@
   - !ruby/object:Section
     section_num: '01'
     open_spots: '0'
-    max_spots: '2'
+    max_spots: '1'
     crn: '29727'
     instructor: Powell, Emilia Justyna
     time: T R  - 12:30P - 1:45P
@@ -217,7 +217,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '9'
+    open_spots: '8'
     max_spots: '12'
     crn: '29095'
     instructor: Omer, Atalia
@@ -347,7 +347,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '1'
+    open_spots: '0'
     max_spots: '4'
     crn: '29236'
     instructor: Paulsen, Melissa Belatti, Frank
@@ -490,7 +490,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '4'
+    open_spots: '3'
     max_spots: '30'
     crn: '25982'
     instructor: Lopez, George
@@ -641,7 +641,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '18'
+    open_spots: '19'
     max_spots: '22'
     crn: '23603'
     instructor: Omar, Abdul
@@ -654,8 +654,8 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '2'
-    max_spots: '5'
+    open_spots: '1'
+    max_spots: '4'
     crn: '29238'
     instructor: Pfeil, Margaret Sharpe, Susan
     time: M W  - 11:45A - 1:00P
@@ -675,7 +675,7 @@
     location: Edward J. DeBartolo Hall 347
   - !ruby/object:Section
     section_num: '02'
-    open_spots: '2'
+    open_spots: '3'
     max_spots: '16'
     crn: '29099'
     instructor: Lederach, John
@@ -1148,7 +1148,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '9'
+    open_spots: '8'
     max_spots: '10'
     crn: '27502'
     instructor: Firchow, Pamina Kaufman, Asher

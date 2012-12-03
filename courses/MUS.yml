@@ -6,7 +6,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '0'
+    open_spots: '1'
     max_spots: '30'
     crn: '28736'
     instructor: Redwood, Andre
@@ -19,7 +19,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '25'
+    open_spots: '26'
     max_spots: '45'
     crn: '26196'
     instructor: Frandsen, Mary
@@ -58,7 +58,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '4'
+    open_spots: '5'
     max_spots: '27'
     crn: '29563'
     instructor: Jarjour, Tala
@@ -97,7 +97,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '65'
+    open_spots: '66'
     max_spots: '80'
     crn: '21767'
     instructor: Blachly, Alexander
@@ -123,7 +123,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '55'
+    open_spots: '54'
     max_spots: '75'
     crn: '21536'
     instructor: Stowe, Daniel
@@ -248,7 +248,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '47'
+    open_spots: '46'
     max_spots: '75'
     crn: '21375'
     instructor: Stowe, Daniel
@@ -360,7 +360,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '18'
+    open_spots: '19'
     max_spots: '19'
     crn: '20936'
     instructor: Cramer, Craig Disselhorst, DelbertWalker, Paul
@@ -564,7 +564,7 @@
     location: TBA
   - !ruby/object:Section
     section_num: '04'
-    open_spots: '17'
+    open_spots: '18'
     max_spots: '19'
     crn: '23920'
     instructor: Lancaster, Stephen
@@ -684,7 +684,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '1'
+    open_spots: '0'
     max_spots: '81'
     crn: '25164'
     instructor: Dye, Kenneth Thigpen, Alison
@@ -744,7 +744,7 @@
     location: Band Rehearsal Hall 101
   - !ruby/object:Section
     section_num: '02'
-    open_spots: '18'
+    open_spots: '19'
     max_spots: '30'
     crn: '23813'
     instructor: Dye, Kenneth Thigpen, Alison
@@ -1047,7 +1047,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '16'
+    open_spots: '17'
     max_spots: '30'
     crn: '23273'
     instructor: Beudert, Mark
@@ -1428,7 +1428,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '50'
+    open_spots: '48'
     max_spots: '75'
     crn: '21997'
     instructor: Dye, Kenneth Merten, MatthewSanchez, Samuel
@@ -2055,7 +2055,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '49'
+    open_spots: '48'
     max_spots: '50'
     crn: '23969'
     instructor: Thigpen, Alison Sanchez, Samuel

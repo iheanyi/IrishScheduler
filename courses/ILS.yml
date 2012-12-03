@@ -136,7 +136,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '3'
+    open_spots: '2'
     max_spots: '9'
     crn: '29315'
     instructor: Pensado, Jaime

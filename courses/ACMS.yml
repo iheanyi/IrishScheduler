@@ -36,6 +36,14 @@
     instructor: Huebner, Alan
     time: M W F  - 12:50P - 1:40P
     location: Nieuwland Science Hall 127
+  - !ruby/object:Section
+    section_num: '05'
+    open_spots: '31'
+    max_spots: '35'
+    crn: '29901'
+    instructor: Ghiaseddin, Roya
+    time: M W F  - 11:45A - 12:35P
+    location: Pasquerilla Center 102
 - !ruby/object:Course
   name: Scientific Computing
   credit: '3'
@@ -77,7 +85,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '8'
+    open_spots: '6'
     max_spots: '40'
     crn: '28973'
     instructor: McCoy, Timothy
@@ -103,7 +111,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '9'
+    open_spots: '8'
     max_spots: '40'
     crn: '28974'
     instructor: TBA
@@ -441,7 +449,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '6'
+    open_spots: '5'
     max_spots: '10'
     crn: '26876'
     instructor: Liu, Fang
@@ -467,7 +475,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '15'
+    open_spots: '14'
     max_spots: '20'
     crn: '29200'
     instructor: Liu, Fang
@@ -480,7 +488,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '6'
+    open_spots: '5'
     max_spots: '10'
     crn: '24942'
     instructor: Buechler, Steven
@@ -586,17 +594,7 @@
     instructor: Li, Jiahan
     time: TBA
     location: TBA
-alysis
-  :credits: '3'
-  :status: OP
-  :max_spots: '25'
-  :open_spots: '19'
-  :xlst: ! '&nbsp'
-  :crn: '26922'
-  :syl: ! '&nbsp'
-  :instructor: Delaney, James
-  :when: M W F  - 3:00P - 3:50P
-  :begin: 01/15/2013
+3
   :end: 05/01/2013
   :location: Hayes Healy Center 229
 - :course: ACMS80770

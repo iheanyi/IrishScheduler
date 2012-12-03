@@ -38,7 +38,7 @@
     location: Edward J. DeBartolo Hall 202
   - !ruby/object:Section
     section_num: '05'
-    open_spots: '2'
+    open_spots: '1'
     max_spots: '16'
     crn: '22523'
     instructor: Wang, Yanjing
@@ -91,7 +91,7 @@
     location: Edward J. DeBartolo Hall 330
   - !ruby/object:Section
     section_num: '05'
-    open_spots: '3'
+    open_spots: '2'
     max_spots: '16'
     crn: '26842'
     instructor: Wang, Wei
@@ -139,7 +139,7 @@
     open_spots: '0'
     max_spots: '16'
     crn: '28582'
-    instructor: Ma, Congcong
+    instructor: Yang, Jia
     time: M W F  - 1:55P - 2:45P
     location: O'Shaughnessy Hall 206
 - !ruby/object:Course
@@ -260,6 +260,7 @@
     instructor: Lin, Sylvia
     time: M W F  - 11:45A - 12:35P
     location: Edward J. DeBartolo Hall 301
+01
 :max_spots: '16'
   :open_spots: '0'
   :xlst: ! '&nbsp'

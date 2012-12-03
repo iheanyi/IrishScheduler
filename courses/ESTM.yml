@@ -6,7 +6,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '20'
+    open_spots: '15'
     max_spots: '30'
     crn: '24989'
     instructor: Bernel, Jeffrey
@@ -19,7 +19,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '25'
+    open_spots: '20'
     max_spots: '35'
     crn: '24642'
     instructor: Murphy, Tonia
@@ -32,7 +32,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '25'
+    open_spots: '20'
     max_spots: '35'
     crn: '24643'
     instructor: Kilpatrick, Peter
@@ -45,7 +45,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '26'
+    open_spots: '25'
     max_spots: '32'
     crn: '29885'
     instructor: Hutchison, David
@@ -58,7 +58,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '21'
+    open_spots: '16'
     max_spots: '32'
     crn: '29888'
     instructor: Kantor, Jeffrey
@@ -71,7 +71,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '26'
+    open_spots: '25'
     max_spots: '32'
     crn: '29887'
     instructor: O'Rourke, James Collins, Sandra
@@ -84,7 +84,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '45'
+    open_spots: '41'
     max_spots: '50'
     crn: '29884'
     instructor: Angst, Wendy Stevens, Christopher
@@ -97,7 +97,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '27'
+    open_spots: '20'
     max_spots: '32'
     crn: '29886'
     instructor: Murphy, David
@@ -110,7 +110,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '25'
+    open_spots: '20'
     max_spots: '35'
     crn: '24646'
     instructor: Prezyna, Lynette

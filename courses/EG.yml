@@ -6,18 +6,18 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '38'
+    open_spots: '37'
     max_spots: '235'
     crn: '20258'
-    instructor: Goodrich, Victoria McWilliams, Leo
+    instructor: Goodrich, Victoria Lent, CraigMcWilliams, Leo
     time: M F  - 11:45A - 12:35P
     location: Edward J. DeBartolo Hall 141
   - !ruby/object:Section
     section_num: '02'
-    open_spots: '15'
+    open_spots: '14'
     max_spots: '235'
     crn: '24399'
-    instructor: Goodrich, Victoria McWilliams, Leo
+    instructor: Goodrich, Victoria Lent, CraigMcWilliams, Leo
     time: M F  - 12:50P - 1:40P
     location: Edward J. DeBartolo Hall 141
 - !ruby/object:Course
@@ -67,7 +67,7 @@
     location: Stinson Remick Hall 108
   - !ruby/object:Section
     section_num: '06'
-    open_spots: '20'
+    open_spots: '18'
     max_spots: '32'
     crn: '24653'
     instructor: Goodrich, Victoria
@@ -157,7 +157,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '7'
+    open_spots: '3'
     max_spots: '36'
     crn: '20666'
     instructor: Kitz, Michael Alworth, Robert
@@ -165,7 +165,7 @@
     location: Edward J. DeBartolo Hall 125
   - !ruby/object:Section
     section_num: '02'
-    open_spots: '12'
+    open_spots: '2'
     max_spots: '36'
     crn: '21297'
     instructor: Kitz, Michael Alworth, Robert
@@ -173,7 +173,7 @@
     location: Edward J. DeBartolo Hall 312
   - !ruby/object:Section
     section_num: '03'
-    open_spots: '19'
+    open_spots: '18'
     max_spots: '36'
     crn: '20829'
     instructor: Kitz, Michael Alworth, Robert
@@ -181,14 +181,13 @@
     location: Edward J. DeBartolo Hall 210
   - !ruby/object:Section
     section_num: '04'
-    open_spots: '9'
+    open_spots: '7'
     max_spots: '35'
     crn: '29881'
     instructor: Alworth, Robert Kitz, Michael
     time: M W F  - 8:30A - 9:20A
     location: Edward J. DeBartolo Hall 207
-s II - LC
-  :credits: '0'
+ '0'
   :status: CL
   :max_spots: '21'
   :open_spots: '0'

@@ -14,7 +14,7 @@
     location: Mendoza College of Business 121
   - !ruby/object:Section
     section_num: '03'
-    open_spots: '1'
+    open_spots: '0'
     max_spots: '18'
     crn: '22250'
     instructor: O'Rourke, James
@@ -87,7 +87,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '1'
+    open_spots: '2'
     max_spots: '24'
     crn: '29059'
     instructor: Tuleja, Elizabeth

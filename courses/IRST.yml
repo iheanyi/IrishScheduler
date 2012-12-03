@@ -147,7 +147,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '0'
+    open_spots: '1'
     max_spots: '10'
     crn: '24538'
     instructor: Fox, Christopher

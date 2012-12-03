@@ -6,7 +6,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '15'
+    open_spots: '0'
     max_spots: '64'
     crn: '21503'
     instructor: Bellia, Anthony
@@ -14,7 +14,7 @@
     location: TBA
   - !ruby/object:Section
     section_num: '02'
-    open_spots: '58'
+    open_spots: '13'
     max_spots: '64'
     crn: '20368'
     instructor: Garnett, Richard
@@ -22,8 +22,8 @@
     location: TBA
   - !ruby/object:Section
     section_num: '03'
-    open_spots: '37'
-    max_spots: '64'
+    open_spots: '0'
+    max_spots: '63'
     crn: '29679'
     instructor: Kelley, William
     time: M W F  - 11:05A - 12:20P
@@ -35,7 +35,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '63'
+    open_spots: '8'
     max_spots: '64'
     crn: '25498'
     instructor: Barrett, Amy
@@ -43,7 +43,7 @@
     location: TBA
   - !ruby/object:Section
     section_num: '02'
-    open_spots: '61'
+    open_spots: '6'
     max_spots: '64'
     crn: '25499'
     instructor: Robinson, John
@@ -51,7 +51,7 @@
     location: TBA
   - !ruby/object:Section
     section_num: '03'
-    open_spots: '44'
+    open_spots: '6'
     max_spots: '64'
     crn: '25500'
     instructor: Tidmarsh, Jay
@@ -125,7 +125,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '61'
+    open_spots: '7'
     max_spots: '64'
     crn: '20767'
     instructor: Huber, Bruce
@@ -133,7 +133,7 @@
     location: TBA
   - !ruby/object:Section
     section_num: '02'
-    open_spots: '62'
+    open_spots: '6'
     max_spots: '64'
     crn: '20882'
     instructor: Kelly, Daniel
@@ -141,7 +141,7 @@
     location: TBA
   - !ruby/object:Section
     section_num: '03'
-    open_spots: '44'
+    open_spots: '7'
     max_spots: '64'
     crn: '27012'
     instructor: Nagle, John
@@ -344,7 +344,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '14'
+    open_spots: '15'
     max_spots: '96'
     crn: '29684'
     instructor: McAward, Jennifer
@@ -370,7 +370,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '0'
+    open_spots: '1'
     max_spots: '22'
     crn: '27019'
     instructor: Garnett, Nicole
@@ -383,7 +383,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '34'
+    open_spots: '35'
     max_spots: '96'
     crn: '27020'
     instructor: Bellia, Patricia
@@ -435,7 +435,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '20'
+    open_spots: '21'
     max_spots: '50'
     crn: '29687'
     instructor: Kelly, James
@@ -448,7 +448,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '34'
+    open_spots: '33'
     max_spots: '50'
     crn: '29688'
     instructor: Nagle, John
@@ -474,7 +474,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '27'
+    open_spots: '28'
     max_spots: '64'
     crn: '25504'
     instructor: Fick, Barbara
@@ -591,7 +591,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '24'
+    open_spots: '23'
     max_spots: '64'
     crn: '24699'
     instructor: Kalanges, Kristine
@@ -617,7 +617,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '68'
+    open_spots: '67'
     max_spots: '96'
     crn: '27024'
     instructor: Smith, Stephen
@@ -669,7 +669,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '66'
+    open_spots: '65'
     max_spots: '96'
     crn: '20797'
     instructor: Barrett, Matthew
@@ -799,8 +799,8 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '-4'
-    max_spots: '60'
+    open_spots: '-5'
+    max_spots: '59'
     crn: '29693'
     instructor: Root, Veronica
     time: T R  - 9:40A - 10:55A
@@ -812,7 +812,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '51'
+    open_spots: '50'
     max_spots: '96'
     crn: '25495'
     instructor: Rodes, Robert
@@ -1033,7 +1033,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '0'
+    open_spots: '1'
     max_spots: '12'
     crn: '29698'
     instructor: Cushman, Barry
@@ -1059,7 +1059,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '1'
+    open_spots: '2'
     max_spots: '24'
     crn: '27033'
     instructor: Smith, Stephen
@@ -1072,7 +1072,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '0'
+    open_spots: '1'
     max_spots: '24'
     crn: '23348'
     instructor: Venter, Christine
@@ -1098,7 +1098,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '9'
+    open_spots: '8'
     max_spots: '24'
     crn: '22739'
     instructor: Carozza, Paolo
@@ -1137,7 +1137,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '1'
+    open_spots: '0'
     max_spots: '24'
     crn: '29714'
     instructor: Smithburn, John
@@ -1176,7 +1176,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '10'
+    open_spots: '11'
     max_spots: '24'
     crn: '29700'
     instructor: Snead, Orlando
@@ -1202,7 +1202,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '-2'
+    open_spots: '-1'
     max_spots: '20'
     crn: '23349'
     instructor: Edmonds, Edmund
@@ -1266,7 +1266,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '7'
+    open_spots: '12'
     max_spots: '48'
     crn: '27035'
     instructor: Seckinger, James Conway, John
@@ -1356,7 +1356,7 @@
     time: T R  - 2:00P - 4:00P
     location: TBA
 - !ruby/object:Course
-  name: Mortgage Facilitation
+  name: Attorney General
   credit: V
   coursenum: LAW75723
   sections:
@@ -1443,7 +1443,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '1'
+    open_spots: '0'
     max_spots: '23'
     crn: '20580'
     instructor: Bradley, Gerard Krull, Gloria
@@ -1547,7 +1547,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '30'
+    open_spots: '28'
     max_spots: '55'
     crn: '21054'
     instructor: Bellia, Anthony
@@ -1560,7 +1560,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '41'
+    open_spots: '40'
     max_spots: '55'
     crn: '21315'
     instructor: Snead, Orlando
@@ -2421,6 +2421,7 @@
     instructor: Carozza, Paolo
     time: TBA
     location: TBA
+cation: TBA
 p'
   :instructor: Tor, Avishalom
   :when: TBA

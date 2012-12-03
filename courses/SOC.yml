@@ -6,7 +6,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '25'
+    open_spots: '27'
     max_spots: '100'
     crn: '20509'
     instructor: Langenkamp, Amy
@@ -32,7 +32,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '48'
+    open_spots: '52'
     max_spots: '100'
     crn: '21057'
     instructor: Gunty, Mark
@@ -103,7 +103,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '3'
+    open_spots: '1'
     max_spots: '49'
     crn: '24975'
     instructor: McDonnell, Terence
@@ -163,7 +163,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '5'
+    open_spots: '6'
     max_spots: '45'
     crn: '25063'
     instructor: Faeges, Russell
@@ -184,7 +184,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '7'
+    open_spots: '8'
     max_spots: '49'
     crn: '23611'
     instructor: Gunty, Mark
@@ -197,7 +197,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '0'
+    open_spots: '1'
     max_spots: '151'
     crn: '23147'
     instructor: Thomas, Mim
@@ -403,7 +403,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '0'
+    open_spots: '1'
     max_spots: '18'
     crn: '23140'
     instructor: Williams, Richard

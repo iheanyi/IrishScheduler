@@ -56,7 +56,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '27'
+    open_spots: '26'
     max_spots: '75'
     crn: '23876'
     instructor: Vander Heyden, Raymond Bill, LissaSvete, Lee
@@ -85,7 +85,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '106'
+    open_spots: '103'
     max_spots: '200'
     crn: '22294'
     instructor: O'Rourke, James

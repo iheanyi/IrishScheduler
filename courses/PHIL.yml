@@ -6,7 +6,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '91'
+    open_spots: '89'
     max_spots: '200'
     crn: '22372'
     instructor: Sullivan, Meghan
@@ -123,7 +123,7 @@
     location: Edward J. DeBartolo Hall 202
   - !ruby/object:Section
     section_num: '14'
-    open_spots: '1'
+    open_spots: '0'
     max_spots: '30'
     crn: '28742'
     instructor: Rettler, Bradley
@@ -192,7 +192,7 @@
     location: Edward A. Malloy Hall 220
   - !ruby/object:Section
     section_num: '07'
-    open_spots: '12'
+    open_spots: '11'
     max_spots: '15'
     crn: '23109'
     instructor: Sullivan, Meghan
@@ -200,7 +200,7 @@
     location: Main Building 218
   - !ruby/object:Section
     section_num: 08
-    open_spots: '6'
+    open_spots: '5'
     max_spots: '15'
     crn: '23110'
     instructor: Sullivan, Meghan
@@ -245,48 +245,48 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '-1'
-    max_spots: '14'
+    open_spots: '0'
+    max_spots: '16'
     crn: '21539'
     instructor: Blanchette, Patricia
     time: T R  - 9:30A - 10:45A
     location: Edward J. DeBartolo Hall 108
   - !ruby/object:Section
     section_num: '02'
-    open_spots: '-2'
-    max_spots: '14'
+    open_spots: '0'
+    max_spots: '16'
     crn: '21869'
     instructor: Bays, Timothy
     time: T R  - 11:00A - 12:15P
     location: Edward J. DeBartolo Hall 113
   - !ruby/object:Section
     section_num: '03'
-    open_spots: '-2'
-    max_spots: '14'
+    open_spots: '0'
+    max_spots: '16'
     crn: '22001'
     instructor: Holloway, Montey
     time: T R  - 12:30P - 1:45P
     location: Edward J. DeBartolo Hall 113
   - !ruby/object:Section
     section_num: '04'
-    open_spots: '-2'
-    max_spots: '14'
+    open_spots: '0'
+    max_spots: '16'
     crn: '22002'
     instructor: DePaul, Michael
     time: T R  - 12:30P - 1:45P
     location: Flanner Hall 824
   - !ruby/object:Section
     section_num: '05'
-    open_spots: '-2'
-    max_spots: '14'
+    open_spots: '0'
+    max_spots: '16'
     crn: '22003'
     instructor: Watson, Stephen
     time: T R  - 3:30P - 4:45P
     location: Edward J. DeBartolo Hall 232
   - !ruby/object:Section
     section_num: '06'
-    open_spots: '-2'
-    max_spots: '14'
+    open_spots: '0'
+    max_spots: '16'
     crn: '22004'
     instructor: Stubenberg, Leopold
     time: T R  - 5:00P - 6:15P
@@ -294,7 +294,7 @@
   - !ruby/object:Section
     section_num: '07'
     open_spots: '0'
-    max_spots: '16'
+    max_spots: '17'
     crn: '22005'
     instructor: Stubenberg, Leopold
     time: T R  - 3:30P - 4:45P
@@ -330,7 +330,7 @@
     location: O'Shaughnessy Hall 115
   - !ruby/object:Section
     section_num: '04'
-    open_spots: '12'
+    open_spots: '11'
     max_spots: '30'
     crn: '20756'
     instructor: Hagaman, Scott
@@ -359,7 +359,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '0'
+    open_spots: '1'
     max_spots: '29'
     crn: '26205'
     instructor: Reimers, Adrian
@@ -380,7 +380,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '0'
+    open_spots: '-1'
     max_spots: '28'
     crn: '26206'
     instructor: Rush, Fred
@@ -414,7 +414,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '-1'
+    open_spots: '0'
     max_spots: '26'
     crn: '21974'
     instructor: Sterba, James
@@ -443,7 +443,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '1'
+    open_spots: '0'
     max_spots: '24'
     crn: '28747'
     instructor: Flint, Thomas
@@ -571,7 +571,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '1'
+    open_spots: '0'
     max_spots: '24'
     crn: '28752'
     instructor: Chakravartty, Anjan
@@ -592,8 +592,8 @@
     location: Edward J. DeBartolo Hall 206
   - !ruby/object:Section
     section_num: '02'
-    open_spots: '-1'
-    max_spots: '21'
+    open_spots: '0'
+    max_spots: '23'
     crn: '26534'
     instructor: Pence, Charles
     time: T R  - 2:00P - 3:15P
@@ -634,7 +634,7 @@
     location: Edward J. DeBartolo Hall 203
   - !ruby/object:Section
     section_num: '02'
-    open_spots: '0'
+    open_spots: '1'
     max_spots: '26'
     crn: '26220'
     instructor: Dumont, Stephen
@@ -660,7 +660,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '36'
+    open_spots: '39'
     max_spots: '150'
     crn: '29255'
     instructor: Speaks, Jeffrey
@@ -673,8 +673,8 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '-3'
-    max_spots: '9'
+    open_spots: '2'
+    max_spots: '16'
     crn: '22225'
     instructor: Solomon, William
     time: F  - 10:40A - 11:30A
@@ -726,7 +726,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '0'
+    open_spots: '3'
     max_spots: '15'
     crn: '29261'
     instructor: Speaks, Jeffrey
@@ -782,7 +782,7 @@
     location: Edward J. DeBartolo Hall 332
   - !ruby/object:Section
     section_num: 08
-    open_spots: '1'
+    open_spots: '2'
     max_spots: '15'
     crn: '29260'
     instructor: Speaks, Jeffrey
@@ -798,7 +798,7 @@
     location: Edward J. DeBartolo Hall 332
   - !ruby/object:Section
     section_num: '10'
-    open_spots: '8'
+    open_spots: '7'
     max_spots: '15'
     crn: '29257'
     instructor: Speaks, Jeffrey
@@ -832,7 +832,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '8'
+    open_spots: '9'
     max_spots: '25'
     crn: '20966'
     instructor: Joy, Lynn
@@ -931,7 +931,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '4'
+    open_spots: '5'
     max_spots: '15'
     crn: '28770'
     instructor: Solomon, William
@@ -970,8 +970,8 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '-1'
-    max_spots: '13'
+    open_spots: '0'
+    max_spots: '15'
     crn: '28772'
     instructor: Franks, Curtis
     time: T R  - 3:30P - 4:45P
@@ -1147,7 +1147,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '4'
+    open_spots: '3'
     max_spots: '19'
     crn: '28780'
     instructor: Newlands, Samuel
@@ -1212,7 +1212,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '7'
+    open_spots: '6'
     max_spots: '19'
     crn: '28782'
     instructor: Audi, Robert
@@ -1238,7 +1238,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '9'
+    open_spots: '10'
     max_spots: '19'
     crn: '28785'
     instructor: DePaul, Michael
@@ -1330,6 +1330,7 @@
     instructor: Holloway, Montey
     time: TBA
     location: TBA
+n: TBA
 pots: '0'
   :xlst: Y
   :crn: '25391'

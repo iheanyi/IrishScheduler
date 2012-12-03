@@ -35,7 +35,7 @@
     location: Main Building 404
   - !ruby/object:Section
     section_num: '02'
-    open_spots: '3'
+    open_spots: '4'
     max_spots: '7'
     crn: '25750'
     instructor: Giamo, Benedict

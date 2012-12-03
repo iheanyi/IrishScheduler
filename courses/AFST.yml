@@ -46,7 +46,7 @@
   - !ruby/object:Section
     section_num: '01'
     open_spots: '0'
-    max_spots: '45'
+    max_spots: '46'
     crn: '29394'
     instructor: Page, Hugh Page, Jacquetta
     time: T R  - 2:00P - 3:15P

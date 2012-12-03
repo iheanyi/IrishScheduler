@@ -54,7 +54,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '19'
+    open_spots: '18'
     max_spots: '25'
     crn: '21419'
     instructor: Polhamus, John

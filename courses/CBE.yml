@@ -32,7 +32,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '86'
+    open_spots: '83'
     max_spots: '100'
     crn: '21465'
     instructor: Flynn, Laura
@@ -157,7 +157,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '16'
+    open_spots: '15'
     max_spots: '43'
     crn: '20365'
     instructor: Kantor, Jeffrey
@@ -165,7 +165,7 @@
     location: Edward J. DeBartolo Hall 217
   - !ruby/object:Section
     section_num: '02'
-    open_spots: '6'
+    open_spots: '7'
     max_spots: '52'
     crn: '22736'
     instructor: Kantor, Jeffrey
@@ -634,7 +634,7 @@
     location: TBA
   - !ruby/object:Section
     section_num: '02'
-    open_spots: '10'
+    open_spots: '9'
     max_spots: '10'
     crn: '21830'
     instructor: Zhu, Yingxi
@@ -789,6 +789,7 @@
     instructor: Maginn, Edward
     time: TBA
     location: TBA
+
 _spots: '10'
   :xlst: ! '&nbsp'
   :crn: '22041'

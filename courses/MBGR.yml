@@ -6,7 +6,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '97'
+    open_spots: '96'
     max_spots: '150'
     crn: '22218'
     instructor: O'Rourke, James
@@ -64,9 +64,16 @@
     instructor: Bernel, Jeffrey
     time: TBA
     location: TBA
-&nbsp'
-  :instructor: Bernel, Jeffrey
-  :when: TBA
-  :begin: 01/14/2013
-  :end: 05/01/2013
-  :location: TBA
+- !ruby/object:Course
+  name: ! 'DR: DRNI Private Placement Mem'
+  credit: '1'
+  coursenum: MBGR76880
+  sections:
+  - !ruby/object:Section
+    section_num: '01'
+    open_spots: '0'
+    max_spots: '1'
+    crn: '29899'
+    instructor: Langley, Jerry
+    time: TBA
+    location: TBA

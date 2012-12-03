@@ -104,7 +104,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '1'
+    open_spots: '0'
     max_spots: '21'
     crn: '29224'
     instructor: Paulsen, Melissa Belatti, Frank
@@ -162,7 +162,7 @@
     location: Edward J. DeBartolo Hall 313
   - !ruby/object:Section
     section_num: '05'
-    open_spots: '1'
+    open_spots: '2'
     max_spots: '35'
     crn: '22271'
     instructor: Handley, Sean
@@ -186,7 +186,7 @@
     location: Edward J. DeBartolo Hall 313
   - !ruby/object:Section
     section_num: 08
-    open_spots: '5'
+    open_spots: '4'
     max_spots: '35'
     crn: '22269'
     instructor: Sarathy, Srikanth
@@ -239,7 +239,7 @@
     location: Edward J. DeBartolo Hall 215
   - !ruby/object:Section
     section_num: '05'
-    open_spots: '0'
+    open_spots: '1'
     max_spots: '30'
     crn: '22297'
     instructor: Srinivasan, Arati
@@ -279,7 +279,7 @@
     location: Edward J. DeBartolo Hall 215
   - !ruby/object:Section
     section_num: '10'
-    open_spots: '18'
+    open_spots: '17'
     max_spots: '30'
     crn: '25370'
     instructor: Michel, John

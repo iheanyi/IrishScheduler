@@ -54,7 +54,7 @@
     location: Edward J. DeBartolo Hall 213
   - !ruby/object:Section
     section_num: '07'
-    open_spots: '20'
+    open_spots: '21'
     max_spots: '42'
     crn: '20477'
     instructor: Mish, Jennifer
@@ -143,7 +143,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '0'
+    open_spots: '1'
     max_spots: '35'
     crn: '24547'
     instructor: Moore, Elizabeth

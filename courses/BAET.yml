@@ -30,7 +30,7 @@
     location: Mendoza College of Business L014B
   - !ruby/object:Section
     section_num: '04'
-    open_spots: '1'
+    open_spots: '0'
     max_spots: '28'
     crn: '22259'
     instructor: McManus Warnell, Jessica
@@ -94,7 +94,7 @@
     location: Mendoza College of Business L014B
   - !ruby/object:Section
     section_num: '12'
-    open_spots: '0'
+    open_spots: '1'
     max_spots: '28'
     crn: '25366'
     instructor: TBA

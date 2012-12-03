@@ -71,8 +71,8 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '2'
-    max_spots: '3'
+    open_spots: '1'
+    max_spots: '2'
     crn: '26660'
     instructor: Whitmore, Todd
     time: T R  - 12:30P - 1:45P
@@ -235,8 +235,8 @@
     location: Edward J. DeBartolo Hall 203
   - !ruby/object:Section
     section_num: '02'
-    open_spots: '2'
-    max_spots: '2'
+    open_spots: '0'
+    max_spots: '0'
     crn: '26663'
     instructor: Dumont, Stephen
     time: T R  - 5:00P - 6:15P
@@ -274,8 +274,8 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '3'
-    max_spots: '3'
+    open_spots: '0'
+    max_spots: '0'
     crn: '29337'
     instructor: Hicks, Daniel
     time: T R  - 12:30P - 1:45P
@@ -313,16 +313,16 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '2'
-    max_spots: '2'
+    open_spots: '0'
+    max_spots: '0'
     crn: '25420'
     instructor: Sterba, James
     time: M W F  - 10:40A - 11:30A
     location: O'Shaughnessy Hall 117
   - !ruby/object:Section
     section_num: '02'
-    open_spots: '2'
-    max_spots: '2'
+    open_spots: '0'
+    max_spots: '0'
     crn: '25421'
     instructor: Sterba, James
     time: M W F  - 1:55P - 2:45P
@@ -334,16 +334,16 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '2'
-    max_spots: '3'
+    open_spots: '0'
+    max_spots: '1'
     crn: '29339'
     instructor: Pilkington, Bryan
     time: M W  - 8:00A - 9:15A
     location: Edward J. DeBartolo Hall 240
   - !ruby/object:Section
     section_num: '02'
-    open_spots: '1'
-    max_spots: '3'
+    open_spots: '0'
+    max_spots: '2'
     crn: '29338'
     instructor: Pilkington, Bryan
     time: M W  - 9:30A - 10:45A
@@ -355,16 +355,16 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '3'
-    max_spots: '3'
+    open_spots: '0'
+    max_spots: '0'
     crn: '29341'
     instructor: Flint, Thomas
     time: M W  - 9:30A - 10:45A
     location: O'Shaughnessy Hall 115
   - !ruby/object:Section
     section_num: '02'
-    open_spots: '3'
-    max_spots: '3'
+    open_spots: '0'
+    max_spots: '0'
     crn: '29340'
     instructor: Flint, Thomas
     time: M W  - 11:45A - 1:00P
@@ -740,8 +740,8 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '2'
-    max_spots: '2'
+    open_spots: '0'
+    max_spots: '0'
     crn: '29351'
     instructor: Rose, Deondra
     time: T R  - 11:00A - 12:15P

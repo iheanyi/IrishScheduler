@@ -32,7 +32,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '11'
+    open_spots: '12'
     max_spots: '28'
     crn: '24719'
     instructor: Coshow, Suzanne
@@ -112,7 +112,7 @@
     location: Edward J. DeBartolo Hall 216
   - !ruby/object:Section
     section_num: '11'
-    open_spots: '1'
+    open_spots: '0'
     max_spots: '28'
     crn: '24729'
     instructor: Harms, Chad

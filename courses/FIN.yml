@@ -6,7 +6,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '35'
+    open_spots: '34'
     max_spots: '200'
     crn: '21188'
     instructor: Gryp, Thomas
@@ -59,7 +59,7 @@
     location: Edward J. DeBartolo Hall 319
   - !ruby/object:Section
     section_num: '02'
-    open_spots: '0'
+    open_spots: '1'
     max_spots: '35'
     crn: '20778'
     instructor: Collett-Schmitt, Kristen
@@ -144,7 +144,7 @@
     location: Edward J. DeBartolo Hall 320
   - !ruby/object:Section
     section_num: '04'
-    open_spots: '1'
+    open_spots: '0'
     max_spots: '35'
     crn: '21089'
     instructor: Stiver, John
@@ -168,7 +168,7 @@
     location: Edward J. DeBartolo Hall 316
   - !ruby/object:Section
     section_num: '07'
-    open_spots: '1'
+    open_spots: '0'
     max_spots: '35'
     crn: '25836'
     instructor: Leady, James
@@ -255,7 +255,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '21'
+    open_spots: '20'
     max_spots: '35'
     crn: '29069'
     instructor: Hutchison, David
@@ -367,7 +367,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '3'
+    open_spots: '4'
     max_spots: '38'
     crn: '21305'
     instructor: Forster, Margaret
@@ -534,7 +534,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '6'
+    open_spots: '5'
     max_spots: '11'
     crn: '25490'
     instructor: Hutchison, David
@@ -612,9 +612,9 @@
     crn: '21896'
     instructor: Lanser, Howard
     time: ! "(1) R  - 5:00P - 8:30P\r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\r\n\t\t\t
-      \  \t\t\r\n\t\t\t   \t  \r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\t(2) F  - 10:00A
-      - 4:30P\r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\r\n\t\t\t   \t\t\r\n\t\t\t   \t
-      \ \r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\t(3) F  - 11:00A - 4:00P\r\n\t\t\t\t
+      \  \t\t\r\n\t\t\t   \t  \r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\t(2) F  - 11:00A
+      - 4:00P\r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\r\n\t\t\t   \t\t\r\n\t\t\t   \t
+      \ \r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\t(3) F  - 10:00A - 4:30P\r\n\t\t\t\t
       \  \t\t\r\n\t\t\t\t   \t\r\n\t\t\t   \t\t\r\n\t\t\t   \t  \r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t
       \  \t\t\t(4) F  - 9:00A - 4:00P"
     location: ! "Mendoza College of Business 160 \r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\t\r\n\t\t\t\t
@@ -634,11 +634,11 @@
     crn: '22545'
     instructor: Lanser, Howard
     time: ! "(1) R  - 5:00P - 8:30P\r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\r\n\t\t\t
-      \  \t\t\r\n\t\t\t   \t  \r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\t(2) F  - 11:00A
-      - 4:00P\r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\r\n\t\t\t   \t\t\r\n\t\t\t   \t
+      \  \t\t\r\n\t\t\t   \t  \r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\t(2) F  - 10:00A
+      - 4:30P\r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\r\n\t\t\t   \t\t\r\n\t\t\t   \t
       \ \r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\t(3) F  - 9:00A - 4:00P\r\n\t\t\t\t
       \  \t\t\r\n\t\t\t\t   \t\r\n\t\t\t   \t\t\r\n\t\t\t   \t  \r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t
-      \  \t\t\t(4) F  - 10:00A - 4:30P"
+      \  \t\t\t(4) F  - 11:00A - 4:00P"
     location: ! "Mendoza College of Business 160 \r\n\t\t\t\t   \t\t\r\n\t\t\t\t   \t\t\r\n\t\t\t\t
       \  \t\r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\tTBA\r\n\t\t\t\t   \t\t\r\n\t\t\t\t
       \  \t\t\r\n\t\t\t\t   \t\r\n\t\t\t\t   \t\t\t\r\n\t\t\t\t   \t\t\tTBA\r\n\t\t\t\t
@@ -1019,7 +1019,7 @@
   sections:
   - !ruby/object:Section
     section_num: '02'
-    open_spots: '11'
+    open_spots: '12'
     max_spots: '15'
     crn: '24221'
     instructor: Lupiani, Daniel

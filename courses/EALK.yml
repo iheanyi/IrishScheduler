@@ -6,7 +6,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '2'
+    open_spots: '1'
     max_spots: '15'
     crn: '24209'
     instructor: Lee, Jung-Hyuck
@@ -27,7 +27,7 @@
     location: O'Shaughnessy Hall 117
   - !ruby/object:Section
     section_num: '02'
-    open_spots: '5'
+    open_spots: '4'
     max_spots: '15'
     crn: '26831'
     instructor: Lee, Jung-Hyuck

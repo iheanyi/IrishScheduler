@@ -32,7 +32,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '10'
+    open_spots: '9'
     max_spots: '12'
     crn: '23907'
     instructor: Cleveland, Margot
@@ -45,7 +45,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '2'
+    open_spots: '3'
     max_spots: '20'
     crn: '29045'
     instructor: Weiner, Leah
@@ -77,6 +77,7 @@
     instructor: Ricke-Kiely, Theresa
     time: TBA
     location: TBA
+
 :syl: ! '&nbsp'
   :instructor: Ricke-Kiely, Theresa
   :when: TBA

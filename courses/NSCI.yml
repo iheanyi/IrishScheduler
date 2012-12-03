@@ -14,7 +14,7 @@
     location: Pasquerilla Center 220
   - !ruby/object:Section
     section_num: '02'
-    open_spots: '9'
+    open_spots: '8'
     max_spots: '25'
     crn: '24790'
     instructor: Hood, Michael

@@ -35,7 +35,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '0'
+    open_spots: '-1'
     max_spots: '14'
     crn: '26042'
     instructor: Duffy, John
@@ -59,7 +59,7 @@
     location: Coleman Morse Center 243
   - !ruby/object:Section
     section_num: '04'
-    open_spots: '0'
+    open_spots: '-1'
     max_spots: '14'
     crn: '26045'
     instructor: Evans, Elizabeth
@@ -107,7 +107,7 @@
     location: Coleman Morse Center 243
   - !ruby/object:Section
     section_num: '12'
-    open_spots: '0'
+    open_spots: '-1'
     max_spots: '14'
     crn: '26041'
     instructor: Reinhard, Ben
@@ -235,7 +235,7 @@
     instructor: Bain-Conkin, Jeffrey
     time: M W F  - 9:35A - 10:25A
     location: Coleman Morse Center 330
-g & Rhetoric
+ Rhetoric
   :credits: '3'
   :status: OP
   :max_spots: '12'

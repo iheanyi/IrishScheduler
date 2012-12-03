@@ -6,7 +6,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '8'
+    open_spots: '7'
     max_spots: '15'
     crn: '20055'
     instructor: Hanabusa, Noriko Yamamoto, Miyuki
@@ -14,7 +14,7 @@
     location: Edward J. DeBartolo Hall 301
   - !ruby/object:Section
     section_num: '03'
-    open_spots: '0'
+    open_spots: '1'
     max_spots: '16'
     crn: '26822'
     instructor: Yamamoto, Miyuki Hanabusa, Noriko

@@ -32,7 +32,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '9'
+    open_spots: '8'
     max_spots: '10'
     crn: '21777'
     instructor: Bland, Katherine
@@ -45,7 +45,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '9'
+    open_spots: '8'
     max_spots: '12'
     crn: '28705'
     instructor: Jackson, Catherine
@@ -71,7 +71,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '9'
+    open_spots: '8'
     max_spots: '10'
     crn: '29632'
     instructor: Jurkowitz, Edward
@@ -123,7 +123,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '5'
+    open_spots: '4'
     max_spots: '5'
     crn: '21850'
     instructor: Sloan, Phillip

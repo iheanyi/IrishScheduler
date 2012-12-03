@@ -7,7 +7,7 @@
   - !ruby/object:Section
     section_num: '01'
     open_spots: '0'
-    max_spots: '72'
+    max_spots: '73'
     crn: '21264'
     instructor: Furdyna, Jacek
     time: T R  - 12:30P - 1:45P
@@ -84,7 +84,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '19'
+    open_spots: '22'
     max_spots: '100'
     crn: '20990'
     instructor: Livingston, A. Eugene
@@ -92,7 +92,7 @@
     location: Nieuwland Science Hall 118
   - !ruby/object:Section
     section_num: '02'
-    open_spots: '9'
+    open_spots: '3'
     max_spots: '140'
     crn: '24622'
     instructor: Livingston, A. Eugene
@@ -100,7 +100,7 @@
     location: Nieuwland Science Hall 118
   - !ruby/object:Section
     section_num: '03'
-    open_spots: '14'
+    open_spots: '12'
     max_spots: '140'
     crn: '21548'
     instructor: Karmgard, Daniel
@@ -147,7 +147,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '21'
+    open_spots: '20'
     max_spots: '50'
     crn: '22508'
     instructor: Collon, Philippe
@@ -176,7 +176,7 @@
     location: Jordan Hall of Science 213
   - !ruby/object:Section
     section_num: '03'
-    open_spots: '1'
+    open_spots: '0'
     max_spots: '80'
     crn: '20889'
     instructor: Blackstead, Howard
@@ -184,7 +184,7 @@
     location: Jordan Hall of Science 213
   - !ruby/object:Section
     section_num: '04'
-    open_spots: '38'
+    open_spots: '36'
     max_spots: '80'
     crn: '20151'
     instructor: Blackstead, Howard
@@ -192,7 +192,7 @@
     location: Jordan Hall of Science 213
   - !ruby/object:Section
     section_num: '05'
-    open_spots: '21'
+    open_spots: '20'
     max_spots: '80'
     crn: '20683'
     instructor: Blackstead, Howard
@@ -226,7 +226,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '21'
+    open_spots: '20'
     max_spots: '50'
     crn: '22524'
     instructor: Collon, Philippe
@@ -239,16 +239,16 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '-1'
-    max_spots: '30'
+    open_spots: '0'
+    max_spots: '32'
     crn: '21718'
     instructor: TBA
     time: T  - 9:30A - 10:20A
     location: O'Shaughnessy Hall 116
   - !ruby/object:Section
     section_num: '02'
-    open_spots: '-1'
-    max_spots: '30'
+    open_spots: '1'
+    max_spots: '31'
     crn: '20992'
     instructor: TBA
     time: T  - 9:30A - 10:20A
@@ -256,7 +256,7 @@
   - !ruby/object:Section
     section_num: '03'
     open_spots: '0'
-    max_spots: '30'
+    max_spots: '32'
     crn: '21741'
     instructor: TBA
     time: T  - 11:00A - 11:50A
@@ -264,7 +264,7 @@
   - !ruby/object:Section
     section_num: '04'
     open_spots: '0'
-    max_spots: '30'
+    max_spots: '32'
     crn: '20839'
     instructor: TBA
     time: T  - 11:00A - 11:50A
@@ -272,7 +272,7 @@
   - !ruby/object:Section
     section_num: '05'
     open_spots: '0'
-    max_spots: '30'
+    max_spots: '32'
     crn: '21782'
     instructor: TBA
     time: T  - 12:55P - 1:45P
@@ -280,7 +280,7 @@
   - !ruby/object:Section
     section_num: '06'
     open_spots: '0'
-    max_spots: '30'
+    max_spots: '31'
     crn: '20619'
     instructor: TBA
     time: T  - 12:55P - 1:45P
@@ -288,7 +288,7 @@
   - !ruby/object:Section
     section_num: '07'
     open_spots: '0'
-    max_spots: '30'
+    max_spots: '31'
     crn: '20930'
     instructor: TBA
     time: T  - 2:00P - 2:50P
@@ -332,7 +332,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '8'
+    open_spots: '10'
     max_spots: '30'
     crn: '20136'
     instructor: TBA
@@ -356,7 +356,7 @@
     location: Edward J. DeBartolo Hall 231
   - !ruby/object:Section
     section_num: '04'
-    open_spots: '15'
+    open_spots: '14'
     max_spots: '30'
     crn: '24289'
     instructor: TBA
@@ -408,7 +408,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '6'
+    open_spots: '5'
     max_spots: '40'
     crn: '22534'
     instructor: Delgado, Antonio
@@ -489,7 +489,7 @@
     location: Nieuwland Science Hall 127
   - !ruby/object:Section
     section_num: '02'
-    open_spots: '1'
+    open_spots: '0'
     max_spots: '175'
     crn: '20901'
     instructor: Dobrowolska-Furdyna, Malgorzata
@@ -515,7 +515,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '2'
+    open_spots: '3'
     max_spots: '27'
     crn: '24649'
     instructor: Newman, Kathie
@@ -583,7 +583,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '1'
+    open_spots: '0'
     max_spots: '48'
     crn: '21757'
     instructor: Blackstead, Howard
@@ -623,7 +623,7 @@
     location: Jordan Hall of Science 209
   - !ruby/object:Section
     section_num: '06'
-    open_spots: '0'
+    open_spots: '1'
     max_spots: '48'
     crn: '21516'
     instructor: Blackstead, Howard
@@ -639,7 +639,7 @@
     location: Jordan Hall of Science 209
   - !ruby/object:Section
     section_num: 08
-    open_spots: '11'
+    open_spots: '10'
     max_spots: '48'
     crn: '23489'
     instructor: TBA
@@ -665,7 +665,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '15'
+    open_spots: '16'
     max_spots: '40'
     crn: '22044'
     instructor: Peng, Jeffrey
@@ -1593,7 +1593,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '92'
+    open_spots: '91'
     max_spots: '100'
     crn: '20337'
     instructor: LoSecco, John
@@ -1645,7 +1645,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '25'
+    open_spots: '24'
     max_spots: '25'
     crn: '25534'
     instructor: Bunker, Bruce
@@ -1723,7 +1723,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '21'
+    open_spots: '20'
     max_spots: '25'
     crn: '21284'
     instructor: Wiescher, Michael
@@ -2802,6 +2802,7 @@
     instructor: Wiescher, Michael
     time: TBA
     location: TBA
+
 tation
   :credits: '1'
   :status: OP

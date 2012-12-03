@@ -97,7 +97,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '1'
+    open_spots: '0'
     max_spots: '2'
     crn: '29615'
     instructor: Guisinger, Alexandra

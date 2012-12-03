@@ -6,7 +6,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '3'
+    open_spots: '2'
     max_spots: '25'
     crn: '25461'
     instructor: TBA
@@ -14,7 +14,7 @@
     location: Cushing Hall of Engineering 303
   - !ruby/object:Section
     section_num: '02'
-    open_spots: '4'
+    open_spots: '5'
     max_spots: '30'
     crn: '25163'
     instructor: TBA
@@ -131,7 +131,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '2'
+    open_spots: '1'
     max_spots: '15'
     crn: '22433'
     instructor: Kerr, Elizabeth
@@ -147,7 +147,7 @@
     location: TBA
   - !ruby/object:Section
     section_num: '03'
-    open_spots: '5'
+    open_spots: '6'
     max_spots: '13'
     crn: '22435'
     instructor: Kerr, Elizabeth
@@ -325,7 +325,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '7'
+    open_spots: '8'
     max_spots: '50'
     crn: '20964'
     instructor: Smith, Brian
@@ -459,7 +459,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '14'
+    open_spots: '13'
     max_spots: '18'
     crn: '22724'
     instructor: Kurama, Yahya

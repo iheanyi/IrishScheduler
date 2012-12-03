@@ -121,7 +121,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '11'
+    open_spots: '10'
     max_spots: '12'
     crn: '29363'
     instructor: Escoda-Risto, Marie-Christine
@@ -134,7 +134,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '9'
+    open_spots: '10'
     max_spots: '10'
     crn: '27460'
     instructor: Blad, Alessia
@@ -160,7 +160,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '7'
+    open_spots: '6'
     max_spots: '12'
     crn: '22304'
     instructor: Morel, Olivier
@@ -226,7 +226,7 @@
     instructor: TBA
     time: TBA
     location: TBA
-ation: TBA
+tion: TBA
 - :course: LLRO67000
   :section: '02'
   :title: Special Studies

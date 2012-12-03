@@ -53,7 +53,7 @@
     location: Coleman Morse Center 201
   - !ruby/object:Section
     section_num: '02'
-    open_spots: '1'
+    open_spots: '0'
     max_spots: '16'
     crn: '22390'
     instructor: Glowacki, Donna
@@ -100,7 +100,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '0'
+    open_spots: '1'
     max_spots: '428'
     crn: '24172'
     instructor: McKenna, James
@@ -129,7 +129,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '21'
+    open_spots: '20'
     max_spots: '38'
     crn: '28506'
     instructor: Ullah, Isaac
@@ -137,7 +137,7 @@
     location: Geddes Hall B036
   - !ruby/object:Section
     section_num: '02'
-    open_spots: '11'
+    open_spots: '12'
     max_spots: '38'
     crn: '28505'
     instructor: Sheridan, Susan
@@ -236,7 +236,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '0'
+    open_spots: '1'
     max_spots: '1'
     crn: '29301'
     instructor: Richman, Karen
@@ -276,7 +276,7 @@
   - !ruby/object:Section
     section_num: '01'
     open_spots: '0'
-    max_spots: '16'
+    max_spots: '17'
     crn: '29303'
     instructor: Ullah, Isaac
     time: T R  - 2:00P - 3:15P
@@ -314,7 +314,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '4'
+    open_spots: '6'
     max_spots: '25'
     crn: '28514'
     instructor: Singh, Holly
@@ -340,7 +340,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '3'
+    open_spots: '4'
     max_spots: '6'
     crn: '28516'
     instructor: Gillan, Jeremiah
@@ -374,7 +374,7 @@
     location: Flanner Hall 925
   - !ruby/object:Section
     section_num: '02'
-    open_spots: '2'
+    open_spots: '4'
     max_spots: '19'
     crn: '24192'
     instructor: Oka, Rahul
@@ -426,7 +426,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '11'
+    open_spots: '12'
     max_spots: '19'
     crn: '28518'
     instructor: Sheridan, Susan
@@ -460,7 +460,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '0'
+    open_spots: '1'
     max_spots: '16'
     crn: '28520'
     instructor: Mahmood, Cynthia
@@ -887,7 +887,7 @@
     location: TBA
   - !ruby/object:Section
     section_num: '07'
-    open_spots: '2'
+    open_spots: '1'
     max_spots: '2'
     crn: '20761'
     instructor: Nordstrom, Carolyn

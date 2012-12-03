@@ -7,7 +7,7 @@
   - !ruby/object:Section
     section_num: '01'
     open_spots: '0'
-    max_spots: '33'
+    max_spots: '34'
     crn: '25775'
     instructor: Ocobock, Paul
     time: M W  - 9:35A - 10:25A
@@ -32,8 +32,8 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '-1'
-    max_spots: '18'
+    open_spots: '0'
+    max_spots: '21'
     crn: '29737'
     instructor: Meserve, Margaret
     time: M W  - 10:40A - 11:30A
@@ -72,7 +72,7 @@
   - !ruby/object:Section
     section_num: '01'
     open_spots: '0'
-    max_spots: '18'
+    max_spots: '19'
     crn: '29119'
     instructor: Ocobock, Paul
     time: F  - 9:35A - 10:25A
@@ -113,7 +113,7 @@
     location: Edward J. DeBartolo Hall 307
   - !ruby/object:Section
     section_num: '02'
-    open_spots: '5'
+    open_spots: '3'
     max_spots: '12'
     crn: '29739'
     instructor: Meserve, Margaret
@@ -193,7 +193,7 @@
   - !ruby/object:Section
     section_num: '01'
     open_spots: '0'
-    max_spots: '16'
+    max_spots: '14'
     crn: '20770'
     instructor: Hobbins, Daniel
     time: T R  - 11:00A - 12:15P
@@ -209,7 +209,7 @@
   - !ruby/object:Section
     section_num: '03'
     open_spots: '0'
-    max_spots: '16'
+    max_spots: '14'
     crn: '20858'
     instructor: Coleman, Jon
     time: T R  - 3:30P - 4:45P
@@ -225,7 +225,7 @@
   - !ruby/object:Section
     section_num: '05'
     open_spots: '0'
-    max_spots: '16'
+    max_spots: '17'
     crn: '24281'
     instructor: Hamlin, Christopher
     time: T R  - 3:30P - 4:45P
@@ -366,7 +366,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '1'
+    open_spots: '2'
     max_spots: '18'
     crn: '28676'
     instructor: Tor, Deborah
@@ -600,7 +600,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '1'
+    open_spots: '0'
     max_spots: '17'
     crn: '28684'
     instructor: Coleman, Jon
@@ -757,15 +757,15 @@
   - !ruby/object:Section
     section_num: '01'
     open_spots: '0'
-    max_spots: '15'
+    max_spots: '16'
     crn: '29129'
     instructor: Ocobock, Paul
     time: F  - 9:35A - 10:25A
     location: Edward J. DeBartolo Hall 143
   - !ruby/object:Section
     section_num: '02'
-    open_spots: '0'
-    max_spots: '15'
+    open_spots: '1'
+    max_spots: '16'
     crn: '29130'
     instructor: Ocobock, Paul
     time: F  - 10:40A - 11:30A
@@ -777,7 +777,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '1'
+    open_spots: '2'
     max_spots: '12'
     crn: '28690'
     instructor: Tor, Deborah
@@ -845,7 +845,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '1'
+    open_spots: '0'
     max_spots: '19'
     crn: '29131'
     instructor: Pensado, Jaime
@@ -853,7 +853,7 @@
     location: Edward J. DeBartolo Hall 143
   - !ruby/object:Section
     section_num: '02'
-    open_spots: '8'
+    open_spots: '7'
     max_spots: '19'
     crn: '29132'
     instructor: Pensado, Jaime
@@ -2809,7 +2809,7 @@
     location: TBA
   - !ruby/object:Section
     section_num: '41'
-    open_spots: '4'
+    open_spots: '3'
     max_spots: '4'
     crn: '25623'
     instructor: Marsden, George
@@ -3140,6 +3140,7 @@
     instructor: Marsden, George
     time: TBA
     location: TBA
+
  :title: Directed Readings in History
   :credits: V
   :status: OP

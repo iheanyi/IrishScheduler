@@ -60,7 +60,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '4'
+    open_spots: '3'
     max_spots: '15'
     crn: '21819'
     instructor: Weber, Hannelore
@@ -124,7 +124,7 @@
   - !ruby/object:Section
     section_num: '01'
     open_spots: '0'
-    max_spots: '14'
+    max_spots: '15'
     crn: '26168'
     instructor: Jones, Claire
     time: M W F  - 3:00P - 3:50P

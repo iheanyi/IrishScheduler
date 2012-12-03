@@ -6,7 +6,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '21'
+    open_spots: '19'
     max_spots: '25'
     crn: '22591'
     instructor: Navari, Rudolph
@@ -19,7 +19,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '21'
+    open_spots: '19'
     max_spots: '25'
     crn: '22592'
     instructor: Navari, Rudolph
@@ -32,7 +32,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '21'
+    open_spots: '19'
     max_spots: '25'
     crn: '22593'
     instructor: Navari, Rudolph
@@ -45,7 +45,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '21'
+    open_spots: '19'
     max_spots: '25'
     crn: '22594'
     instructor: Bohlson, Suzanne
@@ -58,7 +58,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '21'
+    open_spots: '18'
     max_spots: '25'
     crn: '22595'
     instructor: Scheel, Molly
@@ -71,7 +71,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '21'
+    open_spots: '18'
     max_spots: '25'
     crn: '25071'
     instructor: Stahelin, Robert
@@ -84,7 +84,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '21'
+    open_spots: '18'
     max_spots: '25'
     crn: '22596'
     instructor: Navari, Rudolph
@@ -100,7 +100,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '21'
+    open_spots: '18'
     max_spots: '25'
     crn: '22597'
     instructor: Navari, Rudolph
@@ -113,7 +113,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '21'
+    open_spots: '18'
     max_spots: '25'
     crn: '22598'
     instructor: Navari, Rudolph Prahlow, Joseph
@@ -126,7 +126,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '18'
+    open_spots: '15'
     max_spots: '20'
     crn: '24127'
     instructor: Navari, Rudolph

@@ -49,7 +49,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '0'
+    open_spots: '1'
     max_spots: '17'
     crn: '23143'
     instructor: Schlegel, Catherine
@@ -212,7 +212,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '1'
+    open_spots: '0'
     max_spots: '2'
     crn: '28570'
     instructor: Schlegel, Catherine

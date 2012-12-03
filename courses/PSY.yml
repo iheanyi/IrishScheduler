@@ -14,7 +14,7 @@
     location: Edward J. DeBartolo Hall 102
   - !ruby/object:Section
     section_num: '02'
-    open_spots: '102'
+    open_spots: '104'
     max_spots: '190'
     crn: '20154'
     instructor: Radvansky, Gabriel Venter, Anre
@@ -27,16 +27,16 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '-2'
-    max_spots: '14'
+    open_spots: '0'
+    max_spots: '16'
     crn: '22007'
     instructor: Day, Jeanne
     time: T R  - 11:00A - 12:15P
     location: Flanner Hall 625
   - !ruby/object:Section
     section_num: '02'
-    open_spots: '-1'
-    max_spots: '14'
+    open_spots: '0'
+    max_spots: '16'
     crn: '22008'
     instructor: Gondoli, Dawn
     time: T R  - 12:30P - 1:45P
@@ -48,7 +48,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '30'
+    open_spots: '34'
     max_spots: '70'
     crn: '28818'
     instructor: Radvansky, Gabriel Venter, Anre
@@ -56,7 +56,7 @@
     location: Edward J. DeBartolo Hall 102
   - !ruby/object:Section
     section_num: '02'
-    open_spots: '43'
+    open_spots: '40'
     max_spots: '70'
     crn: '28817'
     instructor: Radvansky, Gabriel Venter, Anre
@@ -181,7 +181,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '6'
+    open_spots: '4'
     max_spots: '18'
     crn: '22286'
     instructor: Wier, Kristin
@@ -526,7 +526,7 @@
     location: TBA
   - !ruby/object:Section
     section_num: '06'
-    open_spots: '4'
+    open_spots: '3'
     max_spots: '8'
     crn: '25914'
     instructor: Crowell, Charles
@@ -582,7 +582,7 @@
     location: TBA
   - !ruby/object:Section
     section_num: '16'
-    open_spots: '10'
+    open_spots: '9'
     max_spots: '10'
     crn: '25917'
     instructor: Merluzzi, Thomas
@@ -590,7 +590,7 @@
     location: TBA
   - !ruby/object:Section
     section_num: '17'
-    open_spots: '6'
+    open_spots: '5'
     max_spots: '10'
     crn: '25948'
     instructor: Radvansky, Gabriel
@@ -630,7 +630,7 @@
     location: TBA
   - !ruby/object:Section
     section_num: '22'
-    open_spots: '14'
+    open_spots: '13'
     max_spots: '15'
     crn: '25944'
     instructor: Cummings, Edward
@@ -734,7 +734,7 @@
     location: TBA
   - !ruby/object:Section
     section_num: '42'
-    open_spots: '10'
+    open_spots: '9'
     max_spots: '10'
     crn: '25946'
     instructor: Wirth, Michelle
@@ -774,7 +774,7 @@
     location: TBA
   - !ruby/object:Section
     section_num: '48'
-    open_spots: '11'
+    open_spots: '10'
     max_spots: '12'
     crn: '25939'
     instructor: Payne, Jessica
@@ -921,7 +921,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '8'
+    open_spots: '6'
     max_spots: '94'
     crn: '22056'
     instructor: Smith, David
@@ -951,7 +951,7 @@
   - !ruby/object:Section
     section_num: '01'
     open_spots: '0'
-    max_spots: '49'
+    max_spots: '50'
     crn: '25954'
     instructor: Haeffel, Gerald
     time: M W  - 1:30P - 2:45P
@@ -992,7 +992,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '5'
+    open_spots: '4'
     max_spots: '71'
     crn: '24589'
     instructor: Gibson, Bradley
@@ -1047,7 +1047,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '8'
+    open_spots: '9'
     max_spots: '14'
     crn: '29293'
     instructor: Smith, David
@@ -1060,7 +1060,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '3'
+    open_spots: '4'
     max_spots: '16'
     crn: '26546'
     instructor: Watson, David
@@ -1151,7 +1151,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '8'
+    open_spots: '7'
     max_spots: '17'
     crn: '26547'
     instructor: Haeffel, Gerald
@@ -1164,7 +1164,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '1'
+    open_spots: '0'
     max_spots: '18'
     crn: '28821'
     instructor: Monroe, Scott
@@ -1216,7 +1216,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '1'
+    open_spots: '0'
     max_spots: '20'
     crn: '29294'
     instructor: Lubker, John
@@ -1268,7 +1268,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '11'
+    open_spots: '10'
     max_spots: '20'
     crn: '25644'
     instructor: Bergeman, Cindy
@@ -1307,7 +1307,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '13'
+    open_spots: '12'
     max_spots: '19'
     crn: '21116'
     instructor: Zhang, Zhiyong
@@ -1333,7 +1333,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '16'
+    open_spots: '15'
     max_spots: '18'
     crn: '28826'
     instructor: Lubke, Gitta
@@ -1346,7 +1346,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '13'
+    open_spots: '12'
     max_spots: '18'
     crn: '28827'
     instructor: Wang, Lijuan
@@ -1359,7 +1359,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '1'
+    open_spots: '0'
     max_spots: '1'
     crn: '29895'
     instructor: Bergeman, Cindy
@@ -1398,7 +1398,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '3'
+    open_spots: '2'
     max_spots: '3'
     crn: '27078'
     instructor: Watson, David
@@ -1554,7 +1554,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '20'
+    open_spots: '19'
     max_spots: '24'
     crn: '23500'
     instructor: Zhang, Zhiyong
@@ -2679,7 +2679,7 @@
     location: TBA
   - !ruby/object:Section
     section_num: '27'
-    open_spots: '10'
+    open_spots: '9'
     max_spots: '10'
     crn: '21808'
     instructor: Gondoli, Dawn
@@ -3082,6 +3082,7 @@
     instructor: Simons, Anne
     time: TBA
     location: TBA
+ TBA
 0'
   :xlst: ! '&nbsp'
   :crn: '20227'

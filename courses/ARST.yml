@@ -6,15 +6,15 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '1'
-    max_spots: '15'
+    open_spots: '0'
+    max_spots: '16'
     crn: '20333'
     instructor: Nguyen, Martin Lam
     time: T R  - 9:30A - 12:15P
     location: Riley Hall of Art 300
   - !ruby/object:Section
     section_num: '02'
-    open_spots: '0'
+    open_spots: '1'
     max_spots: '16'
     crn: '20463'
     instructor: Joseph, Amanda
@@ -36,7 +36,7 @@
   - !ruby/object:Section
     section_num: '01'
     open_spots: '0'
-    max_spots: '15'
+    max_spots: '16'
     crn: '24630'
     instructor: Campbell, Kamilah
     time: M W F  - 10:40A - 12:35P
@@ -72,7 +72,7 @@
     location: Riley Hall of Art 122
   - !ruby/object:Section
     section_num: '03'
-    open_spots: '2'
+    open_spots: '1'
     max_spots: '16'
     crn: '21117'
     instructor: Ollinger, Jakob
@@ -135,7 +135,7 @@
     location: Riley Hall of Art 201
   - !ruby/object:Section
     section_num: '02'
-    open_spots: '7'
+    open_spots: '6'
     max_spots: '15'
     crn: '20751'
     instructor: Fashbaugh, Mary
@@ -143,7 +143,7 @@
     location: Riley Hall of Art 201
   - !ruby/object:Section
     section_num: '03'
-    open_spots: '5'
+    open_spots: '4'
     max_spots: '15'
     crn: '21156'
     instructor: Bean, Matthew
@@ -164,7 +164,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '1'
+    open_spots: '0'
     max_spots: '10'
     crn: '24190'
     instructor: Parrish, Heather
@@ -190,7 +190,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '5'
+    open_spots: '6'
     max_spots: '10'
     crn: '29444'
     instructor: Winkler, Joshua
@@ -203,7 +203,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '6'
+    open_spots: '5'
     max_spots: '10'
     crn: '29445'
     instructor: Barfield, Justin
@@ -216,7 +216,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '2'
+    open_spots: '1'
     max_spots: '13'
     crn: '20184'
     instructor: Funke, Benjamin
@@ -230,7 +230,7 @@
   - !ruby/object:Section
     section_num: '01'
     open_spots: '0'
-    max_spots: '9'
+    max_spots: '10'
     crn: '22066'
     instructor: Robinson, Bryce
     time: T R  - 3:30P - 6:15P
@@ -588,7 +588,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '19'
+    open_spots: '18'
     max_spots: '21'
     crn: '29857'
     instructor: Sedlack, Robert
@@ -776,7 +776,7 @@
     instructor: Sedlack, Robert
     time: TBA
     location: TBA
-r: Nguyen, Martin Lam
+: Nguyen, Martin Lam
   :when: TBA
   :begin: 01/15/2013
   :end: 05/01/2013

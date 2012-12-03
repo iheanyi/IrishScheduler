@@ -71,7 +71,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '3'
+    open_spots: '2'
     max_spots: '19'
     crn: '29090'
     instructor: Chattopadhay, Tamo
@@ -97,8 +97,8 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '0'
-    max_spots: '12'
+    open_spots: '1'
+    max_spots: '13'
     crn: '29091'
     instructor: Askildson, Lance
     time: T R  - 3:30P - 4:45P
@@ -136,7 +136,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '1'
+    open_spots: '2'
     max_spots: '16'
     crn: '29092'
     instructor: Fulcher Dawson, Rachel
@@ -149,7 +149,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '2'
+    open_spots: '3'
     max_spots: '11'
     crn: '29093'
     instructor: McKenna, Maria
@@ -287,7 +287,7 @@
     location: TBA
   - !ruby/object:Section
     section_num: '02'
-    open_spots: '1'
+    open_spots: '0'
     max_spots: '1'
     crn: '29842'
     instructor: Greene, Stuart

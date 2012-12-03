@@ -6,7 +6,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '56'
+    open_spots: '55'
     max_spots: '120'
     crn: '29201'
     instructor: Chaloner, Dominic
@@ -19,7 +19,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '57'
+    open_spots: '58'
     max_spots: '180'
     crn: '26345'
     instructor: Hager, Kristin
@@ -58,7 +58,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '86'
+    open_spots: '87'
     max_spots: '280'
     crn: '22195'
     instructor: Duman, John Tank, Jennifer
@@ -111,7 +111,7 @@
     location: TBA
   - !ruby/object:Section
     section_num: '06'
-    open_spots: '0'
+    open_spots: '2'
     max_spots: '40'
     crn: '22201'
     instructor: Olsen, T. Mark
@@ -145,7 +145,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '59'
+    open_spots: '58'
     max_spots: '150'
     crn: '21626'
     instructor: Vaughan, Kevin
@@ -158,7 +158,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '56'
+    open_spots: '57'
     max_spots: '170'
     crn: '21186'
     instructor: Besansky, Nora Severson, David
@@ -171,7 +171,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '0'
+    open_spots: '1'
     max_spots: '28'
     crn: '23054'
     instructor: Lewis, Kristin
@@ -179,7 +179,7 @@
     location: TBA
   - !ruby/object:Section
     section_num: '02'
-    open_spots: '1'
+    open_spots: '0'
     max_spots: '28'
     crn: '23055'
     instructor: Lewis, Kristin
@@ -285,7 +285,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '0'
+    open_spots: '1'
     max_spots: '14'
     crn: '21519'
     instructor: Whaley, Michelle
@@ -301,7 +301,7 @@
     location: Jordan Hall of Science 322
   - !ruby/object:Section
     section_num: '03'
-    open_spots: '9'
+    open_spots: '8'
     max_spots: '14'
     crn: '21587'
     instructor: Whaley, Michelle
@@ -356,8 +356,8 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '0'
-    max_spots: '90'
+    open_spots: '6'
+    max_spots: '95'
     crn: '20117'
     instructor: McLachlan, Jason
     time: T R  - 11:00A - 12:15P
@@ -369,7 +369,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '7'
+    open_spots: '0'
     max_spots: '19'
     crn: '25441'
     instructor: Milord, Marie Denise
@@ -395,7 +395,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '3'
+    open_spots: '2'
     max_spots: '210'
     crn: '21515'
     instructor: D'Souza-Schorey, Crislyn Veselik, David
@@ -421,7 +421,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '24'
+    open_spots: '22'
     max_spots: '30'
     crn: '29203'
     instructor: Vaughan, Patricia
@@ -481,7 +481,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '9'
+    open_spots: '10'
     max_spots: '55'
     crn: '24432'
     instructor: Schafer, Zachary
@@ -544,7 +544,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '15'
+    open_spots: '11'
     max_spots: '28'
     crn: '29204'
     instructor: Vaughan, Patricia
@@ -806,7 +806,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '1'
+    open_spots: '0'
     max_spots: '95'
     crn: '21938'
     instructor: Lamberti, Gary
@@ -814,7 +814,7 @@
     location: Jordan Hall of Science 105
   - !ruby/object:Section
     section_num: '02'
-    open_spots: '15'
+    open_spots: '14'
     max_spots: '30'
     crn: '25842'
     instructor: Lamberti, Gary
@@ -840,7 +840,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '19'
+    open_spots: '15'
     max_spots: '70'
     crn: '20205'
     instructor: Robichaud, Jennifer
@@ -861,7 +861,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '24'
+    open_spots: '25'
     max_spots: '35'
     crn: '21573'
     instructor: Fraser, Malcolm
@@ -887,7 +887,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '7'
+    open_spots: '6'
     max_spots: '32'
     crn: '26352'
     instructor: Cramer, Michael
@@ -971,7 +971,7 @@
     location: TBA
   - !ruby/object:Section
     section_num: '05'
-    open_spots: '0'
+    open_spots: '1'
     max_spots: '8'
     crn: '25621'
     instructor: Boyd, Sunny
@@ -1032,7 +1032,7 @@
     location: TBA
   - !ruby/object:Section
     section_num: '02'
-    open_spots: '8'
+    open_spots: '7'
     max_spots: '14'
     crn: '24118'
     instructor: Robichaud, Jennifer
@@ -1053,7 +1053,7 @@
     location: Jordan Hall of Science 142
   - !ruby/object:Section
     section_num: '02'
-    open_spots: '5'
+    open_spots: '4'
     max_spots: '16'
     crn: '26353'
     instructor: Cramer, Michael
@@ -1090,7 +1090,7 @@
     location: Edward J. DeBartolo Hall 228
   - !ruby/object:Section
     section_num: '04'
-    open_spots: '2'
+    open_spots: '1'
     max_spots: '6'
     crn: '21294'
     instructor: Lamberti, Gary
@@ -1106,7 +1106,7 @@
     location: Edward J. DeBartolo Hall 331
   - !ruby/object:Section
     section_num: '06'
-    open_spots: '2'
+    open_spots: '1'
     max_spots: '6'
     crn: '23698'
     instructor: Lamberti, Gary
@@ -1401,7 +1401,7 @@
     location: TBA
   - !ruby/object:Section
     section_num: '25'
-    open_spots: '10'
+    open_spots: '9'
     max_spots: '10'
     crn: '21035'
     instructor: Hellmann, Jessica
@@ -1505,7 +1505,7 @@
     location: TBA
   - !ruby/object:Section
     section_num: '38'
-    open_spots: '3'
+    open_spots: '2'
     max_spots: '10'
     crn: '21841'
     instructor: McLachlan, Jason
@@ -1966,7 +1966,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '7'
+    open_spots: '6'
     max_spots: '10'
     crn: '29210'
     instructor: McDowell, Mary
@@ -2008,7 +2008,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '30'
+    open_spots: '29'
     max_spots: '35'
     crn: '29211'
     instructor: Hyde, David O'Tousa, Joseph
@@ -2034,7 +2034,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '22'
+    open_spots: '21'
     max_spots: '30'
     crn: '29791'
     instructor: Bock, Joseph
@@ -2060,7 +2060,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '8'
+    open_spots: '7'
     max_spots: '10'
     crn: '25720'
     instructor: Chiyo, Patrick
@@ -2081,7 +2081,7 @@
     location: Pasquerilla Center 109
   - !ruby/object:Section
     section_num: '02'
-    open_spots: '10'
+    open_spots: '9'
     max_spots: '10'
     crn: '25689'
     instructor: Ridenhour, Benjamin
@@ -2196,7 +2196,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '3'
+    open_spots: '4'
     max_spots: '10'
     crn: '20033'
     instructor: Robichaud, Jennifer
@@ -2243,7 +2243,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '9'
+    open_spots: '8'
     max_spots: '12'
     crn: '25645'
     instructor: Syed, Zainulabeuddin
@@ -2368,7 +2368,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '12'
+    open_spots: '10'
     max_spots: '19'
     crn: '29216'
     instructor: Hill, Reginald Zhang, Siyuan
@@ -2513,7 +2513,7 @@
     location: TBA
   - !ruby/object:Section
     section_num: 09
-    open_spots: '10'
+    open_spots: '9'
     max_spots: '10'
     crn: '23068'
     instructor: Duffield, Giles
@@ -2844,6 +2844,7 @@
     instructor: Boyd, Sunny
     time: TBA
     location: TBA
+A
  '28994'
   :syl: ! '&nbsp'
   :instructor: Kolberg, Kathleen

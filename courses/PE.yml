@@ -6,7 +6,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '80'
+    open_spots: '76'
     max_spots: '225'
     crn: '24256'
     instructor: Schmidt, Marisha
@@ -14,7 +14,7 @@
     location: TBA
   - !ruby/object:Section
     section_num: '10'
-    open_spots: '40'
+    open_spots: '36'
     max_spots: '225'
     crn: '24257'
     instructor: Piwowar, Nathan
@@ -22,7 +22,7 @@
     location: TBA
   - !ruby/object:Section
     section_num: '20'
-    open_spots: '20'
+    open_spots: '18'
     max_spots: '225'
     crn: '24258'
     instructor: Thomas, Darin
@@ -46,7 +46,7 @@
     location: TBA
   - !ruby/object:Section
     section_num: '50'
-    open_spots: '0'
+    open_spots: '1'
     max_spots: '229'
     crn: '24261'
     instructor: Scott, Joshua
@@ -54,7 +54,7 @@
     location: TBA
   - !ruby/object:Section
     section_num: '60'
-    open_spots: '123'
+    open_spots: '121'
     max_spots: '226'
     crn: '24262'
     instructor: Scherzer, Diane
@@ -62,7 +62,7 @@
     location: TBA
   - !ruby/object:Section
     section_num: '70'
-    open_spots: '0'
+    open_spots: '1'
     max_spots: '227'
     crn: '24263'
     instructor: Gaal, Stephanie
@@ -70,7 +70,7 @@
     location: TBA
   - !ruby/object:Section
     section_num: '80'
-    open_spots: '56'
+    open_spots: '57'
     max_spots: '229'
     crn: '24264'
     instructor: McCann, Francis

@@ -8,6 +8,7 @@ require 'nokogiri'
 require 'open-uri'
 require 'highline/import'
 require 'webrick'
+require 'json'
 
 class Department
 	attr_accessor :dept, :key, :courses
@@ -120,7 +121,7 @@ class Department
 			end
 
 		end
-		exportHash(subject, @courses)
+		#exportHash(subject, @courses)
 
 		#@courses.each do |co|
 		#	pp co
@@ -132,6 +133,7 @@ class Department
 			file.write courselist.to_yaml
 		end
 	end
+
 end
 
 class Course
@@ -162,7 +164,7 @@ class Course
 end
 
 class Section
-	attr_accessor :section_num, :open_spots, :max, :crn, :instructor, :time, :location
+	attr_accessor :section_num, :open_spots, :max_spots, :crn, :instructor, :time, :location
 
 	def initialize(section_num, open_spots, max_spots, crn, instructor, time, location)
 		@section_num = section_num
@@ -174,6 +176,18 @@ class Section
 		@location = location
 	end
 
+end
+
+def exportHashDept(departments)
+	File.open("courses/departments.json", File::WRONLY|File::CREAT) do |file|
+		file.write departments.to_yaml
+	end
+end
+
+def exportHashJSON(departments)
+	File.open("courses/departments.yml", File::WRONLY|File::CREAT) do |file|
+		file.write departments.to_yaml
+	end
 end
 
 departments = []
@@ -188,8 +202,10 @@ options = subj_form.field_with(:name=>"SUBJ").options
 options.each { |op|
 	dept = Department.new(op.text.strip, op.value.strip)
 	dept.getSubject(a, dept.key)
+	departments.push(dept)
 	#pp op.text.strip
 	#getSubject(a, op)
+	exportHashJSON(departments)
 }
 
 

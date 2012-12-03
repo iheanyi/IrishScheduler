@@ -32,7 +32,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '14'
+    open_spots: '13'
     max_spots: '30'
     crn: '29464'
     instructor: Hebbeler, Michael
@@ -123,7 +123,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '125'
+    open_spots: '124'
     max_spots: '125'
     crn: '22555'
     instructor: Toms Smedley, Cynthia
@@ -170,7 +170,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '4'
+    open_spots: '5'
     max_spots: '14'
     crn: '26845'
     instructor: Hebbeler, Michael
@@ -183,7 +183,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '71'
+    open_spots: '41'
     max_spots: '150'
     crn: '22557'
     instructor: Purcell, William
@@ -261,7 +261,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '7'
+    open_spots: '6'
     max_spots: '11'
     crn: '24702'
     instructor: Toms Smedley, Cynthia

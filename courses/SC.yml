@@ -32,7 +32,7 @@
   sections:
   - !ruby/object:Section
     section_num: '01'
-    open_spots: '148'
+    open_spots: '147'
     max_spots: '200'
     crn: '29386'
     instructor: Vachon, Dominic
