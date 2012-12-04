@@ -122,6 +122,7 @@ class Department
 
 		end
 		#exportHash(subject, @courses)
+		exportJSON(subject, @courses)
 
 		#@courses.each do |co|
 		#	pp co
@@ -131,6 +132,12 @@ class Department
 	def exportHash(subject, courselist)
 		File.open("courses/#{subject}.yml", File::WRONLY|File::CREAT) do |file|
 			file.write courselist.to_yaml
+		end
+	end
+
+	def exportJSON(subject, courselist)
+		File.open("courses/#{subject}.json", File::WRONLY|File::CREAT) do |file|
+			file.write courselist.to_json
 		end
 	end
 
@@ -179,14 +186,14 @@ class Section
 end
 
 def exportHashDept(departments)
-	File.open("courses/departments.json", File::WRONLY|File::CREAT) do |file|
+	File.open("courses/departments.yml", File::WRONLY|File::CREAT) do |file|
 		file.write departments.to_yaml
 	end
 end
 
 def exportHashJSON(departments)
 	File.open("courses/departments.yml", File::WRONLY|File::CREAT) do |file|
-		file.write departments.to_yaml
+		file.write departments.to_json
 	end
 end
 
