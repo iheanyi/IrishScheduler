@@ -11,11 +11,11 @@ require 'webrick'
 require 'json'
 
 class Department
-	attr_accessor :dept, :key, :courses
+	attr_accessor :deptname, :deptkey, :courses
 
 	def initialize(dept, key)
-		@dept = dept
-		@key = key
+		@deptname = dept
+		@deptkey = key
 		@courses = Array.new
 	end
 
@@ -122,7 +122,7 @@ class Department
 
 		end
 		#exportHash(subject, @courses)
-		exportJSON(subject, @courses)
+		#exportJSON(subject, @courses)
 
 		#@courses.each do |co|
 		#	pp co
@@ -144,12 +144,12 @@ class Department
 end
 
 class Course
-	attr_accessor :name, :credit,:coursenum, :sections
+	attr_accessor :title, :credits,:course_no, :sections
 
 	def initialize(name, coursenum, credit)
-		@name = name
-		@credit = credit
-		@coursenum = coursenum
+		@title = name
+		@credits = credit
+		@course_no = coursenum
 		@sections = Array.new
 	end
 
@@ -161,12 +161,12 @@ class Course
 		@coursenum
 	end
 
-	def name
-		@name
+	def title
+		@title
 	end
 
-	def credit
-		@credit
+	def credits
+		@credits
 	end
 end
 
@@ -192,7 +192,7 @@ def exportHashDept(departments)
 end
 
 def exportHashJSON(departments)
-	File.open("courses/departments.yml", File::WRONLY|File::CREAT) do |file|
+	File.open("courses/departments.json", File::WRONLY|File::CREAT) do |file|
 		file.write departments.to_json
 	end
 end
@@ -208,11 +208,11 @@ options = subj_form.field_with(:name=>"SUBJ").options
 
 options.each { |op|
 	dept = Department.new(op.text.strip, op.value.strip)
-	dept.getSubject(a, dept.key)
+	dept.getSubject(a, dept.deptkey)
 	departments.push(dept)
 	#pp op.text.strip
 	#getSubject(a, op)
-	exportHashJSON(departments)
 }
-
+	exportHashJSON(departments)
+	exportHashDept(departments)
 
